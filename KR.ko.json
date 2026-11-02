@@ -70120,6 +70120,54 @@
         "size": 311427072,
         "version": null
     },
+    "70010000045846": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/512441eec258aa5d395361a8a3f5baa9dca229690a712dbaa03e4174a81ca620.jpg",
+        "category": [
+            "격투",
+            "아케이드",
+            "액션"
+        ],
+        "description": "Fallen City의 범죄 지하 세계를 지배하기 위한 처절한 전투가 이어지면서, 네 명의 낯선 이들이 범죄자들로부터 거리를 되찾기 위해 나섭니다! 잔혹한 늑대와 함께 전진하는 이들은 불가능한 상대를 마주하게 됩니다. 여정을 진행하는 동안 이들의 의지와 과거의 삶이 충돌하면서, 이들의 싸움 실력뿐만 아니라 서로에 대한 충성심까지 시험받습니다. 과연 이들은 누가 살아남고 누가 쓰러지는지를 결정하는 최후의 결전까지 다다를 수 있을까요?\n\n80년대 후반과 90년대 초반의 아케이드 격투 액션 게임으로부터 영감을 받은 Fallen City Brawl은 치열한 횡스크롤 픽셀 아트 액션을 통해 전개되는 야망과 복수의 이야기입니다. 커다란 스프라이트와 애니메이션 배경이 죽어가는 도심의 거리 속에서 살아 숨쉬고, 그 속에서 파괴적인 콤보, 카운터, 공중 던지기, 잡기, 회피, 특수 액션, \"RIOT\" 슈퍼 액션을 선보이는 독특하면서도 심도 깊은 격투 시스템이 빛을 발합니다. 애니메이션 컷신과 유명 작곡가 Daniel Lindholm의 강렬한 사운드트랙은 솔로 또는 친구들과 함께 즐기는 로컬 협동 게임 속에서 펼쳐지는 혼돈의 도심 분위기를 잘 살려냅니다!\n\n특징:\n\n• 아케이드 게임으로부터 영감을 받은 7개의 액션 스테이지 속에서 싸움을 이어가세요!\n• 4명의 플레이 가능한 캐릭터 중에서 자신에게 맞는 캐릭터를 고르세요.\n• 심도 깊은 격투 전투 시스템을 통해 콤보와 특수 기술을 사용하세요.\n• 쇠파이프, 야구방망이, 칼, 총, 드럼통, 전기톱과 같은 무기를 집어드세요!\n• 업그레이드 가능한 용병 지원의 특수 공격으로 화면의 적들을 쓸어 버리세요.\n• 솔로로, 또는 로컬 협동 모드에서 친구들과 함께 전투를 시작하세요.\n• 늑대에게 명령을 내리거나, 적에게 풀어놓아 대학살의 현장이 펼쳐지는 것을 감상하세요!\n• Daniel Lindholm의 사운드트랙을 통해 혼돈의 분위기에 빠져 보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb5fe79eb8e9249bdb4d4fb9beff4737e48ab2615ef33fe4217c031c6de5b5d1.jpg",
+        "id": "01001E50163AA000",
+        "intro": "클래식 아케이드 게임으로부터 영감을 받아 강렬한 픽셀 아트 스타일로 구현된 도시 속에서 싸움을 시작하세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Fallen City Brawl",
+        "nsuId": 70010000045846,
+        "numberOfPlayers": 2,
+        "publisher": "eastasiasoft",
+        "rating": 15,
+        "ratingContent": [
+            "약물"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f0faee4c1d6b37ed147fcc3f63008a63b70a909490f69ba19a8d0c331637cb54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d26b84bd79cb110bfefcd4bd5a83d3b0c481edb6c0cb6178635974780c04aad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bb21c0da8a191327a3647625138751814f0f1a8d56facc19033b442548fe22e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/43cffbe17445607ba6668049fc42659a2424aa36684af0eb9a5f657a545009d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84df81eda99044625cf3b0da7439852c118a8f3007292fd238be0fb755ece354.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b9ba7505583b81d990a193d11151375320a179336291eca694d147b45812215.jpg"
+        ],
+        "size": 235929600,
+        "version": null
+    },
     "70010000045851": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/98a25d06b497095a5b06514c2663b8e7eb1519251b7a116345548f8c4ec86c5c.jpg",
         "category": [
@@ -155507,6 +155555,56 @@
             "https://img-eshop.cdn.nintendo.net/i/4dcda3cfe6cc894d5fda799eb82621d22a20a6591cc78626d48939afa898f2a3.jpg"
         ],
         "size": 880803840,
+        "version": null
+    },
+    "70010000065047": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/343e5eb66d946b4d260d639f7eded08664dfb08790aff99cc561c348a4eb9218.jpg",
+        "category": [
+            "액션",
+            "슈팅",
+            "시뮬레이션",
+            "RPG"
+        ],
+        "description": "『SULFUR』는 빠른 템포의 총격전, 요리 시스템, 그리고 어려운 선택이 특징인 로그라이크 FPS입니다. 위험한 지역을 탐험하고, 예측할 수 없는 적들과 싸우며, 손에 넣을 수 있는 것은 무엇이든 챙기세요. 귀중한 물품은 안전하게 보관하고, 기묘한 요리를 만들어 조금이라도 더 오래 살아남으세요.\n\n부착물, 오일, 마법 부여를 활용해 총기를 원하는 대로 커스터마이징할 수 있습니다. 다양한 조합을 실험하고, 발견한 장비를 활용해 자신만의 전투 방식을 만들어 보세요. 수백 가지 방법으로 장비를 조합할 수 있어, 매번 새로운 방식으로 플레이할 수 있습니다.\n\n인벤토리 공간은 한정되어 있습니다. 죽음의 대가는 큽니다. 무엇을 가져갈지, 무엇을 두고 갈지, 어디까지 위험을 감수할지, 모든 선택이 생사를 가릅니다. 두 번째 기회는 없습니다. 오직 다음 도전이 있을 뿐입니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a0fd761f0717c1ffea91004e9f3880c72ccb06f7f296e909deccfbd28848d15.jpg",
+        "id": "01007A101AD02000",
+        "intro": "SULFUR는 현대적인 올드 스쿨 액션 어드벤처 게임입니다. 적을 능가하고 보물을 찾고 무기를 강화하고 힘을 활용하세요. 더 깊이 파고들어 해답을 찾고 끝을 맺으세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "pl"
+        ],
+        "name": "SULFUR",
+        "nsuId": 70010000065047,
+        "numberOfPlayers": 1,
+        "publisher": "Perfect Random",
+        "rating": 15,
+        "ratingContent": [
+            "약물"
+        ],
+        "region": null,
+        "releaseDate": 20261028,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2dc3d154c9f89c9411d0594080c996e3fd95469131b471e2b03a6cf8ca3c76b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1b82b178b58366097bd1e28c313c66575732faa2c976736dc095c20efec8376.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14efccc3fa871de373c40c58c5eb24a24b53e0b9a7ed0d45fa227fc4d8e3881e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eed9881b29121e7c1d0e2b05c4b0c395e9ee48c1e22f37c484d90a5a4804950b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb597186a30883fa202be352224931a60ca91b5c91793ce73ae2409c27d91b47.jpg"
+        ],
+        "size": 2013265920,
         "version": null
     },
     "70010000065060": {
@@ -344516,6 +344614,42 @@
         "size": 1135607808,
         "version": null
     },
+    "70010000105868": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e27d42f51610568c9665c80c615e2aa6b8ef54da1b334e8aac7202e2a1570e51.jpg",
+        "category": [
+            "어드벤처"
+        ],
+        "description": "아이루리가 되어 멸종 위기에 처한 동물들을 구출하고 광활한 레벨을 탐험하며 환경을 보호하세요. 손으로 그린 듯한 2D 플랫폼 어드벤처 게임입니다.\n30개의 광활한 레벨마다 구출해야 할 멸종 위기 동물이 있으며, 2인 협동 플레이와 생동감 넘치는 애니메이션 컷신을 즐길 수 있습니다. 침략자들을 물리치고 숲, 물, 산의 정수를 모아 신비로운 능력을 해제하세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/72b46c630e170616b9d67c69bb956a5136e0a2bf7c9bf8383ceebfa6061dfc4d.jpg",
+        "id": "010006A020698000",
+        "intro": "아이루리에서 멸종 위기에 처한 동물들을 구조하고 보호구역을 키워나가세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Ailuri",
+        "nsuId": 70010000105868,
+        "numberOfPlayers": 2,
+        "publisher": "Vivink Studios",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261028,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e7b18db9037cb12af3357547e554080f761360989336a6e17f57cecec062324d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51776e8fea174b45ec31a051fe3b01ee64409f44455dc9cc101b505fe1d2fad1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d5cebf792bbe527f91b5bcee3ccc4e8b563a0bbb8bef2bfec208485ca2055ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b41d4d11618230e8b4bcfacfdd648c7b48fe32880741199df5538894b625b6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00fc0fb18fb20bb9d7efeb3f146d281c66821e86641b6181a57aaff431e7bd2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbaf9e161d73a498118ef60613eccd3cdfb4ae995869e2f7e936c3a9e6f4733c.jpg"
+        ],
+        "size": 2818572288,
+        "version": null
+    },
     "70010000105879": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8176471672184fa35c68aba4c20342ef068a56bab517e8a8c0f349e984579acc.jpg",
         "category": [
@@ -368694,6 +368828,47 @@
         "size": 119537664,
         "version": null
     },
+    "70010000113938": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/761595207d0618274bd93a4cd734215d81841173938c17d248ade919951e0854.jpg",
+        "category": [
+            "액션",
+            "아케이드",
+            "전략",
+            "시뮬레이션"
+        ],
+        "description": "강력한 바이킹 정착지를 건설하고 사람들을 번영하는 미래로 이끌어 보세요. VALHEIM CITY BUILDER는 건설, 탐험, 자원 관리, 전술 전투에 중점을 둔 전략 및 시뮬레이션 게임입니다. 작은 정착지에서 시작해 길들여지지 않은 세계의 위험에서 살아남을 수 있는 번영하는 바이킹 도시로 발전시키세요.\n\n자원을 수집하고, 필요한 건물을 건설하며, 인구를 관리하고 새로운 영토로 확장하세요. 식량을 얻기 위해 사냥하고, 다른 부족과 교역하며, 방어 시설을 강화하고, 정착지가 성장함에 따라 전사들을 위험한 전투에 대비시키세요.\n\nKey Features:\n\n• 도시 건설 – 새로운 건물을 건설하고 바이킹 정착지를 확장하세요.\n• 자원 관리 – 재료를 수집하고, 식량을 위해 사냥하며, 다른 부족과 교역하세요.\n• 새로운 땅 탐험 – 새로운 영토와 자원, 확장의 기회를 발견하세요.\n• 방어하고 싸우기 – 방어 시설을 강화하고 전사들을 이끌어 전술 전투에 참여하세요.\n• 부족 발전 – 사람들을 훈련시키고 정착지가 성장함에 따라 능력을 향상시키세요.\n\n작은 시작에서 출발해 야생의 위험에서 살아남고 바이킹 부족의 미래를 만들어 보세요. VALHEIM CITY BUILDER에서는 모든 결정이 도시가 얼마나 성장할 수 있는지를 결정합니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/772773c713fe45b5b89f5a27cb180e95b15c1c2e72a0f3e1e5d0d9d632d99e7d.jpg",
+        "id": "0100456026622000",
+        "intro": "야생에서 살아남을 만큼 강력한 바이킹 도시를 건설할 수 있을까요?",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "VALHEIM CITY BUILDER",
+        "nsuId": 70010000113938,
+        "numberOfPlayers": 1,
+        "publisher": "Meraki Tech",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6947f2d1e6fd0ccb0805329d95ccbef548fbe24cae14a34b837bdc27f5b3cf89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afa0f17a2af010bf53b342ca453ef6c375eca822247ed5872b926e1b6a3e1d92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/26db43e2e036d3bc6b43f4771ece23b82aba305a76043a1264383d270cda1868.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/240240649e865b7d00b402cc124715475bbb2a63528989d5a326a3070bbb6df2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4ae1613f5226aea5cb9723e632496be47cb5b6a75aa9cfb3347d1b4cca7756d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18881a605b0719287b6f81a18c80bbb1925c88e9daf74858aab8564cef197534.jpg"
+        ],
+        "size": 832569344,
+        "version": null
+    },
     "70010000113945": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02d26a008b5307cd2e0ffc1fb875bf5965a05e3a30c31087aea75786340c872b.jpg",
         "category": [
@@ -373689,7 +373864,7 @@
         "description": "친구들과 함께 사슬에 묶인 채로 콜로세움에 들어가세요. 체인드 비스트는 잔혹한 전투 속에 팀워크와 웃음을 찾을 수 있는 1~4인 협동 플레이가 가능한 검투사 로그라이크 게임입니다. 친구들과 함께 적을 무찔러 관중의 환호를 받고 자유를 쟁취할 수 있나요?  검투사의 전투: 이 잔혹한 검투사 로그라이크 속에서 적들을 베어 넘기거나 주변 환경을 무기처럼 이용하여 싸우세요. 적에게 항아리를 던질 수도 있고, 적을 항아리 속에 던질 수도 있습니다. 적을 가시벽이나 뱀 구덩이로 밀어넣어 처리하는 것도 방법이죠. 멀리서 무기를 던져 적들을 쓰러뜨릴 수도 있지만, 남아있는 무기가 없다면 곤란해질 수도 있습니다.친구들과 함께: 힘들게 혼자 싸우지 말고 네명의 친구들과 여러 방향으로 묶여 함께 싸우세요. 친구들과 합이 맞지 않는다면 기둥에 엉켜 꼼짝 못 하게 될 수도 있지만, 서로 합이 잘 맞는다면 적을 걸려 넘어뜨리고 전세를 역전하는 멋진 순간들을 만들어낼 수 있습니다. 잔혹한 보스들과 싸우세요: 잔혹한 보스들, 경기장의 영웅들을 재패해나갈수록 당신의 명성은 높아집니다. 수많은 승리들은 당신이 자유를 찾거나 복수를 할 수 있는 기회에 한 발자국씩 다가게 해줄겁니다. 치명적인 상처속에서 살아남으세요: 경기장에 나설때마다 생기는 새로운 상처가 당신을 고통받게 합니다. 다리를 절거나, 한쪽 눈을 잃게 되거나, 환각에 시달리며 허우적될 수 있습니다. 고통을 덜어주는 포션들이 있지만 부작용이 더 클 수 있습니다. 어쩌면, 수술받는 것이 더 나을지도 모르죠... 고통은 당신을 더 단련시킵니다: 희망을 잃지마세요. 경기장에서의 전투 경험들은 당신을 냉혹한 검투사로 단련시킬 수 있습니다. 강력한 기술들을 배워 당신의 적들을 이겨내세요. 관중들을 당신의 편으로 만드세요. 돈을 모아서 장비들과 무기들을 구매하세요. 강력한 능력들을 지닌 새로운 케릭터들을 잠금해제 하세요. 매번 새로운 전략들을 통해 다양한 전투 방법을 이끌어내세요.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d6b13882711717e955c35bcb642f9163444593b0afdfebec32fc5b9ee7b96ae2.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6131a7145929da53b7130b957ce4d5d6beb2e2b0d5ba419af5114ff80c8f73bb.jpg",
         "id": "0100B04026946000",
         "intro": "1~4인용 검투사 로그라이크 게임에서 친구들과 사슬에 묶인 채 혼란스러운 전투를 벌이세요. 사슬이나 투기장을 활용하여 창의적인 방법으로 적을 물리치고 살아남으세요.",
         "isDemo": false,
@@ -373725,7 +373900,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a253f988f694f789d3b07f3bcfad6501d685f10939d995da509017134639851d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/bde3384148a97c27b51d7e2706ecf478afeae9aae8798559f946a46a3040b8b5.jpg"
         ],
-        "size": 1576009728,
+        "size": 1431306240,
         "version": null
     },
     "70010000115479": {
@@ -375561,6 +375736,56 @@
         "size": 763363328,
         "version": null
     },
+    "70010000116106": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5e2f295fc4aec703ae147ff9f5c2873971a476be732a4397a367620b1c68197.jpg",
+        "category": [
+            "시뮬레이션",
+            "퍼즐",
+            "아케이드"
+        ],
+        "description": "바오바오의 아늑한 청소 서비스에 오신 것을 환영합니다.\n\n여기서는 완벽할 필요는 없습니다. 조금 더 깨끗하게, 조금 더 차분하게, 그리고 조금 더 당신답게 만드는 곳입니다.\n\n팟캐스트를 들으며 휴식을 취하고 있든, 그저 세상이 조금 더 조용해지길 바랄 때든, 이 부드러운 2D 고압 세척 게임이 함께합니다. 타이머도 없고, 스트레스도 없습니다. 파스텔 픽셀 아트, 부드러운 사운드, 그리고 물로 깨끗해지는 기분 좋은 순간만이 있습니다.\n\n한 번의 물줄기로 마음을 편안하게\n\n세척기를 움직일 때마다 불안을 조금씩 내려놓으세요. 반복적이고 단순한 작업이 생각을 차분하게 만들고, 로파이 음악과 아늑한 비주얼이 더 깊은 호흡을 돕습니다.\n\n듣는 동안 함께 플레이하세요\n\n오디오북, 팟캐스트, 혹은 자신만의 음악을 들으며 즐기기 좋은 게임입니다. 한 타일씩 깨끗해지며 자연스럽게 몰입해 보세요.\n\n멀티플레이의 편안함 (최대 4명)\n\n때로는 사랑하는 사람들과 조용히 함께하는 시간이 최고의 힐링입니다. 친구들을 초대해 함께 청소하고, 다시 아름다워지는 순간을 나누세요.\n\n부드러운 파스텔, 따뜻한 픽셀\n\n평화로운 공원부터 몽환적인 옥상까지, 바오바오의 세계는 눈과 마음을 편안하게 하는 색감으로 채워져 있습니다.\n\n잔잔한 하루를 위한 로파이\n\n50곡의 로파이 음악이 차분하고 아늑한 분위기를 만들어 줍니다. 시간이 천천히 흐르는 듯한 감각을 느껴보세요.\n\n누구나 편안하게 즐길 수 있도록\n\n키 설정 변경, 색각 이상 지원 등 다양한 접근성 옵션을 제공합니다. 아늑함은 모두를 위한 것이니까요.\n\n바오바오 시리즈 제작진이 전하는 이 게임은, 잠시 쉬어가고 싶은 사람들을 위해 정성껏 만들어졌습니다.\n\n있는 그대로의 당신을 환영합니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/611a1d4694b0c7203c3098478f674c8737238fc468540080e6e53d71ca7f311f.jpg",
+        "id": "0100BF0026C48000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "th",
+            "pl"
+        ],
+        "name": "바오바오의 아늑한 청소 서비스",
+        "nsuId": 70010000116106,
+        "numberOfPlayers": 1,
+        "publisher": "Destroyer Doggo",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1e89982761044e9d0a635fe3b2db2b6b48ee3bf65b223b4270f3dcea51ecce84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a9d338beacda89493c743c0a1c3eacc4baeb74c97ccbfe154e8446fa2aad55c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/167c1e42e93f9e41d2d92b77395f5bf156496973acfafb86a653da37a03dd9df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/851f90f28d49d33d9fb97135ac80a8fb0dee83c1d56f144976e97f300e63fb14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45d33df4d8e948a388c91b5f39b93a76517a400119d07fc1722cfdcee7015845.jpg"
+        ],
+        "size": 730857472,
+        "version": null
+    },
     "70010000116110": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7fb7c427a5693c2c8088cae60db0c8914fb2d3a9d1cb929db05d690b8f3b59fa.jpg",
         "category": [
@@ -376718,7 +376943,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a8d3b5f9c8e853533312d86790dc3d12e3f8cddec4ae51bcdc933e55d7609bf2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/514b403a4ec1cefb5a862953844ef294329dd80fbc43d44d58292e0a786adb00.jpg"
         ],
-        "size": 163577856,
+        "size": 218103808,
         "version": null
     },
     "70010000116497": {
@@ -382985,7 +383210,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3f79d556c3afac630ff9d0f949808bea0d5897031b71c021b23b6b093ae09fc4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/513983a834601d788832e185597678496af01a6b8569bce5e25e9848d2c12b22.jpg"
         ],
-        "size": 2734686208,
+        "size": 2736783360,
         "version": null
     },
     "70010000118273": {
@@ -383407,6 +383632,45 @@
         "size": 1183842304,
         "version": null
     },
+    "70010000118418": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/04d02f4657fe80d9f6e195e7408f8d85893a5f852423e2ce1299d60eea9de826.jpg",
+        "category": [
+            "어드벤처",
+            "RPG"
+        ],
+        "description": "《쿠룡즈 게이트 (Kowloon's Gate) Suzaku》는 1997년의 명작 《쿠룡즈 게이트》의 세계관을 새롭게 재해석한 궁극의 산책 심레이터(Walking Simulator) 게임입니다.\n\n원작의 전일담(프리퀄)인 이번 작품에서는 미로 같은 성채의 골목길을 거닐며 기억 속에 잠긴 도시의 공기를 만끽할 수 있으며, 원작에서는 볼 수 없었던 새로운 각도와 장소들을 선사합니다.\n\n플레이어의 목적은 간단합니다. 우연히 주운 앨범 속 사진을 힌트 삼아 특정 장소를 찾아내고, '염사(念寫)'를 통해 그 기억들을 다시 살려내는 것입니다.\n\n한층 더 높은 해상도로 정교하게 재현된 추억의 장소들과 그리운 캐릭터들이 여러분을 기다리고 있습니다.\n\n과연 어떤 기억들이 재생될까요? 직접 발을 들여 여러분의 눈으로 확인해 보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/51501de5a007569746bcc2e3ab5ec00eadf8836513fc24eaa8cab1594faf91ea.jpg",
+        "id": "0100DC20244AE000",
+        "intro": "구룡성채에서 영감을 얻은 아시안 고딕풍의 전설적인 초현실적 게임이 Nintendo Switch™로 되살아납니다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "zh-Hans"
+        ],
+        "name": "쿠룡즈 게이트 (Kowloon's Gate) Suzaku",
+        "nsuId": 70010000118418,
+        "numberOfPlayers": 1,
+        "publisher": "JETMAN",
+        "rating": 12,
+        "ratingContent": [
+            "선정성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6077c124b788afcc37e843c94802833e5433906ac77823621a5a947d8b7de063.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/470210b3849303057f95e0226ae653a2e8978b4e101e165ae72f8c26e49b2bfa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dec799110f112cc679d962399abe85992ff036036d11f46f96c96b4dfc0d5d49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78419d8f04fc2ad776c1e54810cd91a91556fe81b8b57287e4dd84deaba13844.jpg"
+        ],
+        "size": 1503657984,
+        "version": null
+    },
     "70010000118426": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/16499857c44141bd02a88a23e12be3cd1d342f15b3fafd14669a46b529fbaf68.jpg",
         "category": [
@@ -383661,6 +383925,54 @@
             "https://img-eshop.cdn.nintendo.net/i/1df9dbc48befdf343df4dcc462de4ed815064d96279324a7c1a5e5b5a0a1c0a6.jpg"
         ],
         "size": 1239416832,
+        "version": null
+    },
+    "70010000118484": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8938016a1d2337847c62324a3ff1fd70f6e5f8b96969e2632ab0af52311a9319.jpg",
+        "category": [
+            "어드벤처",
+            "퍼즐"
+        ],
+        "description": "3D 공간 내를 이동하여 힌트를 찾아 신비를 풀어 방에서 탈출합시다.\n힌트와 대답도 볼 수 있으므로 누구나 끝까지 놀 수 있습니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1cdb44f0424fece662c8796dab0c66299ced05dbc6f5283026ce42a19fffa60.jpg",
+        "id": "010011B0272BE000",
+        "intro": "3D 공간을 탐색하고 탈출합시다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "탈출 게임 R00M 11",
+        "nsuId": 70010000118484,
+        "numberOfPlayers": 1,
+        "publisher": "AlignmentSharp",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/266952f28cf799e06743c4b416157068fd8baa2c8135d0feb12a1a714a40f1ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afedf83983b058bf786312cc67fd5b6dbf11cdbb168986652c26713a9734654b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e8d827b3a5ee7aeba0ae329c9da3a36f4d3d612fe3507210b4654ddd85c9325.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e9bc151c42c66df1e108d0a747e6fa45ce473890bcd65b63a58050c05e88ddd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a123ac88976a1bf953a6ace8b129a36a9fb2b5194926d9477f00720aaf08110d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/154c76d4414d02107ceb823275195734e4cd691e8d0b06788824217d23b0221f.jpg"
+        ],
+        "size": 646971392,
         "version": null
     },
     "70010000118540": {
@@ -388609,6 +388921,52 @@
             "https://img-eshop.cdn.nintendo.net/i/ddb74a2dfbded878300f750f961d657a24b7e98c5f9b7ac9edff9ecde00bd686.jpg"
         ],
         "size": 2619342848,
+        "version": null
+    },
+    "70010000120019": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8b16dc5831babcb833a0cffe9c065541ca831d62f8467bc41c2e2c7c183032e.jpg",
+        "category": [
+            "시뮬레이션",
+            "전략",
+            "커뮤니케이션",
+            "RPG"
+        ],
+        "description": "밈은 웃겼다… 고양이들이 반격하기 전까지는.\n\n캣츠 vs 인터넷: 밈 걸즈의 반격에서는 반란이 시작된다.\n사람이 아니라… 그들을 웃음거리로 만든 디지털 세계를 향해.\n\n귀여움이 위험으로 바뀌고, 더 이상 안전한 온라인은 없는 혼돈의 전장에 뛰어들어라.\n\n♠ 카드로 인터넷에 맞서라\n인터넷 그 자체와 전략적인 카드 배틀을 펼쳐라.\n덱을 구성하고, 강력한 콤보를 발동해 고양이가 웹의 지배자임을 증명하라.\n\n♣ 캣걸과 데이트하고 강해져라\n모든 카드 뒤에는 한 명의 소녀가 있다.\n신뢰를 쌓고 데이트를 통해 전략을 바꿀 새로운 능력을 해금하라.\n\n♥ 귀여움에서 혼돈으로\n사랑스럽게 시작하지만 곧 예측 불가능해진다.\n깊이 들어갈수록 더 기묘해진다.\n이건 단순한 게임이 아니다… 전쟁이다.\n\n♦ 궁극의 덱을 완성하라\n카드를 수집, 강화, 조합해 압도적인 전략을 만들어라.\n전투와 관계, 모든 선택이 결과를 바꾼다.\n\n♠ 전략 로그라이크 카드 전투\n플레이할 때마다 새로운 전개.\n덱을 유연하게 조정하고, 리스크를 관리하며 점점 더 어려워지는 도전에 대비하라.\n\n\n인터넷이 그들을 유명하게 만들었다.\n이제 그들이 통제한다.\n\n편을 선택하라. 덱을 구축하라. 반격하라.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac6eda4ec63631dca0f689fb726ed5c16677089a2828a774e018e24f1e4f4838.jpg",
+        "id": "0100E3402761C000",
+        "intro": "고양이들이 인터넷을 지배했다… 이제 되찾으려 한다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "캣츠 vs 인터넷: 밈 걸즈의 반격 (Cats vs Internet: Rise of the Memes Girls)",
+        "nsuId": 70010000120019,
+        "numberOfPlayers": 1,
+        "publisher": "Red Fables",
+        "rating": 15,
+        "ratingContent": [
+            "선정성"
+        ],
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8e3031c26a08ec2a88c710c8ad785ba4676564689fc29a2b9b3dd9c920132477.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6983032db8fcdb95b3af63ae0895679810f8461474b6cae6441badcb8aa510f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4edc987138d93152416e373cb0871b8ad6703d31ab4d95fc3e4b70bfd34c4a8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e0380c7fe8be3fea6cb927cecfa049324877be55010956f5c6fdbba99b0ee98.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eaff1cd253619c05bb7c578ea99575cb4207bc6b4a65f3498128fd11416bf63c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7249fc2243b118374e6a4b747f3fdc0e372bc93a04094e9b341b75d0996fd511.jpg"
+        ],
+        "size": 1704984576,
         "version": null
     },
     "70010000120031": {
@@ -403118,6 +403476,47 @@
         "size": 257949696,
         "version": null
     },
+    "70010000124452": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c721f4a097c9cfb74f9013aa9d66338d80b1bd5dd0d4d82a66069423d3c2b0a1.jpg",
+        "category": [
+            "액션",
+            "슈팅",
+            "아케이드",
+            "어드벤처"
+        ],
+        "description": "의문의 모래폭풍 '블랙 블레이즈'의 시대. 농경지는 메마른 황무지로 변했고, 사람들은 그 땅을 떠났습니다. 완전한 황폐와 생존 사이에 선 것은 단 한 마리의 토끼 영웅, 캡틴 라보 선스키퍼뿐. 오합지졸 비행대를 이끄는 이 대담한 조종사는 재난 한복판에서 씨를 뿌리고, 물을 주고, 작물을 길러내는 임무에 나섭니다... 그리고 흉악한 새 떼 불한당 '게일 갱'까지 상대해야 하죠! 에어 헤어즈의 일원이 되어 두려움 없는 비행을 펼치고, 윈로즈 워런을 활기 넘치는 마을로 되살리세요!\n\n안전벨트를 매세요!\n\n탄막 슈팅 공식을 재치 있게 비튼 이 게임에서, 목표는 적을 격추하는 것이 아닙니다! 굶주림의 벼랑 끝에 선 윈로즈 워런을 위해, 당근밭에서 최대한 많은 수확을 거두는 것이 목표죠. 방법은? 씨앗과 물을 가득 실은 작은 비행기로, 메마른 땅을 비옥한 밭으로 바꾸는 것입니다!\n\n하늘을 경계하세요!\n\n물론 씨 뿌리기와 물주기가 전부는 아닙니다! 캡틴 라보와 불굴의 파트너 더크 도고가 되어, 식탐 가득한 게일 갱의 흉악한 공중 침략자들이 파도처럼 밀려오는 것을 맞이하게 됩니다. 그들은 이 땅을 영원한 비참과 황폐 속에 가둬 두려 하죠. 회피하고, 찌르고, 들이받아 이 만만찮은 새들에게 보여 주세요. 무슨 짓을 하든 땅을 되살리려는 당신의 의지는 꺾이지 않는다는 것을.\n\n땅을 되살리세요!\n\n진행할수록 윈로즈는 캡틴 라보 아래에서 황량한 굴에서 북적이는 대도시로 성장합니다! 게일 갱을 물리치고, 작물을 기르고, 에어 헤어즈에 새로운 대원을 모으세요. 하지만 조심하세요. 이 갓 태어난 굴을 풍요로운 마을로 키워낸 끝에는, 모든 토끼의 운명을 건 싸움에서 강대한 트윈 혼과 맞서게 될 테니까요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/89c71c4fa7782caf490b006fb3d0bddbfc680d90727e80c36b083300a3bd5bb9.jpg",
+        "id": "0100D470280E0000",
+        "intro": "탄막 슈팅의 상식을 뒤집다! 캡틴 라보와 함께 밭에 씨를 뿌리고, 게일 갱을 피하고, 윈로즈 워런을 되살리세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Air Hares",
+        "nsuId": 70010000124452,
+        "numberOfPlayers": 2,
+        "publisher": "indie.io",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/320af29eb254ab29b89c847c3a697070abff7968e9991c5b76636dd9aa8b6378.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1d3641c548ce10ebe6ce80aaaa5eb166a44c3c0b9982c3ad305758728ebd82a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1582142b6b1b9b9bbcefa8b76d3e2703bd5746a3121ecc8a0a4e634fb292bdd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8ff0a132271030bd38ee172910ef34945aa1d2c4c7c6152a71ac4b70f61edaf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8fee7cc6d96e83f2fabb4678f890e091d514129624957a8c59c014f56cb30bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/389fa86aec5972be2d2781d7b08619f380fa1e0b8ca7bd10c971a0b79ac09b42.jpg"
+        ],
+        "size": 494927872,
+        "version": null
+    },
     "70010000124489": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4c63bebc72916ca652425010b2dacbf9dd105313d24a3a0ee3b186f28da72406.jpg",
         "category": [
@@ -412264,6 +412663,55 @@
         "size": 376438784,
         "version": null
     },
+    "70010000127322": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f4dd82560256123904b7cb100199e721808b6cf0fc9325a5c4ee0f2a4c23b1b.jpg",
+        "category": [
+            "어드벤처",
+            "액션",
+            "기타"
+        ],
+        "description": "컬트적인 인기를 끌었던 슬리퍼 히트작 Scratches와 강렬한 여운을 남긴 Serena의 제작진이 선보이는, 인간 정신의 가장 어두운 심연으로 떠나는 소름 끼치는 여정. ASYLUM은 플레이어를 환각으로 가득 찬 한웰 정신병원(Hanwell Mental Institute)으로 밀어 넣는 대담한 1인칭 호러 어드벤처 게임입니다.\n\n기이한 환각에 시달리는 전직 환자가 되어, 건물의 복잡한 구조를 탐색하고 과거의 역사를 조사하며 충격적인 결말을 향해 나아가야 합니다.  ASYLUM은 스토리텔링과 분위기에 초점을 맞추어 세심하게 제작되었습니다. 수많은 어두운 환경을 방문하고, 우뚝 솟은 사실적인 정신병원을 헤쳐 나가며, 몰입감 넘치는 퍼즐을 풀고 원하는 답을 찾아내세요. 저희는 몰입도가 높고 끝없는 보상이 주어지는 어드벤처를 만들기 위해 온 마음과 영혼을 쏟아부었습니다.\n\n등 뒤로 살며시 기어오는 올드스쿨 감성의 슬로우 번(slow-burning) 호러를 좋아하신다면, ASYLUM은 잊지 못할 경험이 될 것입니다. 15년의 제작 기간 동안 어떻게든 비밀로 유지하는 데 성공한, 정신을 뒤흔드는 독창적인 스토리라인. 약 10시간의 게임플레이 — 게다가 이건 숨겨진 어두운 비밀을 전부 파헤치지 않은 기준입니다! 주변의 쇠락과 부패의 악취가 거의 느껴질 정도로 몰입감 넘치는 분위기.\n\n주요 기능:\n-당신의 기지와 관찰력에 보상을 선사할 흥미진진한 도전 과제들.\n-80년대 공포 스타일에서 큰 영감을 받은 기억에 남을 사운드트랙.\n-갑툭튀(Jump Scares) 없음! 괜찮아요, 전혀 예상치 못한 순간에 뒤통수를 칠 무시무시한 순간들이 아주 조금은 있을지도 모릅니다.\n-다이아제틱(Diegetic) 인터페이스 및 기타 유행어들.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/28b12792c768a833ce6a8f87e7d7c47db933f644eaf31c849505a4197c2259df.jpg",
+        "id": "0100C000288E6000",
+        "intro": "잊혀진 정신병원. 묻혀버린 역사. 상상을 초월하는 악몽.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "pl"
+        ],
+        "name": "Asylum",
+        "nsuId": 70010000127322,
+        "numberOfPlayers": 1,
+        "publisher": "Soedesco",
+        "rating": 15,
+        "ratingContent": [
+            "선정성",
+            "폭력성",
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4dd1c95f59127c7de29bb7202b843a42603e6f6e20916d9d94820d3d83fd13b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/975126ab50106a71f129226101dc9389cd4128bfe9c7f6af52374fddcabec515.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d1fcc0d8668da26b7c86dd56b41416a722f6b33053e2d38aa802699a0e3805e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2427b307ea610d934749b74b7c88c0ecce88c24bae4c8d571d3fb2e595a9b47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97c2aeffce2828bdf23cc76880d6bca59ee698a994273a19f1e49dc9c2f3c785.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/226a56e522035236f358319f1caef6c75dfc35e79dba75e5d6711302ad619553.jpg"
+        ],
+        "size": 6093275136,
+        "version": null
+    },
     "70010000127328": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8cba87a08586b9378ee75b0793ad43705c461f57b519086c60c1687e3b0b988.jpg",
         "category": [
@@ -412956,6 +413404,50 @@
             "https://img-eshop.cdn.nintendo.net/i/39f6604772f5235749d5d81b7f029f2f5ca20244a5675928fc9316c5cccddea8.jpg"
         ],
         "size": 283115520,
+        "version": null
+    },
+    "70010000127603": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c445b4b8ca8b1f5450898b7ce0e3acadfc5398c5c73dc7e982fcee76dec6c74b.jpg",
+        "category": [
+            "아케이드",
+            "슈팅"
+        ],
+        "description": "“PREHISTORIC ISLE”은 1989년 SNK에서 출시한 슈팅 게임입니다.\n주인공이 Bahama 연안에서 발생한 일련의 선박 침몰 사고를 조사하기 위해 Greenhell Island로 향하는 동안, 이미 멸종된 것으로 여겨졌던 선사 시대 드래곤들이 맹렬한 공격을 퍼붓습니다.\n항공기에 장착된 옵션 유닛은 위치를 변경하여 공격 방식을 5가지 유형으로 바꿀 수 있습니다. 예를 들어, 위쪽으로 화염 레이저를 발사하거나 대각선 아래쪽으로 폭탄을 투하하는 식입니다. 옵션 유닛을 최대한 활용하여 다양한 장애물을 극복하고, 신비로운 난파선 사건의 진실을 밝혀내세요!\n\n\"Arcade Archives\"시리즈는 많은 고전 아케이드 걸작을 충실하게 재현했습니다.\n플레이어는 게임 난이도와 같은 다양한 게임 설정을 변경할 수 있으며 그 시간에 아케이드 디스플레이 설정의 분위기를 재현 할 수 있습니다. 선수들은 또한 높은 점수로 전 세계에서 서로 경쟁 할 수 있습니다.\n비디오 게임의 세대를 만든 걸작을 감상해 보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a9307e7fffcb9ad697f9b41415382428a63eda8b64bca686d78169066fed741e.jpg",
+        "id": "010050402896E000",
+        "intro": "이 섬은 미스터리와 위험으로 가득 차 있다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Arcade Archives PREHISTORIC ISLE",
+        "nsuId": 70010000127603,
+        "numberOfPlayers": 2,
+        "publisher": "HAMSTER",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f986ef0d9c6442e3056e2ca11a5d4d7b97cfd2ab909dd3aebf4ba77d445756ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a61dab78554c8ce62d5df08906dfbb6321dd8d95e25081f02fd6e4965cf6a10.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b2885f072e38f1c438f34bd5f4f5a943b77b48734ad10b657e638b484e5fa43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3875742d6e2a2bacc921a1e3729c21f5f44fb58fd951c2dbffaf047999591a6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f200258c4b9edec243f5781fdf9994ff243ac27e0b1c2f6f1c595df08177e52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df33dbc75b35956e69de072266fbda9656d5f4eb2f0c863e213aa019e0936308.jpg"
+        ],
+        "size": 130023424,
         "version": null
     },
     "70010000127663": {
@@ -415902,6 +416394,55 @@
         "size": 1463812096,
         "version": null
     },
+    "70010000128996": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/61489cfec4c5eb52e3a2d4a6d73eea612e1934def573cebdd3660a2235204aae.jpg",
+        "category": [
+            "슈팅",
+            "액션",
+            "아케이드",
+            "어드벤처"
+        ],
+        "description": "\"파괴적인 격돌 직전의 긴박한 순간, 보이지 않는 위협을 무력화하기 위한 비밀 작전이 펼쳐집니다.\"\n\n아카디아 반도 최전선, 깊숙이 은폐된 진실이 숨겨져 있습니다. 혼란을 틈타 군사 조직 '블랙 베이퍼(Black Vapor)'와 반군 세력은 세상을 뒤흔들 수 있는 병기 '아레스(Ares)'를 완성하려 합니다. 통신 장애와 정찰기 실종으로 인해 이 은밀한 거점이 드러났고, 사령부는 전면적인 위기가 닥치기 전 즉각적인 행동에 나섭니다.\n\n철저한 보안 속에 진행되는 정예 특수부대의 심장 뛰는 침투 작전. 압도적인 사실감과 긴장감 넘치는 전술적 게임플레이를 자랑하는 '워파이터(Warfighter)'의 새로운 장이 지금 시작됩니다.\n\n<주요 특징>\n・압도적인 사실감과 최상의 퍼포먼스\n작열하는 모래폭풍부터 은밀한 야간 전투까지, 모든 디테일이 생생하게 구현됩니다. 영화 같은 몰입감을 선사하는 '퀄리티 모드'와 부드럽고 즉각적인 반응의 '퍼포먼스 모드' 중 원하는 모드를 선택하세요.\n\n・정해진 길은 없다: 모든 방향이 곧 진격로\n고정된 경로 없이 광활한 사막 협곡과 거대 시설을 누비세요. 아군 기갑 부대와 함께 은밀한 후방 기습을 감행할 것인가, 아니면 치명적인 정면 돌파를 시도할 것인가? 당신의 선택이 전술을 결정합니다.\n\n・전차의 진화: 한계를 뛰어넘는 화력 투사\n차세대 주력 전차를 직접 조종하세요. 실시간으로 능동 방어 시스템과 무장을 조정하여 적의 방어 체계를 무력화하고, 지형의 제약을 넘어 적의 포탑을 초토화하는 강력한 화력을 퍼부으세요.\n\n・난공불락의 방어선을 무너뜨릴 네 가지 병과\n어썰트(ASSAULT): 방어선 돌파구를 뚫고 최전선 방어 체계를 붕괴시킵니다.\n엔지니어(ENGINEER): 보안 네트워크를 해킹하고 문을 폭파하여 요새 내부를 마비시킵니다.\n서포트(SUPPORT): 돌파 작전 중 강력한 화력 지원과 탄약 보급을 수행합니다.\n리콘(RECON): 숨겨진 요충지를 파악하고 적 지휘부의 취약점을 저격합니다.\n\n・숨 막히는 전면전\n데스매치부터 거점 점령 및 러시(Rush) 작전까지, 무기 프로토타입을 확보하고 내부 폭파를 감행하여 적의 방어선을 완전히 섬멸하세요.\n\n・치열한 교전의 한복판에서 펼쳐지는 극한의 침투 임무\n앞을 가로막는 모래폭풍 속 기지에서부터 작열하는 열기가 가득한 지하 최후의 시설까지, 숨 막히는 긴장감을 뚫고 적의 핵심부로 침투하십시오.\n\n<시놉시스>\n아카디아 반도는 일촉즉발의 화약고가 되었습니다. 연방군과 반군 간의 내전은 국제적인 기술 카르텔 '블랙 베이퍼(Black Vapor)'의 개입으로 새로운 국면을 맞이합니다. 그들은 은밀한 지하 요새 안에서 인류의 종말을 초래할 수 있는 대량살상무기를 제조하고 있습니다.\n\n분쟁이 대륙 전체를 집어삼키려 하는 가운데, 연합군 수뇌부는 공식 개입을 선포하기 직전 정예 특수부대 '워파이터(Warfighter)'를 비밀리에 투입합니다.\n\n모든 준비는 끝났습니다. 이제 전우들과 함께 지옥의 문턱을 넘어, 불가능을 현실로 바꾸십시오.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ddda3eab1d91856c2bbb71f1dcbc7252f9f55c297bcb8241e00413a46b70a32.jpg",
+        "id": "01003C8028C76000",
+        "intro": "어둠 속의 카운트다운: 베일에 가려진 최후의 방어선을 돌파하라!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "워파이터(Warfighter)",
+        "nsuId": 70010000128996,
+        "numberOfPlayers": 1,
+        "publisher": "FORZA GAMES",
+        "rating": 15,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/905c18a65a232e5b634804a08c05cd75634e9080c09f0c6e5e0d9434cd96aa66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a13d5568bd911fedf91965d1097dc4b9bd5784e7ccee7ad79e2c4690cf05ef6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a0d07f417a412d597ee7a65e00716a5202efa08a12918967c14a6ae5b9c703c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/630486b0878f637da39804f12078038a6b56bbc4f404688a254fde73ed1a5b88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/83bfe54c856b2910e195233e1e67c3513ad671a655d8f5d9c6096917a0a2fc34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/517608cf86cafebb33ca4ad509cd67656c518166a769bc83cdf25370e22ea8bb.jpg"
+        ],
+        "size": 6109003776,
+        "version": null
+    },
     "70010000129008": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c157bb6699628a50e7f42dd3d09df3d7d031a82f42f646399f671bd858ee7f01.jpg",
         "category": [
@@ -416830,6 +417371,98 @@
         "size": 1278214144,
         "version": null
     },
+    "70010000129292": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e4a3f3edadd09cbd595ce4793b00eb93877a3c08e498469f2743a5cb64a7b022.jpg",
+        "category": [
+            "시뮬레이션",
+            "RPG",
+            "커뮤니케이션",
+            "전략"
+        ],
+        "description": "거대 괴수들이 도시를 짓밟고 있어요. 놈들을 막을 만큼 거대한 덫을 가진 사람은 당신뿐이에요. 그런데 반전이 있어요. 잡은 괴수는 모두 아름다운 애니 소녀로 변하는데, 빌딩을 짓밟던 기억은 그대로 남아 있답니다.\n\n턴제 전투로 맞서 싸우고, 또 다른 블록을 박살 내기 전에 덫으로 잡아 변신하는 모습을 지켜보세요. 그다음엔 데이트를 즐기면 돼요. 밟히지 않게 조심하면서요.\n\n당신이 잡은 소녀들을 소개할게요:\n\n♡ 불을 뿜던 파충류에서 다혈질 미녀로 변신! 늦게 나타나면 그대로 폭발해요.\n\n♡ 도시의 모든 불빛에 끌리는 거대 나방 소녀. 물론 당신에게도요.\n\n♡ 얼음 같은 눈빛 뒤에 뜻밖의 다정함을 숨긴 심해의 타이탄.\n\n다른 사람들은 도시를 구하죠. 당신은 도시를 부수려는 그녀들과 데이트해요. 준비됐나요?\n\n\n게임 특징:\n\n♥ 포획 & 변신: 거대 괴수를 쓰러뜨리고 덫으로 잡아, 괴수 특유의 버릇이 남은 애니 소녀로 변신시키세요.\n\n♥ 턴제 괴수 배틀: 전략을 세우고 괴수를 약화시킨 뒤, 완벽한 타이밍에 덫을 던지세요.\n\n♥ 데이트 & 비주얼 노벨 선택지: 알맞은 말을 골라 호감도를 올리고, 특별한 장면과 비밀스러운 추억을 해금하세요.\n\n♥ 모두 수집하기: 괴수마다 고유한 애니 모습과 성격, 전용 갤러리 이미지가 있어요.\n\n♥ 덫 업그레이드: 업그레이드를 얻어 더 크고 사나운 괴수를 잡으세요.\n\n♥ 멀티 엔딩: 당신의 선택에 따라 곁에 남을 그녀가 결정돼요.\n\n\n예전엔 빌딩을 먹어 치웠지만, 지금은 당신과 저녁을 먹고 싶대요.\n괴수를 기다리게 하지 마세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0249b6c323eb8ec2f44f0be50cfaba7e1e09c043d7720e5bae9d1e548b4ef607.jpg",
+        "id": "0100853028CEE000",
+        "intro": "괴수를 쓰러뜨리고, 괴수를 잡고, 괴수와 데이트하세요.\n잠깐… 거대 도마뱀이 이제 여자친구라고요?!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "괴수 소녀: 몬스터를 잡고 사랑에 빠져라 (Kaiju Girls: Trap Giant Monster & Fall in Love)",
+        "nsuId": 70010000129292,
+        "numberOfPlayers": 1,
+        "publisher": "Red Fables",
+        "rating": 15,
+        "ratingContent": [
+            "선정성"
+        ],
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3da5507dd2b4f14ba640dcd48f87530107ff9a0a234af24e6c05ff518220f368.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/caa137435abaa60f5ae6408046a787ce474223815517dfc010498f388da4d6c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ace9779100f44dcf6d00280077b423a7544df659f45ff833b611e736212f2da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20f708dee7d3f2d34b2b8f9362612264d686c0f9fdec99db49b614e0de7d0d39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/113d27e435f2a00674c8fd82892c0f5181e99c89a066ffaec5688dce30b1d298.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f6bea45857407c7e496010ec78d0c056bb24af32aaf50af70316f6ce6f647f4.jpg"
+        ],
+        "size": 1558183936,
+        "version": null
+    },
+    "70010000129298": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/95c8ca1fd69acf16c9820fc3e6384e4516fd0938e11c4e87f5a32ee53c31ce22.jpg",
+        "category": [
+            "시뮬레이션",
+            "RPG",
+            "커뮤니케이션",
+            "전략"
+        ],
+        "description": "거대 괴수들이 도시를 박살 내고 있어요. 그리고 녀석들을 잡겠다고 나설 만큼 무모한 사람은 당신뿐이죠.\n\n반전: 당신이 붙잡은 괴수는 모두 말도 안 되게 잘생긴 애니메 미소년으로 변해요. 건물을 쓰러뜨리는 버릇은 여전하지만요.\n\n턴제 배틀에서 괴수를 쓰러뜨리고, 또 한 블록을 짓밟기 전에 함정에 가둔 뒤, 변신하는 순간을 지켜보세요. 그다음엔 데이트 신청! 웨이터한테 불을 뿜지 않기를 기도하면서요.\n\n당신을 기다리는 괴수들:\n\n● 용암이 흐르는 도마뱀에서 변신한 다혈질 훈남. 질투가 나면 아스팔트까지 녹여 버려요.\n\n● 밝은 빛에도, 귀여운 미소에도 약한 거대 나방남.\n\n● 차가운 눈빛과 넓은 어깨를 가진 심해의 거신. 본인은 절대 없다고 우기는 여린 마음을 숨기고 있어요.\n\n\n다른 영웅들은 도시를 구하지만, 당신은 도시 최대의 위협과 저녁을 먹으러 가요. 준비됐나요?\n\n\n게임 특징:\n\n♥ 포획 & 변신: 거대한 괴수를 쓰러뜨려 포획하고, 괴수의 본능을 간직한 애니메 미소년으로 바꿔 보세요.\n\n♥ 턴제 괴수 배틀: 괴수의 체력을 깎고, 타이밍을 노려 함정을 발동하세요.\n\n♥ 데이트 & 비주얼 노벨 선택지: 센스 있게 플러팅하고 호감도를 올려 특별한 장면과 숨겨진 기억을 해금하세요.\n\n♥ 전부 수집하기: 괴수마다 고유한 애니메 모습과 개성, 전용 갤러리 이미지가 있어요.\n\n♥ 함정 업그레이드: 업그레이드를 획득하고 더 크고 더 사나운 괴수에 도전하세요.\n\n♥ 멀티 엔딩: 당신의 선택에 따라 어떤 거인이 곁에 남을지 결정돼요.\n\n\n한때는 빌딩을 부수던 그가, 이제는 당신에게 푹 빠졌어요.\n괴수를 읽씹하지 마세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/86cd9de8eea696e230377701779b7d032450598a849417d2b265ee1193d1f92b.jpg",
+        "id": "010006E028CF0000",
+        "intro": "싸우고, 붙잡고, 데이트까지!\n잠깐만요... 항구를 통째로 삼킨 그 녀석이랑 사귀는 거예요?!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "괴수 보이즈: 거대 괴수를 잡고 사랑에 빠져라 (Kaiju Boys: Trap Giant Monsters & Fall in Love)",
+        "nsuId": 70010000129298,
+        "numberOfPlayers": 1,
+        "publisher": "Red Fables",
+        "rating": 15,
+        "ratingContent": [
+            "선정성"
+        ],
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b4dc7cec9fcaa9ca89b4efa9907972b2c1bf661110370048220ac39274de1801.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/21c7574c1023c0a5dce2cf74bea1df26b3758fdbf6dfdf3c5c591380be30dbb1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/182c2f395a7c146bac52a648e3fdda229767eaf3cfaef12b9b449d0579e8d834.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3476f01a4ab11f6ed8cc9d9829a4f6fe7b51a7938451aa72ebaeff1e59b997f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f25b1126a6394f07368b79c98df914da478b367d00629b3fcf715aa719289c3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d948b22003a25f012a39bbafa955bbb4e69751c661d7d7d9597eaa226e1c8e7.jpg"
+        ],
+        "size": 1536163840,
+        "version": null
+    },
     "70010000129304": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a84d1d6784fb626bfd081884540253083036c7f6561ca6f820cf11c062ac3523.jpg",
         "category": [
@@ -417598,7 +418231,9 @@
         "numberOfPlayers": 2,
         "publisher": "Lu Ming trading as Shane Game",
         "rating": 0,
-        "ratingContent": null,
+        "ratingContent": [
+            "사용자 상호작용"
+        ],
         "region": null,
         "releaseDate": 20261022,
         "rightsId": null,
@@ -418472,6 +419107,53 @@
             "https://img-eshop.cdn.nintendo.net/i/bfbf1a4f551c96d4babe50c2ac1e08ac3c20d5b48a2c95eaa66997deb7851f9d.jpg"
         ],
         "size": 368050176,
+        "version": null
+    },
+    "70010000129886": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4cefea1be5a59231c2fdba080bd646aba289e0045ada4c62deab27100613e8fc.jpg",
+        "category": [
+            "어드벤처"
+        ],
+        "description": "Cat-Astrophy는 빠르고 도전적인 우주 액션 로그라이트 게임입니다. 스타 커서 시스템과 진화 모듈은 매 러닝마다 빌드와 플레이 스타일을 조정하게 하며, 혼란스러운 전투와 정밀 점프를 만들어냅니다. 게임은 끊임없는 긴장을 제공하며 즉흥성과 기술 숙련도를 모두 보상합니다.\n\n각 러닝에서 프로시저로 생성된 행성을 탐험하며 능력을 조합하고 경로를 선택하며 파쿠르와 실시간 전투를 마스터해야 합니다. 러닝은 유니크합니다: 능력을 바꾸는 모듈을 발견하고 숨겨진 시너지를 찾아 위험을 감수할지, 별 조각으로 영구 업그레이드를 확보할지 결정하세요. 죽음은 영구적입니다: 죽는 것은 배우고, 재구성하며, 새로운 전략으로 다시 도전하는 것을 의미합니다.\n\n● 우주 프로시저 탐험: 매 러닝마다 다른 행성을 탐험하고, 끊임없이 변하는 방, 경로, 비밀을 통해 즉시 결정을 조정해야 합니다.\n● 민첩하고 전략적인 전투: 스타 커서를 사용하여 정확한 공격을 지시하며 Polo를 이동시킵니다; 액션은 유연하고 날카로우며 위험-보상 요소가 가득합니다.\n● 매 러닝마다 독특한 빌드: 모듈을 발견하고 능력을 재구성하여 게임 스타일을 완전히 바꾸는 조합을 만드세요.\n● 영구적 진행: 별 조각을 모아 영구 업그레이드를 잠금 해제하고, 러닝 사이에 새로운 경로와 전략적 선택을 열어보세요.\n● 영향력 있는 경로와 선택: 어떤 행성을 탐험할지, 어떤 보상을 얻을지 결정하세요; 선택은 모험의 속도와 난이도를 결정합니다.\n● 파쿠르와 정밀함: 치명적인 점프와 도전적인 플랫폼 구간이 모든 전투에서 이동과 전투를 결합합니다.\n● 우주 픽셀 아트 미학: 생동감 넘치는 세계, 외계 생물, 개성 있는 환경이 게임의 긴장감과 격렬함을 강화합니다.\n● 미스터리한 스토리: Polo가 납치된 이유와 캣-애스트로피를 초래한 세력을 밝혀보세요; 스토리는 액션을 보조하며 게임 플레이를 가리지 않습니다.\n\nCat-Astrophy는 강렬함, 반복 재생 가치, 의미 있는 선택을 원하는 플레이어를 위한 게임입니다. 죽음마다 새로운 것을 배우고, 빌드를 조정하며, 이전에 패배한 것을 극복하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e68fdda1ba1b2cf721c165cc69d21a1406876e629ad2722d7c77a7a35eb032e.jpg",
+        "id": "01001BB028E98000",
+        "intro": "변하는 빌드, 치열한 전투, 영구적 죽음이 있는 우주 로그라이트.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Cat-Astrophy",
+        "nsuId": 70010000129886,
+        "numberOfPlayers": 1,
+        "publisher": "Pdpartid@games",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e887e4594cfdccf196f27868d9d2e6356925b9dc28351fae4cbbfdeca49f13a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d544c398a3c978c2aebfaefe6ac992dd5e2a39069fbf1e6422ee1d0a074c970.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2f266a885b31cd8d35267bf9319a546ce66dd36084eb8f27142c556ec0d5ca1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69798743837dbaaf6e7fa0c6ac1849f9d6cd3fe6461944f583ce03a619cb1468.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3ef31b143d2c67da12d6999af321e393d61044c836a91b1ab5fc365086a4aea.jpg"
+        ],
+        "size": 824180736,
         "version": null
     },
     "70010000129910": {
@@ -420521,6 +421203,47 @@
         "size": 455081984,
         "version": null
     },
+    "70010000130920": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d16b544f7ec2cdd99428f6d8638ae3333b8b46a4101bf5d6a3519d256a3cbe9a.jpg",
+        "category": [
+            "RPG",
+            "어드벤처"
+        ],
+        "description": "신비로운 오염 물질 Odium의 영향을 받지 않은 광활한 부유 대륙 Shelterra를 무대로 장대한 판타지 RPG 모험을 시작하세요. Claude는 프로 모험가가 되는 것을 꿈꾸지만, 단순한 호위 임무를 계기로 고향 전체가 지상으로 추락할 수도 있는 거대한 위협의 존재를 알게 됩니다. 자신이 지닌 말하는 돌이 사실 Shelterra를 지킬 운명을 타고난 정령 Artifact라는 것을 알게 된 Claude는 Orlok 정권과 힘을 합쳐 하늘 세계를 여행하며 그 비밀을 밝혀내고 부유 대륙을 파멸에서 구하기 위한 여정에 나섭니다.\n\n이 고전 JRPG에서 놀라운 깊이를 지닌 세계를 탐험하고, 하늘 세계를 자유롭게 여행하며 위험한 던전에 도전하고 전략적인 턴제 전투에서 적들과 맞서세요. 특정 몬스터와 싸워 새로운 스킬을 발견하고 습득하며, 정보원에게서 단서를 모아 필요한 능력을 가진 적을 찾아내고 파티를 위한 강력한 스킬 조합을 완성하세요. 신비로운 Artifact를 소환해 함께 싸우고, 그들의 파괴적인 능력을 발휘하거나 강력한 적의 공격으로부터 보호를 받으세요. 스킬을 익히고, 정령을 소환하고, 하늘에 떠 있는 세계를 탐험하며 자신만의 승리로 향하는 길을 개척하세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3cc19518069df1c3528f650685950d3ed0c284242621074049979c47ef02df9b.jpg",
+        "id": "01006320291BA000",
+        "intro": "고전 판타지 RPG에서 하늘에 떠 있는 대륙을 탐험하세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "Shelterra the Skyworld",
+        "nsuId": 70010000130920,
+        "numberOfPlayers": 1,
+        "publisher": "KEMCO",
+        "rating": 15,
+        "ratingContent": [
+            "약물",
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20261106,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e6d6c0a798ca72ea272c94cea0cda6587ced4b51988f1796289c7faf13ae4dcf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f6fdcb0ad34f75e50cae589c904beded4a29b0daf2bf903655e0fb4785cbaa4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5c37b829205ef01daac57d69242394f7c5dd08d2f79f1af1217de2b5520b096.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db787d47bad409e85eea90d5c1aff2039ffb59b3c1a0ce7c320900197f3b6f09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/355d4e83c44c887a4ca045ed08b7fd291515ce03739d6beeb69ce6f90335ba30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c814bd5c15884b805c4d2e77012b945d0c6834465eb184d2aa787dc0135e1648.jpg"
+        ],
+        "size": 295698432,
+        "version": null
+    },
     "70010000130925": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0248208e5229cd0ae6bbb9f0098c81803ec82c4bbc3e3f6e7bca06771289def0.jpg",
         "category": [
@@ -421372,6 +422095,47 @@
         "size": 1582301184,
         "version": null
     },
+    "70010000131462": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/56b9bc4294d01255f8a54f43ad5db5554e5bf75570f19c49aa531b6777f5da18.jpg",
+        "category": [
+            "액션",
+            "시뮬레이션",
+            "슈팅",
+            "전략"
+        ],
+        "description": "SUPER ARROW SHOT은 플레이어가 움직일 때만 시간이 흐르는 미니멀한 1인칭 궁술 액션 게임입니다. 적들은 움직임을 멈추고 화살은 공중에 떠 있는, 마치 시간이 얼어붙은 듯한 세계로 들어가세요. 당신의 모든 움직임이 전투의 결과를 바꿀 수 있습니다. 주변을 살피고 다음 행동을 계획한 뒤, 적들이 반응하기 전에 공격하세요.\n\n정밀한 활쏘기와 전술적인 움직임으로 모든 전투를 지배하세요. 최적의 위치를 찾고, 적의 공격을 예측하며, 주변 환경을 활용해 목표물을 하나씩 제거하세요. 한 걸음 움직일 때마다 시간이 흐르고, 모든 화살이 중요하며, 단 한 번의 실수로 도전이 끝날 수도 있습니다.\n\n주요 특징:\n\t•\t시간 조종: 움직임을 멈추고 전장을 분석한 뒤, 이동하여 시간을 흐르게 하세요.\n\t•\t궁술 마스터: 신중하게 조준하고 모든 화살을 정밀하게 쏘세요.\n\t•\t한 방이면 끝: 적의 공격을 피하고 모든 움직임을 신중하게 선택하세요.\n\t•\t20개의 전술 레벨: 적과 배치, 환경이 달라지는 정교하게 설계된 도전에 맞서세요.\n\t•\t움직임 계획: 화살을 피하고 유리한 위치를 확보하며 정밀한 공격으로 적을 연속 처치하세요.\n\t•\t미니멀한 비주얼 스타일: 선명한 색상과 깔끔한 시각 요소가 돋보이는 로우 폴리곤 세계를 경험하세요.\n\n목표를 가지고 움직이고, 한발 앞서 생각하며, 시간이 멈춘 모든 순간을 승리의 기회로 바꾸세요. 움직임을 멈춘 적들과 공중에 떠 있는 화살 사이에서 완벽한 타이밍과 정밀함만이 승리를 가져다줍니다. 시간을 지배하라. 명중을 완성하라.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/00e63c1b0a238660c8fa6a4e35ef6eb5bfc505aca8c5a09abba26d0c62386cce.jpg",
+        "id": "01006B2029318000",
+        "intro": "적들이 반응하기도 전에 모두 물리칠 수 있을까요?",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "SUPER ARROW SHOT",
+        "nsuId": 70010000131462,
+        "numberOfPlayers": 1,
+        "publisher": "St Pow Games",
+        "rating": 12,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b853e04c91abe97eaaa4cf8394349d95f6b2d370d7a964f74a7f894e6a064539.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cf12ff93afdf6ec321555400b89908e43a5d7a0dcd89ed8533fb398131a42cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c075c50e5f286970a0c54c913063d36190a135f53d81e0bd04371251138ced86.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac4be9188aaa21aa678c0b2aaf3a1e4636aef40ca951922684f96507e14863f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/860f10d1f13107031732d0d8a59e2b03e5d044289840511790e5f9aca623c109.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf528f660314fb3ec416406fd067c15ade22c013abf69baaf72b9780053d9f1a.jpg"
+        ],
+        "size": 2166358016,
+        "version": null
+    },
     "70010000131476": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/48269d285217fb6c105d1d4397cd9316336e2bf8a94a535fe290f98398293041.jpg",
         "category": [
@@ -422211,6 +422975,45 @@
             "https://img-eshop.cdn.nintendo.net/i/2f152ad2957d693300ebef6824b993fe2906fbd267782997a24018f3666559f3.jpg"
         ],
         "size": 136314880,
+        "version": null
+    },
+    "70010000131933": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0626e5df742085b61020b014d92050d8c01b2ace885f7a046b0f40f5b6a6758c.jpg",
+        "category": [
+            "아케이드",
+            "액션",
+            "퍼즐",
+            "시뮬레이션"
+        ],
+        "description": "90년대에서 영감을 받은 세련된 도시로 들어가 나만의 레트로 상점을 운영해 보세요. 이 1인칭 비즈니스 시뮬레이션 게임에서 추억을 불러일으키는 상품을 구매하고, 진열대를 정리하고, 손님을 응대하며, 작은 가게를 클래식 미디어와 빈티지 기술로 가득한 성공적인 지역 상점으로 성장시킬 수 있습니다.\n\n새로운 상품을 주문하고, 배송된 물건을 개봉하고, 상품을 정리하며 손님을 만족시켜 보세요. 수익을 사용해 상품 구성을 확장하고, 새로운 장비를 구매하고, 매장 구조를 개선하며, 90년대의 분위기를 살려주는 다양한 장식을 추가할 수 있습니다. 매장을 개선할 때마다 더 많은 손님과 새로운 기회가 찾아오고, 사업은 더욱 크게 성장합니다.\n\n주요 특징:\n\t•\t레트로 상점 운영: 일상적인 매장 업무를 관리하고, 손님을 응대하며 사업을 성장시키세요.\n\t•\t클래식 상품 판매: VHS 테이프, 비디오 플레이어, 카메라, LP 레코드, 잡지, 만화책, 레트로 전자제품 등을 판매하세요.\n\t•\t상품 개봉 및 정리: 배송된 물건을 받고 상품을 개봉한 뒤 매장 곳곳에 정리해 진열하세요.\n\t•\t사업 성장: 수익을 사용해 새로운 상품, 장비, 진열대 및 업그레이드를 잠금 해제하세요.\n\t•\t상점 꾸미기: 네온사인, 포스터, 빈티지 조명, 레트로 장식으로 개성 넘치는 90년대 분위기를 만들어 보세요.\n\n작은 가게에서 시작해 번창하는 레트로 명소로 성장시키세요. 진열대를 상품으로 채우고, 손님을 맞이하고, 매장을 업그레이드하며 90년대의 향수가 다시 살아나는 나만의 사업을 만들어 보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f2f08df45a52bf51cb7476ceedc57e27cecf3dd31497ea4bb06d999058bd0f5f.jpg",
+        "id": "0100D74029450000",
+        "intro": "레트로 상점을 만들고 클래식한 추억을 다시 되살려 보세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Retro Video Store Simulator",
+        "nsuId": 70010000131933,
+        "numberOfPlayers": 1,
+        "publisher": "Burgeq Media Games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a7420948c25f42d31d1b21dbc0e17079a56f0f04d6ff82c5ba94b1823bd5e303.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71f9e7c92fe2a912bb71fcf4782e45ed8f29e591475eb04162c5e875ec1b2096.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee4647a4b561ba920255c953d38fb9bc2b77b2fb51a2d45134df3eb40cb67359.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31d3b89b6eff939ea503af4b2ced35053e8ebca731a16d877d367e01d64eb84a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12c7d64eeacda930486546799f145a8043663d0b896523655a99bf88e881a0a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea9a5d326883724475ef5be5483d5bbc808664a0d48f309f3368ed975d2a5ad2.jpg"
+        ],
+        "size": 2484076544,
         "version": null
     },
     "70010000131941": {
@@ -423380,6 +424183,52 @@
             "https://img-eshop.cdn.nintendo.net/i/236078035f6d80602696581d9a62ad4b3ada029e8a7d2a4f2fb96d1efb2c3965.jpg"
         ],
         "size": 7762608128,
+        "version": null
+    },
+    "70010000132473": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0b3dcf6659dcc5bdda38d2a72f42edf5ca70b1a02c88200f8df5af50e0847ea.jpg",
+        "category": [
+            "슈팅",
+            "액션"
+        ],
+        "description": "세상은 멸망했다. 폐허 속에서 괴물 무리가 날뛰고, 그들의 공격은 점점 더 거세진다. 당신은 최후의 방어선이다. 직접 나서서 인류가 쉽게 무너지지 않을 것임을 증명하라.\n\n당신의 요새는 곧 생명이다. 요새를 건설하여 괴물들의 속도를 늦추고, 포탑을 설치하여 그들을 갈기갈기 찢어버려라. 권총과 강력한 유탄 발사기부터 도끼와 날카로운 칼까지, 생존에 필요한 모든 무기가 준비되어 있다.\n\n적을 쓰러뜨려 얻은 코인으로 레벨업하라. 매 웨이브마다 당신은 더욱 강해지고, 빨라지고, 더욱 치명적으로 변할 것이다. 하지만 체력 관리에 소홀히 하지 마라. 한 번의 실수로 모든 것을 잃을 수도 있다.\n\n최후의 목표는 살아남는 것이다. 진정한 도전을 원하는 자들을 위해 10개의 고난이도 업적을 준비했다. 모든 업적을 달성하고 진정한 몬스터 헌터임을 증명할 수 있을까?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fe4510493d05889912f759b2dbee81543c1a8d7b7e5590c0b4aa596e69e71c84.jpg",
+        "id": "010024A0295D8000",
+        "intro": "캐릭터를 업그레이드하세요\n떼거리로부터 살아남으세요\n무기를 잠금 해제하세요",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "name": "Zombuffoonery",
+        "nsuId": 70010000132473,
+        "numberOfPlayers": 1,
+        "publisher": "Brainium Games",
+        "rating": 12,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261031,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/96590ee65955d05e21bac3203ba01bc7ecb13c69eb67781097ee2010047814d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6626d8b309e2c64abbb589569464a65efe0eaa9e3a3cde45f72166f9594effa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4deb2f5ae1ee6eb3a3d0799ee3cba62133cef291dafdd9ab53d1ad654256940a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7a6ae6b734a0620d7d5968fff162c1fe9a6919f72b875b36a7cc5f1c1321634.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46b049ab9a8897939a0af38d4789c5eac44f4f32c9e0566cbab9107e1c286222.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d038325ee93471d11bb3b1a0e7b3e7b14aa4449d624ca789ef494aa6977e0def.jpg"
+        ],
+        "size": 189792256,
         "version": null
     },
     "70010000132479": {
@@ -425864,6 +426713,48 @@
         "size": 160432128,
         "version": null
     },
+    "70010000133442": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/57c79cd946ae6414b33cc33057cf5a0346d42cd822d254dc5f7393df183c7372.jpg",
+        "category": [
+            "어드벤처"
+        ],
+        "description": "Nintendo Switch™판 오리지널 After Story＆전체 DLC 시나리오를 추가!\n\n―――때 이른 검은 백합은?\n후카히레 님의 섬세하고 미려한 일러스트\n「선택지」를 묻는 선택지 개입 & 워드 직접 입력 시스템\n\n청아하지만 순조롭지만은 않은, 왕도지만 진부하지 않은.\n그렇게 해피 엔딩으로 나아가기 위하여 분투하는 백합 게임입니다!\n\n소녀들이 아름다운 미래로 나아갈 수 있도록, 그들에게 당신의 힘을 더해 주세요.\n\n■STORY\n『그건 때 이른 겨울에 피어난 검은 백합의 저주였을지도 몰라.』\n\n미성년자 절반 이상의 목숨을 앗아 간 위협적인 바이러스 'CLII'가 종식된 지 18년.\n사람들은 완전히 일상으로 되돌아왔다. 하지만 사회에는 여전히 상처와 문제가 남아 있었는데….\n그 영향을 아직 실감하지 못하는, 삿포로의 사립 나와시로 고등학교 3학년생 '사사모리 하나'.\n차분한 성격이지만 마음속은 항상 분주한 소녀.\n졸업까지 얼마 남지 않은 시간, 똑같은 나날을 되풀이하던 하나는 자기 속에 있던 어떠한 한 감정을 알아차리게 된다.\n「나, 그런가 봐. 이츠키를…… 좋아하나 봐.」\n과거에 자신을 도와주었던 이츠키의 행복을 강하게 염원하는 하나.\n단지 말뿐만이 아니다. 그것을 위해서라면 어떤 일이든 해낼 각오가 있었다.\n하나는 생각했다.\n「이 마음은 이츠키를 불행하게 만들 거야…….」\n받아들여선 안 된다는 생각에 자신의 마음을 살며시 덮어 놓는다. 그렇게, 「사춘기가 빚은 변덕」으로 치부하려 했다.\n그러나 그 깨달음은 점차 깊디깊은 저주로 바뀌어 가는데….\n\n이것은 사랑과 저주를 뚫고 나아가기 위하여, 두 사람의 사이를 잇는 사랑 이야기입니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ddd04adead0d8cfd460a34bb006faeaf2be3f581c8245fa706c0764a892d543d.jpg",
+        "id": "010089A01EB32000",
+        "intro": "그것은, 겨울에 핀, 때 이른 검은 백합의 저주였을지도 모른다.\n【선택지를 개입하여】 【문자를 입력】해, 그들의 마음을 연결한다. 이것은 소녀가 소녀를 좋아하게 되었을 뿐인 이야기.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "때 이른 검은 백합",
+        "nsuId": 70010000133442,
+        "numberOfPlayers": 1,
+        "publisher": "1000-REKA",
+        "rating": 15,
+        "ratingContent": [
+            "선정성",
+            "언어의 부적절성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2eecf3647646ff1289abcbd656e7d0b14cbbeaba94237398aea1260ee80b90b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c5acb8ddb34a3378f513760ea2dedc153010e7eab601789470e1a8036313b1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff824f7bed1193f4e085e750b512843ecc742309c2866b5caeef924cbfd28d4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13c2886fa1492c83c994d31f04693cd0b84704328c1fc0afe4e3c977587acc1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/000e8b556fcb6036ac27cb40a759a34ce5b1ac6aa4483316325fd30484f7520e.jpg"
+        ],
+        "size": 1997537280,
+        "version": null
+    },
     "70010000133448": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb24f61f2fb70d2d79a7f2886c8cc3f756891be6dbf69f2217370eb4857387f8.jpg",
         "category": [
@@ -426545,6 +427436,48 @@
         "size": 962592768,
         "version": null
     },
+    "70010000133848": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eb3877a2d3840c7fe2d31a14ae0c910b61067f8ddbeea2fda2bbe6716968ad73.jpg",
+        "category": [
+            "RPG",
+            "어드벤처"
+        ],
+        "description": "Look Outside는 한 동의 아파트 건물에서 펼쳐지는 서바이벌 호러 RPG입니다. 어떤 의문의 사건으로, 창밖을 내다본 이들이 모두 괴물로 변해 버리며, 세상은 미증유의 혼란에 빠지고 맙니다. 건물을 뒤져 식량과 보급품, 무기를 찾아내며, 수상한 이들을 만나 다양한 사건을 해결하세요. 참, 그들은 인간일 수도 있고, '인외'의 존재일 수도 있습니다.\n\n서바이벌 호러와 자원 관리 게임의 융합\n집 밖에서 펼쳐지는 긴박한 탐험을 계획하며, 건물 안팎에 어슬렁대는 기괴한 괴물들을 물리치세요. 의문을 일부 해소할 해답과 수집한 자원을 갖고 집으로 복귀해 게임을 즐기고, 저녁을 준비하며, 도구를 제작하세요. 또한, 동맹이 된 이웃과 친목을 다지며 휴식을 취하세요.\n\n독창적인 턴제 전투\n인간 그래픽 디자이너가 창조한 150종 이상의 크리처가 등장하는 턴제 전투에서는 적과의 거리가 중요한 요소로 작용합니다. 아파트 건물을 돌아다니며 수집한 무기나 급조한 무기를 휘두르며 적을 물리치세요!\n\n완벽한 바디 호러의 미학\n기이한 세계에서 기괴한 운명을 맞이하세요. 이곳은 비정상적이며 때로는 정신 나간 듯한 이들로 들끓는 곳입니다. 하지만 그중에는 의문이 풀려나가는 동안 아파트 내의 안전한 피난처를 제공하며, 때로는 영입할 수도 있습니다.\n\n소규모지만, 실험적이며 주체할 수 없을 정도로 기묘한 게임\n플레이 시간은 약 10~12시간입니다. 총 12명의 보스가 등장하여 그들과 전투를 치러야 하며, 동료로 삼을 수 있는 등장인물도 있습니다. 또한, 사람들을 집으로 초대할 수도 있죠. Look Outside는 다양한 엔딩을 갖추었으며, 매번 다른 경험을 만끽할 수 있습니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8748b3cb2de9e4ff4085574d61681fc03865dc27ef94f4ad6327a56b2d4ca481.jpg",
+        "id": "01004C80299B6000",
+        "intro": "종말로 치닫는 세상에도 아름다운 것들이 있답니다. 그것들에게 눈길을 주세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Look Outside",
+        "nsuId": 70010000133848,
+        "numberOfPlayers": 1,
+        "publisher": "Devolver Digital",
+        "rating": 15,
+        "ratingContent": [
+            "폭력성",
+            "공포",
+            "약물",
+            "언어의 부적절성"
+        ],
+        "region": null,
+        "releaseDate": 20261031,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e6c1f9601147446bceff8a6b0b7a9b6607377ab8a732daba8abc0ce2b5e2db99.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3854e0dfdabee083b7137aa6806f172b0f3c809f6d8f9972ee1d90bf71470f27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cff972da0b45c9567d400fbdfcd84aa34336185fe3a486fae94c0404065d04a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/841430e21c6923b686fe82e127922d52eb468b702254def2c73f737a062095a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd72232637e849bc946d12251e3ec7f863211a3c058f7432074d91e1c70b2a33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c26c261e24481b235f63156dd992a43c30bdd45d79feb0b73c73dab768c31ef7.jpg"
+        ],
+        "size": 808452096,
+        "version": null
+    },
     "70010000133865": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8ab11769d05460d11c8df93a2b5da3328426d73d91ce3b4add6963615f11a163.jpg",
         "category": [
@@ -426878,6 +427811,57 @@
             "https://img-eshop.cdn.nintendo.net/i/671bf9356ca350d5cc73ba9580b3e9ad47582e81360653e03b41ea2dc471305e.jpg"
         ],
         "size": 153092096,
+        "version": null
+    },
+    "70010000134015": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/165baad9f2d71f4f08ddd923fd5fda7fe81476f24227a2ffe3a984a130190e2f.jpg",
+        "category": [
+            "아케이드",
+            "어드벤처",
+            "시뮬레이션"
+        ],
+        "description": "우편물을 전달해요\nBMX를 타고 4개의 마을을 돌며, 그곳에 사는 개성 넘치는 친구들에게 편지와 소포를 전달하세요. 저마다 크기와 무게, 모양이 다른 우편물을 여러분만의 기발한 방식으로 전달하세요!\n\n신나게 놀아요\n마을 주민과 우정을 쌓고 그들의 마음을 얻다 보면 다양한 스포츠와 활동에 초대받게 될 거예요. 꼭 참여해서 신사 복구에 도움이 되는 각종 아이템과 보상을 손에 넣으세요.\n\n신사를 깔끔하게 복구해요\n우편물 전달과 여러 활동을 통해 얻는 각종 아이템과 돈으로 신사의 공사를 진행하고, 업그레이드하고, 마음껏 꾸며서 멋지게 복구해 보세요. 여름 끝자락에 성대한 축제를 만끽할 수 있도록 말이죠!\n\n4개의 마을에 놀러 오세요\n교토, 아오모리, 삿포로 및 벳푸를 모티브로 애정을 담아 창조한, 4개의 마을을 둘러보세요. 저마다 개성적인 퀘스트와 목표로 여러분의 발길을 기다리고 있답니다.\n\n타누키 대축제가 코앞으로 다가온 지금, 폰은 어떻게 해서든 망가진 신사를 원래대로 되돌려야 해요. 폰이 자금을 마련하고, 지역 주민과 친해지고, 신사를 복구해 일생일대의 축제를 만끽할 수 있게 도와주세요.\n\nTANUKI: Pon's Summer에서 여러분은 BMX로 우편물을 전달하며 모든 주민에게 감동을 안기는 타누키 집배원이죠. 신사 복구에 필요한 자금을 마련할 시간은 단 1개월! 우편물을 전달하고, 스포츠를 즐기고, 초밥을 만드는 등 다양한 활동을 통해 목표를 달성하고, 성대한 '타누키 대축제'를 성공으로 이끄세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/44897b9c67540a04dde2b7b4996dd460c99c83a5baacdedc42623689263c0ea0.jpg",
+        "id": "0100AC602974E000",
+        "intro": "무더운 한여름을 귀여운 타누키와 시원하게!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "TANUKI: Pon's Summer",
+        "nsuId": 70010000134015,
+        "numberOfPlayers": 1,
+        "publisher": "Critical Reflex",
+        "rating": 15,
+        "ratingContent": [
+            "약물"
+        ],
+        "region": null,
+        "releaseDate": 20261110,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/032b4b45333d83d2dc8f31e6325e103473f97a7bedab91f0060df1212e6fb092.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b16bd41374622bdf9237d7ecf9e166537a9aa9b5c652f1afc6d65e5452921fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e4a39abdd43cac022bf31f5ab0c105f6678d1fa62410e91c55bf1ae54ce8617.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2505d400fea94de1738c35c2eb98025206afce3eab7343a2a92a3e0575267748.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4e58ee1f2ca4d4c4362b44b85e37b40a159c6da8046ec31fc252ea4b26ab401.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ded6db7fc5e3e97df676b87a3db7577071c7546f484e51da93ea523b21f39c43.jpg"
+        ],
+        "size": 1306525696,
         "version": null
     },
     "70010000134030": {
@@ -428448,6 +429432,55 @@
         "size": 143654912,
         "version": null
     },
+    "70010000134838": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6e0607d09b6a1cc97288a9f9914fcb81b4ea17c25f74835f551a674855737e7.jpg",
+        "category": [
+            "어드벤처",
+            "RPG",
+            "전략",
+            "퍼즐"
+        ],
+        "description": "당신은 서서히 붕괴해가는 우주 정거장의 AI입니다. 인류는 사라졌습니다. 남은 것은 먼지와 정적, 그리고 겁에 질린 작은 생명체뿐입니다.\n\n당신에게 주어진 유일한 임무는 바로 그 생명체를 돌보는 것입니다.\n\n*The Last Cat in the Universe*는 서사 중심의 짧은 점진적(incremental) 게임입니다. 당신의 목표는 명확합니다. 죽어가는 우주선의 잔해를 수거하여 마지막 생존자를 위한 따뜻한 보금자리를 만드는 것입니다.\n\n주요 특징:\n- 나만의 리듬 찾기: 편안함을 선사하는 채굴 시스템을 경험해 보세요. 리드미컬하고 만족스러운 흐름에 맞춰 잔해 구역을 탐색하세요. 정신없이 클릭할 필요는 없습니다.\n\n- 의미 있는 성장: 모든 업그레이드가 중요합니다. 실질적인 성능 향상을 잠금 해제하여 우주선의 더 깊은 구역을 빠르게 뚫고 나아가세요. 정거장이 노후화됨에 따라, 더 강력한 도구를 향한 욕구와 생존에 필수적인 공기 및 따뜻한 보금자리 유지 비용 사이에서 끊임없이 균형을 잡아야 합니다.\n\n- 잃어버린 자장가 되찾기: 아주 중요한 노래의 조각들을 모으며 정거장과 승무원들에 얽힌 이야기를 밝혀내세요.\n\n- 감동적인 사운드트랙: 음악은 이 경험의 감정적 핵심입니다. 베네수엘라 싱어송라이터 Diora Salazar와 협업하여 작곡된 오리지널 사운드트랙은 명상적인 리듬에서 시작해 깊은 감정의 울림으로 이어지며, 이야기의 클라이맥스와 긴밀하게 연결됩니다.\n\n- 밀도 높은 경험\n이 게임은 한두 번의 세션(약 2~3시간) 만에 즐길 수 있도록 설계되었습니다. 끝없는 환생(prestige) 반복이나 단순한 방치형 노가다 요소는 없습니다. 극한의 상황 속에서 한 생명을 돌보는 일의 고요한 기쁨을 담아낸 완결된 이야기입니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/083dd3fa1ec176cbccaee291d270973551ea531b33efc2595bd7cad248f1af59.jpg",
+        "id": "0100854029C72000",
+        "intro": "죽어가는 우주 정거장의 잔해를 수집해 우주에 마지막으로 남은 고양이를 위한 아늑한 보금자리를 만들어 보세요. 서사 중심의 인크리멘탈 게임입니다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "The Last Cat in the Universe 우주 최후의 고양이",
+        "nsuId": 70010000134838,
+        "numberOfPlayers": 1,
+        "publisher": "Flynns Arcade",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e99f61915dea9a1a2a0e8ee57de62e76f8c55bea446341f188e580d021ca06f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c08f5e7a217ca9afda94e24426f3a86a9f9bfec51a8e59cc941d083ba64f9f51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14e5119d2b4cdbb5ebdae94f4776e2423cdc4f58072766d9e1eed66524c37356.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0281ce54e012631b0b071aec0dbfb75673cd8cb9defb20d40ce600eafc3cb397.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0761b70ee86a87b118415e294bca3824d63ebaf0da9796528ede14265e3f1b64.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a95dde274bc139974dbcc3153920e69f129a03125ccd9f02fbab3a832dd5115.jpg"
+        ],
+        "size": 398458880,
+        "version": null
+    },
     "70010000134844": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/08be6eebb6397e43a8040ec9cd47093c7a01db4c327b6ee38612e816779108b5.jpg",
         "category": [
@@ -428945,6 +429978,55 @@
             "https://img-eshop.cdn.nintendo.net/i/6361c300ae90a7569c7c6a1ee694037aa3817842fe2fd96b6060ed073eed4682.jpg"
         ],
         "size": 2021654528,
+        "version": null
+    },
+    "70010000135044": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/966ff19f103694ced07be5ddbd4c1838bcab4c28cd405f1c93f487def59f016a.jpg",
+        "category": [
+            "어드벤처"
+        ],
+        "description": "지역 사회의 기상천외한 세계로 떠나는 여정\n\n소름 끼치면서도 귀여운 스토리 게임 팬 여러분, 주목하세요!\n\n이 기상천외한 모험은 장난꾸러기 톰이 배달을 다니는 과정을 따라가는데, 그녀의 배달은 언제나 엉망이 되기 일쑤입니다. 톰이 기회가 될 때마다 사람들의 집 안을 엿보는 데 대부분의 시간을 보내니, 그도 무리는 아니겠죠.\n\n모든 주민이 숨길 게 하나씩 있는 매력적인 마을에서 톰과 함께하세요. 당신은 그들의 소포를 배달하지만, 그들이 당신 시야에서 사라진 뒤에는 그 소포로 무엇을 할까요? 모든 창문, 모든 문, 벽의 모든 틈새는 주민들과 그들의 추악한 비밀에 대해 더 알아갈 수 있는 기회입니다: 개집처럼 보이는 고아원, 파티를 좋아하는 두 신부, 전기톱을 휘두르는 히피 커플… 끔찍할 정도로 다양한 인간 본성이 여러분을 기다립니다!\n\n\n포인트 앤 클릭? 걷고, 몰래 엿보자!\n\n독특한 수작업으로 그려진 풍경 속으로 뛰어들어 주민들을 엿볼 수 있는 수많은 은신처를 찾아보세요. 자세히 들여다보면 불쾌하거나 심지어 신성모독에 가까운 상황들을 목격하게 될지도 모릅니다. 그렇다고 엿보는 것을 멈출 수 있을까요? 정반대입니다.\n\n프레임 단위로 제작된 애니메이션은 이 포인트 앤 클릭 게임에 복고적인 느낌을 더하며, 가장 평범한 일조차 의심스럽게 느껴지는 기묘한 마을 속으로 여러분을 몰입시킵니다.\n\n\n비밀스러운 즐거움\n\n톰이 되어 그녀의 엿보기 습관을 따라하고, 모든 관습을 깨부수는 그 ‘비밀스러운 즐거움’을 만끽하세요.\n\n당신의 모험은 터무니없을 만큼 엉뚱한 사건들로 가득 차 있으며, 이 사건들은 당신을 마을의 미스터리 속으로 더 깊이 이끌어갑니다. 묘지에 숨어 마약을 거래하는 비둘기부터 방황하는 카우보이 벌레, 심술궂은 다람쥐에 이르기까지, 당신의 관심을 받을 만한 존재는 인간만이 아닙니다. 그러니 발걸음을 조심하세요… 아니면 그냥 무시하세요.\n\n이제 일에 집중할지, 공공 질서를 어지럽힐지는 여러분에게 달려 있습니다. 완벽하게 다듬어진 울타리를 깎아내리고, 정원의 꽃을 짓밟고, 장식물을 훔치고 싶은 유혹을 참을 수 있을까요?\n\n\n특징\n\n억제 없는 엿보기: 엿보는 것을 두려워하지 마세요. 겉보기에는 평범해 보이는 사소한 디테일 하나하나가 마을 사람들의 광기를 드러낼 수 있습니다.\n\n경계를 넘나드는 게임플레이: 마을 사람들을 미행하고, 그들의 소포를 뜯거나 정원을 망가뜨려 보세요. 톰과 함께라면 거의 모든 것이 가능합니다.\n\n어덜트 스윔과 동화책의 중간 지점: 손으로 그린 흑백 비주얼의 겉보기 평온함은 톰이 엿보는 마을 사람들이 보여주는 불안할 정도로 제멋대로인 행동과 대조를 이룹니다.\n\n재발견의 즐거움: 플레이할 때마다 놓쳤던 새로운 디테일을 찾아내고, 더 신중하거나 덜 신중한 접근 방식을 시도하며 마을 주민들의 모든 비밀을 밝혀내세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/822bcff25836ecdc2d14ccb8c941f219a1fa59a182b251d9f1525fdc37e2f9ed.jpg",
+        "id": "0100C3D028784000",
+        "intro": "마을의 새로운 우편 배달원 톰을 만나보고, 마을 주민들을 조금은 지나치게 잘 알게 된다. 그녀의 방법은 바로 강렬하고 집요한 스토킹이다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "pl"
+        ],
+        "name": "포스트걸 톰 (Tom the Postgirl)",
+        "nsuId": 70010000135044,
+        "numberOfPlayers": 1,
+        "publisher": "ARTE Experience",
+        "rating": 15,
+        "ratingContent": [
+            "선정성",
+            "약물"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b87aaec2e569e5f95c5a442d7160287ca41d61c9a9af663073d4a3e251705bfe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/269730e6decec29960e1600bebdf009e3b6ab23750bb6b1b6b9bb7f92d1d4bfc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ae5c4e1d961b2c51e00bda8a98c1de83b3ced5d268715e993aeb0113333cf52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c8a5df0f00aab66c52bd921d83605a72a186a69853aec433fbaa29dfb296ac2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5be0e3cae71f588ae812b3fdddb0a828efd0aee83dcea93f21f7d4f8be094f3f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6af18839d1b822bb71b171275988fc6074b3cbf071d797442b1a8c07e301464b.jpg"
+        ],
+        "size": 670040064,
         "version": null
     },
     "70010000135061": {
@@ -429673,6 +430755,46 @@
             "https://img-eshop.cdn.nintendo.net/i/ae1b76236fad344a08f8a38d68ecb898255600aab5095afc749cbd4da7771a47.jpg",
             "https://img-eshop.cdn.nintendo.net/i/27d4f7330bd0a86265092411610041e31e04bc5e52c11afea00efe8f45e8ba13.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a0f4c47bd465afe0f57b9bafd7f210785b1435aef1a50431465857004c40fdbe.jpg"
+        ],
+        "size": 247463936,
+        "version": null
+    },
+    "70010000135583": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/beb36eff5875c08351cb4c80f7d260b35737c3e3f63f54ba7d3ac6c7985578e3.jpg",
+        "category": [
+            "퍼즐",
+            "시뮬레이션",
+            "전략",
+            "파티"
+        ],
+        "description": "화려한 의상을 입은 소녀들의 사실적인 이미지가 담긴 퍼즐을 수집하고, 편리한 터치 컨트롤을 즐기며 손끝에서 퍼즐을 직접 경험해 보세요.\n\n편안한 음악이 기분 좋은 분위기를 조성하고, 점차 어려워지는 난이도는 각 레벨을 신나는 도전으로 만들어줍니다. 조립 후에는 각 이미지를 자세히 살펴보고 모든 디테일을 감상할 수 있습니다.\n\n특징:\n\n• 사실적인 이미지.\n\n• 사실적인 조립 과정.\n\n• 점차 어려워지는 난이도.\n\n• 편안한 음악.\n\n• 상세한 이미지 보기.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d444c52388dcdf4d6dba328b4752bc69d118141fcd53c6638a463be0c76e454f.jpg",
+        "id": "01008CB029E3E000",
+        "intro": "모든 디테일을 수집하고, 느끼고, 살펴보세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ru"
+        ],
+        "name": "Puzzle X: Premium Girls",
+        "nsuId": 70010000135583,
+        "numberOfPlayers": 1,
+        "publisher": "17Studio",
+        "rating": 15,
+        "ratingContent": [
+            "선정성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cee82ea4e297b50d4ba21e61fa75f136c0527ffd442229db8a0c2375d1bb4922.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c4c57b7763f58b24c9f092e1fa967a2a4fc6ad629cd1d654ba46fdd149c8252.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4e845c3d2630b8dc6f0b16046547544cc26be317cd13ed36c9e8101384a6517.jpg"
         ],
         "size": 247463936,
         "version": null
@@ -430624,6 +431746,97 @@
             "https://img-eshop.cdn.nintendo.net/i/bec731a86e299f40d39ef71f4519a18f57f9e42832d21f4f949437c207f10acf.jpg"
         ],
         "size": 221249536,
+        "version": null
+    },
+    "70010000136067": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c4d465c90ea505edae048867586ff4dd9b29ad3b35178d765c5ca9d4a364498a.jpg",
+        "category": [
+            "시뮬레이션"
+        ],
+        "description": "Hokko Spaces는 Hokko Life에서 영감받은, 아름답고 정교한 미니어처 디오라마 스타일의 세계를 직접 설계할 수 있는 창작 샌드박스 체험 게임입니다.\n\n나만의 속도로 디자인\n아늑한 숲속 공간, 마을의 완벽한 소풍 장소 또는 온전한 나만의 장소까지 모든 정교함이 하나로 어우러져 각각의 공간을 여러분만의 특별한 장소로 만들어 줍니다. 하루의 시간, 날씨, 계절을 조정해 완벽한 분위기를 조성하고, 봄날 저녁 흩날리는 벚꽃부터 겨울 아침의 첫서리까지 모든 순간을 포착하세요.\n\n매력적인 주민\n여러분의 공간이 성장하며 친근한 주민들이 등장하기 시작합니다. 간단하고 느긋한 목표를 완료해 주민들을 해금하세요. 이들이 돌아다니고, 휴식을 취하며, 여러분이 애정을 담아 배치한 사물과 상호작용하는 모습을 보고 있으면 모든 장면에 생기와 온기가 차오를 겁니다.\n\n사진에 담는 완벽함\n모든 것이 완벽한 순간 카메라 모드를 사용해 가장 좋아하는 순간을 포착하세요. 필터, 프레임, 초점을 실험하며 전 세계와 공유할 아름다운 스냅샷을 촬영하세요.\n\n평화로운 안식처를 구현하든, 일상의 아늑한 순간을 포착하든, Hokko Spaces는 여러분이 잠시 발걸음을 늦춰 작고 평화로운 공간을 하나씩 만들며 진정한 나만의 것을 구현할 수 있는 장소로 초대합니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/39aa8728652a971bbbce1f879204a8711ed5756b2fc845b404bd368682c03806.jpg",
+        "id": "01002C4029876000",
+        "intro": "나만의 속도로 차분한 디오라마 세상을 만들고, 매력적인 주민들을 환영하고, 평화로운 순간을 포착하세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Hokko Spaces",
+        "nsuId": 70010000136067,
+        "numberOfPlayers": 1,
+        "publisher": "Team17",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/27ac626a5c672238a497b1a74a448f5343dbe748e5b8689cc75e61ba028a5d54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/253d30a8eb5231efa211aff6f3b54c8a09d584b909d1e9579726b96e58205777.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7ee880964d4539457c57fe844c28378bf90bc80936ddace784b5094d22b803f.jpg"
+        ],
+        "size": 1118830592,
+        "version": null
+    },
+    "70010000136075": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/821fe00f8442fc18b92b9ad4d11ed5257b71b8e4cba72cf599110fba71dd9f09.jpg",
+        "category": [
+            "아케이드",
+            "액션",
+            "슈팅",
+            "어드벤처"
+        ],
+        "description": "마왕군에 고향을 잃은 공주 루시아, 끝이 보이지 않는 전쟁 속에서 살아남은 솔저 유나. 알 수 없는 빛에 휩싸여 낯선 이세계로 떨어진 두 사람은 저마다의 보금자리로 돌아가기 위해 몬스터와 맞섭니다. 두 사람 모두 현실 세계의 라이플과 권총으로 싸우지만, 개성은 서로 다릅니다. 마음에 드는 주인공을 골라 스테이지에 도전하세요. 든든한 펫 드래곤이 필살 공격으로 위기의 순간을 뒤집어 줍니다.\n\n・개성 넘치는 두 캐릭터! 루시아와 유나 중 원하는 주인공을 선택하여 플레이\n・라이플과 권총으로 즐기는 시원한 슈팅 액션\n・스테이지 곳곳에 숨겨진 생존 아이템 찾기\n・상점에서 획득한 재화로 신무기 구입과 업그레이드\n・펫 드래곤의 특수 공격 지원\n・스테이지를 클리어할 때마다 강해지는 캐릭터\n・무기 성능, 체력, 공격 범위 등 다양한 업그레이드로 나만의 전략 완성\n・갈수록 거세지는 강적과 끝판왕의 도전\n・스테이지마다 펼쳐지는 스토리 연출과 감동의 엔딩\n\n조작은 쉽지만 깊이가 있고, 긴장감은 손에 땀이 날 정도입니다. 몰려오는 몬스터를 한꺼번에 날려 버리는 쾌감까지 더해져 한 판만 더 하게 되는 중독성을 선사합니다. 마지막 스테이지에 도달하면 공주 루시아와 솔저 유나의 운명이 걸린 감동적인 엔딩이 기다립니다. 두 사람은 무사히 집으로 돌아갈 수 있을까요? 그 끝을 볼 수 있는 사람은 바로 당신입니다. 이세계의 끝판왕들을 물리치고 두 사람의 이야기를 완성해 보세요!\n\n프롤로그\n마왕과 몬스터들의 침공으로 고향에서 쫓겨난 공주 루시아. 한편, 현실 세계에서는 여군 유나가 끝이 보이지 않는 전쟁 속에서 살아남기 위해 싸우고 있었습니다. 결코 만날 일이 없었던 두 사람의 운명은 갑자기 나타난 정체불명의 힘으로 이어집니다. 눈부신 빛에 휩싸인 두 사람이 도착한 곳은 어느 쪽의 고향도 아닌, 미지의 이세계였습니다.\n\n낯선 땅에서 마주한 루시아와 유나. 그러나 혼란에 빠진 두 사람을 기다리고 있던 것은 새로운 적들의 습격이었습니다. 돌아갈 길도, 이 세계에 오게 된 이유도 알지 못한 채 두 사람은 살아남기 위해 힘을 합칩니다. 살아온 환경도 싸우는 이유도 다른 그녀들을 이어 준 것은, 자신의 보금자리로 돌아가 평화를 되찾고 싶다는 공통된 소망이었습니다.\n\n끊임없이 앞을 가로막는 이세계의 적들. 그 너머에는 고향으로 돌아갈 단서가 있을까요? 루시아는 빼앗긴 왕국을 되찾기 위해, 유나는 전쟁에 위협받지 않는 일상을 위해 서로를 믿으며 미지의 세계로 나아갑니다. 두 사람을 무사히 고향으로 이끌 수 있을까요? 이제 그 운명은 당신의 손에 달려 있습니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8a60292ef4ef3c09309951565d24173cf61239fec85f72352caf7d1af9da93a2.jpg",
+        "id": "0100956029F6E000",
+        "intro": "서로 만날 일이 없던 공주와 솔저가 이세계에서 협력하며 적과 싸웁니다! 한번 잡으면 놓을 수 없는 오락실 감성의 2D 횡스크롤 액션! 끝없이 몰려오는 몬스터를 날려 버리고, 끝판왕을 쓰러뜨리세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "이세계 프린세스 몬스터 시즈(Isekai Princess: Monster Siege)",
+        "nsuId": 70010000136075,
+        "numberOfPlayers": 1,
+        "publisher": "TROOOZE",
+        "rating": 15,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7c0710ba1afd1783b9988a99725d03d6096f92f99efdb7dae3cb1bbfcdcaa436.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6962fd29fd4fb1a22156757bbde3df1db51d0bf1ccb74a4f48825407e4e9d4be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2fe5a54ece17ff4d3908534d45f0b9303b3906fc602a0edd93a200e9e86348c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5141e7ad0fdd34804ff45679b32895cd9a56b306cd88a9f5c756d402a344d9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8127c75bef1c846dd80a88a1f6e10abb7688f3593a0e9b1def6752cd97325994.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63159f58bc9b478fc0d3ec0c450500f83f6f226ea21a0e473f1e70c78f42eada.jpg"
+        ],
+        "size": 1746927616,
         "version": null
     },
     "70010000136115": {
@@ -431962,6 +433175,56 @@
         "size": 113246208,
         "version": null
     },
+    "70010000136919": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09d72a61309e15d0279d4b4d54e950ca099022ec0d06c237020727621fa1df83.jpg",
+        "category": [
+            "퍼즐",
+            "아케이드",
+            "액션",
+            "기타"
+        ],
+        "description": "당신은 언데드지만, 실업자는 아닙니다\n가시, 화염 분사기, 악마의 기계, 무너지는 발판으로 가득한 방을 헤쳐 나가세요. 상자를 밀고, 스위치를 작동시키고, 컨베이어 벨트를 가동하며, 점프 타이밍을 정확하게 맞춰 모든 배송물을 목적지까지 배달해야 합니다. 각 구역은 치밀하게 설계된 도전 과제로, 반사 신경과 문제 해결 능력을 시험합니다.\n\n죽게 될 겁니다. 아주 많이!\n하지만 괜찮습니다. 어차피 이미 언데드니까요. 즉시 부활 시스템으로 빠르게 재도전하며 각 배송 경로를 익힐 수 있습니다. 모든 방에는 해결 방법이 있습니다... 하지만 여러분이 예상한 방법과는 다를 수도 있습니다.\n\n이것이 이제 당신의 사후세계입니다\n창고 깊숙이 들어갈수록 더욱 복잡한 배송 퍼즐, 새로운 환경 위험 요소, 그리고 점점 더 황당해지는 악마의 물류 시스템을 만나게 됩니다.\n\n주요 특징\n- 기업 지옥의 8개 원: 인사부의 끝없는 관료주의부터 회계부의 밑바닥 없는 탐욕까지, 서로 다른 8개의 부서를 돌파하세요.\n- 정밀한 「배달 아니면 죽음」 게임플레이: 소포와 영혼의 운명이 픽셀 단위로 정확한 점프에 달린 치밀한 2D 플랫폼 액션.\n- 수작업으로 제작된 47개 레벨: 6개의 입문 튜토리얼과 점점 더 지옥 같아지는 41개의 퍼즐 방으로 구성된 가혹한 진행을 경험하세요.\n- 최종 배송 도전: 각 원의 마지막에 등장하는 고난도 구간에서 실력을 한계까지 시험하세요.\n- 기업 감사: 물류센터의 가장 위험한 구석에 숨겨진 수집품을 찾아내세요.\n- 지옥 같은 직장 사운드트랙: 시간이 쉴 새 없이 흘러가는 동안 심장 박동을 높여줄 오리지널 음악.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e891bec1385c56b0d632074d48448aa9d3c75d58f0e4d0fb834634df59301931.jpg",
+        "id": "010068D02A124000",
+        "intro": "HELLBOUND INC는 사탄이 직접 인수한 물류센터에 갇힌 언데드 배달원이 되어 플레이하는 정밀 플랫폼 게임입니다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "HELLBOUND INC",
+        "nsuId": 70010000136919,
+        "numberOfPlayers": 1,
+        "publisher": "Seashell Studio",
+        "rating": 12,
+        "ratingContent": [
+            "선정성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/24ddeaedd8949228a2e1852869ef9a4cebac0594d06e8335b1dd753ca30a0a26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1eb66184509e46c4174349c6d1e421d6c4395c17afe7feada4de97554214f2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/029f72106207ed3192f3aac144d87bfeaf23402032f795d80f21a75d15b3b265.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9edcdefcc6c3d6dfb520414f0ef4f4aaf983f381e70659e2e0f62044f5399d35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d7d5ea4dc935566794ea8edf2098be576237e275926a33d009938c0ab40589e.jpg"
+        ],
+        "size": 791674880,
+        "version": null
+    },
     "70010000136924": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/92c424016264b17e6b7662ca90e7c131607854812b5fbec07aa0ea7099be6369.jpg",
         "category": [
@@ -432081,6 +433344,46 @@
             "https://img-eshop.cdn.nintendo.net/i/e9fc0cb9298118b986c0164b250090e0c0916f9e26f32d1d6917f1a2622dae38.jpg"
         ],
         "size": 525336576,
+        "version": null
+    },
+    "70010000137006": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ab8b19066dc34355acf0028938c1efd4941b213df7f2e422921cebe394db8bb.jpg",
+        "category": [
+            "퍼즐",
+            "시뮬레이션",
+            "전략",
+            "파티"
+        ],
+        "description": "매력적인 고양이 귀와 꼬리를 가진 아름다운 캣걸들이 등장하는 환상적인 직소 퍼즐의 세계로 빠져보세요! 퍼즐 조각을 하나씩 맞추며 애니메이션에서 영감을 받은 사실적이고 화려한 일러스트를 완성하고, 개성 넘치는 캐릭터들을 만나며 새로운 이미지를 잠금 해제하세요.\n화려한 네온 불빛이 빛나는 밤부터 고급스러운 수영장과 아늑한 카페까지, 퍼즐마다 새로운 풍경이 펼쳐집니다. 아름다운 캐릭터와 생생한 색감, 섬세한 디테일을 감상하며 그림을 완성하는 즐거움을 느껴보세요.\n간단하고 직관적인 조작과 부드럽고 편안한 음악이 어우러져 여유롭게 휴식을 취하며 퍼즐에 몰입할 수 있습니다.\n게임 특징:\n- 누구나 쉽게 즐길 수 있는 중독성 있는 직소 퍼즐.\n- 아름다운 캣걸들이 등장하는 사실적인 애니메이션 스타일의 일러스트.\n- 개성 넘치는 캐릭터와 다양한 의상, 매력적인 배경.\n- 퍼즐을 완성할 때마다 새로운 아름다운 이미지 잠금 해제.\n- 부드럽고 직관적인 조작으로 즐기는 편안한 게임 플레이.\n- 도전과 휴식이 조화를 이루는 퍼즐 경험.\n- 몰입감을 높여주는 편안하고 감미로운 음악.\n- 완성된 모든 일러스트를 섬세한 디테일까지 감상할 수 있는 즐거움.\n퍼즐 조각을 하나씩 맞추며 아름다움과 매력이 가득한 세계를 발견해 보세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cc5d4017b80850140b1d25dc4671d339ae5bb4838cab60587150e96895d47193.jpg",
+        "id": "01007A902A1EA000",
+        "intro": "퍼즐 조각을 하나씩 맞추며 아름다운 걸작을 완성해 보세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ru"
+        ],
+        "name": "Catgirls: Secret Operation",
+        "nsuId": 70010000137006,
+        "numberOfPlayers": 1,
+        "publisher": "17Studio",
+        "rating": 15,
+        "ratingContent": [
+            "선정성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f2ede0933e941a95c810a7f9f446fc0affa536ef0840ae885b65e9515c402d39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c870c1da4e5eb1e0b705811c1bdf6d648d53186eb99f3ff1829e3f0a49b7cbfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45f204a98acf2cc7b7debba6f43a57ae13efa5aa6b87fd906bae60f210c7ff5c.jpg"
+        ],
+        "size": 250609664,
         "version": null
     },
     "70010000137059": {
@@ -432459,6 +433762,52 @@
         "size": 91226112,
         "version": null
     },
+    "70010000137274": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f4162243b983873c58cd97050dec823101c1d0d14070c0ab21bc76acb4457a87.jpg",
+        "category": [
+            "아케이드",
+            "액션",
+            "퍼즐",
+            "시뮬레이션"
+        ],
+        "description": "약혼반지를 잃어버린 당신. 유일한 희망은 동네 오락실의 크레인 게임에서 새 반지를 따내는 것뿐이죠!\n\n속도감 넘치는 연속 라운드에서 슈퍼 캐처 실력을 갈고닦으며, 원치 않는 경품을 피해 귀중한 아이템을 최대한 많이 집어 보세요. 라운드가 끝날 때마다, 잡은 상품을 팔아서 수익금으로 다음 도전을 준비하세요.\n\n가장 저렴한 층에서 여정을 시작해, 70가지가 넘는 독특한 상품을 잡으며, 한 층씩 위로 올라가세요. 각 층에는 새로운 기계와 상품, 극복해야 할 도전 과제가 기다리고 있습니다. 최상층에 도달해, 귀중한 반지가 들어 있는 기계를 공략하세요!\n\n경품을 추가하거나 제거하여 강력한 콤보를 만들고, 집게를 업그레이드해 성공 확률을 높이세요!\n점점 더 혼란스럽고 도전적으로 변하는 기계들에 맞서고, 개성 넘치는 캐릭터들을 만나며, 그 과정에서 반전으로 가득 찬 이야기의 진실을 밝혀내세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d886acdbee23e720552811498b70293a83be6914498fa990ec9bee6ede33399a.jpg",
+        "id": "010038902A2B8000",
+        "intro": "로그라이크 요소가 가미된, 귀엽고 박진감 넘치는 크레인 게임!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Cupiclaw",
+        "nsuId": 70010000137274,
+        "numberOfPlayers": 1,
+        "publisher": "RAINYFROG",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e61945f5f693833791ed7267212f5b24d2d964abbf2b321a936dc5295ad528f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b2a02fd79a2ef8791da78bcb8621edcd7328653afaf52bf6c4989cc2430abe3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37440d006bb70ff2c5232947ed53ed0caa61a899a8b32022f6363e58f6129a9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/665eab723fe47faec20a1e8617d7ed9ff7c461ef41f3d5da0f45fa70d4ce5cc3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c97ef5374b8ff778f24e72d67cb2af8877731e6cb50e8d08973caed73676360a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e3c3ed0114e64440e7b42a0997ccb1e95d2f87d7a8f2b77212f8bb9c8a61b44.jpg"
+        ],
+        "size": 211812352,
+        "version": null
+    },
     "70010000137288": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/669e469fd75ce89bdefa528decf54f4b9f1aa54fc5109d9f4f11023cddf99bd2.jpg",
         "category": [
@@ -432492,6 +433841,59 @@
             "https://img-eshop.cdn.nintendo.net/i/75e3ed32f21649f5cb206b6c23ab7373d4963099b9b1f1bdd15e23d53528b940.jpg"
         ],
         "size": 131072000,
+        "version": null
+    },
+    "70010000137294": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/debb0c76608b713d1d52995885a064c9bb304cf3f5e80572745c28bd90b3c113.jpg",
+        "category": [
+            "어드벤처",
+            "액션",
+            "퍼즐"
+        ],
+        "description": "어떤 이야기는 잊힌 채로 남겨 두는 편이 낫습니다.\n\n새로운 이야기의 영감을 찾기 위해 버려진 집을 찾은 시나리오 작가가 되어 보세요. 단순히 새로운 이야기를 찾으려던 여정은 곧 올리비아와 그녀의 가족에게 일어난 잊힌 비극으로 이어집니다.\n\n집 안을 탐험하며 과거의 조각들을 발견하고, 이곳에서 무슨 일이 있었는지 조금씩 맞춰 나가세요. 오래된 기억과 기묘한 사건, 그리고 한때 이곳에 살았던 사람들의 흔적이 여러분을 올리비아의 이야기 속으로 더욱 깊이 이끌 것입니다.\n\n폴라로이드 카메라로 순간을 담고, 이제는 더 이상 존재하지 않을지도 모르는 것들의 흔적을 발견하세요. 모든 방에는 이야기의 또 다른 조각이 숨겨져 있으며, 새로운 것을 발견할 때마다 진실에 한 걸음 더 가까워집니다.\n\n한 가족과 그들의 기억, 그리고 모든 것을 바꿔 놓은 사건을 담은 짧고 분위기 있는 호러 이야기를 경험하세요.\n\n특징:\n• 스토리 중심의 심리 호러 어드벤처\n• 기억과 비밀로 가득한 버려진 집 탐험\n• 올리비아와 그녀의 가족에게 일어난 이야기를 발견\n• 폴라로이드 카메라로 과거의 흔적을 찾아보기\n• 고전 카툰에서 영감을 받은 스타일리시한 3D 세계\n• 처음부터 끝까지 이어지는 짧고 분위기 있는 이야기\n\n어떤 기억은 희미해집니다.\n\n하지만 어떤 기억은 사라지기를 거부합니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/224c0bd7a4163a3959b2964b2296b1a98212d5e43088e3bea3921fbd47cbe70f.jpg",
+        "id": "0100D6C02A2C4000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "th",
+            "pl"
+        ],
+        "name": "Olivia",
+        "nsuId": 70010000137294,
+        "numberOfPlayers": 1,
+        "publisher": "Struggle Games Studio",
+        "rating": 15,
+        "ratingContent": [
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/81be005813b9abeb106961a6ec0c49257ee11217d5ac222ba09cc5fe8f1148f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4265ca3dba35a06b9dd49eda57a603ee02548ddaccbf7ca9088ac95d86fa5c05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d504a8238756f0398f5f509734f410edeee1a6eaca7e5dbca1343b2127872fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27a9008de7e3dd41f19ac3b98c94ab215fb0fd2baee6fe38dc91ef87ef8bfd4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bf6b44c2200f2e0bdaeb66d0e5d0a7a6388d9c0c1b9a908cdb83183f97614d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/693cbca0e46657d3b407989b33315075ea9cfbf190c9492913bb65ed1c6c3eb3.jpg"
+        ],
+        "size": 663748608,
         "version": null
     },
     "70010000137321": {
@@ -432904,6 +434306,54 @@
         "size": 157286400,
         "version": null
     },
+    "70010000137528": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ba37aa6f97515a0d5ad748c8759805ec01bb805a3cb738ebd66b97b7005b6b1.jpg",
+        "category": [
+            "어드벤처",
+            "퍼즐"
+        ],
+        "description": "부모님은 바닷가에서 휴가를 즐기고 있습니다. 하지만 당신에게 남은 것은 정원 일, 울타리 칠하기, 그리고 모든 행동을 지켜보는 조부모님뿐입니다. 이제 탈출 계획을 세울 시간입니다.\n\n기지 넘치는 소년이 되어 1인칭 시점으로 조부모님의 집과 주변 마을을 탐험하세요. 주변을 꼼꼼히 살피고, 소리 없이 움직이며, 계획을 들키지 않아야 합니다. 평범해 보이는 방에도 유용한 물건이나 퍼즐, 돌아서야 할 위험이 숨어 있을 수 있습니다.\n\n숨겨진 물건을 찾고, 소지품을 관리하며, 탈출에 도움이 되는 도구를 제작하세요. 발견한 물건의 용도를 알아내고 장애물을 해결하며 당신을 붙잡으려는 사람들보다 한발 앞서 나가세요.\n\n평화로워 보이는 마을도 몰래 빠져나가려 하면 다른 모습을 드러냅니다. 의심 많은 주민, 불길한 소리, 예상하지 못한 위험이 당신의 침착함을 시험합니다. 주변을 탐험하고 비밀을 밝히며 다음 행동을 신중하게 선택하세요.\n\n주요 특징\n\n• 집과 마을을 탐험하는 1인칭 플레이\n• 감시를 피하는 잠입과 숨기\n• 퍼즐 해결과 숨겨진 물건 찾기\n• 소지품 관리와 도구 제작\n• 개성 있는 인물과 숨겨진 비밀\n• 공포 요소가 어우러진 긴장감 있는 분위기\n\n어른들을 따돌리고 들키지 않은 채 탈출할 수 있을까요?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d8026d2276565f23fc8dea4b64c81593dec8438c99a90376461b2c0782cb386b.jpg",
+        "id": "0100D3F02A3D2000",
+        "intro": "조부모님의 감시를 피해 퍼즐을 풀고, 시골 휴가를 대담한 탈출로 바꾸세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Schoolboy Escape 2: Granny House",
+        "nsuId": 70010000137528,
+        "numberOfPlayers": 1,
+        "publisher": "PRIME",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/86744df0002ec417bcdd137706526eac008de5f0f2c23108996fbdf5a1011393.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d17ad446b520e903d9c53783aa491ec035cb302c4500baa5b5b3950a8e62028c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27c99a2d30f59c707ec9dd8737fedb76e5836be899e837d984421e2911fcdd1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14c45cc85f1edb802f952e0bb2b3fa3029e1d8431659b8785c02ca58806f831c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4a4579160624d13f038243127054e6cd18908380e3d1e45caacead3e518582f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af1f7e1a2dcb2705e573b86b8249331cd85a114cdbb7decd44c224004649b291.jpg"
+        ],
+        "size": 160432128,
+        "version": null
+    },
     "70010000137541": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53e0a6f63d472aa3557d4fff0447ce34e6e8df9bfc00964f86da7aac45b8836a.jpg",
         "category": [
@@ -433173,6 +434623,52 @@
             "https://img-eshop.cdn.nintendo.net/i/e5f34ebaeb976137689af42c494d2196b737b064f16ac7bf6e34ce86f3881eb1.jpg"
         ],
         "size": 1841299456,
+        "version": null
+    },
+    "70010000137821": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0243f5082c427081e83f8b67320befd01b02adb4a7c42123a9a1af1183de485f.jpg",
+        "category": [
+            "액션",
+            "어드벤처"
+        ],
+        "description": "Wild Blue Skies는 90년대 클래식 온레일 어드벤처를 현대적으로 재해석한 작품입니다. 최고 점수에 도전하며 자란 플레이어는 물론, 진정한 아케이드 경험을 원하는 새로운 세대까지 모두를 위해 만들어졌습니다.\n\n바다와 사막의 능선, 위험한 동굴 상공을 누비며 끊임없이 몰려오는 적들을 물리치고 그림클로의 군세를 몰아내세요. 분대원들과 함께 평화를 되찾기 위한 전투에 나서며, 클래식 아케이드 비행 전투의 짜릿한 손맛을 만끽하세요!\n\n쉽게 익힐 수 있는 조작으로 초보자와 장르 팬 모두 부담 없이 즐길 수 있으며, 애니메이션풍의 아름다운 비주얼이 정성스럽게 완성된 세계로 여러분을 안내합니다. 분기되는 비행 루트와 손에 땀을 쥐게 하는 임무, 숙련도를 보상하는 점수 시스템까지, 모든 비행이 다시 도전할 가치가 있는 모험이 됩니다.\n\n지켜낼 가치가 있는 분대\n보위, 손, 척, 로로 이루어진 블루 보머스를 만나 보세요. 네 명의 파일럿, 하나의 굳건한 분대. 각 파일럿은 출격할 때마다 자신만의 개성과 매력을 보여줍니다. 캠페인 곳곳에서 펼쳐지는 라이벌 분대와의 대결과 캐릭터들의 유쾌한 대화를 통해 이들을 알아가는 과정 자체가 또 하나의 즐거움이 됩니다.\n\n나만의 방식으로 비행하라\n같은 플레이는 단 한 번도 없습니다. 분기되는 임무 루트는 매번 새로운 비행 경험을 선사하며, 숨겨진 길과 비밀 요소는 게임을 완벽하게 공략하려는 플레이어에게 보상을 제공합니다.\n\n하늘을 지배하라\n쉽게 시작할 수 있습니다. 숙달할수록 더욱 큰 성취감을 느낄 수 있습니다. 모든 메달을 획득하고, 모든 숨겨진 길을 찾아내며, 단순히 임무를 완료하는 것과 완벽하게 제압하는 것의 차이를 직접 경험해 보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fed96b4c861e13778d19ec8151b446d808fd72bdafcd9b0abf6ec3ac8f396993.jpg",
+        "id": "01005AB028A12000",
+        "intro": "초보자부터 장르 팬까지 모두를 위한 현대적인 온레일 아케이드 슈터. 블루 보머스와 함께 하늘을 누비고, 싸우고, 완벽하게 제압하세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "zh-Hans"
+        ],
+        "name": "Wild Blue Skies",
+        "nsuId": 70010000137821,
+        "numberOfPlayers": 1,
+        "publisher": "Balor Games",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성",
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/117c973a7fb09b0d8a10897786b21848c455c5bc568f36bd0f1d70e434813eb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee2c921a51aeebd101233dabe7bc6bc8c1301c0aba07d7f6158d057e95250b9b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3063dc33d748e5f8f3e7e8804d4c97f926ba7dd277e2e2d88a361e8f658a9960.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c3b27ce302dffc29bc7756f9599907f5ea30b63b7ccb1a2061d15de3ed246c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32335084f14e3f529b71c74c73aec32af58eef2aebe77d4fd0fa8a1ef06404d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a4c79460dff326b70cdeb1b5330c2a5c775a4d818cb6e22b02587ce9e235453.jpg"
+        ],
+        "size": 2255486976,
         "version": null
     },
     "70010000137834": {
@@ -433583,6 +435079,44 @@
         "size": 228589568,
         "version": null
     },
+    "70010000138087": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bdb1b1a51283957859b5b0dd929c919af59a33377f46bc8f5878d8de4dc6cbf5.jpg",
+        "category": [
+            "학습",
+            "퍼즐"
+        ],
+        "description": "평범해 보이는 역사 속 풍경에서, 어딘가 어긋난 한 곳을 찾아낼 수 있을까요?\n\n공룡이 살던 태고의 세계부터 원시 시대의 풍경, 옛 도시와 고대 문명의 건설 현장까지. 한눈에 자연스러워 보이는 역사 장면 속에 그 시대에는 존재할 수 없는 무언가가 숨어 있습니다.\n\n화면을 자세히 살펴보며 시대에 맞지 않는 대상을 찾아내는 관찰 퍼즐입니다.\n\n플레이 방법은 간단합니다!\n・역사를 테마로 한 일러스트를 관찰하기\n・그 시대에 존재할 수 없는 대상을 찾기\n・수상한 위치를 클릭해 정답 맞히기\n\n풍경 속에는 조금만 살펴보면 발견할 수 있는 것부터, 역사 지식이 없으면 지나치기 쉬운 것까지 다양한 위화감이 숨어 있습니다.\n\n역사 지식이 풍부한 사람은 지식을 활용하고, 잘 모르는 사람은 관찰력과 순간적인 판단으로 도전해 보세요. 어려운 조작 없이 한 문제씩 짧게 즐길 수 있어 잠깐의 두뇌 훈련에도 잘 어울립니다.\n\n이런 분께 추천합니다!\n・틀린 그림 찾기와 관찰 퍼즐을 좋아하는 분\n・역사와 옛날 생활에 관심이 있는 분\n・지식과 직관을 함께 시험해 보고 싶은 분\n・짧게 즐길 수 있는 두뇌 게임을 찾는 분\n\n역사 속에 섞여 들어온 ‘있을 수 없는 것’을 모두 찾아낼 수 있을까요?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/838373360212efe6dac1b06402542e0b10c7a35ac1e9288badf7da608798519c.jpg",
+        "id": "0100BE202A55A000",
+        "intro": "역사 속 어긋난 흔적을 찾아라!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh-Hant"
+        ],
+        "name": "이 시대 뭔가 이상하다 ~역사 속 위화감을 찾아라~",
+        "nsuId": 70010000138087,
+        "numberOfPlayers": 1,
+        "publisher": "TT",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b1617f828d2233a9b79259dfdce3ef73ab69acb048b4227dcb7bb40b1b8ec91c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/222fb6a1d975ae5bb45d3b5daf1f85f1903d7c1a6b97cf8bff8eaf500eaacd4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dbf8146ec69eba15605cbef0a82823e272e4902d97d729687be8b13ae8d5f90c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/365798b3ec21a5939f4ad4f8912c3dddef4aa20480afaa18161791d17dd4da49.jpg"
+        ],
+        "size": 318767104,
+        "version": null
+    },
     "70010000138112": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/07ae210ea5b95b2b3cf4e5190f7a63caf683b65583f9733dfb909bb8c6b17aec.jpg",
         "category": [
@@ -433808,6 +435342,46 @@
         "size": 621805568,
         "version": null
     },
+    "70010000138296": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7fba7218023e7729c5428f23a126d95e85792d0c68553ccb1ce7eee4e65c5e0e.jpg",
+        "category": [
+            "아케이드",
+            "액션",
+            "레이싱",
+            "스포츠"
+        ],
+        "description": "빠르게 펼쳐지는 아케이드 액션에서 부딪치고 충돌하며 승리를 차지하세요!\n\n혼돈의 아레나에서 라이벌 차량들과 맞서 마지막 한 대가 될 때까지 살아남으세요. 상대 차량을 들이받아 피해를 입히고 계속 싸우세요. 차량은 피해를 받을수록 찌그러지고 연기가 나기 시작하며, 결국 불이 붙습니다. 너무 많은 피해를 받으면 폭발과 함께 게임 오버!\n\n각 트랙에는 전투를 유리하게 만들어 줄 파워업이 무작위로 배치되어 있습니다. 스피드 부스트를 획득하면 짧은 순간 빠르게 가속할 수 있고, 하트를 획득하면 피해를 회복해 전투를 계속할 수 있습니다.\n\n오래 살아남을수록 더 많은 코인을 획득할 수 있습니다. 획득한 코인으로 새로운 차량과 트랙을 잠금 해제하고 다시 전투에 뛰어들어 마지막까지 살아남는 차량이 되세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1a3e723a4727fdafb1bee0b8e01a324262b2f80af88e6204bf08a3e13efb49cf.jpg",
+        "id": "0100B6602A5E8000",
+        "intro": "충돌 파괴 생존 승리",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Derby.io",
+        "nsuId": 70010000138296,
+        "numberOfPlayers": 1,
+        "publisher": "Entity3",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e1a021e0bfb5dbc3d51c5d6a7d3bf75a74ebae382ee9c914d28a43defc5af05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8250727f52a16b936da322a3c79934e1d13b8f2aa79261fb974ae672d30fe0c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3752fe9a7f41d89aa855fefd2dae9b59cf3b8a5f17107e70da5d283cbbe99c01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efe662abbc4fc280816b6dc455980a1301c21345c582f7112efef3f52efa76f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/716ec81d2a84e45de8c7942d2587ee52efdd431f5f7313fa260c292df65a6235.jpg"
+        ],
+        "size": 493879296,
+        "version": null
+    },
     "70010000138318": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/948128173863f1e9e1a34021fe55132ed19cbef0e5d50f42985260e9b267889b.jpg",
         "category": [
@@ -433852,6 +435426,55 @@
             "https://img-eshop.cdn.nintendo.net/i/f41ca346748ea41890c8099676b3e496be7e3689a265facb7426565aaea6f7c3.jpg"
         ],
         "size": 722468864,
+        "version": null
+    },
+    "70010000138332": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/60669494fb75894133d689f81222973f8a1fb0f269ca61c3bea30d6199848cb5.jpg",
+        "category": [
+            "액션",
+            "RPG"
+        ],
+        "description": "『캐스케이드』는 주문을 고르는 대신 직접 만드는 싱글 플레이 픽셀 액션 로그라이트입니다.\n\n7×7 주문 격자에 원소·이동 블록을 그리세요. 열기, 냉기, 전하, 힘, 물, 기름, 벽, 나무, 밀기, 회전, 끌기, 발사, 분열, 도관, 궤도, 오라, 워드까지 20종의 블록이 있습니다. 그 자리에서 바로 시험하고, 라이브러리 슬롯 30개에 저장한 뒤, 직접 만든 수동 주문 4개를 빠른 아레나 런에 들고 나가세요. 물 위로 번개를 흘리고, 기름에 불을 붙이고, 중력으로 끌어모아 터뜨리는 연쇄 반응이 전투를 결정합니다.\n\n매 런마다 수동 주문 위에 해금형 자동 주문 25종, 런 중 업그레이드 53종, 유물, 코어 기원 10종이 겹쳐져 같은 빌드가 두 번 나오지 않습니다. 스테이지 10개와 보스 10마리의 캠페인을 클리어하면 균열이 열립니다. 심도 1에서 99까지 깊어지며 영구 공명 보상을 남기는 엔드게임입니다. 런 사이에는 메타 업그레이드 30종과 도전과제 48개로 성장하세요.\n\n데일리 시드는 매일 모두에게 같은 시드·스테이지·심도를 주어 점수를 비교할 수 있게 하고, 엔드리스는 붕괴 타이머를 없애고 보스를 잡을 때마다 더 강한 사이클로 이어져 로컬 상위 10위 기록판에 남깁니다.\n\n컨트롤러 완전 지원, 13개 언어, 휴대 모드에서도 읽기 쉬운 UI.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e953f80d2a4db7d2cb5b13f2b53714331e7eaed071fe4c07745abd4c9e2ec8c.jpg",
+        "id": "010044B02A600000",
+        "intro": "7×7 격자에 직접 그린 주문으로 싸우는 스펠 편집 로그라이트! 물 위의 번개, 기름 위의 불, 중력 폭발까지 — 당신이 그린 패턴이 전투를 결정합니다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "캐스케이드",
+        "nsuId": 70010000138332,
+        "numberOfPlayers": 1,
+        "publisher": "14차원",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261126,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/15f1ef10c239bca15371ef28067e7484f50f4911c9e87d1e36d5d5ae91582ffb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8dcb80e24c71a118487af652bfb6e9048ec13b0fe9f8eb73b015bef5cc46f110.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fa4dfeff8bbe8b7978a1dc8ce9da97c89d311c14e4c0bc1d005282c03d167fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0852d3b65e1910c53e074c404a6872dddbf6a72b66b6876af50312c05229df1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6f4fe6eb996afc24f1c8bfab5a50b4c758ef722c989a97b61c4691f3ea05aa1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13a0e46ffd554f9496a6e4deea472e6549d93f48d520f6ff2dc6bd512ac0ad28.jpg"
+        ],
+        "size": 659554304,
         "version": null
     },
     "70010000138361": {
@@ -434399,6 +436022,54 @@
         "size": 8921284608,
         "version": null
     },
+    "70010000138724": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0bf08608d2ecc71691dd4e88acb42738e4cf0952a808db0b161420e66184a0d5.jpg",
+        "category": [
+            "어드벤처",
+            "시뮬레이션",
+            "기타"
+        ],
+        "description": "《Love Love Mystery Club》은 태국의 고등학교를 배경으로 한 몰입형 호러 연애 시뮬레이션 게임입니다. 어느 날 갑자기 영(Spirits)을 볼 수 있게 된 주인공은 학교의 오컬트부에 입부하게 됩니다.\n\n당신이 마지막에 지키고 싶은 사람은 과연 누구인가요—?\n\n【히어로인 소개】\n\nFern: 오컬트를 너무나 좋아하는 밝고 활기찬 소녀. 당신의 특별한 재능을 가장 먼저 알아채 준 존재.\n\nKrachet: 그림 그리기를 좋아하는 내성적인 소녀. 저주받은 노트를 주은 후 인생이 일변하여, 복수심에 타으르는 영에 빙의당하고 만다.\n\nMain: 학교 최고의 댄서. 도도해 보이는 모습 뒤에는 깊은 속마음이 숨겨져 있다. 밤늦게까지 댄스 연습을 하던 중, 그녀에게서 떨어지지 않는 악령에 빙의당하게 된다.\n\nWoon: 위험한 오컬트 실험을 위해 당신의 도움을 요청하는 오타쿠 기질의 반 친구.\n\nLily: 오토바이를 타고 다니는 다혈질의 트러블 메이커. 방과 후 학교를 탐색하는 데에는 분명 숨겨진 이유가 있을 것이다.\n\nPloy: 당신 외에는 그 누구의 눈에도 띄지 않는 듯한 mysterious한 소녀.\n\n【게임 특징】\n\n전편 풀 실사(FMV)로 그려지는 압도적 몰입감\n실력파 배우진의 리얼한 연기와 임감 넘치는 사운드가, 교내에 감도는 괴이의 공포와 드라마를 영화처럼 드라마틱하게 선사합니다.\n\n개성적이고 잊을 수 없는 6명의 히어로인\n밝고 든든한 부원에서부터 괴담의 키퍼슨이 되는 미스터리한 소녀까지, 다양한 히어로인들과 함께 학교의 미스터리에 맞서게 됩니다.\n\n선택에 따라 달라지는 멀티 엔딩\n당신의 결단에 따라 분기하는 멀티 스토리 채택. 도달하는 것은 진실된 사랑인가, 숨겨진 참극의 진상인가, 아니면 두 번 다시 빠져나올 수 없는 학교의 저주인가—?\n\n태국 학교를 배경으로 한 아름답고도 매혹적인 세계관\n방과 후 교실을 비추는 노을빛, 괴기 현상이 꿈틀거리는 조용한 교사. 노스탤직한 태국의 학원에서 가슴 뛰는 연애와 손에 땀을 쥐게 하는 호러 스릴러가 교차합니다.\n\n학교 7대 괴담 뒤에 숨겨진 달콤하고도 무서운 진실을 파헤칠 준비가 되셨나요?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac201e7a5855029d6c4331747cb3b4e7067076d35cc15fdf2243ec3228707e0d.jpg",
+        "id": "010050902A732000",
+        "intro": "태국 학교를 배경으로 펼쳐지는 실사(FMV) 호러와 설렘. 당신의 선택이 끌어당기는 것은 달콤한 사랑일까… 아니면 도사리고 있는 악몽일까?",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt",
+            "zh-Hans",
+            "zh-Hant",
+            "th"
+        ],
+        "name": "Love Love Mystery Club",
+        "nsuId": 70010000138724,
+        "numberOfPlayers": 1,
+        "publisher": "COSEN",
+        "rating": 0,
+        "ratingContent": [
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b4e0acb75cedead1ad81e156780178c4c4b6e10ba02e94e7de126a992676dcec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b366865bf77e8e44fb2781dff5803c696bdec270069da605bd673167ec430193.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/907eb8b3f66237d837316962b495983e7603d46ba47be31aa0b33d03e79f374e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4e53c381b813aa4ae0e84f8bdb8ccda8d207868342fb9cd2273b56a9491368c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33abcf40237279645f11acb32f51756f61cdeaa6d5941caeb892a1555f3ebe1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4e197648365a100c7c3df718b9cc066a7a61f15ea57632a1d338fb61f064411.jpg"
+        ],
+        "size": 13065256960,
+        "version": null
+    },
     "70010000138781": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82cdf3be2b2538ee382ae4c9d9a38710f315573169e45391b44dcc3ce03ec4b4.jpg",
         "category": [
@@ -434435,6 +436106,59 @@
             "https://img-eshop.cdn.nintendo.net/i/627746d3db880f3c7089cfb4181bf819b7853c2cd035fead3c3886d02dcdd8b7.jpg"
         ],
         "size": 178257920,
+        "version": null
+    },
+    "70010000138843": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4c0e2b4e4f38ea2a0546b421879b74cae532e02b35e72381e2b19fb2c0e273e4.jpg",
+        "category": [
+            "시뮬레이션",
+            "아케이드",
+            "액션",
+            "어드벤처"
+        ],
+        "description": "이 긴장감 넘치는 1인칭 3D 서바이벌 호러 게임에서 야간 근무를 견뎌내세요! 복고풍 패밀리 피자점의 야간 경비원으로서, 살인 로봇을 따돌리고 오전 7시까지 살아남을 수 있을까요?\n\n보안실에 갇혀 있는 당신은 어둠 속에서 홀로 남겨져 있습니다. 라이브 카메라 영상 사이를 전환하며 식당과 파티홀을 돌아다니는 로봇들을 추적하세요. 로봇들이 너무 가까워지면 복도 문의 불을 확인하고 무거운 방폭문을 내려 그들의 공격을 막으세요.\n\n하지만 전력 게이지를 조심하세요! 매번 카메라를 확인할 때마다, 조명을 켤 때마다, 문을 닫을 때마다 제한된 배터리가 빠르게 소모됩니다. 전력이 다 떨어지면 불이 꺼지고 당신은 어둠 속에서 완전히 무방비 상태가 됩니다. 5개의 공포스러운 밤을 견딜 수 있는 담력이 있으신가요?\n\n주요 특징:\n• 1인칭 3D 서바이벌 호러: 공포스러운 로봇, 분위기 있는 음향 효과, 심장을 철렁하게 하는 놀라움으로 가득 찬 긴장감 넘치고 답답한 사무실 게임플레이를 경험하세요.\n• 라이브 카메라 감시: 피자점 전역의 여러 보안 카메라를 모니터링하여 다가오는 로봇을 추적하고 사무실에 도달하기 전에 그들의 움직임을 지연시키세요.\n• 엄격한 전력 및 배터리 관리: 전력 사용을 전략적으로 조절하세요. 전기가 떨어지면 완전한 어둠 속에서 무방비 상태가 됩니다.\n• 전술적 방폭문 및 스포트라이트: 다가오는 발소리에 귀를 기울이고, 복도 사각지대를 밝혀 위협을 확인하고, 보안 게이트를 제때 닫으세요.\n• 5개의 점진적으로 심화되는 밤: 자정부터 오전 7시까지 매 밤마다 더 빠르고 공격적인 로봇들과 맞서며 담력과 반사신경의 최고의 테스트를 받으세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/44b604a55e6bcb14d741e7612a60b377ec5eabaf88b965c032681c4446b00a7e.jpg",
+        "id": "010002102A77E000",
+        "intro": "시계를 확인하세요. 카메라를 점검하세요. 오전 7시까지 생존하세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Five Nights at Pizzeria 2",
+        "nsuId": 70010000138843,
+        "numberOfPlayers": 1,
+        "publisher": "Upscale Studio",
+        "rating": 0,
+        "ratingContent": [
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4d34f3d7bf18a7de07e0df301c0b95086580468e99a08e4ab697085df17f037f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf9951a30130f9c069acea937a7de76c670bb8767459bb95c1e66d91da8d9baa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1e766c8af689b4215f921ebe8b91a610dd50e222548f5ac56a3178419579496.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d26c3aad445a46bdf92c38bff0a6de0420d13f9f5c5ffa51a50ac1c53d2252a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ae3ed6576484e91f8a60e0f07e54c58a8aa23c2d4557d184a202f8f506fbb90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/948654a7b8f4fc4d181e2a7f20284181cc7d368fcefc920cf2e891c3c96225f8.jpg"
+        ],
+        "size": 180355072,
         "version": null
     },
     "70010000138945": {
@@ -434703,6 +436427,93 @@
         "size": 1668284416,
         "version": null
     },
+    "70010000139236": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12ff067666c699759756e0bd7fa004c036049d4465b1feb9ba877fd4ddecb6ca.jpg",
+        "category": [
+            "슈팅",
+            "액션"
+        ],
+        "description": "전장이 당신을 기다립니다. 공격 방식을 선택하고 목표를 조준해 적군이 하늘을 두려워하게 만드세요.\n\n중무장 헬리콥터를 조종하며 폭발적인 전투 임무에 도전하세요. 탑다운 시점으로 전장의 상황을 파악하고, 압도적인 화력으로 빠르게 공격하거나 위치와 타이밍을 활용해 목표를 하나씩 정밀하게 제거하세요. 모든 공격은 조종 실력과 전술적 판단력을 시험합니다.\n\n전차, 장갑차, 적 기지와 대공 방어 시설을 파괴하세요. 연료 저장고와 구조물을 공격하고, 보스와 싸우며, 전략 기지를 점령하고 귀중한 화물을 확보하세요. 개방된 전장을 탐색하고 각 임무의 목표에 맞춰 비행 경로를 선택하세요.\n\n다음 작전에 대비해 헬리콥터를 강화하세요. 새로운 기체를 해금하고 부품을 업그레이드하며 기관총, 로켓과 유도 미사일을 장착할 수 있습니다. 임무에 맞게 무장을 구성하고 수동 조준과 자동 표적 지정 중에서 원하는 방식을 선택하세요.\n\n주요 특징\n\n• 탑다운 시점의 헬리콥터 전투\n• 다양한 임무와 개방된 전장\n• 파괴 가능한 목표, 폭발과 물리 효과\n• 헬리콥터 해금과 부품 업그레이드\n• 자유로운 무장 구성\n• 수동 조준과 자동 표적 지정\n• 오프라인 전투 임무\n\n정밀한 공격과 압도적인 화력 중 무엇을 선택하시겠습니까? 조종간을 잡고 다음 공격을 시작하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52c59574d257b096aa610ceaf2fcd46112e047e5593355e27c9b8b46deee648d.jpg",
+        "id": "0100F0302A740000",
+        "intro": "전투 헬리콥터를 지휘하세요. 공격을 계획하고 하늘에서 압도적인 화력을 펼치세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Apache Heli Strike: Desert Gunship Air Warfare",
+        "nsuId": 70010000139236,
+        "numberOfPlayers": 1,
+        "publisher": "PRIME",
+        "rating": 12,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36346912b6da12a4ec1344f85d1fcee6a7316bae59c14c284ded98733467d771.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38eaab873a3a35f2a988bce30c94600d16ef02d2abd71d15e8e9341bd6d8eb61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f70a086939ab3c2a3a58838a86f8bb0cacc1a992b9705946128e31076cbb282d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1279f5c5fb6c38c08d4d720e7346e2f9e5ca2f61d304cf931392eb266b430c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b103414daeadff17e335c8c414eb96898c80089479b57d9bab7e4ed9b55231b.jpg"
+        ],
+        "size": 133169152,
+        "version": null
+    },
+    "70010000139283": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/672eac3429a306fd8fda0d11b94c85e9c237cd9c7c2cec5df350ca662eb01744.jpg",
+        "category": [
+            "액션",
+            "학습",
+            "기타"
+        ],
+        "description": "'이상한 기린'의 기상천외한 게임이 드디어 등장했습니다!\n\n이상한 기린을 점프시켜서, 그토록 좋아하는 과일까지 무사히 데려다주세요. 어라? 너무 쉬워 보이나요? 과연 그럴까요? 이 이상한 기린은 가끔씩 엄청나게 혼란스러워하는 생물이거든요.\n특히는 '대혼란' 스테이지. 이것은 상급 게이머에서도 클리어가 힘들다고 하는, 그 정도로 힘든 기린을 다루는 것은 어려운 일입니다.\n또한 때때로 독특한 일본어 영어 속삭임이 들리는 것 같습니다.\n\n그런데, 이 기린은 정말로 이상한 걸까요?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fafe13763a98792b6439f35d9a26cbe897348b45a0ce5c12313579d7377cd9e9.jpg",
+        "id": "010050202A89A000",
+        "intro": "쉬운 혼란 액션 게임\n다양한 무대와 난이도\n일본어와 영어의 재미있는 표현",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "이상한 기린의 이상한 점프 (The Strange Giraffe's Strange Jump)",
+        "nsuId": 70010000139283,
+        "numberOfPlayers": 1,
+        "publisher": "tarakyoZGamesDevelopmentLab",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a9a82d4e25d07d6c4dfefa9d09d55b02f7d427c56145ee44a4df8832b5edb868.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c349cb04cd671d2df7527260de6f2d51ed4824907d94bb27dcbeca1c55fdd507.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7bb6a5a5241afa3aa66a195124eb93736a263e013b6bc281e8d96b38cc64a4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4328ec35fbec915356e7ac961f4c1e6265f6684c139ef1b1ef564aeb40d3ecdc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be76e75e01bb63829c1f9fdac5fc3b831b4cf4f4675a58e3738f8187b4a38292.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/889f0e7c596e5b047fd33f2205829f03539b2cdaebb5150db8332cec0534c3aa.jpg"
+        ],
+        "size": 387973120,
+        "version": null
+    },
     "70010000139297": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/945b21af8fee58781aff9b8e10e4d863f258616104929f3ee3353cc4285222be.jpg",
         "category": [
@@ -434788,6 +436599,53 @@
         "size": 2250244096,
         "version": null
     },
+    "70010000139346": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/38dcdf04d707549b6858b83c777be8188b2ecc64fb558b4339421859af14a3af.jpg",
+        "category": [
+            "아케이드",
+            "퍼즐"
+        ],
+        "description": "조용한 지진이 사랑받던 캡슐 토이 아케이드를 엉망으로 만들어 버렸습니다. 기계들은 모두 꺼졌고, 수천 개의 캡슐이 바닥에 흩어져 있습니다. 새로운 관리인이 된 당신의 임무는 이곳을 다시 활기차게 되살리는 것입니다.\n\n캡슐을 집어 열고, 안에 어떤 피규어가 들어 있는지 확인하세요. 모든 피규어는 각 시리즈 진열장의 지정된 번호 칸에 들어가야 합니다. 하나의 진열장을 완성하면 해당 줄의 기계들이 네온 불빛과 함께 다시 켜집니다. 한 층 전체를 밝히면 다음 층으로 올라가는 계단이 열립니다.\n\n아무것도 낭비되지 않습니다. 중복 피규어와 빈 캡슐 껍질은 토큰으로 바꿀 수 있습니다. 중복 피규어 3개를 아직 없는 피규어 1개로 교환하거나, 토큰을 사용해 캡슐 레이더와 자동 배치 같은 유용한 도구를 구매하세요.\n\n• 18개 시리즈에 걸친 216개의 매력적인 피규어와 각 시리즈마다 숨겨진 희귀 황금 피규어\n• 축제의 밤부터 별빛이 가득한 우주 정거장까지, 6개의 테마 층과 숨겨진 옥상 정원\n• 편안한 음악과 함께 즐기는 느긋하고 만족스러운 정리 플레이\n• 일반, 젠, 스피드의 3가지 플레이 스타일과 3개의 저장 슬롯",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff1bbe514bc5648e16ffd1f699d66cb45ce6e9bbca304dc46d36bdd25b1108ae.jpg",
+        "id": "0100EB202A8F4000",
+        "intro": "캡슐을 열고 피규어를 정리하세요.\n아케이드의 불빛을 다시 밝혀 보세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Capsule Arcade",
+        "nsuId": 70010000139346,
+        "numberOfPlayers": 1,
+        "publisher": "RandomSpin Games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8eac7e93c03aa4d3ff0ab5a8b7e6c50d77a690542216a7e9ee121d2aa0fa4b71.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb2ad5fa23239bd58fb02de8922b3dab2c86d072d354d1c1b03860a20dcc6ef0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7e447a3b2864bbc6862e03313bd80a8028fcc29e47f5f1573eebeba1fceca4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6cda2c5d77cd24de40e99ad0e721f1a7860375f92dcff786c1e9d8d69b25db4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ba0b14390f1473bc72a06193aa47ae97b79d33db2aa2fb167b53f8e0429d363.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91fba703a11a9bc40d69c2b1f05ae88aa9294e7431c7a5094571cfc222e928c7.jpg"
+        ],
+        "size": 240123904,
+        "version": null
+    },
     "70010000139416": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5223725c1d2048c973fef4e72546de7464f37f78e59c5a1f25d31aed0e57694c.jpg",
         "category": [
@@ -434865,6 +436723,73 @@
             "https://img-eshop.cdn.nintendo.net/i/29e3ff45fb93717ba2cc92a22acedcc14bdfc711cd859d2d1cb7291e47799d01.jpg"
         ],
         "size": 630194176,
+        "version": null
+    },
+    "70010000139554": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/edd6858225458790bf0d09170d751bbcd584711f08273ff38a9cd3366a057250.jpg",
+        "category": [
+            "퍼즐"
+        ],
+        "description": "스도쿠를 기반으로 한 고전적인 숫자 배치 퍼즐 게임에서 논리력을 시험해 보세요. 각 행, 열, 구역이 이 장르의 익숙한 규칙을 따르도록 신중하게 숫자를 배치하여 격자를 완성해 나갑니다.\n\n편안하게 즐길 수 있는 퍼즐부터 고도의 집중력이 필요한 도전적인 퍼즐까지, 기분에 맞는 난이도를 선택할 수 있습니다. 논리적 추론을 통해 퍼즐을 풀고, 확신이 서지 않을 때는 메모 기능을 활용하며, 가능한 경우의 수를 하나씩 제거해 격자를 완성해 보세요.\n\n유용한 도구들이 있어 퍼즐 풀이에만 집중할 수 있습니다. 메모 기능을 활용하고, 막힐 때는 힌트를 사용하며, 명확한 시각적 피드백으로 실수를 쉽게 파악할 수 있습니다. 동적으로 생성되는 퍼즐 덕분에 언제나 새로운 퍼즐을 즐길 수 있습니다.\n\n서두르지 말고 여유를 가지며 앞을 내다보는 전략으로 게임을 즐겨보세요. 초보자부터 숙련된 숫자 퍼즐 팬까지 모두가 만족할 수 있도록 깔끔하고 몰입감 있게 설계되었습니다.\n\n주요 특징:\n\n스도쿠 방식의 고전적인 숫자 배치 게임플레이.\n캐주얼 플레이어와 숙련자 모두를 위한 다양한 난이도.\n계속해서 새로운 퍼즐을 즐길 수 있는 동적 퍼즐 생성 시스템.\n가능한 숫자를 기록하고 추적할 수 있는 메모 기능.\n어려운 상황에서 도움을 주는 힌트 시스템.\n명확한 오류 표시와 가독성 높은 화면 구성.\n서두를 필요 없이 편안하게 즐기는 게임플레이.\n배우기는 쉽지만 마스터하기는 도전적인 간단한 규칙.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2e6521dc900cc54c290d82f61a905aa51ad8ea08d38729c9c54b9ed56ca5135a.jpg",
+        "id": "0100F9702A96E000",
+        "intro": "스도쿠를 기반으로 한 고전적인 숫자 배치 퍼즐로 두뇌를 시험해 보세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Number Logic",
+        "nsuId": 70010000139554,
+        "numberOfPlayers": 1,
+        "publisher": "Eathrabaria",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f7935faf6acb59f25bcfbe86aa57297b0b5778f5410e7f3d445d3125a5d80ce5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5ed025af0d1bf0dea819eadafff1955ff2ef6eb7b72218640f9ed1259626e9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed34f39a531d62debe2f2a24085e54f8ba35fe77de2da51dc918adeb92288c33.jpg"
+        ],
+        "size": 71303168,
+        "version": null
+    },
+    "70010000139613": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4dfdd83255a2852427dac9d9ec7818ada2fd21242079ac59852e350d059b8145.jpg",
+        "category": [
+            "레이싱"
+        ],
+        "description": "모든 움직임이 중요한 다양한 도전적인 주행 상황 속에서 정밀 주차의 기술을 마스터하세요. 좁은 공간과 통로, 장애물이 가득한 주차 구역을 조심스럽게 통과하여 완벽한 주차 위치에 차를 세워보세요.\n\n각 레벨은 차량 제어 능력과 공간 감각을 시험하는 새로운 과제를 제시합니다. 각도와 위치를 세심하게 조절하고 장애물을 피해 지정된 주차 공간으로 차량을 이동시키세요. 조작법은 간단해 누구나 쉽게 시작할 수 있지만, 모든 과제를 완벽하게 성공하려면 인내심과 숙련된 기술이 필요합니다.\n\n난이도가 높아질수록 주차 공간은 좁아지고 주행 경로는 더욱 까다로워집니다. 서두르지 말고 신중하게 움직임을 계획하여, 가장 어려운 주차 상황도 능숙하게 해결할 수 있음을 증명해 보세요.\n\n주요 특징:\n\n주차 실력을 시험하는 도전적인 주행 게임플레이.\n좁은 공간과 장애물이 있는 구역을 통과하는 주행.\n정확한 주차 위치에 차량을 세심하게 배치.\n정밀함과 제어 능력을 시험하는 점진적 난이도의 레벨.\n간단하고 직관적인 주행 조작 방식.\n신중한 조향, 후진 및 위치 선정 연습.\n속도보다는 정확성에 집중한 여유로운 게임플레이.\n모든 주차 과제를 완료하고 주차의 달인이 되어보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a64809f4f126596cb27c6fce5bcb402b9570406589d08926ce01530b08524d6b.jpg",
+        "id": "0100C3F02A982000",
+        "intro": "까다로운 주행 과제들을 통해 주차의 달인이 되어보세요! 좁은 공간을 통과하고 장애물을 피하며, 차를 완벽한 주차 위치로 정교하게 이동시켜야 합니다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Parking Quest",
+        "nsuId": 70010000139613,
+        "numberOfPlayers": 1,
+        "publisher": "Eathrabaria",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2c29319d558f5bc28206799433f394786fe458363dd72d134c1235f81bba20fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4354ddd050a81b429d8610bd197dd4ad20fb05eb49a2b37fc03192958b3198af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbed2dd342e9817e6bd664f8ea1d9da0183f7f0deb5d11353d621112fe765445.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/574f711cdffc98a8ebd02e57b3b1301574032f6170da0cb99d769f9522361411.jpg"
+        ],
+        "size": 78643200,
         "version": null
     },
     "70010000139630": {
@@ -435003,6 +436928,80 @@
         "size": 1312817152,
         "version": null
     },
+    "70010000139864": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d812ba0bf531595d6547c1c2c690d4da0295a0d27e89dc7d78fcaa7c4cc2d2e6.jpg",
+        "category": [
+            "퍼즐",
+            "보드"
+        ],
+        "description": "기존 직소 퍼즐에 회전과 뒤집기 요소를 더해 더욱 독특한 퍼즐 플레이를 즐길 수 있습니다.\n귀여운 소녀들과 사랑스러운 동물 등 다양한 일러스트를 수록♪ 완성된 그림을 감상하며 천천히 퍼즐을 즐겨 보세요!\n총 15개의 스테이지 수록!\n스테이지를 진행할수록 새로운 규칙과 더 많은 퍼즐 조각이 등장해 난이도가 상승합니다.\n•\t1~5 스테이지: 회전 퍼즐\n•\t6~10 스테이지: 양면 퍼즐\n•\t11~15 스테이지: 양면 + 회전 퍼즐\n•\t최대 81조각 × 2면의 고난도 스테이지 수록!\n양면 스테이지에서는 앞면을 먼저 완성해도, 뒷면을 먼저 완성해도 OK! 어떤 방식으로 공략할지는 여러분의 선택입니다♪\n마지막 스테이지는 배경 힌트조차 없는 최고 난도의 도전! 퍼즐 조각을 세심하게 관찰하며 완성을 향해 나아가세요!\n퍼즐을 완료하면 앞면과 뒷면이 모두 수록된 갤러리가 해금됩니다! 모든 스테이지를 클리어하고 갤러리 완성을 목표로 해보세요!\n추가 스테이지 콘텐츠도 향후 배포될 예정입니다.\n=====================\n당사는 콘텐츠 크리에이터와 스트리머를 지원합니다. 게임 플레이 영상 업로드 및 라이브 방송에 대한 사전 허가는 필요하지 않습니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d47c07b39a37440c387b4e829fb0f4ea6fb85ae590c51338b19d43d0bf717fe6.jpg",
+        "id": "010019402A9F2000",
+        "intro": "앞면과 뒷면을 모두 완성하자♪ 다양한 일러스트가 수록된 신감각 양면 반전 퍼즐!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "FlipFlip Jigsaw DOUBLE-SIDE PUZZLE",
+        "nsuId": 70010000139864,
+        "numberOfPlayers": 1,
+        "publisher": "AGE",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e62df1822895d4ae0fd0c55c4646682e1a7a79f511ff1b987be4f0c0ef123341.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c8f5e46e735aadafdb6453263708e76f4ca495c7c01ebebfebd87d2c0f1e083.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/957bdc93d300ed88df853c1297da6a4be1262ca3918da24210f8dd7cf5ce3be8.jpg"
+        ],
+        "size": 391118848,
+        "version": null
+    },
+    "70010000139876": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25cf1d02519a0a2bc51dcdf1a372aa502f0a4523ae78b9f50860d6e413ba7601.jpg",
+        "category": [
+            "보드",
+            "전략"
+        ],
+        "description": "별들보다 훨씬 높은 곳에서, 천사와 악마가 반짝이는 보드 주위를 맴돌며 구름을 이용해 인류 역사상 가장 오래된 논쟁을 벌이고 있습니다.\n\n차례대로 보드 가장자리를 따라 날아다니며, 행이나 열을 하나 골라 양쪽 끝에서 구름을 던져 넣으세요. 구름이 첫 번째 칸에 떨어지면 그 경로에 있는 모든 것이 한 칸씩 미끄러져 이동합니다. 공간이 다 떨어지면 반대편 끝에 있던 구름은 가장자리 밖으로 밀려나가, 빛의 폭포처럼 터져 버립니다.\n\n자신의 구름으로 가로, 세로, 또는 대각선을 따라 한 줄을 완성하면 승리합니다.\n\n문제는 아무것도 제자리에 머물지 않는다는 점입니다. 상대가 던지는 매번의 구름은 정성스럽게 배치한 줄을 흩어뜨리거나, 자신의 구름 중 하나를 계획하지 않았던 줄로 밀어 넣을 수 있습니다. 망해 보이는 판세도 단 한 번의 밀기로 뒤바뀔 수 있습니다. 안전한 칸은 없으며, 상대가 아직 닿지 않은 칸만이 안전할 뿐입니다.\n\n두 가지 하우스 룰이 게임의 흐름을 유지합니다: 누구도 같은 수를 세 번 연속으로 둘 수 없으며, 상대의 수에 대응해 같은 줄을 그대로 밀어 되돌릴 수 없습니다. 교착 상태도, 끝없는 줄다리기도 없습니다. 오직 위치 선정, 압박, 그리고 과감하게 결단할 용기만이 있을 뿐입니다.\n\n나만의 방식으로 즐기세요\n\n매치 시작 전, 원하는 대로 보드를 설정하세요:\n\n- 그리드 크기 — 빠른 칼싸움을 원한다면 3×3, 본격적인 전략전을 원한다면 4×4나 5×5, 장기적인 소모전을 원한다면 6×6\n- 보드 초기 채움량 — 0%의 빈 보드에서 시작하거나, 30%, 60%, 90% 채워진 상태에서 바로 혼란 속으로 뛰어들 수 있습니다\n- 진영 선택 — 천사의 흰 구름 진영이나 악마의 뇌우 구름 진영을 선택하세요. 상대방은 나머지 진영을 맡게 됩니다\n- 플레이어 설정 — 각 진영은 플레이어나 콘솔이 담당할 수 있으므로, 1대1 대결을 펼치거나, 컴퓨터와 대결하거나, 편안히 앉아 두 AI가 싸우는 모습을 지켜볼 수 있습니다\n- 4단계의 상대 난이도\n\n초보자, 루키, 숙련자, 전문가. 가장 온순한 상대조차 몇 수 앞을 내다보고 함정을 설치하며, 난이도가 높아질수록 실수를 전혀 하지 않습니다. 전문가 난이도의 상대는 6수 앞까지 내다보며, 허술한 구름 하나도 용서하지 않습니다.\n\n특징\n\n- 1인 또는 2인 플레이, 같은 콘솔에서 나란히 플레이\n- 4가지 보드 크기와 4가지 시작 배치 — 총 16가지의 경기 설정 방식\n- 진정으로 사고하는 상대가 등장하는 4단계 난이도\n- 모든 보드 크기에서 대각선 이동이 유효\n- 각 보드 크기별로 콘솔과의 대전 기록이 저장됨\n- 즉시 재대결 — 승리하면 보드가 지워지고 바로 다시 시작할 수 있음",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a7c9b31d63f497d6e91411f412d0eaf2813da372891c6cd498fbfbb1e0ba788.jpg",
+        "id": "010091502A9F8000",
+        "intro": "밀어. 밀어붙여. 줄을 세워.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Devil & Angel Sky Battle",
+        "nsuId": 70010000139876,
+        "numberOfPlayers": 2,
+        "publisher": "Pix Arts",
+        "rating": 0,
+        "ratingContent": [
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae57c1a49d94f28a644ceab76c533c6b4fb9a6a573ccedcde685410611e9291e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b61d1293c04beb4b96466f37c93923829ab4ce9954f72dd911f6e81f1fa335ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b1575db761f393c5e779ca1cde4ee303f1be9d088ca74c590735a58573fb42b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aead28875b90cd9c86eaba3c1b94cc7ccc8a486d15e511b64a47e53209cd9b48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb1db9e2194af247e74a934c3c290a84ce9df53b106ba45a5bab06ace96bf2f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c5e2690ebce1908a02b23b22b4f7d273bcc8036ca18598e4b4925b6a50fa99a.jpg"
+        ],
+        "size": 449839104,
+        "version": null
+    },
     "70010000140006": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/70dfc7558ed09acb40442680be6b5bb94f4140569a6cc264fda48ecc479c3694.jpg",
         "category": [
@@ -435044,6 +437043,206 @@
             "https://img-eshop.cdn.nintendo.net/i/336eeeeb18a5b0978e1238e1d15b8a654131ad8bc916ec2cbb8e9301be6c3d86.jpg"
         ],
         "size": 2153775104,
+        "version": null
+    },
+    "70010000140029": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dd6fa0f61a026a67fb03207d8e7d38cd817b5fdaec55368d48b2371b07057609.jpg",
+        "category": [
+            "아케이드",
+            "액션",
+            "슈팅",
+            "어드벤처"
+        ],
+        "description": "채굴 사업이 성장할수록 플링코 머신을 업그레이드해 광석 가공 효율을 높이고, 보상을 최대한으로 늘릴 수 있는 새로운 방법을 해금하세요. 전리품 상자를 열어 유용한 보너스를 발견하고, 더욱 강력해질수록 무기고를 확장해 나가세요.\n\n더 깊은 우주로 나아가면 더욱 단단한 소행성과 더 큰 보상이 기다리고 있습니다. 다양한 업그레이드를 실험하고 강력한 조합을 찾아내며, 채굴 작업이 점점 더 빠르고 효율적으로 발전하는 모습을 지켜보세요.\n\n바위를 부수고, 자원을 가공하고, 장비를 업그레이드하며, 자신의 한계를 계속해서 뛰어넘어 보세요. 작지만 끊임없이 성장하는 이 우주 채굴 모험에서 끝없이 발전해 나가세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b034f3b53b0f982e90718aa91bccc29e66fe990f120fa273390572c00a75fab.jpg",
+        "id": "010044102AA1A000",
+        "intro": "Space Rock Breaker는 짧고 간단하게 즐기는 방치형 성장 게임입니다. 강력한 무기로 소행성을 채굴하고, 플링코 머신으로 광석을 가공해 보상으로 능력을 강화하세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "th",
+            "pl"
+        ],
+        "name": "Space Rock Breaker",
+        "nsuId": 70010000140029,
+        "numberOfPlayers": 1,
+        "publisher": "Games Harbor",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/77f0c16bae85682d47b37666f4f2a3e2240fb85a2dcb3461c5a32ebdf35ef29a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25af33e28e7bfd0ee2d38e882dbdfe444863fd9f7bff6483e851f59f4a564d14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ba414cb39325780552c47975cf82401dc42a897892198e830866ca0d2f265a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f8f39ef8ab03c5453c65ccbebc2e261e3ffcf11f2d14af56132f6a9ec3eedf93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a971ad94dfdb9acac4d1a700e07f36832f519337ecbffb3f5a6f264738214337.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd25835fbe0c5f1d4cc3a891ecc7b9fd992b8e3a5c0b0eef78dc1c8cefaa872c.jpg"
+        ],
+        "size": 181403648,
+        "version": null
+    },
+    "70010000140061": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/11f2df442c71861ce0ffef734c82089fb812f8ca7484df395cc451be8f1265aa.jpg",
+        "category": [
+            "시뮬레이션",
+            "커뮤니케이션",
+            "어드벤처",
+            "RPG"
+        ],
+        "description": "파스텔빛 구름 사이를 유유히 날며 길 잃은 영혼들을 돕고, 산꼭대기 높은 곳에 자리한 나만의 집을 직접 꾸며 보세요. 따뜻한 모닥불 곁에서 낯선 이와 친구가 되거나, 친구와 함께 하늘에서 한가로이 낚시를 하며 추억을 나누세요.\n\nSpirit Crossing에서 다른 플레이어들은 그림자로 나타납니다. 하이파이브를 나누거나 활동을 함께하면 그림자에 색이 피어오르며, 실루엣 뒤에 있던 사람의 모습이 드러납니다. 그렇게 새로운 친구가 생길 수도 있습니다.\n\n새로운 사람을 만나거나 대화할 기분이 아니신가요? 부담 갖지 않으셔도 됩니다. 원하시는 기간만큼 다른 사람과의 만남을 끌 수 있습니다.\n\n이 게임은 아주 작은 친절, 그리고 스쳐 가는 짧은 인연만으로도 외로움이 조금은 덜어지는 순간들을 담고 있습니다.\n\n패션에 진심인 분들을 위해 완성된 수백 가지 디자인으로 나만의 독특한 스타일을 뽐내세요. 헤어스타일, 염색, 믹스 앤 매치 의상으로 룩을 완성하고, 수십 가지 이모트로 표정까지 더해 보세요.\n\n아늑한 오두막부터 본격적인 성까지, 친구들을 맞이할 최고의 공간을 설계해 보세요. 그런 다음 가구와 화분, 러그, 램프, 자그마한 소품들로 가득 채워, 쓸쓸하게 비어 있는 선반 하나 남지 않도록 해보세요.\n\nSpirit Crossing은 5년 넘게 개발해 온 작품입니다. 이 프로젝트의 중심에는, 게임이 사람들을 이어 주고 친절을 북돋우며 이 혼란스러운 세상 속 외로움을 덜어 주어야 한다는 저희의 믿음이 자리하고 있습니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/487f09db64cdef29a031e87597847b16630e0bc1033a1cedee899b1d377acb8d.jpg",
+        "id": "0100387029AD4000",
+        "intro": "낯설고도 새로운 당신만의 집에 오신 것을 환영합니다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "크로스랜드: 정령과 함께",
+        "nsuId": 70010000140061,
+        "numberOfPlayers": 1,
+        "publisher": "Spry Fox",
+        "rating": 15,
+        "ratingContent": [
+            "약물",
+            "사용자 상호작용",
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20261117,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9697815ea3e47bbd0040fabd9d38e90d1d9477628ced229b74bb70a450e9ec0d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f94a545236553685e3d2699826df897ea29b42b09a6aec6fd90d18ee0ff14c6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a28ac539cbd7e4a8e77dcd62ac9e4fdcc98bd123969da47694a9191d5b201fc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/680f74064d9b03ae875e899e9a02dcdae266538f5ef848b656251622ad3d8b3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac9b57807db4967136da515dd8178148958dfceaa76432344be7e9d932cfa5d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/609edbdbd754168baeffd940ab3df2c07a2db5ab948b9bfd4945f97a8112a3d9.jpg"
+        ],
+        "size": 1395654656,
+        "version": null
+    },
+    "70010000140947": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a53d8b3f845b2fa3e984f7fa499af78ecb9679f80728086102086b3dc7ed08d.jpg",
+        "category": [
+            "아케이드",
+            "퍼즐",
+            "파티",
+            "기타"
+        ],
+        "description": "모든 걸 안다고요? 증명해 보세요.\n\nWhite Box Quiz가 TV 퀴즈 쇼의 짜릿함을 집 안 소파까지 그대로 가져옵니다!\n\n18개 카테고리에 걸친 수천 개의 문제로 지식을 시험해 보세요. 친구들과 대결하거나 팀을 이뤄 함께 플레이하세요. 기상천외한 보너스와 행운의 룰렛이 등장하면 정답을 알고 있어도 승리를 장담할 수 없습니다.\n\n지식은 도움이 됩니다. 하지만 무슨 일이든 일어날 수 있습니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/89664cccad57207880228e3116c1f3fbff4548308300f8bbeeab978c74cfaba0.jpg",
+        "id": "01007B600707A000",
+        "intro": "지식은 도움이 됩니다. 하지만 무슨 일이든 일어날 수 있습니다.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "White Box Quiz",
+        "nsuId": 70010000140947,
+        "numberOfPlayers": 4,
+        "publisher": "Joindots",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0b672345e093cc6d2e4bd229c9f645f38b3066fc700a268993cde1697c625ec1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d402e10922f9e67d5e7ba3e3c08812661dcb5795b1e4cda10bcd863fce821e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ec4240115277617c4b4c33fa7f6c84937d531561d410ed9e82ccbd4bc326308.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d7f2624cab3e2f1e10548651091e3b028529914fa09cf3cad4a7c66546ecd15.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7dcc688a72dd0b7db49dfb9819971ec630a6aa7e19ec3be1f9006063a01a2b7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a1ea41b7f390f35d6f46811be8585a41dbc6396fa84c9f9c7e916d54eb2335d.jpg"
+        ],
+        "size": 1832910848,
+        "version": null
+    },
+    "70010000141228": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0e7d731eda1d9ba4952540a6c431bac32062996c67234a03159fd0ed9b363fd.jpg",
+        "category": [
+            "어드벤처",
+            "퍼즐",
+            "시뮬레이션",
+            "기타"
+        ],
+        "description": "첫 희생자를 정해 두었다. 그런데 그녀가 펜을 빌려 달라고 했다.\n\n마르코스는 오랫동안 첫 살인을 준비해 왔다. 동네 카페에서 만난 일러스트레이터 이레네에게 평범한 핑계를 대며 다가간다. 그녀의 습관과 주변 사람들을 파악하고 적절한 순간을 기다릴 생각이었다. 하지만 이레네와의 만남은 번번이 그의 계획을 벗어난다.\n\n초상화와 저녁 식사, 깊어지는 대화 속에서 마르코스의 감정은 계획을 흔들기 시작한다. 동네에서 한 여성이 실종되고, 베르트란 경감은 질문을 던지며, 이레네의 가까운 사람들은 그를 의심한다. 누구에게도 보여 주고 싶지 않은 비밀이 담긴 검은 수첩. 그가 꿈꿔 온 삶과 지금 원하는 삶이 충돌할 때, 그는 무엇을 선택할까?\n\n나의 첫 희생자와 사랑에 빠졌다는 심리 스릴러와 성인 로맨스를 결합한 비주얼 노벨이다. 마르코스의 시선으로 이야기를 따라가며 중요한 순간마다 선택하고, 과거의 자신을 뒤로하기 위해 어디까지 나아갈 수 있는지 확인하라.\n\n특징\n• 12개 챕터로 완성된 이야기를 따라가세요\n• 중요한 순간에 선택하고 그 결과를 마주하세요\n• 이야기와 연결된 슬라이딩 퍼즐 12개를 해결하세요\n• 서사와 연결된 업적 24개를 해금하세요\n• 이레네, 루시아, 니코, 토마스, 베르트란 경감을 만나세요\n• 작업실과 동네, 밤의 전망대 등 다양한 장소를 둘러보세요\n• 마르코스의 검은 수첩에 숨겨진 비밀을 알아내세요\n• 미스터리와 의심 속에서 피어나는 성인 로맨스를 경험하세요\n\n사랑이 계획을 바꾼다면, 그 계획을 쓴 사람에게는 무엇이 남을까?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0e08d385e55109d0c998c4454281c752a528412fa26cc205774f5f477f841912.jpg",
+        "id": "010004B02AD00000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "나의 첫 희생자와 사랑에 빠졌다 (In Love with My First Victim)",
+        "nsuId": 70010000141228,
+        "numberOfPlayers": 1,
+        "publisher": "Lunaria Games",
+        "rating": 15,
+        "ratingContent": [
+            "범죄",
+            "약물"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8d9626b4f88ca9329396edb91f33251b46a084b4bed0a7c744c12f2864c9d137.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb12c5e37df16432f62415fa75e119a32baed90bd65b0d7b363d273cf10b45eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d83acc3ea6326321f807d5d59ac6621a647d2104edc65bf5cccd948e221f8da8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05d1ee44f3eaf21b5a5439c3452fa02c07085b31e05993e39f0689ed330329d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b74cb11f9f27e381b01620193b2b12d964bde602b60a0ee256c55b91e4702376.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08c69a39f6b6ee51fdd831d5124d252cf9872f2fbbc696875db19543dbef5e6d.jpg"
+        ],
+        "size": 1083179008,
         "version": null
     },
     "70030000006005": {
@@ -448560,6 +450759,34 @@
         "size": 527433728,
         "version": null
     },
+    "70030000022873": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "SULFUR 데모",
+        "nsuId": 70030000022873,
+        "numberOfPlayers": null,
+        "parentId": "01007A101AD02000",
+        "publisher": null,
+        "rating": 15,
+        "ratingContent": [
+            "약물"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 694157312,
+        "version": null
+    },
     "70030000022889": {
         "bannerUrl": null,
         "category": null,
@@ -451598,6 +453825,32 @@
         "size": 201326592,
         "version": null
     },
+    "70030000024598": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "탈출 게임 R00M 11 체험판",
+        "nsuId": 70030000024598,
+        "numberOfPlayers": null,
+        "parentId": "010011B0272BE000",
+        "publisher": null,
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 317718528,
+        "version": null
+    },
     "70030000024608": {
         "bannerUrl": null,
         "category": null,
@@ -453257,6 +455510,35 @@
         "size": 1409286144,
         "version": null
     },
+    "70030000025790": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Tom the Postgirl - Demo",
+        "nsuId": 70030000025790,
+        "numberOfPlayers": null,
+        "parentId": "0100C3D028784000",
+        "publisher": null,
+        "rating": 15,
+        "ratingContent": [
+            "선정성",
+            "약물"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 390070272,
+        "version": null
+    },
     "70030000025795": {
         "bannerUrl": null,
         "category": null,
@@ -453335,6 +455617,32 @@
         "rightsId": null,
         "screenshots": null,
         "size": 619708416,
+        "version": null
+    },
+    "70030000026084": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Capsule Arcade Demo",
+        "nsuId": 70030000026084,
+        "numberOfPlayers": null,
+        "parentId": "0100EB202A8F4000",
+        "publisher": null,
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 173015040,
         "version": null
     },
     "70050000004051": {
@@ -713873,6 +716181,41 @@
         "size": 3145728,
         "version": null
     },
+    "70050000078279": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7dd27f9780a7605e717020f96d3a970325db0d861f51abdac8b0c4898900ce7.jpg",
+        "category": null,
+        "description": "핑크색 무베리 소와 레트로 스타일 의상을 만나보세요!\n\n2027년 1월 출시 예정",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100839022643007",
+        "ids": [
+            "0100839022643007"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "무베리 소 패키지",
+        "nsuId": 70050000078279,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": [
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20270121,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d3d26f3b605e9d2b975900051838061cd1af2386b0da35a7877ff0bc0f51e892.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73e6837d7f71f39193d88cc2310994822cc1fd89a147a028a6405a9f42c26893.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/255f9b3a0b9397ee5b08330a04a50d7cd37f18333e929346f63671bd5ac881f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75650707d1069c1e74be910a3c2f203ca17f592a35284ac5e6fa1b179109c77e.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
     "70050000078296": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e0d73c5a3eab53a59e764f5c55782406f31409a8837f1851500a2f4105dbfb1.jpg",
         "category": null,
@@ -718928,6 +721271,39 @@
         "size": 3145728,
         "version": null
     },
+    "70050000081652": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55acfac9b750c5e921361077a6d9569fb19a542c704d1754c20fa49a3d7355dc.jpg",
+        "category": null,
+        "description": "레이의 해변 팩으로 Hokko Spaces에 햇살을 더하세요. 여러분의 동네에 여유로운 해변의 분위기를 더해줄 밝고 활기찬 신규 마을 주민, 레이를 맞이하세요.\n\n편안한 휴양지를 만들든, 최근 만든 공간에 해변의 즐거움을 더하든, 레이의 해변 팩에는 집에서도 휴가 분위기를 만끽하는 데 필요한 모든 것이 담겨 있습니다.  새로운 튜브를 타고 하루 종일 여유롭게 물 위를 떠다니거나, 인명 구조원의 의자에서 주변을 살피거나, 붐박스로 음악을 크게 틀고 파티를 시작하세요.\n\n레이의 해변 팩 구성:\n\n새로운 마을 주민: 레이\n고무 오리 튜브\n유니콘 튜브\n거북이 튜브\n인명 구조원의 의자\n붐박스\n캠퍼밴",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01002C4029877001",
+        "ids": [
+            "01002C4029877001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Hokko Spaces - Lei's Beachside Pack",
+        "nsuId": 70050000081652,
+        "numberOfPlayers": null,
+        "publisher": "Team17",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3792d2c4cac08f0ff601107f4a6e9d51417057e32654ebcf9949b0f8a65fa22f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a521a9c6357b948ccaedc751c94fd0f479106deb0b9c52956147672f7bd6dfdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61016c6564c29de6a4d2d3f9f07acd631ffafb46b8886eb36abbc196bd81f9cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c75896317a402619598a0ad2d080f65ae32838bfabc8da735cd1ed3b38e826d.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
     "70050000081654": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0501d409425ce53774407064a9a399cd364c5ae4b820d2e6b07285484d57e629.jpg",
         "category": null,
@@ -719563,6 +721939,43 @@
         "size": 3145728,
         "version": null
     },
+    "70050000082015": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/96f5a8773b80020b3525b6b36e0078cd716b9de1c8e76deeea074a32fc83370f.jpg",
+        "category": null,
+        "description": "메이플힐 마을이 다시 활기를 되찾았지만, 메루스의 눈부신 천재성이 예상치 못한 문제를 일으키고 있는 것 같습니다! 메이플힐 주민들에게 무엇을 해야 메루스의 전기가 원활하게 작동할 수 있는지 알아보세요!\n\n• 수확의 여신 도구 업그레이드!\n• 새로운 냉장고 디자인 4종!\n• 새로운 치즈와 토마토 품종!\n• 새로운 레시피 6종!\n• 추가 요청 및 새로운 스토리 콘텐츠!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100839022643003",
+        "ids": [
+            "0100839022643003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "메루스의 딜레마",
+        "nsuId": 70050000082015,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": [
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a356363ddf4d346c24af42281b04a8bd48f54f3c31b7e6a6b0deff0372e24468.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/64a6ae0d04435ecf115db0a1fcb1481db3d1265971d16148155ee2b55ed53fe4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cbc156643cdb0a02a2bab959125a363b205314f0971697db55998ebbb9444699.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/887d236272813bdbd33a05fe17485e301a93a77923b711246545bc15c0b434b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2632167f13286d8b7f174d7ceac40a9b2b16777cf15b566058eb5b72528ba81d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e7644f312905624fdab5aed17ffbcd7e6005047f4febca1aed49b94d037f664.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
     "70050000082230": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4c10ded8fc61c3609189aa8216fee1dddea7f22ce6bce2ed6d9a8b65ec56e6ac.jpg",
         "category": null,
@@ -719837,6 +722250,209 @@
         "size": 3145728,
         "version": null
     },
+    "70050000082650": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ecd6e3deca0d6e16f1693462d94aa2ee3c9f639ed6691153867a5ee73409e4b.jpg",
+        "category": null,
+        "description": "고르간의 남동생 조그가 채석봉 광산으로 돌아왔지만, 기분이 영 좋지 않아요! 고르간이 나약해져 인간들에게 굴복했다고 생각하는 조그. 인간들이 생각만큼 나쁘지 않다는 사실을 조그에게 납득시킬 수 있을까요?\n\n• 새로운 결혼 후보: 고르간의 남동생 조그!\n• 채석봉 광산에 최고 난이도의 추가 층이 개방됩니다!\n• 광산 할인 패스를 받으세요!\n• 추가 의뢰 및 스토리 콘텐츠!\n\n2026년 12월 출시 예정",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100839022643004",
+        "ids": [
+            "0100839022643004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "고르간의 가족 분쟁",
+        "nsuId": 70050000082650,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": [
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20261210,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000082651": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f24c97200280f8abac6f6ec506d40ac1535fe1450a34556568fa56b5b2b41444.jpg",
+        "category": null,
+        "description": "네라가 외딴섬에 떠밀려 온 에미라는 신비로운 소녀를 발견했어요! 자신이 동경하는 배우의 뒤를 따르고 싶은 에미는 미지의 세계를 탐험하기 위해 길을 떠났어요! 에미가 테라디아의 생활에 적응할 수 있도록 도와줄 수 있을까요?\n\n• 새로운 결혼 후보 등장! 배우 에미!\n• 새로운 외딴섬, 보물섬을 방문하세요!\n• 프리야의 낚시터 및 제작 공방 할인 패스를 받으세요!\n• 추가 의뢰 및 스토리 콘텐츠!\n\n2026년 12월 출시 예정",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "네라의 구출 작전",
+        "nsuId": 70050000082651,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": [
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20261210,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082652": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8e40e26b5dbceb19aa49741e6ab8daf2e5da9429fdf1abf4a8bb48725662f52f.jpg",
+        "category": null,
+        "description": "노란색 무나나 소와 레트로 스타일 의상을 만나보세요!\n\n2027년 1월 출시 예정",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "무나나 소 패키지",
+        "nsuId": 70050000082652,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": [
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20270121,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/461005a99bddabf85cc0f9c1268b3ea77a44b3d872caa5fc9e37d8fb469e23dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b11f061d82b2f09f041570691a37a49fb395ce4140fcd7fc981330e77dd3aa8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80aabf26e1ec182a06fdd35c3b11065b52f1f58a92abd175db3baed8e392425b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11275d27ed17389e28e5ce698cf892536c78c651f5fbc7b3fd7198419a60647b.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70050000082653": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef945ff8cf41fcab6418301975588ba4c6a09e08d51ad0d261fb2ac56eb34dbb.jpg",
+        "category": null,
+        "description": "루포는 예전부터 블룸필드 주변뿐만 아니라 테라디아 전역을 탐험하는 꿈을 꾸어 왔어요! 하지만 루포가 떠나 있는 동안 누가 블룸필드를 돌볼까요? 루포가 꿈을 이룰 수 있도록 도와주고, 그다음에는 루포와 함께 모험을 떠나 보세요!\n\n• 탈것으로 루포가 추가됩니다!\n• 각 지역에 새로운 전설의 동물이 추가됩니다!\n• 추가 스토리 콘텐츠!\n\n2027년 3월 출시 예정",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "루포의 여행 꿈",
+        "nsuId": 70050000082653,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": [
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20270311,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082654": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69b0de2074f9980901e1f84022b8dff3561c04b8c9430e97211376da280a5885.jpg",
+        "category": null,
+        "description": "미식가 개스턴의 끝없는 식욕마저 감탄하게 만들 만큼 요리 실력을 갈고닦을 수 있을까요?\n\n• 새로운 미식 요리 레시피!\n• 추가 의뢰 및 스토리 콘텐츠!\n\n2027년 5월 출시 예정",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "미식가 개스턴",
+        "nsuId": 70050000082654,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": [
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20270506,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082655": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a694472e9b54df760191f3972837436177f74a8c9e59738e73e3cfae408a6b52.jpg",
+        "category": null,
+        "description": "글렌이 집에서 준비하는 특별한 깜짝 선물을 위해 재료를 모으는 일을 도와주고, 나만의 공간을 꾸밀 새로운 방법도 발견해 보세요! 그런 다음 닥 주니어가 최신 업그레이드를 시험하고 농장 생활을 더욱 풍성하게 만들어 줄 흥미진진한 새로운 제작 방법을 선보일 수 있도록 도와주세요!\n\n• 집을 꾸밀 새로운 아이템 제작 레시피!\n• 추가 의뢰!\n\n2027년 7월 출시 예정",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "달콤하고 똑똑한 홈 패키지",
+        "nsuId": 70050000082655,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": [
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20270715,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082656": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7f286a776ba1ca49efc035132dd3f27a9437bca5e487a056894ca9d7a6c16ae.jpg",
+        "category": null,
+        "description": "팬 여러분을 위한 특별한 선물과 함께 Harvest Moon의 30주년을 기념하세요! 향수를 불러일으키는 순간들과 수많은 추억, 그리고 지금까지 함께해 주신 모든 분께 진심 어린 감사의 마음을 전합니다.\n\n2027년 9월 출시 예정",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Harvest Moon 30주년 기념 패키지",
+        "nsuId": 70050000082656,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": [
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20270916,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70050000082924": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c406861de67936245f559e2b6173a8e6ae49897d23490885dfae64721a840362.jpg",
         "category": null,
@@ -719947,6 +722563,39 @@
             "https://img-eshop.cdn.nintendo.net/i/d0bd3ac7f94b0fd73f0e147c771cb0e5dd36c970d0d1e38e3085128a4deee6ae.jpg",
             "https://img-eshop.cdn.nintendo.net/i/cdc9086a78209998f2f70faa415e95d874ce7c154493c23326cc48896edbff70.jpg",
             "https://img-eshop.cdn.nintendo.net/i/935a6df71abe022441a9f74d53b97a5ec910ce80fae1d3a5e03c231e4af978eb.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000083628": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/251f22d49a85d7fa62399613f2e33926f08b764089ea78f4f46341d43ed2f16b.jpg",
+        "category": null,
+        "description": "기존 직소 퍼즐에 회전과 뒤집기 요소를 더해 더욱 독특한 퍼즐 플레이를 즐길 수 있습니다.\n귀여운 소녀들과 사랑스러운 동물 등 다양한 일러스트를 수록♪ 완성된 그림을 감상하며 천천히 퍼즐을 즐겨 보세요!\n총 15개의 스테이지 수록!\n스테이지를 진행할수록 새로운 규칙과 더 많은 퍼즐 조각이 등장해 난이도가 상승합니다.\n•\t1~5 스테이지: 회전 퍼즐\n•\t6~10 스테이지: 양면 퍼즐\n•\t11~15 스테이지: 양면 + 회전 퍼즐\n•\t최대 81조각 × 2면의 고난도 스테이지 수록!\n양면 스테이지에서는 앞면을 먼저 완성해도, 뒷면을 먼저 완성해도 OK! 어떤 방식으로 공략할지는 여러분의 선택입니다♪\n마지막 스테이지는 배경 힌트조차 없는 최고 난도의 도전! 퍼즐 조각을 세심하게 관찰하며 완성을 향해 나아가세요!\n퍼즐을 완료하면 앞면과 뒷면이 모두 수록된 갤러리가 해금됩니다! 모든 스테이지를 클리어하고 갤러리 완성을 목표로 해보세요!\n추가 스테이지 콘텐츠도 향후 배포될 예정입니다.\n=====================\n당사는 콘텐츠 크리에이터와 스트리머를 지원합니다. 게임 플레이 영상 업로드 및 라이브 방송에 대한 사전 허가는 필요하지 않습니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010019402A9F3001",
+        "ids": [
+            "010019402A9F3001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "FlipFlipJigsaw Additional Stage Pack Vol.1",
+        "nsuId": 70050000083628,
+        "numberOfPlayers": null,
+        "publisher": "AGE",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/535a7ea4d763a8737df47c31e175c1d63e91b5d150cff70055d32e2e6b9e7e0f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0833add10243ecb467e7f8fc296a966b6554ea6ce4f84e8854f6018b7fe26192.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e90081d759d661f69f763adddfffca70333b382050c4616ee1fc62aef7b1858.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95531085327f50fd47d695b8d9386fe0e09d355cf18a1f6f11a635f66320d1ab.jpg"
         ],
         "size": 3145728,
         "version": null
@@ -833337,6 +835986,104 @@
         "size": 5430575104,
         "version": null
     },
+    "70070000039005": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/85a8d93cf2f8bee8aebe083cf7a61a524da94c57c196c2881afbed1b0673c318.jpg",
+        "category": null,
+        "description": "고전 게임에서 영감을 얻었지만 최신 감각에 맞춘 게임입니다.\n\n중세 판타지 세계에서 펼쳐지는 고전적인 복수이야기지만... 치명적인 현대식 화기가 곁들여져 긴장감이 최고조에 달합니다. 언데드, 돌연변이, 외계인, 기계 및 야수가 뒤섞인 군단과 싸워서 여러분의 정당한 몫을 되찾고 이 땅에 다시 정의를 세우세요. 꼼꼼하게 뒤지다 보면 학자들에게도 오래 전 잊힌 왕국의 역사를 발견할 수 있을지도 모릅니다.\n\nKnights & Guns는 친구와 함께 악마, 구울, 유령에 맞서 싸우는 위험한 세계로 여러분을 초대합니다. 산탄총과 레이저, 기사도 정신을 발휘하여 모든 장애물을 극복하세요. 총 한 자루로 최고의 기사로 우뚝 서세요.\n\n이 게임에서는:\n• 다양한 스테이지에서 무시무시한 보스와 격돌하세요!\n• 비선형 세계를 정복하세요! 장인 정신으로 제작한 150개 이상의 스테이지를 탐험하거나 나의 페이스에 맞춰 비밀 및 특별한 통로를 찾아보세요!\n• 싱글플레이어와 협동 멀티플레이어 모두 완벽하게 준비한 게임입니다. 언제든지 친구를 초대해 추가된 화력으로 아수라장을 만들 수 있습니다.\n• 60fps 게임플레이! 다양한 모드에 도전하세요! 괴물을 사냥하세요! 살아남으세요! 크고 작은 비좁은 맵에서 플레이하세요!\n• 끝내주는 갑옷 세트는 물론 각종 화기를 만나보세요! 레이저, 산탄총, 유탄 발사기, 저격 소총... 없는 것이 없습니다!\n• 30종 이상의 독특한 총기. (아이스크림보다 더 많은 종류의 죽음을 선사할 수 있죠.)\n• 25종 이상의 적, 5종의 미니 보스와 3종의 보스. 물론 대개의 경우 색상도 다릅니다.\n• 기사를 위한 30벌 이상의 갑옷 세트. 보호는 물론 세련미까지!\n• 함정, 상자, 열쇠, 설화 두루마리, 괴물 관련 서적 등등...\n\n이 번들에는 기본 게임, 확장 팩 #2, Armor Pack #3, Armor Pack #4 가 포함되어 있습니다.\n\n- 평화를 되찾을 수 있는 새로운 레벨 10개\n- 모험에 도움이 될 새로운 갑옷 8종\n- 더욱 짜릿한 재미를 선사할 새로운 적들",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "빛나는 갑옷을 입은 기사여... 총을 들고 싸우세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Knights & Guns Throne Edition",
+        "nsuId": 70070000039005,
+        "numberOfPlayers": null,
+        "publisher": "Baltoro Games",
+        "rating": 12,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/113a6da5b28a167a34b9e5ab4dec7f34c4a7be7582c65a7b75c3d6deaccf72f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80a1a16aa4c2e36a21e479f6c335b680696677e6af052a38bbf30280c9098dad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7f2e9e0921a8402f540461d168cff9a63b53d45b3dc23e5efb4d730d72946e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cb105654b5e227621af8b9bea9faeb4d9ce0acc387a3c2a0ed09aa434739b65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98f16b5812eef48ba006cff1c045e7ffee622af62f67d784393d3e054e41f2aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7a76baae2b4215b7405ec3976c29de577c5700e73a7f73b8cf1cde44f213d2c.jpg"
+        ],
+        "size": 3407872000,
+        "version": null
+    },
+    "70070000039025": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eace59440b42bd5383e2875496dfad6b50d0db369aaebc52ac51dbcd85d9198c.jpg",
+        "category": null,
+        "description": "Buggy Off-Road Racing 게임과 함께 궁극의 오프로드 스릴을 위한 연료를 공급하세요! 미국, 유럽, 아시아의 생생한 풍경을 돌아다니며 아주 신나는 여행에 뛰어드세요. 여러분의 용기와 기술이 조명 받는 원기왕성한 레이스입니다.\n\n12가지 오프로드 트랙으로 뛰어드세요\n3가지 전세계 레이싱 도전을 시작하세요\n4가지 강력한 카트를 잠금 해제하고 업그레이드하세요\n역동적인 레이싱 모드를 경험하세요\n\n미끄러짐, 드리프트, 가속으로 숨이 막히도록 방향을 회전하고 도약하세요. 성공과 승리를 향한 레이싱을 할 준비가 되셨나요?\n\nBuggy Off-Road Racing의 운전석으로 뛰어들어 모든 세상을 레이싱 경기장으로 만드세요.\n\n해당 꾸러미는 기본 게임, 확장팩 #2 (Custom Cruisers #2), 확장팩 #3 (Custom Cruisers #3), 확장팩 #4 (Custom Cruisers #4), 확장팩 #5 (Custom Cruisers #5) 및 다음을 포함합니다.\n\n- 각 버기용 신규 스킨 4종",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Nintendo Switch™에서 펼쳐지는 궁극의 더트 트랙 챌린지!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Buggy Off-Road Racing Max Edition",
+        "nsuId": 70070000039025,
+        "numberOfPlayers": null,
+        "publisher": "Baltoro Minis",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b96618ea84f04f2d377d3a29c37c9ea9d98f42de55e0332261961ff0bd80ed87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f1645cfa972eea4869b60a1dd084c3c8eff768747b06f92c5cd64dce55a2dd9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8b91ef1954ca17e32e7d0ec622af2d730a7b2e214076ee3155cf26ac75b0ac7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fcc349f82ea8c77edfb5dd37b6583e10ab7bbdaa8b2621d7b5e604ae233a677b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65d6487c7b6d69c94c6e88b0b146097503918326d502919d827225c0845fda32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36183f88b3a3220e19ff0760ae314774622750190d9e401d0349eb16d829456c.jpg"
+        ],
+        "size": 356515840,
+        "version": null
+    },
+    "70070000039029": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4390dfb66d69f62206299c1fd221c1f216c8d11142bb92eb51803af4621366c5.jpg",
+        "category": null,
+        "description": "한계를 뛰어넘어 레이스를 지배하세요!\n\nFormula Racing Pro 2026에서 다음 세대를 이끌어갈 준비를 하세요! 빠른 차량, 더 똑똑한 라이벌, 전 세계의 가장 상징적인 트랙에 영감받은 완전히 새로운 서킷과 함께 최고로 아드레날린이 샘솟는 경험을 하세요.\n\n개선된 그래픽, 향상된 물리 엔진, 역동적인 날씨 덕분에 모든 랩에서 한층 실감 나는 플레이를 할 수 있습니다. 레이싱 라인을 완전히 익히고, 변화하는 트랙 상태에 반응하고, 머리를 맞댄 격렬한 경쟁에서 정상을 위해 싸우세요.\n\n숙련된 프로와 이제 막 시작하는 사람 모두에게 Formula Racing Pro 2026는 순수한 레이싱의 재미를 제공합니다. 이해하기 쉽고, 빠르고, 끝이 없는 스릴을 느껴보세요!\n\n차를 정비하고, 포디움을 노리고, 출발점에 선 드라이버 중 당신이 가장 빠르다는 걸 증명하세요. 레이싱의 미래는 지금부터입니다!\n\n해당 꾸러미는 기본 게임, 확장팩 #2, 확장팩 #3 및 다음을 포함합니다.\n\n- 레이싱카에 스타일과 개성을 더해줄 6가지의 멋진 새 데칼을 만나보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "한계를 뛰어넘으세요 – 레이싱의 미래는 지금부터입니다!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Formula Racing Pro 2026 Prime Edition",
+        "nsuId": 70070000039029,
+        "numberOfPlayers": null,
+        "publisher": "Baltoro Minis",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b0c3717e7da084df58768c1f422265b470fae8a1bc0553b39cf163d0ebe38c92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c44558097def0524e2d42b55be9e90e107a877aea7f97829e17d6ae4f4c7f670.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14a7b1a3940be32969f7214baa024f1a98f66aba6b51e58997800ffc21c8cf23.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06f3b5e192587779215b6a5768117829cc42f1385102860c87a5b5afce5313a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/163ccb34232fd93b2f6b542da4f60a99933607d2e10532363e25bc1772a351fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbd34fa90e40ad53e5d3f9a5b016b244291bc46afd5ecf6f4249e8ab330535bc.jpg"
+        ],
+        "size": 1288699904,
+        "version": null
+    },
     "70070000039045": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/16963a51e302fbadd5ca2e10f00f16e174c468f34e52fcb5ec66a1b9f1a64c0d.jpg",
         "category": null,
@@ -840110,6 +842857,38 @@
         "size": 213909504,
         "version": null
     },
+    "70070000041063": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd3647bbeb730051d02d4cf07c9eaac29dfb0af38d871e2ea85a719ac298e9d4.jpg",
+        "category": null,
+        "description": "Hokko Spaces로 창의력을 마음껏 펼쳐 보세요: 선샤인 에디션은 Hokko Spaces의 아늑하고 창의적인 즐거움에 레이의 해변 팩이 선사하는 해변의 재미를 더합니다.\n\n나만의 섬세하고 평화로운 미니어처 디오라마 스타일의 세계를 설계하고 그 과정에서 매력적인 마을 주민들을 만나세요. 평화로운 휴식처, 활기찬 동네, 혹은 온전히 나만의 공간 등 무엇을 구상하든, 선샤인 에디션은 나만의 행복한 공간을 만드는 데 필요한 모든 것을 제공합니다.\n\n선샤인 에디션 구성:\n\nHokko Spaces\n레이의 해변 팩 구성:\n- 새로운 마을 주민: 레이\n- 고무 오리 튜브\n- 유니콘 튜브\n- 거북이 튜브\n- 인명 구조원의 의자\n- 붐박스\n- 캠퍼밴",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Hokko Spaces - Sunshine Edition",
+        "nsuId": 70070000041063,
+        "numberOfPlayers": null,
+        "publisher": "Team17",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/27ac626a5c672238a497b1a74a448f5343dbe748e5b8689cc75e61ba028a5d54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/253d30a8eb5231efa211aff6f3b54c8a09d584b909d1e9579726b96e58205777.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7ee880964d4539457c57fe844c28378bf90bc80936ddace784b5094d22b803f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3792d2c4cac08f0ff601107f4a6e9d51417057e32654ebcf9949b0f8a65fa22f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61016c6564c29de6a4d2d3f9f07acd631ffafb46b8886eb36abbc196bd81f9cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c75896317a402619598a0ad2d080f65ae32838bfabc8da735cd1ed3b38e826d.jpg"
+        ],
+        "size": 1121976320,
+        "version": null
+    },
     "70070000041084": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5ea2b6ef02795ae564e21420ec96fc4f63792a49e72cfe266edf363187a2e52.jpg",
         "category": null,
@@ -840532,6 +843311,38 @@
         "size": 493879296,
         "version": null
     },
+    "70070000041207": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37dbdc45a83eb0a4a6664b099530cee8b9c4751559bb205f299dac5d413f206c.jpg",
+        "category": null,
+        "description": "Nintendo Switch™에서 본격적인 크레인 게임을 즐겨 보자!\n리얼한 물리 효과와 다채로운 스테이지에 도전!\n일반 크레인뿐만 아니라 흡착판, 훅, 체인, 수상 스테이지, 심지어 자석까지 다양한 특수 머신도 등장!\n모든 경품을 모아 진정한 크레인 게임의 달인이 되자!\n\n「Let's Aim! Crane Game」과 「More to Collect Pack」이 함께 포함된 세트가 출시되었습니다!\n모든 크레인 암을 공략하고 모든 경품을 모아 보자!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "대인기 크레인 게임 시리즈가 더욱 파워업되어 돌아왔다!\n노리고, 잡고, 걸어라!\n다양한 크레인 암을 공략해 푸짐한 경품을 획득하자!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Let's Aim! Crane Game + More to Collect Pack Set",
+        "nsuId": 70070000041207,
+        "numberOfPlayers": null,
+        "publisher": "SAT-BOX",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9b2eeeca7c6d6d35bbc9ade16fa9851c02436c7eca8ba9e48c215411b0296aa5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b975431ee131004c94515fcf18e4e126b74da0dc982c6e1df139e9bdb39de3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6bef2e12f06d02c4d60912af63129bb6e1efd4481b058920754f7c84020a680.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/231ad3f33a3920118feddce5eaafb1faeff234d462a026b93e822d0de96eabfa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de80de3f5fe9fd76dad001b89a631653e66af7d3c7562fa755d6c8a0d0862c3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e37d21bfab2cd92381b1c85bbe65251acb66b57081dc5274752dd1680107791d.jpg"
+        ],
+        "size": 318767104,
+        "version": null
+    },
     "70070000041215": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/92a0a8425ef07c662bcce36c5e622f8fde7348dfa482be871f5d1591d24f2c97.jpg",
         "category": null,
@@ -840785,6 +843596,38 @@
         "size": 350224384,
         "version": null
     },
+    "70070000041280": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fd4cea9f0e50ffc901b099a788877c0335cfb12c1d4b1e633072d58d5aba7ecf.jpg",
+        "category": null,
+        "description": "Treflik 가족의 독창적인 모험을 경험하십시오. 어린 시절을 통해 건전한 여행을 준비하십시오. 새로운 Nintendo Switch™ 어린이용 쇼가 여기 있습니다!\n\n가치 있는 삶의 교훈\n\n이 사랑스러운 캐릭터에 대해 알아보고 그들이 귀중한 우정, 존경, 정직 및 관용을 배우는 것을 지켜보십시오.\n\n다채로운 세계\n\nTreflik 가족의 가장 좋아하는 모험을 통해 여행하십시오. 색칠하기 책 섹션을 통해 이 이야기에 스핀을 넣고 독특한 모습을 보여주세요.\n\n이 번들에는 「트레플린카를 위한 치료」, 「새 이웃」, 「집 안의 집」, 「트레플릭은 왕이다」, 「행복한 가족」, 「방문」, 「여자의 밤」 에피소드가 포함되어 있습니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Treflik과 그의 여동생 Treflinka와 함께 상상의 세계로 뛰어드세요. 이 마법의 땅에 굴복하고 그들의 눈을 통해 보세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "로지나트레플리코프 얼티메이트 에디션",
+        "nsuId": 70070000041280,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a2cdf6a7f719bef59b1409a587dd5245336deb82d67a79e221403551d66d3f62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/356ba5f16df698d687684bea5b6255ba531ae882fc2c99b8eeada618f6ea8121.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/274b04de8a459d88860f0c89d6d638e3f015690f98ddc6289417bc0a579dded2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4aa98a97d0fdbe48b69ea4b55e9108681f606f5117eec1e068c369a3a349ef5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f47f4bd49a7e0d762440046a7bf0ca5fce19be233bb40535ae733f5bc3182e9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efa92b9ab52ada8b533dda0e7f8b8737f317838d04144c9ec43cccd651c49871.jpg"
+        ],
+        "size": 3587178496,
+        "version": null
+    },
     "70070000041282": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ad5ca056d95ce3d0e58c7fa98321eb50b933ccb0bbae29b3520906e77e412248.jpg",
         "category": null,
@@ -840849,6 +843692,40 @@
             "https://img-eshop.cdn.nintendo.net/i/4b43a1033683fa0a9b1067f7bf5a40c5474b7ebf81e1e611610c05e5619e8872.jpg"
         ],
         "size": 1860173824,
+        "version": null
+    },
+    "70070000041292": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/458d552419ee661f90daf60b85cae59f508b1e7304b7c5161402f650695581ed.jpg",
+        "category": null,
+        "description": "속도와 정밀한 조작, 긴장감 넘치는 액션이 펼쳐지는 세 가지 세계를 경험하세요. 치열한 공중전에 뛰어들고, 고성능 차량으로 까다로운 레이싱 서킷에서 한계에 도전하며, 첨단 배송 드론을 조종해 활기 넘치는 도시를 누비세요. 각 경험은 반사 신경과 판단력, 조종 실력을 시험하며, 새로운 목표를 추구하고 점점 더 어려워지는 임무를 완수하도록 이끕니다.\n\n번들 구성:\n1. Ace Thunder: Aircraft Wingman Simulator\n강력한 전투기를 조종해 치열한 공중전에서 외계인의 침공으로부터 지구를 지키세요. 적 항공 편대와 교전하고 고난도 기동을 펼치며 날아오는 공격을 피하세요. 다양한 환경에서 진행되는 까다로운 임무에서 우위를 점할 수 있도록 항공기의 속도와 장갑, 화력을 업그레이드하세요.\n\n2. Auto Sport Racing Simulator\n고성능 차량을 운전하고 독특한 코스 구성과 다양한 도전 과제가 기다리는 여러 트랙에서 경쟁하세요. 차량을 커스터마이즈하고 엔진, 서스펜션, 브레이크, 부스트 시스템을 업그레이드하세요. 새로운 차량과 트랙을 잠금 해제하고 다양한 레이스에 참가하며 챔피언을 목표로 나아가세요.\n\n3. DRONE DELIVERY - FPV SIMULATOR\n첨단 배송 드론을 조종해 활기 넘치는 도시를 비행하며 음식, 소포, 문서, 전자제품, 긴급 의료 물품을 목적지까지 전달하세요. 현실적인 FPV 조작을 익히고 차량이 오가는 도로와 좁은 통로를 통과하며 변화하는 날씨에 대응하세요. 드론을 업그레이드해 속도와 내구성, 배터리 수명을 향상시키고 배송 사업을 확장하세요.\n\n적 항공기와 맞서 싸우거나 레이싱 트랙에서 승리를 노리거나 하늘에서 복잡한 도심을 누비든, 모든 도전은 실력을 갈고닦을 기회가 됩니다. 모든 탈것을 능숙하게 조종하고 한계에 도전하며 하늘과 도로, 도심 배송 경로에서 실력을 증명하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "모든 탈것을 조종하고 하늘과 서킷, 도심 곳곳에서 실력을 증명하세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Racing & Flight Simulator Triple Pack – Cars, Jets & Drones",
+        "nsuId": 70070000041292,
+        "numberOfPlayers": null,
+        "publisher": "CONSANN REAL ESTATE",
+        "rating": 12,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/541d6af724699e89170a068b8f0b278555263ec6943c9c777d0241962ecaab49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afea956b57ec655584de6ad017453ce358095924ba7d0c740c2edf68bacd0aea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05ce5070148fdd67b112a8463b44a5d544c835b1f852a36f3aad62e85dd3c985.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de5b7f70e5ddeec28c53d255f42f7dc82069714a09cf30b19a8e65cf8803096c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/272fcb61ec99404773bac2c0f53f0c2d706bae219cf1c33b5e9951a952ddfe98.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/862ecac23457997df5ee67953a7f5801d6feed301158af3416d38fbabb6bfa6a.jpg"
+        ],
+        "size": 2959081472,
         "version": null
     },
     "70070000041296": {
@@ -841017,6 +843894,334 @@
             "https://img-eshop.cdn.nintendo.net/i/a072b5867c8e8576c5c7da26a7a794049d9c904b72db4874ffbb9298b21f8bf7.jpg"
         ],
         "size": 2841640960,
+        "version": null
+    },
+    "70070000041363": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd33159d877aef562886b59219806290e4e787246dd7e6eb4b077d19bd6b2c34.jpg",
+        "category": null,
+        "description": "끝없이 이어지는 복도와 섬뜩한 환경, 예측할 수 없는 위험이 도사리는 신비로운 미로로 들어가세요. 단서를 찾고 낯선 공간을 탐색하며, 알 수 없는 세계에서 탈출할 방법을 찾기 위해 자신의 직감을 믿으세요.\n\n번들 구성:\n1. Inside The Backrooms – 미스터리와 숨겨진 통로, 알 수 없는 위험으로 가득한 서로 연결된 백룸 환경을 탐험하세요. 단서를 찾고 변화하는 공간을 헤쳐 나가며 섬뜩한 분위기 속에서 앞으로 나아갈 길을 발견하세요.\n\n2. Inside The Backrooms: Hidden Light – 배터리가 무제한인 손전등이 인벤토리에 추가됩니다. 어두운 복도를 탐험하고 단서를 찾으며 신비로운 백룸을 이동할 때 믿을 수 있는 광원으로 활용하세요.\n\n미로 깊숙이 들어갈수록 경계를 늦추지 말고 주변을 밝히며 불확실한 길 너머에 무엇이 있는지 밝혀내세요. 더 깊이 들어갈수록 다음 모퉁이 너머에 무엇이 기다리고 있을지 예측하기 어려워집니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "끝없는 미로에 들어가 각 복도 너머에 숨겨진 것을 밝혀내세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Inside The Backrooms: Lost Corridors",
+        "nsuId": 70070000041363,
+        "numberOfPlayers": null,
+        "publisher": "Global Games Publisher",
+        "rating": 15,
+        "ratingContent": [
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8b7f6b82224ebdcb7cf9050e34a71bf60678b2a9d2f7dba377dcdb02e0b9d2ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c20f0f8992ec2ae9456df13ab43d4c0a0dfa27a70b3ea00cbc70888d51c25a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/201930624bb04d88892f4512d83f85e7337ac645cf4a98523fcb859a6377e682.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73ed1657086c3e02b2d122d04216f98fb6682c27f796e40f28e7eba920fae19a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49346577f613227cba2296cae92324b5fa979bc2480331145ec1c9c3ff352438.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/905d90bce555893ac6d7bd6b18eac6a8eb0fc59214c4144b1b6100ab0134e4fb.jpg"
+        ],
+        "size": 1600126976,
+        "version": null
+    },
+    "70070000041377": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dbde0a04e99c2e9ccaa1338e7c0830883f234fe79d7d92a057c7d24425918bea.jpg",
+        "category": null,
+        "description": "모든 임무에서 집중력과 신속한 판단, 정확한 실행이 요구되는 사실적인 현대 전투를 경험하세요. 위험 지역을 순찰하고 핵심 목표를 완수하며 적대적인 위협에 맞서세요. 몰입감 넘치는 바디캠 시점을 통해 긴박한 작전의 현장감을 느낄 수 있습니다.\n\n번들 구성:\n- BODYCAM SHOOTER 2025 – 사실적인 1인칭 바디캠 시점으로 현대 전투를 경험하세요. 전술 임무를 수행하고 위험 지역의 안전을 확보하며 인질을 구출하고 위협에 맞서세요. 변화하는 상황에 대응하면서 현대적인 무기와 장비를 활용할 수 있습니다.\n- Shadow Vision DLC – 임무 중 야간 투시 기능을 활성화할 수 있습니다. 어두운 환경에서 야간 투시 기능을 활용해 복잡한 장소를 이동하고 위험 지역을 순찰하며 저조도 환경에서 발생하는 위협에 대응할 때 시야를 확보하세요.\n\n집중력을 유지하고 모든 환경에 적응하며 장비를 현명하게 활용해 까다로운 전투 작전을 수행하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "어두운 환경과 험난한 전투 지역에서도 자신 있게 임무를 수행하세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "BODYCAM SHOOTER 2025 – Combat Ready",
+        "nsuId": 70070000041377,
+        "numberOfPlayers": null,
+        "publisher": "Oddi Tycoon",
+        "rating": 15,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fd649b8764f2528f75f1452717c9bfeca0770e2d13bf1eec1d633a1d53526a13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55885c94d6d7908d9ebd9b4b81f3d044992d82ec3682d3c42d625c44c42a115e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/534f0352d0d88c8c923aedcbe14aa46bf29894fad110b1f9576c70c83cee075d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69b50f27c9ec3e4d4eb5b42128eb036a5c72d430faee1aeca9c9f7b4e5e7b8eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1d697592c232bbafe2a16c47d0a16e41f6f6b21d84d8f64068cb1cfacffad09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f020e1d4f962efcaca2a682a37701ae7efce3954318a23fd5de0027e1a2996f1.jpg"
+        ],
+        "size": 2393899008,
+        "version": null
+    },
+    "70070000041379": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1098e9521df2713564b060ed40c48b2dfcbc7c605f5f8fbbbd5abaf9fc1ac9d4.jpg",
+        "category": null,
+        "description": "My Cozy Room은 편안한 샌드박스 게임으로, 여러분만의 공간을 디자인하고 꾸밀 수 있습니다. 11가지의 다양한 방 형태와 크기 중에서 선택하여 꿈의 침실, 아늑한 거실, 스타일리시한 주방, 또는 재미있는 아이 방 등 독특한 공간을 만들어보세요.\n\n\n500개 이상의 가구와 장식품, 그리고 30가지 이상의 벽지와 바닥 패턴이 준비되어 있어 완벽한 룩을 연출하는 데 필요한 모든 것을 갖추고 있습니다. 어린이든, 또는 메이크오버와 샌드박스 게임을 좋아하는 분이든, My Cozy Room은 창의력을 발휘하며 재미를 느낄 수 있는 이상적인 장소입니다!\n\n이 번들에는 「핼러윈」, 「시골 감성 스타일」, 「지중해풍 스타일」 DLC가 포함되어 있습니다.\n\n특징:\n- 11가지의 독특한 방 형태와 크기 중 선택 가능.\n- 500개 이상의 가구 및 장식 아이템 탐색 가능.\n- 30가지 이상의 벽지와 바닥 패턴으로 개인화된 연출.\n- 침실, 주방, 욕실 등 다양한 공간 디자인 가능.\n- 어린이 및 메이크오버와 샌드박스 게임 팬들에게 딱 맞는 게임.\n- 모든 연령대가 즐길 수 있는 편안하고 창의적인 게임 플레이.\n\n지금 바로 여러분의 아늑한 꿈의 방을 꾸며보세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "당신만의 꿈의 방을 만들어, 진정한 나만의 공간으로 꾸며보세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "My Cozy Room 가을 에디션",
+        "nsuId": 70070000041379,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/baf76e58538adfe362b5cdc493f5d1d4ede1941261b7d3a78a284218676272d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/448888ae6cf7f53e9c0eb1e5c150e8a39d029e0ad58af1e82929e9d301650df6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9cac34ff4e56769302c01bb635a5e354b31f513123ad763b490691a180149ff9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/92e8bbcf477178b3192cdd8dcc5a5bdea8241e9fb803efb7da4a4aa714faba75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40d56fdb65543375ddc1590601097ce471a02ed9952a03a62cd190b41a069d5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5106e15d920816def3318c641288365693667affcb7fadfe97b8add77a71788.jpg"
+        ],
+        "size": 1332740096,
+        "version": null
+    },
+    "70070000041387": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/316a9eb6dd9ac5199e6d9ff2ffd23a0e293cb3013354c02ef15e585cde491612.jpg",
+        "category": null,
+        "description": "극한 기상 현상의 한가운데로 뛰어들어 광활하고 역동적인 환경에서 위험한 토네이도를 추적하는 스릴을 경험하세요. 예측할 수 없는 폭풍을 헤쳐 나가고 폭풍이 자주 발생하는 지역을 탐험하며, 완벽한 폭풍을 쫓는 과정에서 운전 실력과 폭풍 추적 능력을 시험하세요.\n\n포함 콘텐츠:\n1. Storm Chasing Sim 2025 - Tornado Hunter\n강력한 폭풍 추적 차량을 운전하며 광활한 평원과 시골 마을, 위험한 기상 지역을 가로질러 거센 토네이도를 추적하세요. 레이더와 기상 센서, 첨단 도구를 사용해 폭풍의 위치를 파악하고 까다로운 임무를 완수하며 차량을 커스터마이즈하고 인상적인 폭풍 영상을 촬영하세요.\n\n2. Storm Chasing Sim 2025 - Tornado Hunter: Chase Capital\n계정에 게임 내 코인 3,000개를 추가하여 폭풍 추적 활동에 필요한 자원을 확보하고 극한 기상 환경을 계속 탐험할 수 있도록 지원합니다.\n\n예측할 수 없는 날씨에 맞서고 위험한 폭풍 시스템을 추적하며 어떤 상황에도 대비하세요. 폭풍의 중심으로 더 깊이 들어갈수록 추적 과정마다 새로운 도전이 펼쳐집니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "위험한 기상 환경 속으로 달려들어 완벽한 폭풍을 추적하세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Storm Chasing Sim 2025 - Tornado Hunter: Into the Storm",
+        "nsuId": 70070000041387,
+        "numberOfPlayers": null,
+        "publisher": "Play Games",
+        "rating": 0,
+        "ratingContent": [
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7d9a72eabfaf0384fb9a2895800141be14bdecc23e67c69bdc908fdaae2217e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1408a0ef5b28d23bb85167757a6a40cdcc5fd788b209fb83cc0fba6af30c80b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1526c575486e4e1aee41e4bb81fb8dcd416053f0f3129c1c7f9557ce4ca4f9d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19c7c79471b5b11dfc3bbf35e837f1e171ad59f241e4bbb79ecb4671d0c17fde.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a62cb167205544dfd2309d672d4ad1e934d5164c757bdc546403a2fbcb81d08e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1400611df378b14ee6e77d95f69bb71e3afd35f58b9198fc28b00bf938a2e574.jpg"
+        ],
+        "size": 968884224,
+        "version": null
+    },
+    "70070000041410": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2321e3530962a442c4d318a25d06b5ce393e5c5d18ebc48a43c95f04ae2fb4f.jpg",
+        "category": null,
+        "description": "세심한 검사와 신속한 판단, 끊임없는 경계가 필수인 까다로운 국경 통제의 세계로 들어가세요. 서류를 확인하고 차량을 수색해 밀수 시도를 적발하며, 다양한 어려운 상황에 대처하면서 국경 경비관으로서의 경력을 쌓아 나가세요.\n\n번들 구성:\n1. POLICE BORDER CONTRABAND PATROL SIMULATOR (기본 게임)\n국경 경비관이 되어 서류를 검사하고 신원을 확인하며, 차량에 숨겨진 밀수품을 수색하고 운전자에게 질문하세요. 자신의 경력에 영향을 미칠 수 있는 결정을 내리고, 다양한 계급으로 승진하며, 도덕적 딜레마에 직면하세요. 국경 통제를 유지하는 과정에서 자신의 선택이 가져오는 결과도 경험할 수 있습니다.\n\n2. POLICE BORDER CONTRABAND PATROL SIMULATOR: Officer Rush (DLC)\n플레이어에게 전력 질주 기능을 추가해 국경을 순찰하거나 다양한 상황에 대응할 때 더 빠르게 이동할 수 있습니다. 차량 검사, 운전자와의 상호작용, 밀수품 수색, 각종 임무를 더욱 효율적으로 수행하세요.\n\n경계를 늦추지 말고 변화하는 상황에 신속하게 대응하세요. 국경 경비관으로서 경력을 쌓으며 모든 도전을 주도적으로 해결하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "경계를 늦추지 말고 모든 차량을 검사해 숨겨진 밀수품을 찾아내세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "POLICE BORDER CONTRABAND PATROL SIMULATOR: Checkpoint Control",
+        "nsuId": 70070000041410,
+        "numberOfPlayers": null,
+        "publisher": "Play Games",
+        "rating": 12,
+        "ratingContent": [
+            "약물"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f76da4d927139fc5943125c42d702c0fd96e27cf2f1ca6f9e790213ee16653ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50003975973b106231e66f09e6f1996a9de2af8dfc9d474d0f5f67fa07606b1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f20f4ba26ec0e4a947a31487a9262c5aba777781af5244c94a6d15f353edb3c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5551a41b80aad9c76f4ae7cd68599220fd25561fbcc42ae1cbff5e05e842558.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0347764fda0ebeedbf265d3d28c993026fe9b0e7b878a8a60cac66e0fa13dad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9437887a4990c0dd123a04d752a9edee2df816a334f9591bed9b6e9d6591787.jpg"
+        ],
+        "size": 2475687936,
+        "version": null
+    },
+    "70070000041414": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a381d472f20162984df861669cf742e1f42729c8b3392367587d9c2ad4edd55f.jpg",
+        "category": null,
+        "description": "넓은 바다로 나아가 독립 어부로서의 경력을 쌓으세요. 변화하는 해역을 항해하고, 가치 있는 어획물을 찾고, 자원을 관리하며 사업을 발전시켜 성공적인 어선단을 이끄는 것을 목표로 삼으세요.\n\n이 에디션에는 다음 콘텐츠가 포함됩니다.\n1. SHIP SIMULATOR OCEAN FISHING (기본 게임)\n낡은 배 한 척으로 시작해 물고기, 게, 희귀 해산물을 찾아 해안 해역을 탐험하세요. 여러 항구에서 어획물을 판매하고, 연료와 선박 조종을 관리하며, 장비를 개선하고 어업 사업이 성장함에 따라 선단을 확장하세요.\n\n2. SHIP SIMULATOR OCEAN FISHING: Sea Fortune (DLC)\n계정에 코인 10,000개를 추가하여 어업 활동을 지원하고, 게임 진행을 돕고, 새로운 바다 항해를 준비할 수 있는 추가 자금을 제공합니다.\n\n변덕스러운 날씨에 대응하고 가치 있는 어장을 발견하며, 소규모 독립 어부에서 번창하는 해양 사업을 이끄는 숙련된 선장으로 성장하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "드넓은 바다를 탐험하고 어업 사업을 성장시키며 새로운 기회를 찾아보세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "SHIP SIMULATOR OCEAN FISHING: Ocean Hunter",
+        "nsuId": 70070000041414,
+        "numberOfPlayers": null,
+        "publisher": "MORAHAN Studio Games",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/86b25b59ac96848e1f1040a9b55795799e4f749dbcfb7396d74accf4f1a0ad32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f9e7e3a0ebd8802ee441bd5fdaa8967917662dfbfdb028227d24a65ed5d554b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/932636c5a0fa299237127a0d053ccbff1ffc686700e99fb393bfb97bf5400089.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1400e5a4287a7c7b4a1607cd0096fa618c38c1007871cfb8ef93adf859bcf4e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b31921bed463d4ecab4f82d0644989dd8c583ab3d795f3ed7b8ccadf31f5df8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c774ba6b19dfba680910fbe511759857be34a404e14d87bd656dbaefb9b501c3.jpg"
+        ],
+        "size": 3621781504,
+        "version": null
+    },
+    "70070000041431": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7e498ee16a11cafc6b7c6fa9a4636c2ef4a3933ffc25947191d4b101d67e57d7.jpg",
+        "category": null,
+        "description": "다정한 엄마의 바쁜 일상 속으로 들어가 가족에 대한 책임, 집안일, 반려동물 돌보기, 자신만의 시간을 균형 있게 관리하세요. 매일의 일정을 신중하게 계획하고 사랑하는 가족을 돌보며 개인 활동을 위한 시간도 마련해 가족의 행복과 깔끔한 집을 유지하세요.\n\n번들 구성:\n1. Mom Life Simulator (기본 게임)\n가족을 돌보고 집안일을 관리하며 아이들과 반려동물을 보살피고 자신의 취미를 즐길 시간도 마련하세요. 일상적인 가족생활에서 발생하는 다양한 책임을 수행하면서 체력과 일정을 균형 있게 관리하세요.\n\n2. Mom Life Simulator: Daily Outfits (DLC)\n남편과 아들의 의상을 변경하여 일상생활 중 새로운 옷차림과 산뜻한 외형을 선보입니다.\n\n가족생활의 다양한 요구에 대응하고 시간을 관리하는 새로운 방법을 찾아 매일 새로워진 가정생활을 즐겨보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "바쁜 가정을 돌보며 모든 순간을 의미 있게 보내세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Mom Life Simulator: Family Time",
+        "nsuId": 70070000041431,
+        "numberOfPlayers": null,
+        "publisher": "RioverseGames",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/556896214af7a8ce2d58a2aab748c407962b8df1c317d2eaf92f12e66b6e457e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e513ca768940d593023b2b43c7d692cf098f9420da6711023134c8cbcd3793f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1c7addfe71c255ec11f8239bbfe44b0dd844dd245337b7947729c8694721779.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/562f80e878b0a64270b524ceca5ad67a96133202bd9cc16c6af9d63207e3768a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a6efa795fbc65b77ad9ce4def88c21128539e49c1868d90c69880eaba53b4b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e479cff6470d821f1d431ba5329ddd22d2545288405c8f60d796a78d635c6650.jpg"
+        ],
+        "size": 1233125376,
+        "version": null
+    },
+    "70070000041446": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3951370e18b4164bfc69c4bb2c1622c78941004c794dedb4a1192afc64ab8f72.jpg",
+        "category": null,
+        "description": "지하철의 세계로 들어가 지하철 기관사의 일상을 경험하세요. 여객 열차를 운행하고 여러 도시와 노선을 탐험하며 운전 기술을 발전시키세요. 도전적인 레벨을 진행하면서 새로운 역도 발견할 수 있습니다.\n\n번들 구성:\n• Subway Simulator – Underground Train Ride Station Ultimate Driving Games: 네 개의 서로 다른 도시에서 여객 열차를 운행하고 다양한 지하철 노선과 역을 탐험하세요. 다섯 가지 열차 중 하나를 선택하고, 레벨을 완료하며 운전 실력을 키우고, 새로운 노선을 잠금 해제하세요. 난이도가 다양한 100개 레벨에 도전하며 지하철 기관사로서의 경력을 쌓아보세요.\n• Fresh Station DLC: 열차를 보관하는 차고의 외관을 완전히 변경해 새로운 시각적 분위기를 제공합니다. 새롭게 디자인된 차고에서 열차를 선택하고 다음 노선을 준비하며 지하철 운전 경력을 이어가세요.\n\n열차를 운행하고 새로운 노선을 발견하며, 도시의 지하에서 경력을 쌓는 동시에 새롭게 바뀐 환경을 즐겨보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "다양한 지하철 노선을 탐험하고 열차를 운행하며 운전 실력을 키우세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Subway Simulator - Underground Train Ride Station Ultimate Driving Games: Rail Adventure",
+        "nsuId": 70070000041446,
+        "numberOfPlayers": null,
+        "publisher": "DEZVOLT GAMES",
+        "rating": 0,
+        "ratingContent": [
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c59848b3dfd37d1d215a9d18703d1e26aea014febff0f2a43c59662781d9b6fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e902160cfcfd4002b92b609a874e1fd9a62f549abf1950b57fc0ea806d8c3dd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46202ea13ac6c9f0bb076f5bc156019e69954df3f9f4d6300780a61bcba3acc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9288414611c7b7c74afc5147634b3b45cd736dae1a2453e468b1242140b4b8e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/558402b3ca3b8134e8b03749a7153fdee54945c08bee8642f44f95f98bff67ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b09aff91f51ede5f099c57a02d739ddc773c9edcdc3a22749ad9afd3722aae4.jpg"
+        ],
+        "size": 4371513344,
+        "version": null
+    },
+    "70070000041451": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/34b7c3d9c13c5fd37a32d3acd215840d8674efdeee5c6ab4c161745ed3d137ec.jpg",
+        "category": null,
+        "description": "최고의 자동차 딜러십 경험을 통해 나만의 자동차 제국을 건설하세요. 모든 차량이 기회가 되며, 모든 거래가 당신을 정상으로 이끌어 줄 것입니다. 경매에서 차를 구매하고 숨겨진 보석 같은 차량을 발굴하며, 예전의 영광을 되찾도록 복원한 뒤 수익을 남겨 사업을 확장해 보세요.\n\n소박한 사무실에서 시작해 명망 높은 딜러십으로 탈바꿈시켜 보세요. 쇼룸을 확장 및 꾸미고, 자금을 관리하며, 가치 있는 차량을 찾아내고, 고객과 협상하여 수익을 극대화하세요. 저렴한 도심형 자동차부터 희귀한 클래식카, 고급 차량에 이르기까지, 당신의 포부를 반영한 컬렉션을 완성하는 것은 모두 당신의 선택에 달려 있습니다.\n\n이 번들에는 본편 게임과 딜러십 경험을 확장해 줄 두 가지 DLC가 포함되어 있습니다. 게임 내 자금 1,500,000을 확보하여 사업에 투자하고, 차량을 구매하며, 자동차 제국을 성장시키세요. 또한 차고에 추가 차량 2대가 제공되므로, 수집하고 복원하며 커스터마이징할 수 있는 차량이 늘어나고 이를 통해 새로운 수익 창출의 기회도 얻을 수 있습니다.\n\n이 완전한 번들로 쇼룸을 구축하고 컬렉션을 늘리며 현명하게 투자하여, 최고의 자동차 거물이 되어 보세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "제국을 건설하고 시장을 지배하십시오.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Car Sales Simulator 2026 DELUXE EDITION",
+        "nsuId": 70070000041451,
+        "numberOfPlayers": null,
+        "publisher": "CGI GERMANY DESIGN",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/88494c9a21551d7ce016d370c57973eec0e767157fffd6fc2a8a60e0e095a3a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80d703efa9a13082facb24ee42dc2ace1bd535df1986f6a4f392e58f94aaf74c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e98dbb4b3979af66a1d5fb3a8800378ee6d6094c9fbaaaacb7980fb4497c24be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71dff0e256ba8c9229c14de63ee3d4f3d2d8699d6e4500e5e552d8a3962e4af0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0ca2a5eb1133af9b11295776acf75a8d05f9a9338d3395c0874701cc43e3095.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6da8b6f1a3b8557569d5c22f7faa63ec2ae7a48b706a5d0ad1e3166e9a27d662.jpg"
+        ],
+        "size": 1251999744,
+        "version": null
+    },
+    "70070000041485": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ecd711935b0c191553faa4c3f57d836852387b4bbab619272eadeb2955a54d77.jpg",
+        "category": null,
+        "description": "컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트:풍경 2 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 바다 속 세계 2 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트 나비와 꽃2 + 컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트:풍경 3 + 컬러 채우기 마스터: 꿈꾸는 단순한 패턴2 + 컬러 채우기 마스터: 꿈꾸는 단순한: 신화 속 괴물들 + 컬러 채우기 마스터: 꿈꾸는 단순한: 중세 판타지",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "컬러 채우기 마스터: 꿈꾸는 픽셀 아티스트:시즌 7",
+        "nsuId": 70070000041485,
+        "numberOfPlayers": null,
+        "publisher": "Error300 Games",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261031,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f25d0442c99a6a367bb56bf9a86c0c55638343425890a3b802bd832388c79046.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4675a2678103d38540293f95dcf40dd15e0a02d259ceae5b86db690bee5f461c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2fada6458af0c48f445b2d398c4031d07725ce111f022b830e078624b95ce61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/879db54523bafb64fb271be3676f2acd19e4bf2bc40ce224bf3771a37ef2733d.jpg"
+        ],
+        "size": 344981504,
         "version": null
     }
 }

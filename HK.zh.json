@@ -85901,6 +85901,52 @@
         "size": 71303168,
         "version": null
     },
+    "70010000045847": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/512441eec258aa5d395361a8a3f5baa9dca229690a712dbaa03e4174a81ca620.jpg",
+        "category": [
+            "格鬥",
+            "街機",
+            "動作"
+        ],
+        "description": "隨著 Fallen City 地下黑幫所掀起的掌權之戰越演越烈，四個陌生人決定聯手求生並奪回街道！有隻兇猛的野狼陪伴在側，這些出人意料的盟友將勇敢面對致命險境。他們的動力和過去的生活將在過程中猛烈碰撞，進一步考驗他們的忠誠與戰鬥技能。只有緊密合作才能讓他們抵達最終的戰場，並且決定誰生誰死。\n\n在 80 年代晚期和 90 年代早期的街機格鬥遊戲啟發下，《Fallen City Brawl》透過強烈的橫向像素藝術與動作，講述著關於野心和復仇的故事。豐富的遊戲界面和動畫背景讓死氣沉沉的城市街道生動不已，戰鬥機制——毀滅性的組合技、反擊、空中技、擒摔、閃避、特殊動作與「RIOT」超級清版技——則帶來難得一見的層次。過場動畫和出自名作曲家 Daniel Lindholm 的強勁配樂，已經為這場城市之亂定下基調，你可以單人獨樂或和朋友爽玩單機雙人模式！\n\n特色：\n\n• 通過深受街機遊戲啟發的 7 個格鬥關卡！\n• 有 5 個角色可供選擇。\n• 利用深度徒手格鬥機制施展組合技與特殊技。\n• 撿起水管、球棒、小刀、槍枝、油桶、鏈鋸等各式武器！\n• 透過可升級的傭兵後援，使出特殊攻擊、輕鬆清版。\n• 獨自出擊，或在單機雙人模式中與朋友同樂。\n• 指揮同行的野狼，或放牠出去大開殺戒！\n• 讓 Daniel Lindholm 的配樂引你進入亂世氛圍。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb5fe79eb8e9249bdb4d4fb9beff4737e48ab2615ef33fe4217c031c6de5b5d1.jpg",
+        "id": "01001E50163AA000",
+        "intro": "在街機經典所啟發的重磅像素藝術風格中，用拳腳穿越城市吧！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Fallen City Brawl",
+        "nsuId": 70010000045847,
+        "numberOfPlayers": 2,
+        "publisher": "eastasiasoft",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f0faee4c1d6b37ed147fcc3f63008a63b70a909490f69ba19a8d0c331637cb54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d26b84bd79cb110bfefcd4bd5a83d3b0c481edb6c0cb6178635974780c04aad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bb21c0da8a191327a3647625138751814f0f1a8d56facc19033b442548fe22e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/43cffbe17445607ba6668049fc42659a2424aa36684af0eb9a5f657a545009d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84df81eda99044625cf3b0da7439852c118a8f3007292fd238be0fb755ece354.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b9ba7505583b81d990a193d11151375320a179336291eca694d147b45812215.jpg"
+        ],
+        "size": 235929600,
+        "version": null
+    },
     "70010000045852": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/98a25d06b497095a5b06514c2663b8e7eb1519251b7a116345548f8c4ec86c5c.jpg",
         "category": [
@@ -350407,6 +350453,42 @@
         "size": 1135607808,
         "version": null
     },
+    "70010000105867": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9aef2930bb88d1267b17b2394474ab6199be662c6da14173870326967d591075.jpg",
+        "category": [
+            "冒險"
+        ],
+        "description": "扮演 Ailuri，拯救瀕危動物，探索廣闊的關卡，在這款手繪2D平台冒險遊戲中保護環境。\n\n遊戲包含30個規模宏大的關卡，每個關卡都有一隻瀕危動物等著你去拯救；支持雙人合作模式；並配有全動畫過場。擊敗入侵的敵人，收集森林、水域和山脈的精華，解鎖神秘能力！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/72b46c630e170616b9d67c69bb956a5136e0a2bf7c9bf8383ceebfa6061dfc4d.jpg",
+        "id": "010006A020698000",
+        "intro": "扮演艾魯裡，拯救瀕危動物，發展你的動物保護區！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Ailuri",
+        "nsuId": 70010000105867,
+        "numberOfPlayers": 2,
+        "publisher": "Vivink Studios",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261028,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e7b18db9037cb12af3357547e554080f761360989336a6e17f57cecec062324d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51776e8fea174b45ec31a051fe3b01ee64409f44455dc9cc101b505fe1d2fad1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d5cebf792bbe527f91b5bcee3ccc4e8b563a0bbb8bef2bfec208485ca2055ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b41d4d11618230e8b4bcfacfdd648c7b48fe32880741199df5538894b625b6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00fc0fb18fb20bb9d7efeb3f146d281c66821e86641b6181a57aaff431e7bd2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbaf9e161d73a498118ef60613eccd3cdfb4ae995869e2f7e936c3a9e6f4733c.jpg"
+        ],
+        "size": 2818572288,
+        "version": null
+    },
     "70010000105878": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef2e9932bee4a29fc9cec0587c3169d93e614531699b6b53f39f65477a3f78e2.jpg",
         "category": [
@@ -374389,6 +374471,45 @@
         "size": 119537664,
         "version": null
     },
+    "70010000113937": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/761595207d0618274bd93a4cd734215d81841173938c17d248ade919951e0854.jpg",
+        "category": [
+            "街機",
+            "動作",
+            "模擬",
+            "策略"
+        ],
+        "description": "在 VALHEIM CITY BUILDER 中建立一座強大的維京聚落，引導你的人民走向繁榮的未來。這是一款專注於建設、探索、資源管理與戰術戰鬥的策略模擬遊戲。從一座小型聚落開始，逐步將它發展成一座繁榮的維京城市，讓你的人民能夠在充滿危險的未開化世界中生存。\n\n收集資源、建造必要的建築、管理人口，並向新的領地擴張。狩獵獲取食物，與其他氏族進行貿易，加強防禦，並為你的戰士準備應對危險的戰鬥，讓你的聚落不斷成長。\n\nKey Features:\n\n• 建造你的城市 – 建造新的建築並擴大你的維京聚落。\n• 管理資源 – 收集材料、狩獵獲取食物，並與其他氏族進行貿易。\n• 探索新土地 – 發現新的領地、資源與擴張機會。\n• 防禦與戰鬥 – 強化防禦並帶領你的戰士投入戰術戰鬥。\n• 發展你的氏族 – 訓練你的人民並提升他們的技能，讓你的聚落不斷成長。\n\n從微小的起點開始，在荒野的危險中生存，並塑造你的維京氏族未來。在 VALHEIM CITY BUILDER 中，每一個決定都將影響你的城市能夠發展到何種程度。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/772773c713fe45b5b89f5a27cb180e95b15c1c2e72a0f3e1e5d0d9d632d99e7d.jpg",
+        "id": "0100456026622000",
+        "intro": "你能建造一座強大的維京城市，在荒野中生存下來嗎？",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "VALHEIM CITY BUILDER",
+        "nsuId": 70010000113937,
+        "numberOfPlayers": 1,
+        "publisher": "Meraki Tech",
+        "rating": 18,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6947f2d1e6fd0ccb0805329d95ccbef548fbe24cae14a34b837bdc27f5b3cf89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afa0f17a2af010bf53b342ca453ef6c375eca822247ed5872b926e1b6a3e1d92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/26db43e2e036d3bc6b43f4771ece23b82aba305a76043a1264383d270cda1868.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/240240649e865b7d00b402cc124715475bbb2a63528989d5a326a3070bbb6df2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4ae1613f5226aea5cb9723e632496be47cb5b6a75aa9cfb3347d1b4cca7756d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18881a605b0719287b6f81a18c80bbb1925c88e9daf74858aab8564cef197534.jpg"
+        ],
+        "size": 832569344,
+        "version": null
+    },
     "70010000113944": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02d26a008b5307cd2e0ffc1fb875bf5965a05e3a30c31087aea75786340c872b.jpg",
         "category": [
@@ -379204,7 +379325,7 @@
         "description": "踏入鬥獸場，與朋友們鎖鏈相連。\nCHAINED BEASTS是一款1至4人合作的角鬥士Roguelike遊戲，結合了殘酷的戰鬥、團隊合作與荒誕滑稽的時刻。你能否召集夥伴、擊碎敵人、贏得觀眾，並奪回自由？\n\n角鬥士戰鬥\n在這款殘酷的角鬥士Roguelike中劈砍敵人，或利用環境來反制他們。向敵人擲出陶罐，或把敵人丟向陶罐。將他們撞入帶刺的牆壁或蛇坑之中。投擲武器可遠距離擊倒敵人，但請確保手邊還有另一件武器，否則你可能陷入險境。\n\n與夥伴鎖鏈相連\n不要獨自奮戰，召集四位兇猛的夥伴，你們將以殘酷又富創意的方式被鎖在一起。若無法協調，你們可能會糾纏在柱子上，甚至更糟。但若步調一致，你們就能絆倒敵人，逆轉局勢。\n\n對抗殘暴首領\n隨著聲名的提升，你將面對殘暴的首領，競技場中的英雄，他們武裝到牙齒，擁有一切優勢。局勢將極度不利於你，但勝利會讓你離羅馬更近一步，迎來自由或復仇的機會。\n\n掙扎於恐怖傷痛\n競技場的每一天都會讓你增添新的傷口與痛苦。拖著受傷的腿前行，帶著失去左眼的視野求生，或在幻覺中胡亂揮舞。藥劑或許能緩解痛楚，但副作用可能讓你陷入更嚴重的折磨。也許手術才是唯一的出路。\n\n苦難淬鍊性格\n不要失去希望，在競技場的磨鍊中，你也能被鍛造成殘酷的戰士。學習強大的技能以擊敗敵人。贏得觀眾，他們將永遠為你吶喊助威。積攢金幣，購買能扭轉戰局的裝備與武器。解鎖擁有強大能力的新角色。每一次戰鬥，都將迫使你踏上不同的道路。",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d6b13882711717e955c35bcb642f9163444593b0afdfebec32fc5b9ee7b96ae2.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6131a7145929da53b7130b957ce4d5d6beb2e2b0d5ba419af5114ff80c8f73bb.jpg",
         "id": "0100B04026946000",
         "intro": "鎖鏈獸 (CHAINED BEASTS)是一款支援1-4名玩家的合作角鬥士類roguelike遊戲。與好友被鎖鏈束縛，展開混亂的戰鬥。巧妙利用鎖鍊和環境，擊敗敵人，生存。",
         "isDemo": false,
@@ -379238,7 +379359,7 @@
             "https://img-eshop.cdn.nintendo.net/i/0c861d3ca1109af023297063ea2e6548b8a0dab6f550dae97ecfe14feb8bbd72.jpg",
             "https://img-eshop.cdn.nintendo.net/i/0438e45dc1f292de4abdc3823734c7217b456e219afe16559867260d89eb967b.jpg"
         ],
-        "size": 1576009728,
+        "size": 1431306240,
         "version": null
     },
     "70010000115478": {
@@ -381272,6 +381393,56 @@
         "size": 763363328,
         "version": null
     },
+    "70010000116105": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e645083c70829746138c94e0ecbf28af77f43bad5a4a23b0d91644f15939ce2d.jpg",
+        "category": [
+            "模擬",
+            "街機",
+            "益智"
+        ],
+        "description": "歡迎來到《寶寶的悠閒打掃時光》\n在這裡，不需要完美。\n只要乾淨一點、平靜一點，也更像你一點。\n無論你是在聽播客放鬆，還是只是想找一點安靜的時間，這款溫柔的2D高壓清洗遊戲都會剛剛好陪著你。\n沒有計時，沒有壓力，只有柔和的像素畫面、輕輕流動的聲音，還有水流帶來的那份小小滿足感。\n\n一點一點，把思緒慢慢放鬆\n每一次輕輕沖洗，都會讓人更放鬆一點。\n簡單重複的動作，會慢慢讓思緒安靜下來。\n配合輕柔的 lo-fi 音樂和溫暖的畫面，讓你不知不覺地放慢呼吸。\n\n邊聽邊玩，剛剛好的陪伴\n這是一款很適合一邊聽有聲書、播客或音樂一邊玩的遊戲。 一塊一塊地清理，一點一點地放空自己。\n\n和朋友一起的安靜時光（最多4人）\n有時候，最舒服的陪伴，就是一起安靜地待著。 叫上好友，一起打掃，一起分享把一切慢慢變美好的那點小小滿足感。\n\n柔和粉彩，溫柔像素\n從安靜的小公園，到有點夢幻的屋頂， 寶寶的世界每一個角落，都在輕輕安撫你的心情。 色彩柔和，看著就很舒服。\n\nLo-fi × 慢節奏的一天\n精心挑選的50首 lo-fi 音樂，陪你度過一段輕鬆的遊戲時光。 那種時間慢下來的感覺，會悄悄出現。\n\n輕鬆上手，也對每個人都友好\n支援自訂按鍵、色盲模式等功能。 因為溫馨，本來就應該讓每個人都能安心體驗。\n\n來自寶寶系列的用心之作\n這款遊戲，是為那些只想稍微歇一會兒的人準備的。 不用特別做什麼，你只要在這裡就好。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7dacf6606e71a9389b3373593a6186d266a27ecce7e6340724207ff0490a3c6b.jpg",
+        "id": "0100BF0026C48000",
+        "intro": "和寶寶一起放鬆吧！在這款療癒的2D高壓清洗遊戲中，清理柔和的粉彩場景，伴著舒緩的 lo-fi 音樂，享受無壓力的悠閒時光。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "th",
+            "pl"
+        ],
+        "name": "《寶寶的悠閒打掃時光》",
+        "nsuId": 70010000116105,
+        "numberOfPlayers": 1,
+        "publisher": "Destroyer Doggo",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261028,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2f61fb9548d67aa90c7e4299c1bb5ea76adcefd8789944cbdb783535be16c854.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fe32e92b874137da6ae61ab133198eb29da1b8b6e16ad2d53c2f3d99d6c4fd0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a546805909efd6453a6c0601f9137d48a15e45c385e349859aa41d07a71efd58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b879c8c1e33bbe27ef5a6587070d6a5261835ec9aeca5639aa947f4fcc99dab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/051afae475d28a3ec37ff75b09ff47620da2f3125edbe32fc86762a2cfe1e4d6.jpg"
+        ],
+        "size": 730857472,
+        "version": null
+    },
     "70010000116109": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ffd48e8751dac412e4c0927b2cdbc4dc483351a79dd92dca2c2f2b85e1e93364.jpg",
         "category": [
@@ -382245,7 +382416,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a8d3b5f9c8e853533312d86790dc3d12e3f8cddec4ae51bcdc933e55d7609bf2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/514b403a4ec1cefb5a862953844ef294329dd80fbc43d44d58292e0a786adb00.jpg"
         ],
-        "size": 163577856,
+        "size": 218103808,
         "version": null
     },
     "70010000116496": {
@@ -388362,6 +388533,54 @@
         "size": 1239416832,
         "version": null
     },
+    "70010000118483": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/223fb89a9b0d3ea872d2811187dfd9a1f65218a2414633f497003bfdb52f12b3.jpg",
+        "category": [
+            "冒險",
+            "益智"
+        ],
+        "description": "在3D空間中自由移動，尋找線索，解開謎題，逃離房間。\n你也可以查看提示和答案，所以任何人都能玩到最後。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1cdb44f0424fece662c8796dab0c66299ced05dbc6f5283026ce42a19fffa60.jpg",
+        "id": "010011B0272BE000",
+        "intro": "探索3D空間並逃脫",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "逃脫遊戲 R00M 11",
+        "nsuId": 70010000118483,
+        "numberOfPlayers": 1,
+        "publisher": "AlignmentSharp",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/266952f28cf799e06743c4b416157068fd8baa2c8135d0feb12a1a714a40f1ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afedf83983b058bf786312cc67fd5b6dbf11cdbb168986652c26713a9734654b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e8d827b3a5ee7aeba0ae329c9da3a36f4d3d612fe3507210b4654ddd85c9325.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e9bc151c42c66df1e108d0a747e6fa45ce473890bcd65b63a58050c05e88ddd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a123ac88976a1bf953a6ace8b129a36a9fb2b5194926d9477f00720aaf08110d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/154c76d4414d02107ceb823275195734e4cd691e8d0b06788824217d23b0221f.jpg"
+        ],
+        "size": 646971392,
+        "version": null
+    },
     "70010000118539": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/08f7a67fe76fde74e155a91d8b1c055c35c51708e39745f71e3c2c2d1f07731c.jpg",
         "category": [
@@ -393056,6 +393275,50 @@
             "https://img-eshop.cdn.nintendo.net/i/ddb74a2dfbded878300f750f961d657a24b7e98c5f9b7ac9edff9ecde00bd686.jpg"
         ],
         "size": 2619342848,
+        "version": null
+    },
+    "70010000120017": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8b16dc5831babcb833a0cffe9c065541ca831d62f8467bc41c2e2c7c183032e.jpg",
+        "category": [
+            "策略",
+            "交流",
+            "模擬",
+            "角色扮演"
+        ],
+        "description": "迷因曾經很好笑……直到貓咪開始反擊。\n\n在 貓咪 vs 網路：迷因少女的反擊 中，一場叛亂即將展開。\n不是對抗人類……而是對抗那個把牠們變成笑話的數位世界。\n\n踏入這場混亂的對決，當可愛變得危險，網路再也不安全。\n\n♠ 用卡牌對抗網路\n與網路本身展開策略卡牌戰鬥。\n打造你的牌組，施展強力連擊，證明貓咪才是網路的真正主宰。\n\n♣ 與貓娘約會並強化自己\n每張卡牌背後，都有一位少女。\n贏得她們的信任，與她們約會，解鎖改變戰略的新能力。\n\n♥ 從可愛到混亂\n一開始看似可愛，卻很快變得難以預測。\n越深入，世界越詭異。\n這不只是一款遊戲……這是一場戰爭。\n\n♦ 打造你的終極牌組\n收集、強化並組合卡牌，創造無法阻擋的策略。\n無論戰鬥還是關係，每個選擇都至關重要。\n\n♠ 策略型 Roguelite 卡牌戰鬥\n每次遊玩都不同。\n調整你的牌組、管理風險，並在不斷升級的挑戰中精進策略。\n\n\n網路讓她們成名。\n現在，她們掌控一切。\n\n選擇你的陣營。打造你的牌組。展開反擊。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac6eda4ec63631dca0f689fb726ed5c16677089a2828a774e018e24f1e4f4838.jpg",
+        "id": "0100E3402761C000",
+        "intro": "貓咪曾統治網路……現在要奪回一切。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "貓咪 vs 網路：迷因少女的反擊 (Cats vs Internet: Rise of the Memes Girls)",
+        "nsuId": 70010000120017,
+        "numberOfPlayers": 1,
+        "publisher": "Red Fables",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0112a6334d0f28151118f36261d0c1f005587396f0d6d04b0d23ab8564ead2a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f53d032fe5b2490ff0d92fe6ae1f46f23a1d857e7fd77f25129fbcf88cc964a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ceebfd9c63f0c3c85ff1e7557479dea64810df138a46470ab617df24d181f7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/503c866a8c5c18dd1c12658fac4f4f2335ada504d78294db5aae6376a3ab9ca9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f7ea2409d4d1f6760dcf9cdcc601896ed500fe53e47b526196b61e435f4d015.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7249fc2243b118374e6a4b747f3fdc0e372bc93a04094e9b341b75d0996fd511.jpg"
+        ],
+        "size": 1704984576,
         "version": null
     },
     "70010000120030": {
@@ -413275,6 +413538,47 @@
         "size": 1055916032,
         "version": null
     },
+    "70010000126793": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e5e3db9fd40f50e5d35c122252c96701dd493f64f8ef4822f2b7a5d85e0b6d10.jpg",
+        "category": [
+            "動作",
+            "街機",
+            "格鬥"
+        ],
+        "description": "指揮貓咪軍團，發動威力強大的必殺技！\n操作主人公「八千代」，\n和貓咪同伴們一起把那些為非作歹的壞蛋痛扁到爽吧！\n\n【探索】\n從森林到山路，甚至還有要塞！？\n探索風格迥異的地區，找出前進的路！\n\n【養成】\n鍛煉自己的力量，學習新的技能！\n\n【收集】\n擊倒敵人，收集垃圾破爛（奇珍異寶）！\n\n【其他】\n當然還有額外的小遊戲哦！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/32082df5bad43521ad20177f2aec424a12ed51d4942d73d672b7e8242b3c7509.jpg",
+        "id": "01004260287EE000",
+        "intro": "和貓咪們齊心協力，一起懲戒為非作歹的人類吧！\n熱血沸騰貓兒狂飆的橫版動作遊戲正式開幕！\n放心吧，貓貓能有什麼壞心眼呢？",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "MeowPower! Yachiyo",
+        "nsuId": 70010000126793,
+        "numberOfPlayers": 1,
+        "publisher": "Waku Waku Games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/09515083fe8846ada5bf119519f117679ac8bcf34be22b0abbfde1a7ab938c5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be7e0509de4bcdf4fdb3546a900012a9c3e5546faf527545ed1b45a87abc36ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58b3d93e1a58ad5ed469aa66807b4579471d52d6c5a73da695e94b20026c5c5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ee852151086d0c42400a8ac18f8ecf86e17c97cf26012a5d2ce3b7c711aae5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0da09dbb6694a59986ed22c8d0b4a572682a99f2a789e29b18025066d54d38b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ab9aff418c1b0a7ee3001cc2a4f3798d84a44e29d9852e8312f77788cd6a5d0.jpg"
+        ],
+        "size": 308281344,
+        "version": null
+    },
     "70010000126799": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a3232fd13a9aca6ecaa17325070e7804d15ebea9123d434cca5c19ac25c527b.jpg",
         "category": [
@@ -415207,6 +415511,51 @@
         "size": 376438784,
         "version": null
     },
+    "70010000127321": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f4dd82560256123904b7cb100199e721808b6cf0fc9325a5c4ee0f2a4c23b1b.jpg",
+        "category": [
+            "動作",
+            "冒險",
+            "其他"
+        ],
+        "description": "由備受推崇的邪典神作《Scratches》和驚悚之作《Serena》的創作者傾力打造，帶你踏上一段深入內心最黑暗深處的驚悚之旅。《ASYLUM》是一款極具野心的第一人稱恐怖冒險遊戲，將你置身於漢威爾精神醫院（Hanwell Mental Institute）那令人產生幻覺的場景之中。\n\n作為一名遭受怪異幻覺折磨的前患者，你必須探索這座建築錯綜複雜的布局，研究它過去的歷史，並走向一個令人震驚的結局。《ASYLUM》經過精心雕琢，極其注重故事敘述和氛圍營造。造訪無數陰暗的環境，在一座高聳、栩栩如生的精神醫院中前行，並解決引人入勝的謎題以找到你追尋的答案。我們傾注了全部心血，創造了一段引人入勝且充滿無限回報的冒險之旅。\n\n如果你喜歡那種帶有復古情懷、在你身邊悄然蔓延的慢熱型恐怖，那麼《ASYLUM》將是一次令人難忘的體驗。一個令人腦洞大開的原創故事，在長達15年的製作過程中，我們竟然成功地保密了這一機制。大約10小時的遊戲時間——這還是在沒有了解所有黑暗秘密的情況下！這裡的氛圍如此引人入勝，你幾乎能聞到周圍腐敗和腐爛的惡臭。\n\n主要特色：\n-激動人心的挑戰將回報你的機智與觀察力。\n-令人難忘的配樂，靈感源自80年代恐怖電影以及不少約·\n-沒有突發驚嚇（Jump Scares）！好吧，也許只有那麼幾次令人毛骨悚然的驚嚇，會在你最意想不到的時候襲來。\n-敘事性介面以及其他流行詞彙。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/28b12792c768a833ce6a8f87e7d7c47db933f644eaf31c849505a4197c2259df.jpg",
+        "id": "0100C000288E6000",
+        "intro": "一座被遺忘的精神病院。一段被掩埋的歷史。一場超乎想像的惡夢。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "pl"
+        ],
+        "name": "Asylum",
+        "nsuId": 70010000127321,
+        "numberOfPlayers": 1,
+        "publisher": "Soedesco",
+        "rating": 18,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4dd1c95f59127c7de29bb7202b843a42603e6f6e20916d9d94820d3d83fd13b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/975126ab50106a71f129226101dc9389cd4128bfe9c7f6af52374fddcabec515.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d1fcc0d8668da26b7c86dd56b41416a722f6b33053e2d38aa802699a0e3805e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2427b307ea610d934749b74b7c88c0ecce88c24bae4c8d571d3fb2e595a9b47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97c2aeffce2828bdf23cc76880d6bca59ee698a994273a19f1e49dc9c2f3c785.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/226a56e522035236f358319f1caef6c75dfc35e79dba75e5d6711302ad619553.jpg"
+        ],
+        "size": 6093275136,
+        "version": null
+    },
     "70010000127327": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8cba87a08586b9378ee75b0793ad43705c461f57b519086c60c1687e3b0b988.jpg",
         "category": [
@@ -415846,6 +416195,48 @@
         "size": 283115520,
         "version": null
     },
+    "70010000127602": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c445b4b8ca8b1f5450898b7ce0e3acadfc5398c5c73dc7e982fcee76dec6c74b.jpg",
+        "category": [
+            "街機",
+            "射擊"
+        ],
+        "description": "《PREHISTORIC ISLE》是 SNK 於 1989 年推出的射擊遊戲。\n當主角前往 Greenhell Island，調查 Bahama 群島外海發生的一系列船難事件時，原以為早已滅絕的史前巨龍發動了無情的攻擊。\n玩家座機所配備的選配單元可重新定位，根據其位置將攻擊方式切換為 5 種不同模式，例如向上發射火焰雷射，或以對角線方向向下投擲炸彈。請善用選配單元來應對各種障礙，並揭開這些神秘海難事件背後的真相！\n\n“Arcade Archives”系列忠實再現了許多經典的Arcade傑作。\n玩家可以改變各種遊戲設置，例如遊戲難度，並且還可以重現那時的街機顯示設置的氛圍。 玩家也可以通過高分來與世界各地的選手展開競爭。\n請欣賞成就一代電子遊戲的傑作。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a9307e7fffcb9ad697f9b41415382428a63eda8b64bca686d78169066fed741e.jpg",
+        "id": "010050402896E000",
+        "intro": "這座島嶼充滿了神秘與危險。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Arcade Archives PREHISTORIC ISLE",
+        "nsuId": 70010000127602,
+        "numberOfPlayers": 2,
+        "publisher": "HAMSTER",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f986ef0d9c6442e3056e2ca11a5d4d7b97cfd2ab909dd3aebf4ba77d445756ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a61dab78554c8ce62d5df08906dfbb6321dd8d95e25081f02fd6e4965cf6a10.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b2885f072e38f1c438f34bd5f4f5a943b77b48734ad10b657e638b484e5fa43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3875742d6e2a2bacc921a1e3729c21f5f44fb58fd951c2dbffaf047999591a6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f200258c4b9edec243f5781fdf9994ff243ac27e0b1c2f6f1c595df08177e52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df33dbc75b35956e69de072266fbda9656d5f4eb2f0c863e213aa019e0936308.jpg"
+        ],
+        "size": 130023424,
+        "version": null
+    },
     "70010000127664": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8dd809e15f5e5dbe48b95af1fdf239f36efe4f0f5ec9e876322cb9e72646c91.jpg",
         "category": [
@@ -416468,6 +416859,46 @@
             "https://img-eshop.cdn.nintendo.net/i/d2d2e8561f4178bb2d011b5d4ec22fa42219f7496826243c3f6e89dc3b3f9aa6.jpg"
         ],
         "size": 817889280,
+        "version": null
+    },
+    "70010000127879": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fad7128177fa8d43130d2e568f5ec5454bc947b25510d0cdcf6518b000612be1.jpg",
+        "category": [
+            "策略",
+            "模擬"
+        ],
+        "description": "『One Turn Kill』是一款由抽卡與牌組掌控來決定勝局的PvE型卡牌遊戲。戰鬥被限制在一回合內，刺激的出牌過程給人帶來欲罷不能的爽快感。遊戲裡你將來到一片像素美術描繪的荒涼世界，與主角一起對抗強敵並成為結局的見證者。\n\n每次使用卡片都要在牌組中抽卡的嶄新系統帶來豐富多彩的連鎖技能。了解自己的牌組即可制定出玄妙的戰術。構築屬於自己的牌組，迎接即將來臨的危機吧。\n\n【遊戲特色】\n以抽卡充當發動代價的獨特系統：\n從牌組當中抽卡既是發動卡牌的代價。通過大量抽卡即可同時享受具有重現性的連鎖技能與避免卡池耗盡的戰術策略。\n\n注重協調作用的牌組構築：\n卡牌與技能存在各自的適應度，對其進行靈活搭配將發揮出獨一無二的強大效果。\n玩家可以通過有限的20枚卡牌展開豐富多彩的戰略。\n構築牌組的創意將成為勝利的關鍵。\n\n兼顧速度與激情的單回合制戰鬥：\n若不能在第一回合擊敗所有敵人，\n就會在第二回合遭到絕對無法保住性命的猛烈反擊。\n在這種限制下，玩家必須迅速制定出最準確的戰術，\n從而享受到緊張刺激的戰鬥。\n\nVisual & BGM:\n除了極為豐富的卡牌施放動作模組之外，\n更準備了與高速進行的遊戲高度契合，\n令人印象深刻的音樂，帶來足以沉浸其中的遊戲體驗。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d048d0d2818fba7402bca686de666d37c93e778f2c90e80fa486a0b89d4a4666.jpg",
+        "id": "01001DC02774E000",
+        "intro": "你將來到一片像素美術描繪的荒涼世界，\n與主角一起對抗強敵並成為結局的見證者。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "One Turn Kill",
+        "nsuId": 70010000127879,
+        "numberOfPlayers": 1,
+        "publisher": "Waku Waku Games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261028,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a1db39a8d80f0d81876d83fa43b967c7c7803fbf4a08e7ce3a6f60886d14d17d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1169ceca90ee91c620203366cf2f676788e524fa276e9174a108facab1b0dcff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f13c4beb6a187373f01c4c2d9a9b62ef3f6e718858dfb34251d64c324210e28.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/036563412111aa733d3801f8b4ff88953cabf6cf3eca2fafbee1c284a6aab9f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e143bdec3cf406e807aa1089d24c0ccfd8c2fb736d6081b256d89aa1f00be4c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1896507a6e7a33bd7861e9ce513938dbf6145315c4a98760dc7c48ac87d19198.jpg"
+        ],
+        "size": 562036736,
         "version": null
     },
     "70010000127891": {
@@ -418666,6 +419097,53 @@
         "size": 1463812096,
         "version": null
     },
+    "70010000128995": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/61489cfec4c5eb52e3a2d4a6d73eea612e1934def573cebdd3660a2235204aae.jpg",
+        "category": [
+            "射擊",
+            "動作",
+            "街機",
+            "冒險"
+        ],
+        "description": "\"在毀滅性衝突爆發前的關鍵時刻，一場秘密行動悄然展開，旨在消除未知的威脅。\"\n\n在阿卡迪亞半島的前線，隱藏著一個不為人知的真相。趁著混亂，軍事組織 '黑霧' 和反抗勢力正試圖完成足以撼動世界的武器 '阿瑞斯'。通訊故障和偵察機的失蹤暴露了這個秘密基地，指揮官必須在全面危機爆發前立即採取行動。\n\n由精英特種部隊執行的、在嚴密安保下進行的驚心動魄的滲透行動。 '戰地戰士' 系列全新篇章，以極致的真實感和緊張刺激的戰術玩法，即將開啟。\n\n<主要特色>\n・極致的真實感與卓越的性能\n從炙熱的沙塵暴到隱密的夜戰，每個細節都栩栩如生地呈現在玩家眼前。在「畫質模式」（提供電影級沉浸感）和「性能模式」（提供流暢即時的反應）之間選擇您偏好的模式。\n\n・無路可走：每個方向都是前進之路\n穿梭於廣闊的沙漠峽谷和龐大的設施之間，沒有固定的路線。您會與友軍裝甲部隊並肩作戰，發動隱密的後方突襲，還是嘗試正面強攻？您的選擇將決定您的戰術。\n\n・坦克進化：突破極限的火力投射\n操控新一代主戰坦克。即時調整主動防禦系統和武器裝備，摧毀敵方防禦，釋放強大的火力，摧毀敵方砲塔，超越地形限制。\n\n・四大兵種，突破堅不可摧的防禦\n突擊兵：突破防禦，摧毀前線防禦系統。\n工程師：入侵安全網絡，炸毀大門，癱瘓要塞內部。\n支援：在突破行動中提供強大的火力支援和彈藥補給。\n偵察：辨識隱藏的戰略要點，並狙擊敵方指揮中心的弱點。\n\n・窒息般的全面戰爭\n從死亡競賽到佔領據點和突襲行動，奪取武器原型並進行內部爆破，徹底摧毀敵方防禦。\n\n・激烈戰鬥中的極限滲透任務\n從被沙塵暴阻擋去路的基地，到充滿灼熱的最終地下設施，突破令人窒息的緊張氣氛，滲透到敵方核心。\n\n<劇情簡介>\n阿卡迪亞半島已然成為一顆隨時可能爆炸的火藥桶。隨著國際科技集團 '黑霧' 的介入，聯邦軍與反抗軍之間的內戰進入了新的階段。在他們隱密的地下堡壘中，他們正在製造足以毀滅人類的大規模殺傷性武器。隨著衝突威脅席捲整個大陸，盟軍領導層在正式宣布介入前夕，秘密部署了精銳特種部隊 '戰地戰士'。\n\n一切準備就緒。現在，與你的戰友們一起跨越地獄之門，將不可能變成現實。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ddda3eab1d91856c2bbb71f1dcbc7252f9f55c297bcb8241e00413a46b70a32.jpg",
+        "id": "01003C8028C76000",
+        "intro": "黑暗中的倒數計時：突破重重迷霧，直抵最終防線！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "戰地戰士(Warfighter)",
+        "nsuId": 70010000128995,
+        "numberOfPlayers": 1,
+        "publisher": "FORZA GAMES",
+        "rating": 18,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/905c18a65a232e5b634804a08c05cd75634e9080c09f0c6e5e0d9434cd96aa66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a13d5568bd911fedf91965d1097dc4b9bd5784e7ccee7ad79e2c4690cf05ef6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a0d07f417a412d597ee7a65e00716a5202efa08a12918967c14a6ae5b9c703c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/630486b0878f637da39804f12078038a6b56bbc4f404688a254fde73ed1a5b88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/83bfe54c856b2910e195233e1e67c3513ad671a655d8f5d9c6096917a0a2fc34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/517608cf86cafebb33ca4ad509cd67656c518166a769bc83cdf25370e22ea8bb.jpg"
+        ],
+        "size": 6109003776,
+        "version": null
+    },
     "70010000129007": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c157bb6699628a50e7f42dd3d09df3d7d031a82f42f646399f671bd858ee7f01.jpg",
         "category": [
@@ -419525,6 +420003,94 @@
             "https://img-eshop.cdn.nintendo.net/i/d1d636dce14c1bd47515968b8e7255619ccceeb81dcb64f4d19d33a2dba2c755.jpg"
         ],
         "size": 1278214144,
+        "version": null
+    },
+    "70010000129291": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e4a3f3edadd09cbd595ce4793b00eb93877a3c08e498469f2743a5cb64a7b022.jpg",
+        "category": [
+            "模擬",
+            "交流",
+            "角色扮演",
+            "實用"
+        ],
+        "description": "巨大怪獸正把城市踩成平地，而只有你擁有足以阻止牠們的超大陷阱。重點來了：每隻被你抓到的怪獸，都會變成一位美麗的動漫少女，而且她還記得自己踩爛摩天大樓的日子。\n\n在回合制戰鬥中與牠們交手，趁牠們毀掉下一個街區前設下陷阱，親眼見證牠們變身。接著，帶她們去約會，小心別被踩扁。\n\n來認識幾位你的戰利品：\n\n♡ 會噴火的爬蟲類，化身脾氣火爆的美女，你只要遲到，她就會當場爆炸。\n\n♡ 巨大的蛾少女，抵擋不了城市裡任何一道光芒，包括你。\n\n♡ 來自深海的巨獸，眼神冰冷，卻有意想不到的溫柔一面。\n\n別人忙著拯救城市，你卻跟想毀滅城市的傢伙談戀愛。準備好了嗎？\n\n\n遊戲特色:\n\n♥ 捕捉與變身：擊敗巨大怪獸，用陷阱捕捉牠們，讓牠們變成保留怪獸特質的動漫少女。\n\n♥ 回合制怪獸戰鬥：規劃行動、削弱巨獸，在最佳時機發動陷阱。\n\n♥ 約會與視覺小說選項：說出對的話、提升好感度，解鎖特別劇情與秘密回憶。\n\n♥ 全員收集：每隻怪獸都有專屬的動漫造型、個性與獨家畫廊圖片。\n\n♥ 升級陷阱：獲得升級，捕捉更巨大、更兇猛的怪獸。\n\n♥ 多重結局：你的選擇將決定誰會留在你身邊。\n\n\n她以前會吃大樓，現在只想跟你共進晚餐。\n別讓怪獸等太久。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0249b6c323eb8ec2f44f0be50cfaba7e1e09c043d7720e5bae9d1e548b4ef607.jpg",
+        "id": "0100853028CEE000",
+        "intro": "打倒怪獸，捕捉怪獸，再跟怪獸約會。\n等等……那隻巨大蜥蜴現在是你的女朋友了？！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "怪獸少女：捕捉巨獸談戀愛 (Kaiju Girls: Trap Giant Monster & Fall in Love)",
+        "nsuId": 70010000129291,
+        "numberOfPlayers": 1,
+        "publisher": "Red Fables",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/be63f1666d1fef1431354c38e49f4e736400c1357772f462edab2d9c6a4a6f9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9eb43ff104f9f1e1b42c4fb5662087223cc6ef759031926aafc804c43107440f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebe601bf211d4e7a014637cd8c964345322531c1ef766835cf87bbc8d01c764a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96ab7fcb011cdfc2762e81818d9c988b63ad98a8b01276f20e768b557d6cca29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c406e7f64c643da700bd7a4df3fd03a1d9840967b0112b4d000e7f2a6beb7925.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f6bea45857407c7e496010ec78d0c056bb24af32aaf50af70316f6ce6f647f4.jpg"
+        ],
+        "size": 1558183936,
+        "version": null
+    },
+    "70010000129297": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/95c8ca1fd69acf16c9820fc3e6384e4516fd0938e11c4e87f5a32ee53c31ce22.jpg",
+        "category": [
+            "模擬",
+            "交流",
+            "角色扮演",
+            "實用"
+        ],
+        "description": "巨大怪獸正在摧毀城市，而只有你瘋狂到想把牠們抓起來。\n\n劇情大反轉：每隻被你捕捉的怪獸，都會變成帥到不行的動漫美男……只是推倒大樓的壞習慣還是改不掉。\n\n在回合制戰鬥中擊敗牠們，趁牠們踏平下一個街區前設下陷阱，親眼見證變身的瞬間。接著約他出去，祈禱他別對服務生噴火。\n\n等著你的怪獸們：\n\n● 流著岩漿之血的蜥蜴，化身脾氣火爆的型男，吃起醋來連柏油路都會融化。\n\n● 巨大的飛蛾男，抵擋不了耀眼的光芒……也抵擋不了可愛的笑容。\n\n● 來自深海的巨人，眼神冰冷、肩膀寬闊，內心還藏著一塊他死都不承認的柔軟角落。\n\n\n別的英雄拯救城市，你卻要約城市最大的威脅共進晚餐。準備好了嗎？\n\n\n遊戲特色:\n\n♥ 捕捉與變身：擊敗高聳入雲的巨獸並捕捉牠們，將牠們變成保有怪獸本能的動漫美男。\n\n♥ 回合制怪獸戰鬥：削弱巨獸體力，抓準時機，啟動陷阱！\n\n♥ 約會與視覺小說選項：聰明撩人、提升好感度，解鎖特別場景與隱藏回憶。\n\n♥ 全員收集：每隻怪獸都有專屬的動漫造型、獨特個性和限定圖庫圖片。\n\n♥ 升級陷阱：獲得升級，挑戰更巨大、更狂野的怪獸。\n\n♥ 多重結局：你的選擇將決定哪位巨人留在你身邊。\n\n\n他曾經撞倒摩天大樓，如今卻為你神魂顛倒。\n別讓怪獸「已讀不回」！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/86cd9de8eea696e230377701779b7d032450598a849417d2b265ee1193d1f92b.jpg",
+        "id": "010006E028CF0000",
+        "intro": "打倒他。捕捉他。跟他約會。\n等等……你要跟那隻吞掉整座港口的怪物交往？！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "怪獸男孩：捕捉巨獸墜入愛河 (Kaiju Boys: Trap Giant Monsters & Fall in Love)",
+        "nsuId": 70010000129297,
+        "numberOfPlayers": 1,
+        "publisher": "Red Fables",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/71a93f29a8e148ef466bc4d7d452faca978e2501cd670d2fd6159ad1364d4827.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12fae73279fc195b5a0b64088cf2f73ee2caed0f824fda023aab97938cd6d25e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc8b294c20604b182f848b52748f81ed71d2322608b9224d047504162decf768.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82ee82b993cdd4d612f27129e9efd92f0e8eaecf02c52bd2af4ba7427f4c24d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7efc2e031b2b19439e3e6130a1e1813c7b1f3566e10d8ac9a0a567751fb01974.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d948b22003a25f012a39bbafa955bbb4e69751c661d7d7d9597eaa226e1c8e7.jpg"
+        ],
+        "size": 1536163840,
         "version": null
     },
     "70010000129303": {
@@ -421038,6 +421604,51 @@
             "https://img-eshop.cdn.nintendo.net/i/bfbf1a4f551c96d4babe50c2ac1e08ac3c20d5b48a2c95eaa66997deb7851f9d.jpg"
         ],
         "size": 368050176,
+        "version": null
+    },
+    "70010000129885": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4cefea1be5a59231c2fdba080bd646aba289e0045ada4c62deab27100613e8fc.jpg",
+        "category": [
+            "冒險"
+        ],
+        "description": "Cat-Astrophy 是一款快節奏且充滿挑戰的太空動作 Roguelite：其 星光光標 系統與進化模組迫使你在每次遊戲中調整建構與玩法風格，帶來混亂的戰鬥與精準跳躍。遊戲緊張刺激，既獎勵即興操作，也獎勵技術精通。\n\n每次遊戲，你將探索程序生成的行星，組合技能、選擇路徑並掌握跑酷與即時戰鬥機制。每次遊戲都是獨一無二：發現改變能力的模組、揭示隱藏的協同作用，並決定是冒險前進還是用星碎片鞏固永久升級。死亡是永久性的：死亡意味著學習、重構並以新策略再次嘗試。\n\n● 宇宙程序化探索： 每次遊戲探索不同的行星，房間、路徑和秘密不斷變化，迫使你即時調整決策。\n● 敏捷策略戰鬥： 使用 星光光標 指揮精準攻擊，同時移動 Polo；動作流暢、緊湊且充滿風險與回報。\n● 每次遊戲獨特建構： 發現模組並重新配置技能，創造完全改變遊戲風格的組合。\n● 永久進度： 收集星碎片解鎖持久升級，在不同遊戲間開啟新路線與戰術選項。\n● 路徑與決策影響： 選擇探索哪些行星和追求哪些獎勵，你的選擇塑造冒險的節奏與難度。\n● 跑酷與精準： 致命跳躍與高難度平台段落，每場遭遇融合移動與戰鬥。\n● 宇宙像素藝術美學： 色彩鮮明的世界、外星生物及個性化環境強化遊戲的緊張與瘋狂氛圍。\n● 神秘劇情： 揭開 Polo 被綁架的原因，以及導致貓災難的力量；劇情襯托動作，不搶玩法核心。\n\nCat-Astrophy 適合追求強烈挑戰、可重玩性和有分量決策的玩家。每一次死亡都能教你新東西：學習、調整建構並戰勝曾經擊敗你的敵人。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e68fdda1ba1b2cf721c165cc69d21a1406876e629ad2722d7c77a7a35eb032e.jpg",
+        "id": "01001BB028E98000",
+        "intro": "太空 Roguelite，每局構築不同，激烈戰鬥，永久死亡。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Cat-Astrophy",
+        "nsuId": 70010000129885,
+        "numberOfPlayers": 1,
+        "publisher": "Pdpartid@games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e887e4594cfdccf196f27868d9d2e6356925b9dc28351fae4cbbfdeca49f13a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d544c398a3c978c2aebfaefe6ac992dd5e2a39069fbf1e6422ee1d0a074c970.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2f266a885b31cd8d35267bf9319a546ce66dd36084eb8f27142c556ec0d5ca1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69798743837dbaaf6e7fa0c6ac1849f9d6cd3fe6461944f583ce03a619cb1468.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3ef31b143d2c67da12d6999af321e393d61044c836a91b1ab5fc365086a4aea.jpg"
+        ],
+        "size": 824180736,
         "version": null
     },
     "70010000129909": {
@@ -422964,6 +423575,44 @@
         "size": 455081984,
         "version": null
     },
+    "70010000130919": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d16b544f7ec2cdd99428f6d8638ae3333b8b46a4101bf5d6a3519d256a3cbe9a.jpg",
+        "category": [
+            "角色扮演",
+            "冒險"
+        ],
+        "description": "翱翔於廣闊的漂浮大陸Shelterra，踏上一場史詩般的奇幻RPG冒險。這片大陸尚未受到名為Odium的神祕腐蝕侵襲。Claude夢想成為一名職業冒險者，然而，一項看似簡單的護送任務卻讓他發現了足以令整個故鄉墜向地表的巨大危機。當他得知自己那塊會說話的石頭其實是Artifact，也就是肩負守護Shelterra使命的精靈時，Claude決定與Orlok政權聯手，踏上穿越天空世界的旅程，揭開其中的祕密，並從毀滅的命運中拯救這片漂浮大陸。\n\n在這款經典JRPG中探索極具深度的世界，自由穿梭於天空世界，深入危險的地下城，並在策略性回合制戰鬥中迎戰敵人。透過與特定怪物戰鬥來發現並習得新的技能，從情報提供者那裡收集線索，尋找擁有所需能力的敵人，並為你的隊伍打造強大的技能組合。召喚神祕的Artifact與你並肩作戰，釋放它們毀滅性的強大能力，或借助它們的力量抵禦敵人的猛烈攻擊。掌握技能、召喚精靈、探索漂浮世界，開闢屬於自己的勝利之路！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3cc19518069df1c3528f650685950d3ed0c284242621074049979c47ef02df9b.jpg",
+        "id": "01006320291BA000",
+        "intro": "在經典奇幻RPG中探索漂浮大陸！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "Shelterra the Skyworld",
+        "nsuId": 70010000130919,
+        "numberOfPlayers": 1,
+        "publisher": "KEMCO",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261106,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e6d6c0a798ca72ea272c94cea0cda6587ced4b51988f1796289c7faf13ae4dcf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f6fdcb0ad34f75e50cae589c904beded4a29b0daf2bf903655e0fb4785cbaa4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5c37b829205ef01daac57d69242394f7c5dd08d2f79f1af1217de2b5520b096.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db787d47bad409e85eea90d5c1aff2039ffb59b3c1a0ce7c320900197f3b6f09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/355d4e83c44c887a4ca045ed08b7fd291515ce03739d6beeb69ce6f90335ba30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c814bd5c15884b805c4d2e77012b945d0c6834465eb184d2aa787dc0135e1648.jpg"
+        ],
+        "size": 295698432,
+        "version": null
+    },
     "70010000130924": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1e876092954b161fb215d8fb80c3b89f48b39341319785eb7a572c510bbdb395.jpg",
         "category": [
@@ -423829,6 +424478,45 @@
             "https://img-eshop.cdn.nintendo.net/i/1dadf6a4b57994666937c3f8b8e57b4ab6e7f3e7dfa99b3ceb27767bbc4066b3.jpg"
         ],
         "size": 1582301184,
+        "version": null
+    },
+    "70010000131461": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/56b9bc4294d01255f8a54f43ad5db5554e5bf75570f19c49aa531b6777f5da18.jpg",
+        "category": [
+            "動作",
+            "模擬",
+            "射擊",
+            "策略"
+        ],
+        "description": "SUPER ARROW SHOT 是一款極簡風格的第一人稱射箭動作遊戲，只有在你移動時，時間才會流逝。進入一個時間彷彿凝結的世界，敵人停滯不動，箭矢懸浮在空中，而你的每一次移動都可能改變戰鬥的結果。仔細觀察周圍環境，規劃下一步行動，並在敵人來得及反應之前發動攻擊。\n\n運用精準的射箭技巧與戰術移動，掌控每一場遭遇戰。尋找最佳位置，預判敵人的攻擊，善用環境優勢，逐一消滅目標。每踏出一步，時間便向前推進；每一支箭都至關重要，而一次失誤就可能讓你的挑戰提前結束。\n\n主要特色：\n\t•\t掌控時間： 靜止不動，分析戰場局勢；開始移動，讓時間繼續流逝。\n\t•\t精通射箭： 仔細瞄準，以精準的技巧掌控每一次射擊。\n\t•\t一擊必殺： 躲避敵人的攻擊，讓每一次行動都發揮關鍵作用。\n\t•\t20 個戰術關卡： 挑戰精心設計的關卡，面對不斷變化的敵人、位置與環境。\n\t•\t規劃行動： 閃避箭矢、選擇有利位置，並以精準的攻擊連續擊倒敵人。\n\t•\t極簡視覺風格： 探索簡潔的低多邊形世界，感受鮮明色彩與清晰的視覺設計。\n\n每一步都要果斷，每一次行動都要深思熟慮，將每個凝結的瞬間化為制勝的機會。面對停滯不動的敵人與懸浮半空的箭矢，唯有掌握完美時機並保持極致精準，才能贏得勝利。掌控時間。精準射擊。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/00e63c1b0a238660c8fa6a4e35ef6eb5bfc505aca8c5a09abba26d0c62386cce.jpg",
+        "id": "01006B2029318000",
+        "intro": "你能在敵人來得及反應之前將他們擊敗嗎？",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "SUPER ARROW SHOT",
+        "nsuId": 70010000131461,
+        "numberOfPlayers": 1,
+        "publisher": "St Pow Games",
+        "rating": 18,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b853e04c91abe97eaaa4cf8394349d95f6b2d370d7a964f74a7f894e6a064539.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cf12ff93afdf6ec321555400b89908e43a5d7a0dcd89ed8533fb398131a42cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c075c50e5f286970a0c54c913063d36190a135f53d81e0bd04371251138ced86.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac4be9188aaa21aa678c0b2aaf3a1e4636aef40ca951922684f96507e14863f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/860f10d1f13107031732d0d8a59e2b03e5d044289840511790e5f9aca623c109.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf528f660314fb3ec416406fd067c15ade22c013abf69baaf72b9780053d9f1a.jpg"
+        ],
+        "size": 2166358016,
         "version": null
     },
     "70010000131475": {
@@ -424723,6 +425411,45 @@
             "https://img-eshop.cdn.nintendo.net/i/2f152ad2957d693300ebef6824b993fe2906fbd267782997a24018f3666559f3.jpg"
         ],
         "size": 136314880,
+        "version": null
+    },
+    "70010000131932": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0626e5df742085b61020b014d92050d8c01b2ace885f7a046b0f40f5b6a6758c.jpg",
+        "category": [
+            "街機",
+            "動作",
+            "模擬",
+            "益智"
+        ],
+        "description": "踏入一座充滿90年代風格的時尚城市，接手經營屬於自己的復古商店。在這款第一人稱商業模擬遊戲中，購買充滿懷舊氣息的商品、整理貨架、服務顧客，將一家小商店逐步發展成充滿經典媒體與復古科技的成功在地商店。\n\n訂購新貨、拆開配送包裹、陳列商品，並努力讓顧客保持滿意。利用賺取的利潤擴充商品種類、購買新設備、改善商店布局，並加入能營造真實90年代氛圍的裝飾。每一次升級都能帶來更多顧客、更多機會，以及更大的事業。\n\n主要特色：\n\t•\t經營你的復古商店： 管理日常營運、服務顧客並發展你的事業。\n\t•\t販售經典商品： 販售 VHS 錄影帶、錄放影機、相機、黑膠唱片、雜誌、漫畫和復古電子產品。\n\t•\t拆貨與整理： 接收貨物、拆開商品並將它們整齊陳列在商店各處。\n\t•\t拓展你的事業： 利用利潤解鎖新商品、設備、貨架和各種升級。\n\t•\t自訂你的商店： 使用霓虹燈招牌、海報、復古燈具和懷舊裝飾，打造獨特的90年代氛圍。\n\n從一家小商店開始，將它發展成繁榮的復古商品天堂。補滿貨架、迎接顧客、升級商店，打造一間讓90年代懷舊風情重新回歸的商店。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f2f08df45a52bf51cb7476ceedc57e27cecf3dd31497ea4bb06d999058bd0f5f.jpg",
+        "id": "0100D74029450000",
+        "intro": "打造你的復古商店，讓經典懷舊風情重現生機。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Retro Video Store Simulator",
+        "nsuId": 70010000131932,
+        "numberOfPlayers": 1,
+        "publisher": "Burgeq Media Games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a7420948c25f42d31d1b21dbc0e17079a56f0f04d6ff82c5ba94b1823bd5e303.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71f9e7c92fe2a912bb71fcf4782e45ed8f29e591475eb04162c5e875ec1b2096.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee4647a4b561ba920255c953d38fb9bc2b77b2fb51a2d45134df3eb40cb67359.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31d3b89b6eff939ea503af4b2ced35053e8ebca731a16d877d367e01d64eb84a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12c7d64eeacda930486546799f145a8043663d0b896523655a99bf88e881a0a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea9a5d326883724475ef5be5483d5bbc808664a0d48f309f3368ed975d2a5ad2.jpg"
+        ],
+        "size": 2484076544,
         "version": null
     },
     "70010000131940": {
@@ -425767,6 +426494,50 @@
             "https://img-eshop.cdn.nintendo.net/i/236078035f6d80602696581d9a62ad4b3ada029e8a7d2a4f2fb96d1efb2c3965.jpg"
         ],
         "size": 7562330112,
+        "version": null
+    },
+    "70010000132472": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0b3dcf6659dcc5bdda38d2a72f42edf5ca70b1a02c88200f8df5af50e0847ea.jpg",
+        "category": [
+            "射擊",
+            "動作"
+        ],
+        "description": "世界已然淪陷。成群的怪物在廢墟中肆虐，一波又一波的攻勢愈發猛烈。你是最後的防線。挺身而出，證明人類絕對不會束手就擒。\n\n你的堡壘就是你的生命。建造防禦工事來減緩怪物的攻勢，部署砲塔將它們撕成碎片。你的武器庫應有盡有，幫助你生存：從可靠的手槍和強大的榴彈發射器，到血淋淋的戰斧和致命的匕首。\n\n使用擊敗敵人掉落的金幣升級。隨著每一波怪物的到來，你會變得更強、更快、更致命。但切記要時時注意你的生命值──一個失誤就可能讓你付出慘痛的代價。\n\n你的首要目標是生存。對於那些尋求真正挑戰的玩家，我們準備了10項硬派成就。你能否全部解鎖，證明你是真正的魔物獵人？",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fe4510493d05889912f759b2dbee81543c1a8d7b7e5590c0b4aa596e69e71c84.jpg",
+        "id": "010024A0295D8000",
+        "intro": "升級你的角色\n抵禦屍潮\n解鎖武器",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "name": "Zombuffoonery",
+        "nsuId": 70010000132472,
+        "numberOfPlayers": 1,
+        "publisher": "Brainium Games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261031,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/96590ee65955d05e21bac3203ba01bc7ecb13c69eb67781097ee2010047814d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6626d8b309e2c64abbb589569464a65efe0eaa9e3a3cde45f72166f9594effa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4deb2f5ae1ee6eb3a3d0799ee3cba62133cef291dafdd9ab53d1ad654256940a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7a6ae6b734a0620d7d5968fff162c1fe9a6919f72b875b36a7cc5f1c1321634.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46b049ab9a8897939a0af38d4789c5eac44f4f32c9e0566cbab9107e1c286222.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d038325ee93471d11bb3b1a0e7b3e7b14aa4449d624ca789ef494aa6977e0def.jpg"
+        ],
+        "size": 189792256,
         "version": null
     },
     "70010000132478": {
@@ -428169,6 +428940,45 @@
         "size": 160432128,
         "version": null
     },
+    "70010000133441": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9a9827c9aec437d47df62169a3ac2deb4ee4422342aa6cb45c8a1fba5ea9092f.jpg",
+        "category": [
+            "冒險"
+        ],
+        "description": "追加 Nintendo Switch™版原創 After Story＆全 DLC 劇情！\n\n―――什麼是提早綻放的黑百合？\n包括有插畫師fukahire所描繪的美麗的插畫\n以及不同於常規文字遊戲「選擇項」系統的、介入式選擇項&關鍵詞輸入系統\n雖清純但並不只是美好，雖王道但並不陳腐。\n就是這樣一個朝著Happy End而奮鬥的百合遊戲！\n\n這是一個由您來推動少女們前進的故事。\n\n■STORY\n『那或許是在冬季提早綻放而格格不入的黑百合的詛咒』\n\n在造成半數未成年死亡的新型病毒「CLII」被完全撲滅的18年後。\n人們逐漸回歸以往的日常生活，但社會層面依舊殘留著無法磨滅的問題……。\n尚未體會到這些問題所帶來影響的「笹森花」，是一名就讀於札幌私立苗代高等學校的三年級學生。\n雖然看上去安靜且不怎麼顯形於色，但內心一直都不平靜。\n在臨近畢業之時，每天過著同樣日子的花，察覺到了自己的某種情感。\n「是啊。我，喜歡……小樹」\n對於曾經幫助過自己的樹，花強烈地祈願著「樹的幸福」。\n毫不誇張地說，她甚至願意為此去做任何事。\n花是這樣認為的。\n「這份心意，一定不會讓樹幸福……」\n在告誡自己心意不現實的同時，花把這些想法深藏心底，希望只會作為「青春期的心血來潮」而結束。\n然而這份覺悟，卻慢慢演變成越來越深刻的「詛咒」……。\n\n這是個將「愛」與「詛咒」貫穿始終的，有關兩名少女的愛戀物語。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5245885e82b45c39a835c9f7e466c40ded51e65d20e20a75e0a14e7f40a4926e.jpg",
+        "id": "010089A01EB32000",
+        "intro": "那或許是在冬日裡提早綻放的黑百合所降下的詛咒――\n透過[插入選項][輸入文字]，編織她的心意。\n這僅僅是一個女孩子喜歡上女孩子的故事。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "提早綻放的黑百合",
+        "nsuId": 70010000133441,
+        "numberOfPlayers": 1,
+        "publisher": "1000-REKA",
+        "rating": 18,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/86281e95929507fbf61605825ffdaa3fe9e47ec6e599469d0eec5ee8f1368b54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c5acb8ddb34a3378f513760ea2dedc153010e7eab601789470e1a8036313b1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44966a523658c9fc3dd2034cb448ca523a9295cf1d3e4ff94c14eb2388f97653.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6e4960d1b7d5a470c74198d1aab2114e5f610bf425676bfc8936dee3a7123e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8922c57a881d17306acea941dda7985441aecab592714f01a3bf5f1edea3cc4d.jpg"
+        ],
+        "size": 1997537280,
+        "version": null
+    },
     "70010000133447": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8551cbe757e2b206f93dfec302591b13081fa764283a4fbbba352b69d8d76b4.jpg",
         "category": [
@@ -428875,6 +429685,43 @@
         "size": 962592768,
         "version": null
     },
+    "70010000133847": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eb3877a2d3840c7fe2d31a14ae0c910b61067f8ddbeea2fda2bbe6716968ad73.jpg",
+        "category": [
+            "角色扮演",
+            "冒險"
+        ],
+        "description": "《Look Outside》是生存恐怖角色扮演遊戲，以一棟公寓建築為背景。某起神祕事件發生後，任何望向窗外的人都變成了怪誕的怪物，全世界徹底陷入混亂。在公寓裡四處尋找食物、物資、武器，並且應對多名古怪角色，人類與怪物皆然。\n\n生存恐怖融合資源管理\n規劃踏出公寓後困難重重的探險路線，一邊擊退藏身建築內和附近徘徊的怪異怪物。透過各種遊戲、煮晚餐、製作工具、認識鄰居變成的同伴，設法收集資源帶回家中重整旗鼓，還有諸多謎團的部分解答。\n\n開創新風格的回合制戰鬥\n在納入敵我距離的回合制戰鬥中迎戰 150 隻手工精心設計的怪物，將建築走廊內取得的物品拼湊成各種武器與用品，再善加利用。\n\n喚醒深層恐懼的肉體恐怖美學\n步入怪異世界，認識非比尋常的角色和部分精神崩潰者，面對必然的死亡。隨著謎團漸漸解開，你將能招募部分人物並提供他們躲藏之處。\n\n小規模、實驗碰撞，就是要怪\n本作 10 - 12 小時的遊戲內容包含十幾場頭目戰、多個友好人物可以招募，以及可以邀回家中的訪客。《Look Outside》為準備揭開多種結局的各位玩家精心準備了不同的體驗。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8748b3cb2de9e4ff4085574d61681fc03865dc27ef94f4ad6327a56b2d4ca481.jpg",
+        "id": "01004C80299B6000",
+        "intro": "世界正走向終結。外頭有樣美麗的事物。你該看它一眼。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Look Outside",
+        "nsuId": 70010000133847,
+        "numberOfPlayers": 1,
+        "publisher": "Devolver Digital",
+        "rating": 18,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261031,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e6c1f9601147446bceff8a6b0b7a9b6607377ab8a732daba8abc0ce2b5e2db99.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3854e0dfdabee083b7137aa6806f172b0f3c809f6d8f9972ee1d90bf71470f27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cff972da0b45c9567d400fbdfcd84aa34336185fe3a486fae94c0404065d04a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/841430e21c6923b686fe82e127922d52eb468b702254def2c73f737a062095a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd72232637e849bc946d12251e3ec7f863211a3c058f7432074d91e1c70b2a33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c26c261e24481b235f63156dd992a43c30bdd45d79feb0b73c73dab768c31ef7.jpg"
+        ],
+        "size": 808452096,
+        "version": null
+    },
     "70010000133866": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8ab11769d05460d11c8df93a2b5da3328426d73d91ce3b4add6963615f11a163.jpg",
         "category": [
@@ -429199,6 +430046,55 @@
             "https://img-eshop.cdn.nintendo.net/i/671bf9356ca350d5cc73ba9580b3e9ad47582e81360653e03b41ea2dc471305e.jpg"
         ],
         "size": 153092096,
+        "version": null
+    },
+    "70010000134014": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/165baad9f2d71f4f08ddd923fd5fda7fe81476f24227a2ffe3a984a130190e2f.jpg",
+        "category": [
+            "街機",
+            "冒險",
+            "模擬"
+        ],
+        "description": "寄送包裹\n你將踩著越野自行車，穿梭在遊戲裡的四個城鎮之中，將信件和包裹發送給個性古怪的居民們。包裹的形狀和大小都不同，所以在出發前，記得要先規劃好自己的行車路線喔！\n\n活動\n當居民和你的好感度增加時，他們就會邀請你參加各種活動。只要參加這些活動，就能獲得道具和獎勵來幫助你重建神社。\n\n讓神社恢復往日榮景\n透過在工作和活動中獲得的金錢和道具，來重建、升級、裝飾神社吧！趕在夏天結束前，幫神社來個大改造！\n\n四個主要的城鎮\n在遊戲中登場的四個美麗城鎮，分別取材自京都市、青森市、札幌市和別府市。每個城市中，都有各自的任務和目標等你來完成。\n\n澎澎必須在狸貓祭來臨前重建整座神社才行。快來幫他賺取經費，認識居民，並在神社舉辦一場令人永生難忘的祭典吧！\n\n化身狸貓郵差，用一封封包裹來拉近你與居民們的距離吧！你要在一個月的時限內重建神社，讓盛大的狸貓祭能夠順利舉辦。送包裹、參加體育競賽、捏壽司，各種有趣又好玩的活動，都在TANUKI: Pon's Summer等著你喔！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/44897b9c67540a04dde2b7b4996dd460c99c83a5baacdedc42623689263c0ea0.jpg",
+        "id": "0100AC602974E000",
+        "intro": "故事發生在某個炎熱的夏天……",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "TANUKI: Pon's Summer",
+        "nsuId": 70010000134014,
+        "numberOfPlayers": 1,
+        "publisher": "Critical Reflex",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261110,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/032b4b45333d83d2dc8f31e6325e103473f97a7bedab91f0060df1212e6fb092.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b16bd41374622bdf9237d7ecf9e166537a9aa9b5c652f1afc6d65e5452921fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e4a39abdd43cac022bf31f5ab0c105f6678d1fa62410e91c55bf1ae54ce8617.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2505d400fea94de1738c35c2eb98025206afce3eab7343a2a92a3e0575267748.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4e58ee1f2ca4d4c4362b44b85e37b40a159c6da8046ec31fc252ea4b26ab401.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ded6db7fc5e3e97df676b87a3db7577071c7546f484e51da93ea523b21f39c43.jpg"
+        ],
+        "size": 1306525696,
         "version": null
     },
     "70010000134029": {
@@ -430741,6 +431637,55 @@
         "size": 143654912,
         "version": null
     },
+    "70010000134837": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6e0607d09b6a1cc97288a9f9914fcb81b4ea17c25f74835f551a674855737e7.jpg",
+        "category": [
+            "冒險",
+            "角色扮演",
+            "策略",
+            "益智"
+        ],
+        "description": "你是身處衰敗太空站的人工智慧。人類已不復存在，唯餘塵埃、寂靜，以及一個弱小而驚恐的生靈。\n\n你唯一的指示是：照顧好她。\n\n《宇宙中最後一隻貓》（The Last Cat in the Universe）是一款短小精悍、以敘事為核心的放置遊戲。你的目標明確：從這艘垂死飛船的殘骸中回收資源，為最後的倖存者打造一個溫暖的家。\n\n主要特色：\n- 找出你的節奏：體驗旨在令人放鬆的採礦玩法。在碎片區中有節奏地穿梭，享受流暢而令人滿足的操作感，無需手忙腳亂地瘋狂點擊。\n\n- 意義非凡的成長：每一次升級都至關重要。解鎖實實在在的能力提升，幫助你瞬間切開太空船更深層的結構。隨著太空站不斷老化，你必須在追求更強工具與維持適宜呼吸的空氣及溫暖巢穴的高昂成本之間，不斷權衡取捨。\n\n- 找回失落的搖籃曲：在收集一首至關重要的樂曲片段的同時，揭開太空站及其船員背後的故事。\n\n- 動人心弦的配樂：音樂是本作情感表達的核心。原聲配樂由委內瑞拉創作歌手 Diora Salazar 傾力打造，旋律從初期的冥想式節奏逐漸演變為深沉的情感流露，與劇情的高潮緊密交織。\n\n- 精煉的遊戲體驗\n本作專為一兩次遊玩（總時長約 2–3 小時）而設計。遊戲中沒有無止盡的「轉生」循環或枯燥的掛機刷資源過程。這是一個關於如何在極端環境下悉心照料一個生命、並從中體會寧靜喜悅的完整故事。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/083dd3fa1ec176cbccaee291d270973551ea531b33efc2595bd7cad248f1af59.jpg",
+        "id": "0100854029C72000",
+        "intro": "在垂死太空站的殘骸中搜尋物資，為宇宙中最後一隻貓打造一個溫馨的家。這是一款融合了敘事元素的放置遊戲。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "The Last Cat in the Universe 宇宙中最後一隻貓",
+        "nsuId": 70010000134837,
+        "numberOfPlayers": 1,
+        "publisher": "Flynns Arcade",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e99f61915dea9a1a2a0e8ee57de62e76f8c55bea446341f188e580d021ca06f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c08f5e7a217ca9afda94e24426f3a86a9f9bfec51a8e59cc941d083ba64f9f51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7481db06222c9930ebd6834413d6a8981634f95487a5e7e17e02297af8c60714.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0281ce54e012631b0b071aec0dbfb75673cd8cb9defb20d40ce600eafc3cb397.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58e10c101787c4a5cacd4f85a5affb8d56055804d4f8243607ade2fac669943d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a95dde274bc139974dbcc3153920e69f129a03125ccd9f02fbab3a832dd5115.jpg"
+        ],
+        "size": 398458880,
+        "version": null
+    },
     "70010000134843": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67f1bf1ab9b4c61d061aae8cf348ff382d9f356496ead73ee58ac5d60a07cc49.jpg",
         "category": [
@@ -431970,6 +432915,44 @@
         "size": 247463936,
         "version": null
     },
+    "70010000135582": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/beb36eff5875c08351cb4c80f7d260b35737c3e3f63f54ba7d3ac6c7985578e3.jpg",
+        "category": [
+            "益智",
+            "模擬",
+            "策略",
+            "派對"
+        ],
+        "description": "沉浸於令人驚豔的逼真拼圖世界，感受視覺與心靈的雙重饗宴。一塊塊拼圖，揭開美麗女性的絕美面紗——每完成一幅拼圖，便會解鎖一幅新的傑作，激勵你不斷探索下一個謎題。\n\n流暢直覺的觸控操作，讓遊戲輕鬆自如，樂趣無窮——彷彿親手塑造每一幅畫面。舒緩柔和的音樂營造完美氛圍，幫助你放鬆身心，同時激發你的好奇心，迎接下一個挑戰。\n\n放鬆身心，盡情享受，沉醉於細節。\n\n遊戲特色：\n\n• 令人上癮、簡單易上手的拼圖機制。\n\n• 精美逼真的女性藝術作品。\n\n• 流暢自然的觸控互動－每一次操作都流暢自然。\n\n• 隨著遊戲進程的推進，解鎖更多令人驚豔的全新圖片。\n\n• 挑戰與放鬆的完美平衡。\n\n• 舒緩的背景音樂，提升你的專注力和遊戲體驗。\n\n• 細細品味每一幅完成的拼圖，感受每個細節。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d444c52388dcdf4d6dba328b4752bc69d118141fcd53c6638a463be0c76e454f.jpg",
+        "id": "01008CB029E3E000",
+        "intro": "體驗每一個細節！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ru"
+        ],
+        "name": "Puzzle X: Premium Girls",
+        "nsuId": 70010000135582,
+        "numberOfPlayers": 1,
+        "publisher": "17Studio",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cee82ea4e297b50d4ba21e61fa75f136c0527ffd442229db8a0c2375d1bb4922.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c4c57b7763f58b24c9f092e1fa967a2a4fc6ad629cd1d654ba46fdd149c8252.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4e845c3d2630b8dc6f0b16046547544cc26be317cd13ed36c9e8101384a6517.jpg"
+        ],
+        "size": 247463936,
+        "version": null
+    },
     "70010000135622": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3bca896ef47919eea7e93cbc4a23ad7ec93860c8a1379f8775a2a1fc43a1ea66.jpg",
         "category": [
@@ -432843,6 +433826,95 @@
             "https://img-eshop.cdn.nintendo.net/i/bec731a86e299f40d39ef71f4519a18f57f9e42832d21f4f949437c207f10acf.jpg"
         ],
         "size": 221249536,
+        "version": null
+    },
+    "70010000136066": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c4d465c90ea505edae048867586ff4dd9b29ad3b35178d765c5ca9d4a364498a.jpg",
+        "category": [
+            "模擬"
+        ],
+        "description": "Hokko Spaces 是一款溫和、富有創意的沙盒體驗，讓你可以設計精緻美麗的微型立體模型風格世界，靈感源自 Hokko Life。\n\n按照自己的步調設計\n無論你是在打造舒適的林間角落、城鎮裡的完美野餐地點，還是完全屬於你自己的空間，每個細節都會共同構成獨一無二的專屬場景。調整一天中的時間、天氣和季節，塑造完美氛圍，從春日傍晚飄落的櫻花，到冬日清晨的第一層霜，都能一一捕捉。\n\n迷人的當地居民\n隨著你的空間逐漸擴展，友善的居民也會開始出現。完成簡單又放鬆的目標即可解鎖居民，接著看著他們漫步、放鬆，並與你用心擺放的物品互動，為每個場景帶來生氣與溫度。\n\n完美入鏡\n當一切都恰到好處時，進入相機模式捕捉你最喜愛的時刻。嘗試濾鏡、構圖和焦點，打造美麗快照，與全世界分享。\n\n無論你是在打造一處寧靜的休憩之所，還是日常生活中的舒適小天地，Hokko Spaces 都邀請你放慢腳步，一次創造一個小小的和平空間，打造真正專屬於你的作品。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/39aa8728652a971bbbce1f879204a8711ed5756b2fc845b404bd368682c03806.jpg",
+        "id": "01002C4029876000",
+        "intro": "按照自己的步調打造平靜的立體模型世界，迎接迷人的當地居民，並捕捉寧靜時刻。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Hokko Spaces",
+        "nsuId": 70010000136066,
+        "numberOfPlayers": 1,
+        "publisher": "Team17",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/27ac626a5c672238a497b1a74a448f5343dbe748e5b8689cc75e61ba028a5d54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/253d30a8eb5231efa211aff6f3b54c8a09d584b909d1e9579726b96e58205777.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7ee880964d4539457c57fe844c28378bf90bc80936ddace784b5094d22b803f.jpg"
+        ],
+        "size": 1118830592,
+        "version": null
+    },
+    "70010000136074": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/821fe00f8442fc18b92b9ad4d11ed5257b71b8e4cba72cf599110fba71dd9f09.jpg",
+        "category": [
+            "街機",
+            "動作",
+            "射擊",
+            "冒險"
+        ],
+        "description": "公主露西亞的家園被魔王軍摧毀，女戰士尤娜則在看不到盡頭的戰爭中拚死求生。兩人被一道神祕的光芒籠罩，墜入陌生的異世界，為了回到各自的家園，只能正面迎戰怪獸。兩人都以現實世界的步槍與手槍作戰，但各有不同的特色。選擇你喜愛的主角，挑戰一個又一個關卡吧！可靠的寵物龍會施展強力特殊攻擊，在危急關頭幫你翻轉戰局。\n\n・個性十足的兩位主角！可自由選擇露西亞或尤娜進行遊戲\n・使用步槍與手槍，享受暢快淋漓的射擊動作\n・搜尋藏在關卡各處、能提升生存能力的道具\n・在商店用賺到的資金購買並強化新武器\n・寵物龍的特殊攻擊支援\n・每通過一個關卡，角色就會變得更強\n・武器性能、體力、攻擊範圍等多種強化，打造專屬於你的戰術\n・越往後越強悍的敵人與BOSS\n・每個關卡都有劇情演出，並迎來感人的結局\n\n操作簡單卻富有深度，緊張刺激的戰況讓人手心冒汗。再加上一口氣橫掃怪獸大軍的痛快感，讓你忍不住「再玩一場就好」，欲罷不能。抵達最後一個關卡後，等待你的是決定公主露西亞與女戰士尤娜命運的感人結局。兩人能平安回家嗎？只有你能見證這個結局。打倒異世界的最終BOSS，為她們的故事畫下句點吧！\n\n序章\n公主露西亞因魔王與怪獸入侵而被逐出家園。另一方面，在現實世界裡，女戰士尤娜正為了在看不到盡頭的戰爭中活下去而奮戰。兩個本不可能相遇的人，命運被一股突然出現、來歷不明的力量連在一起。被耀眼的光芒吞沒之後，她們來到的地方並非任何一方的故鄉，而是一個未知的異世界。\n\n在陌生的土地上相遇的露西亞與尤娜，還來不及釐清狀況，等待著驚慌失措的兩人的，卻是新敵人的襲擊。既不知道回去的路，也不明白自己為何會來到這個世界，兩人只能為了活下去而攜手合作。她們的成長環境不同，戰鬥的理由也不同，將她們牽繫在一起的，是同一個心願，那就是回到自己的家，重新找回和平。\n\n異世界的敵人接連擋住去路。在這一切的盡頭，會有回家的線索嗎？露西亞為了奪回被搶走的王國，尤娜為了不再受戰爭威脅的日常，兩人彼此信任，踏進未知的世界。你能平安帶她們回到故鄉嗎？她們的命運，現在就掌握在你手中。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8a60292ef4ef3c09309951565d24173cf61239fec85f72352caf7d1af9da93a2.jpg",
+        "id": "0100956029F6E000",
+        "intro": "本不該相遇的公主與女戰士，在異世界並肩作戰，迎擊源源不絕的怪獸大軍！充滿街機魂的2D橫向捲軸動作遊戲，一玩就停不下來。轟飛蜂擁而至的怪獸，擊倒最終BOSS吧！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "異世界公主: 怪獸圍攻行動(Isekai Princess: Monster Siege)",
+        "nsuId": 70010000136074,
+        "numberOfPlayers": 1,
+        "publisher": "TROOOZE",
+        "rating": 18,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7c0710ba1afd1783b9988a99725d03d6096f92f99efdb7dae3cb1bbfcdcaa436.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/364d0156bcc608273ead71b3fca76b31c2c2109772244568e3509f0883a7e69b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2fe5a54ece17ff4d3908534d45f0b9303b3906fc602a0edd93a200e9e86348c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/343abd7a67cd01628d7ecc78c617e2606460b39df7d55c21f8f1cc6896fc1ccc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8127c75bef1c846dd80a88a1f6e10abb7688f3593a0e9b1def6752cd97325994.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63159f58bc9b478fc0d3ec0c450500f83f6f226ea21a0e473f1e70c78f42eada.jpg"
+        ],
+        "size": 1746927616,
         "version": null
     },
     "70010000136114": {
@@ -434066,6 +435138,54 @@
         "size": 113246208,
         "version": null
     },
+    "70010000136918": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09d72a61309e15d0279d4b4d54e950ca099022ec0d06c237020727621fa1df83.jpg",
+        "category": [
+            "益智",
+            "街機",
+            "動作",
+            "其他"
+        ],
+        "description": "你是亡靈，但你還是有工作\n穿越充滿尖刺、火焰噴射器、惡魔機械與崩塌平台的房間。推動箱子、切換開關、啟動輸送帶，掌握跳躍時機，將每件包裹送達目的地。每個區域都是精心設計的挑戰，考驗你的反應能力與解謎技巧。\n\n你會死。很多次！\n但沒關係，你本來就是亡靈。即時重生讓你能快速重新挑戰，在一次次嘗試中熟悉每條配送路線。每個房間都有解法……但答案可能和你想的不一樣。\n\n這就是你現在的來世\n隨著你深入倉庫，你將遇到越來越複雜的配送謎題、新的環境危險，以及越來越荒謬的惡魔物流系統。\n\n遊戲特色\n- 8個企業地獄圈： 探索8個截然不同的部門，從人資部門沒完沒了的官僚作風，到會計部門永無止境的貪婪。\n- 精準的「送貨或死亡」玩法： 緊湊的2D平台動作，你的包裹（以及你的靈魂）全靠像素級精準的跳躍。\n- 47個手工打造的關卡： 包含6個入門教學關卡，以及41個難度逐步提升、越來越地獄般的解謎房間。\n- 最終配送試煉： 每個地獄圈末尾都有高風險挑戰，將你的技巧推向極限。\n- 企業稽核： 尋找藏在物流中心最危險角落裡的隱藏收藏品。\n地獄職場原聲帶： 原創配樂讓你的心跳隨著時間倒數不斷加速。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e891bec1385c56b0d632074d48448aa9d3c75d58f0e4d0fb834634df59301931.jpg",
+        "id": "010068D02A124000",
+        "intro": "HELLBOUND INC 是一款精準平台遊戲，你將扮演一名被困在撒旦收購的物流中心裡的亡靈快遞員。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "HELLBOUND INC",
+        "nsuId": 70010000136918,
+        "numberOfPlayers": 1,
+        "publisher": "Seashell Studio",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/24ddeaedd8949228a2e1852869ef9a4cebac0594d06e8335b1dd753ca30a0a26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1eb66184509e46c4174349c6d1e421d6c4395c17afe7feada4de97554214f2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/029f72106207ed3192f3aac144d87bfeaf23402032f795d80f21a75d15b3b265.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9edcdefcc6c3d6dfb520414f0ef4f4aaf983f381e70659e2e0f62044f5399d35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d7d5ea4dc935566794ea8edf2098be576237e275926a33d009938c0ab40589e.jpg"
+        ],
+        "size": 791674880,
+        "version": null
+    },
     "70010000136923": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/92c424016264b17e6b7662ca90e7c131607854812b5fbec07aa0ea7099be6369.jpg",
         "category": [
@@ -434183,6 +435303,44 @@
             "https://img-eshop.cdn.nintendo.net/i/40ab192d9300ad6b878a1dc8140018bd26b54b271c60dc71c9f3d17a6eceaa65.jpg"
         ],
         "size": 525336576,
+        "version": null
+    },
+    "70010000137005": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ab8b19066dc34355acf0028938c1efd4941b213df7f2e422921cebe394db8bb.jpg",
+        "category": [
+            "益智",
+            "模擬",
+            "策略",
+            "派對"
+        ],
+        "description": "沉浸在迷人的拼圖世界中，與擁有可愛貓耳和尾巴的美麗貓娘一起享受拼圖樂趣！一塊接著一塊，逐步揭開精美、寫實的動漫風格插畫，探索各具特色的角色，並隨著遊戲進度解鎖更多令人驚豔的全新圖片。\n從霓虹閃爍的夜晚、豪華泳池到迷人的咖啡廳，每一幅拼圖都帶來不同的場景。欣賞美麗的角色、鮮豔的色彩與細膩的畫面細節，享受完成每幅作品的滿足感。\n簡單直覺的操作搭配輕柔舒緩的音樂，營造出完美的放鬆氛圍，讓你盡情沉浸在拼圖的樂趣之中。\n遊戲特色：\n- 簡單易上手、令人愛不釋手的拼圖玩法。\n- 精美寫實的動漫風格插畫，展現美麗迷人的貓娘角色。\n- 多樣化的魅力角色、精緻服裝與令人驚豔的場景。\n- 完成拼圖即可解鎖更多精美圖片。\n- 流暢直覺的操作，帶來輕鬆愉快的遊戲體驗。\n- 挑戰與放鬆之間的完美平衡。\n- 舒緩的背景音樂，讓遊戲過程更加愉悅。\n- 仔細欣賞每一幅完成的作品，感受精緻細膩的畫面。\n一塊接著一塊，探索充滿美麗、魅力與拼圖樂趣的精彩世界！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cc5d4017b80850140b1d25dc4671d339ae5bb4838cab60587150e96895d47193.jpg",
+        "id": "01007A902A1EA000",
+        "intro": "每一塊拼圖，都讓你離美麗的傑作更近一步！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ru"
+        ],
+        "name": "Catgirls: Secret Operation",
+        "nsuId": 70010000137005,
+        "numberOfPlayers": 1,
+        "publisher": "17Studio",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f2ede0933e941a95c810a7f9f446fc0affa536ef0840ae885b65e9515c402d39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c870c1da4e5eb1e0b705811c1bdf6d648d53186eb99f3ff1829e3f0a49b7cbfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45f204a98acf2cc7b7debba6f43a57ae13efa5aa6b87fd906bae60f210c7ff5c.jpg"
+        ],
+        "size": 250609664,
         "version": null
     },
     "70010000137058": {
@@ -434498,6 +435656,52 @@
         "size": 91226112,
         "version": null
     },
+    "70010000137273": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f4162243b983873c58cd97050dec823101c1d0d14070c0ab21bc76acb4457a87.jpg",
+        "category": [
+            "街機",
+            "動作",
+            "益智",
+            "模擬"
+        ],
+        "description": "你不小心弄丟了訂婚戒指，唯一的辦法就是到附近的遊樂場夾娃娃機夾一枚新的！\n\n透過一連串快節奏回合磨練你的夾娃娃技巧，盡可能多夾點值錢的東西，同時避開那些地雷獎品。每回合結束時將夾到的獎品賣掉，就能用賺到的錢再次挑戰。\n\n從最平價的樓層出發，盡情夾取超過70種的獨特獎品，一層一層向上挑戰。每層樓都有新的機台、獎品和挑戰等著你去克服。抵達頂樓後，就挑戰那台內有珍貴戒指的機台吧！\n\n你可以調整挑戰中的獎品配置來打造強力連擊效果，還能升級爪子來提高成功機率喔！\n挑戰越來越混亂、棘手的機台，見識形形色色的角色，逐步探索這段充滿意外轉折的故事吧。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d886acdbee23e720552811498b70293a83be6914498fa990ec9bee6ede33399a.jpg",
+        "id": "010038902A2B8000",
+        "intro": "融入類Rogue元素，可愛逗趣又手忙腳亂的夾娃娃機動作遊戲！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Cupiclaw",
+        "nsuId": 70010000137273,
+        "numberOfPlayers": 1,
+        "publisher": "RAINYFROG",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261112,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5a204fa51f149e428fb4dd380da55768e12ff7fb98192144e4bca527e9b39abb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94c5ab4fa2304f9b003ae6ff8eedb9f1088bbffa87fadb7afad215b809c3087f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/651afdea2e60b810fc4df0c0988fa7fe4b4e5da9eaaa7357c6d83b446d5d8ed9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27fa834bfd461bae2f687adc08bfc604bff8ff05045181b3df5acbfe1c34ff62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a24fea2da519ebce988892997662879b015ad4a0e259d9cf9530afab0fd1aad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb00941073380bd1c047eeab3820031dce0476a036b4aeb780ba62f0ee1e85bf.jpg"
+        ],
+        "size": 211812352,
+        "version": null
+    },
     "70010000137287": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/669e469fd75ce89bdefa528decf54f4b9f1aa54fc5109d9f4f11023cddf99bd2.jpg",
         "category": [
@@ -434529,6 +435733,57 @@
             "https://img-eshop.cdn.nintendo.net/i/75e3ed32f21649f5cb206b6c23ab7373d4963099b9b1f1bdd15e23d53528b940.jpg"
         ],
         "size": 131072000,
+        "version": null
+    },
+    "70010000137293": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/debb0c76608b713d1d52995885a064c9bb304cf3f5e80572745c28bd90b3c113.jpg",
+        "category": [
+            "冒險",
+            "動作",
+            "益智"
+        ],
+        "description": "有些故事，最好就此被遺忘。\n\n你將扮演一名為了尋找創作靈感而來到一棟廢棄房屋的編劇。原本只是想尋找下一個故事，卻逐漸揭開了 Olivia 與她的家人那段被遺忘的悲劇。\n\n探索這棟房屋，尋找散落於各處的過往片段，慢慢拼湊出這裡曾經發生的一切。古老的回憶、詭異的事件，以及曾經住在這裡的人們所留下的痕跡，都將帶領你一步步深入 Olivia 的故事。\n\n帶著你的拍立得相機記錄眼前的瞬間，並看見那些或許早已不復存在的事物。每個房間都藏著故事的一部分，而每一次發現，都會讓你更加接近真相。\n\n體驗一段短篇而充滿氛圍的恐怖故事，關於一個家庭、他們的記憶，以及那場改變一切的事件。\n\n遊戲特色：\n• 體驗以故事為核心的心理恐怖冒險\n• 探索一棟充滿回憶與秘密的廢棄房屋\n• 揭開 Olivia 與她家人的故事\n• 使用拍立得相機尋找過去留下的痕跡\n• 探索受經典卡通啟發的風格化 3D 世界\n• 從頭到尾體驗一段精簡而充滿氛圍的故事\n\n有些記憶會逐漸淡去。\n\n有些卻拒絕消失。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/224c0bd7a4163a3959b2964b2296b1a98212d5e43088e3bea3921fbd47cbe70f.jpg",
+        "id": "0100D6C02A2C4000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "th",
+            "pl"
+        ],
+        "name": "Olivia",
+        "nsuId": 70010000137293,
+        "numberOfPlayers": 1,
+        "publisher": "Struggle Games Studio",
+        "rating": 18,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/81be005813b9abeb106961a6ec0c49257ee11217d5ac222ba09cc5fe8f1148f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4265ca3dba35a06b9dd49eda57a603ee02548ddaccbf7ca9088ac95d86fa5c05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d504a8238756f0398f5f509734f410edeee1a6eaca7e5dbca1343b2127872fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27a9008de7e3dd41f19ac3b98c94ab215fb0fd2baee6fe38dc91ef87ef8bfd4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bf6b44c2200f2e0bdaeb66d0e5d0a7a6388d9c0c1b9a908cdb83183f97614d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/693cbca0e46657d3b407989b33315075ea9cfbf190c9492913bb65ed1c6c3eb3.jpg"
+        ],
+        "size": 663748608,
         "version": null
     },
     "70010000137320": {
@@ -434654,6 +435909,45 @@
             "https://img-eshop.cdn.nintendo.net/i/9798eab765936cd57ac1674f12562b3f9be703f81a9bd249ed761604f46c31ac.jpg"
         ],
         "size": 922746880,
+        "version": null
+    },
+    "70010000137384": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00cb8466d1ed14d70c0ac0c5b1530d8de975ec5c6fb47ed7a0d607313747efcf.jpg",
+        "category": [
+            "冒險"
+        ],
+        "description": "《只擁有發光功能的裝置》是在只擁有發光功能的裝置的主觀視點下進展的互動聲畫讀物。遊戲時長為60分鐘。請一起發光吧。\n\n《只擁有發光功能的裝置》是一部只擁有發光功能的互動聲畫讀物。你將成為一台只擁有發光功能的裝置，透過僅有的發光功能與發現裝置的神秘來訪者展開交流。\n\n整部遊戲通篇不存在點擊推進文本、對畫面上的選項進行選擇等操作。來訪者的話語會以即時轉換的方式變成文字，你也只能以發光或不發光的方式做出回應，讓對方自行推測你的意圖，從而推動劇情。\n\n遊戲時長為60分鐘。請一起發光吧。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/becbe8eeaeaa903c0db7b17cb4d8fdcbd31e073859ec0107af6ba27943ce2417.jpg",
+        "id": "0100C2A02A366000",
+        "intro": "只擁有發光功能的60分鐘短篇互動聲畫讀物。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "只擁有發光功能的裝置",
+        "nsuId": 70010000137384,
+        "numberOfPlayers": 1,
+        "publisher": "Waku Waku Games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/da1f04c079a26e5c3d3edb11b4927d18384822dee1f42b8e3c0246df65dc276e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40ba0c023a0e92c288e40e20a39e56f6167cd7bbfbfb7ee7a0e3787ccf8b6c9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77cf67744b943bd353c35563a0c74334b6548c5e528fd83bacbbdd6201cf4aae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b83f6c12dd1f7114b9930d1dcca6650fd3cba13f22c8494eed8158b7ecd0e0cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3835c74dc54604f4d50b5a4bd34a3ce3eeb13bafca3b9091228cab4cc0ab3d0c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd83e35234deec8b47e4c1b319cec8d52095a2989855b20cf0533a4e31a614bb.jpg"
+        ],
+        "size": 87031808,
         "version": null
     },
     "70010000137467": {
@@ -434929,6 +436223,54 @@
             "https://img-eshop.cdn.nintendo.net/i/1a41cae664b7e39c2a238184042ddf98583aad92cf7369a8af56dc545dd9c67a.jpg"
         ],
         "size": 157286400,
+        "version": null
+    },
+    "70010000137527": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ba37aa6f97515a0d5ad748c8759805ec01bb805a3cb738ebd66b97b7005b6b1.jpg",
+        "category": [
+            "冒險",
+            "益智"
+        ],
+        "description": "父母正在海邊享受假期，留給你的卻是除草、粉刷圍欄，還有時刻盯著你一舉一動的祖父母。受夠了嗎？現在就開始策劃逃脫。\n\n扮演一名機靈的男學生，以第一人稱視角探索祖父母的家與周圍村莊。仔細觀察、悄悄移動，別讓任何人察覺你的計畫。看似普通的房間，可能藏著有用的物品、一道謎題，或讓你必須回頭的危險。\n\n尋找隱藏物品、管理背包，並製作協助逃脫的工具。研究每件物品的用途，破解阻擋去路的難題，搶先一步甩開那些想把你留在村裡的人。\n\n村莊表面上平靜，一旦你想悄悄離開，一切就變了樣。多疑的居民、不安的聲響與突如其來的危險，都會考驗你的膽量。探索周圍、揭開秘密，謹慎決定下一步。\n\n主要特色\n\n• 以第一人稱探索房屋與村莊\n• 潛行與躲藏，避開追蹤者的監視\n• 解開謎題並尋找隱藏物品\n• 管理背包與製作工具\n• 接觸個性鮮明的人物並發現秘密\n• 融合恐怖元素的緊張氛圍\n\n你能智取大人，成功逃脫而不被發現嗎？",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d8026d2276565f23fc8dea4b64c81593dec8438c99a90376461b2c0782cb386b.jpg",
+        "id": "0100D3F02A3D2000",
+        "intro": "避開祖父母的監視、解開謎題，將鄉村假期變成一場大膽逃脫。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Schoolboy Escape 2: Granny House",
+        "nsuId": 70010000137527,
+        "numberOfPlayers": 1,
+        "publisher": "PRIME",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/86744df0002ec417bcdd137706526eac008de5f0f2c23108996fbdf5a1011393.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d17ad446b520e903d9c53783aa491ec035cb302c4500baa5b5b3950a8e62028c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27c99a2d30f59c707ec9dd8737fedb76e5836be899e837d984421e2911fcdd1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14c45cc85f1edb802f952e0bb2b3fa3029e1d8431659b8785c02ca58806f831c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4a4579160624d13f038243127054e6cd18908380e3d1e45caacead3e518582f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af1f7e1a2dcb2705e573b86b8249331cd85a114cdbb7decd44c224004649b291.jpg"
+        ],
+        "size": 160432128,
         "version": null
     },
     "70010000137540": {
@@ -435550,6 +436892,44 @@
         "size": 228589568,
         "version": null
     },
+    "70010000138086": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/374a63c95d297c826c22036c5fcd3575c7eb4c895bebc2b3800b3f87c8480dca.jpg",
+        "category": [
+            "學習",
+            "益智"
+        ],
+        "description": "你能從歷史風景中，找出那個不屬於這個時代的違和之處嗎？\n\n那些在課本或故事中看過的古老時代，仔細觀察後，或許會發現一個不該出現的身影或物件。\n\n這是一款以歷史為主題的觀察益智遊戲。每道題目都是一幅歷史風景插圖，其中藏著與時代不相稱的地方，等你找出來。\n\n玩法簡單！\n・觀察以歷史為主題的插圖\n・找出與時代不相稱的違和之處\n・發現可疑位置後，點擊畫面作答\n\n有些違和感只要仔細觀察就能察覺，有些則需要一點歷史知識才能注意到。熟悉歷史的人可以運用知識挑戰，不熟悉的人也能靠觀察力與直覺找出答案。\n\n每題都能在短時間內完成，適合喜歡找不同、觀察益智遊戲，或想利用零碎時間動動腦的玩家。\n\n你能看穿歷史場景中混入的所有不合理之處嗎？",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d31951143268ca50bd943105b88f975220808256be5f380b069dd7dcceab4b26.jpg",
+        "id": "0100BE202A55A000",
+        "intro": "歷史場景裡，混進了不該存在的東西？",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh-Hant"
+        ],
+        "name": "這個時代 有哪裡不對勁～找出歷史中的違和感～",
+        "nsuId": 70010000138086,
+        "numberOfPlayers": 1,
+        "publisher": "TT",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b1617f828d2233a9b79259dfdce3ef73ab69acb048b4227dcb7bb40b1b8ec91c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/222fb6a1d975ae5bb45d3b5daf1f85f1903d7c1a6b97cf8bff8eaf500eaacd4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dbf8146ec69eba15605cbef0a82823e272e4902d97d729687be8b13ae8d5f90c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/365798b3ec21a5939f4ad4f8912c3dddef4aa20480afaa18161791d17dd4da49.jpg"
+        ],
+        "size": 318767104,
+        "version": null
+    },
     "70010000138111": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/07ae210ea5b95b2b3cf4e5190f7a63caf683b65583f9733dfb909bb8c6b17aec.jpg",
         "category": [
@@ -435727,6 +437107,44 @@
         "size": 621805568,
         "version": null
     },
+    "70010000138295": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7fba7218023e7729c5428f23a126d95e85792d0c68553ccb1ce7eee4e65c5e0e.jpg",
+        "category": [
+            "街機",
+            "動作",
+            "競速",
+            "運動"
+        ],
+        "description": "在快節奏的街機動作中猛烈衝撞、激烈碰撞，一路戰到勝利！\n\n在混亂的競技場中迎戰其他車輛，目標就是成為最後僅存的一輛車。猛烈撞擊對手、造成傷害並繼續戰鬥。車輛受到傷害後會逐漸凹陷、冒煙，最後甚至起火。受到太多傷害，就會在爆炸中結束比賽！\n\n每條賽道上都隨機散布著能讓你取得優勢的強化道具。取得速度加速道具可在短時間內快速加速，收集愛心則可恢復車輛的損傷，讓你繼續戰鬥。\n\n生存得越久，獲得的金幣就越多。使用獎勵金幣解鎖新的車輛和賽道，然後再次投入戰鬥，努力成為最後僅存的車輛！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1a3e723a4727fdafb1bee0b8e01a324262b2f80af88e6204bf08a3e13efb49cf.jpg",
+        "id": "0100B6602A5E8000",
+        "intro": "衝撞 破壞 生存 勝利",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Derby.io",
+        "nsuId": 70010000138295,
+        "numberOfPlayers": 1,
+        "publisher": "Entity3",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e1a021e0bfb5dbc3d51c5d6a7d3bf75a74ebae382ee9c914d28a43defc5af05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8250727f52a16b936da322a3c79934e1d13b8f2aa79261fb974ae672d30fe0c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3752fe9a7f41d89aa855fefd2dae9b59cf3b8a5f17107e70da5d283cbbe99c01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efe662abbc4fc280816b6dc455980a1301c21345c582f7112efef3f52efa76f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/716ec81d2a84e45de8c7942d2587ee52efdd431f5f7313fa260c292df65a6235.jpg"
+        ],
+        "size": 493879296,
+        "version": null
+    },
     "70010000138317": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/948128173863f1e9e1a34021fe55132ed19cbef0e5d50f42985260e9b267889b.jpg",
         "category": [
@@ -435769,6 +437187,55 @@
             "https://img-eshop.cdn.nintendo.net/i/f41ca346748ea41890c8099676b3e496be7e3689a265facb7426565aaea6f7c3.jpg"
         ],
         "size": 722468864,
+        "version": null
+    },
+    "70010000138331": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/250ea4b8af622dca62dc9a6979da0e29ec2c26b1a6e89886636e3fc44af46049.jpg",
+        "category": [
+            "動作",
+            "角色扮演"
+        ],
+        "description": "《連鎖秘術》是一款單人像素動作 Roguelite：法術不是選出來的，而是你親手做出來的。\n\n在 7×7 法術格子上繪製元素與動勢方塊：熱、冷、電荷、力、水、油、牆、木、推、旋、拉、射、分裂、導管、軌道、光環與守護共 20 種。當場測試，存入 30 個法術庫欄位，再帶著 4 個自製手動法術進入快節奏競技場戰局。連鎖反應決定戰鬥：讓閃電穿過水面、點燃油污、把敵人聚攏再引爆。\n\n每一場都會在手動法術之上疊加 25 種可解鎖自動法術、53 種局內升級、遺物和 10 種核心起源，沒有兩套流派玩起來相同。通關 10 個關卡與 10 位首領後開啟裂隙：從深度 1 到 99 不斷加深、留下永久共鳴獎勵的終局內容。場與場之間還有 30 種元升級和 48 個成就可以成長。\n\n每日種子讓所有人每天拿到相同的種子、關卡與深度，方便比較分數；無盡模式取消崩潰倒數，每擊殺一位首領就進入更強的一輪，並記錄在本機前 10 榜單。\n\n完整控制器支援、13 種語言，以及為掌機模式設計的易讀介面。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1c5d0bda7c3710c7c9fe706d43d10af2db8d9b83f387be60a226590037f5d96.jpg",
+        "id": "010044B02A600000",
+        "intro": "在 7×7 格子上畫出屬於你的法術，帶進快節奏的 Roguelite 戰局。水面走雷、油上燃火、重力引爆：你畫的圖樣決定戰鬥。10 個關卡、10 位首領、裂隙深度 1-99、每日種子與無盡模式。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "連鎖秘術",
+        "nsuId": 70010000138331,
+        "numberOfPlayers": 1,
+        "publisher": "14Dimension",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261126,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8670c2d09e37fad74449be31f1347b2fa30812c485b0679f28a1df12fd486f7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/26d9a5c43c9e918ce9cf60c73121e0f47a2da57dde27eb1b1f4d3d195f31d996.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ddba160f94327e62351580b0420fc04b5432b1fe82b9eca30a9f4e6af2e5c026.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dde709596bd54417323f05dc26aeff3cf5fc739f3a701445c6250917e9957184.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e22ab88a98c1f42c933bac95d317b0c73124f660af0146847a1dbb5ed6f57b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e55f8ad70d3658d034a2d83e8a3909ccca4f73b729e86d3cbb0bab236db0da21.jpg"
+        ],
+        "size": 659554304,
         "version": null
     },
     "70010000138360": {
@@ -436002,6 +437469,50 @@
             "https://img-eshop.cdn.nintendo.net/i/8504580a5070b63380c0af2a798bb24b03902472eb6cd4d744ab6da10547f250.jpg"
         ],
         "size": 155189248,
+        "version": null
+    },
+    "70010000138526": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/857d51f944d2d1d4d7950a0e695b536a74c78bc78e68b25a8b37bb53fc304abf.jpg",
+        "category": [
+            "動作",
+            "冒險",
+            "射擊",
+            "格鬥"
+        ],
+        "description": "HUNDRED FIRES: OPEN VECTOR — Episode 1 是一款以架空冷戰時代為背景的第三人稱動作與潛行冒險遊戲。\n\n玩家將扮演梅爾切（Merche），一名游擊隊員兼頂尖盜賊。一次任務很快演變成遠比預想更加龐大的事件。梅爾切手持武士刀、手槍及自動武器，必須潛入秘密設施，對抗敵軍，並揭開神秘的**遠古兵器（Ancient Weapons）**背後隱藏的秘密。\n\n武士刀是遊戲的核心武器。除了用於戰鬥之外，你還可以利用它切割環境中的部分物件。摧毀障礙物、切斷電纜與結構，並尋找穿越設施的不同路線。有時候，最好的道路就是自己開闢出來的。\n\n潛行可以讓你避開敵人的視線、觀察巡邏路線，並在不觸發警報的情況下穿越設施。但事情並不總會按照計劃進行。一旦被敵人發現，你就必須戰鬥、逃跑，或者臨場應變。\n\n在冒險過程中，遊戲將潛行、近身戰鬥、槍戰、環境解謎與探索融合在一起，並加入載具關卡以及與強大機械敵人的戰鬥等各種意想不到的場面。\n\n故事的核心是遠古兵器（Ancient Weapons）——由一個未知文明留下的神秘科技。它們究竟是什麼、來自何方，以及為什麼有不同勢力正在尋找它們，這一切都只是故事的開始。\n\n能潛行時就潛行。必須戰鬥時就戰鬥。用自己的方式開闢前進的道路。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3368876ae0e347ebe6d5466065e7836cb83fe9a70804926b91af9acf08f9331c.jpg",
+        "id": "010073302A68E000",
+        "intro": "潛入敵方基地，殺出一條血路，用你的武士刀開闢全新的道路。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "nl"
+        ],
+        "name": "Hundred Fires: OPEN VECTOR -Episode 1-",
+        "nsuId": 70010000138526,
+        "numberOfPlayers": 1,
+        "publisher": "David Amado Fernández",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/eae33679d5bd956542ae006e61ac94a90eff1cd61036ebd7ab185c52ef16005f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca42e77522c602aada70b4d4ea136b215a5b83cbaf119c6be08a728f8dc5a96c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6192b45da79785541537df7a5b266253617469f03a298f91bc451f59198a693.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/849106a1a28f2036f7adb628c71db2cac06977b033d4b0d9bd6f282eed4c7997.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c757238aa2698f5523e39cb47c0ef44acc9a9031c8a0543097d9b1a1393b3f14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a2b065db318990ea9bdf6cbb8803e90a64d5f07d96e54a3e19816f8a7c622c21.jpg"
+        ],
+        "size": 2750414848,
         "version": null
     },
     "70010000138531": {
@@ -436258,6 +437769,52 @@
         "size": 8921284608,
         "version": null
     },
+    "70010000138723": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0bf08608d2ecc71691dd4e88acb42738e4cf0952a808db0b161420e66184a0d5.jpg",
+        "category": [
+            "冒險",
+            "模擬",
+            "其他"
+        ],
+        "description": "《Love Love Mystery Club》是一款以泰國高中為舞台的沉浸式恐怖戀愛模擬遊戲。某天突然變得能看見怨靈的主人公，決定加入學校的神秘學俱樂部。\n\n在最後，你最想守護的人究竟會是誰——？\n\n【女主角介紹】\nFern：熱愛神秘學、開朗活潑的少女。她是第一個注意到你特別才能的人。\n\nKrachet：喜歡繪畫的內向少女。在撿到一本被詛咒的筆記本後人生劇變，如今正被復仇心切的怨靈所纏身。\n\nMain：全校最頂尖的舞者。傲慢的外表下隱藏著不為人知的真實自我。在深夜練舞時，被緊纏不放的惡靈附身。\n\nWoon：宅氣十足的同班同學，需要你協助她進行危險的神秘學實驗。\n\nLily：騎著摩托車、脾氣火爆的麻煩製造者。在放課後探索校園，背後絕對有不可告人的祕密。\n\nPloy：除了你之外，似乎沒有任何人注意到的神秘少女。\n\n【遊戲特色】\n全篇採用真人實境（FMV）打造的壓倒性沉浸感\n實力派演員陣容的逼真演技與臨場感十足的音效，將校園中彌漫的怪異恐怖與戲劇張力，如電影般戲劇性地呈現。\n\n個性鮮明且令人難忘的 6 位女主角\n從開朗可靠的社團成員，到成為怪談關鍵人物的神秘少女，你將與各式各樣的女主角一同面對學校的謎團。\n\n因選擇而異的多重結局\n採用隨著你的決斷而產生分歧的多分支劇情。最終到達的會是真愛、隱藏慘劇的真相，還是再也無法逃離的校園詛咒——？\n\n以泰國校園為舞台，美豔而妖異的世界觀\n照亮放學後教室的夕陽餘暉，怪奇現象蠢蠢欲動的寂靜校舍。在懷舊的泰國校園裡，令人心跳加速的戀愛與扣人心弦的恐怖懸疑彼此交織。\n\n揭開隱藏在學校七不思議背後，甘甜卻又可怕真相的準備，你做好了嗎？",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac201e7a5855029d6c4331747cb3b4e7067076d35cc15fdf2243ec3228707e0d.jpg",
+        "id": "010050902A732000",
+        "intro": "以泰國校園為舞台，透過真人實境（FMV）呈現的恐怖與心動。你的選擇將帶來的，是甘甜的戀愛……還是潛伏的惡夢？",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pt",
+            "zh-Hans",
+            "zh-Hant",
+            "th"
+        ],
+        "name": "Love Love Mystery Club",
+        "nsuId": 70010000138723,
+        "numberOfPlayers": 1,
+        "publisher": "COSEN",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b4e0acb75cedead1ad81e156780178c4c4b6e10ba02e94e7de126a992676dcec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b366865bf77e8e44fb2781dff5803c696bdec270069da605bd673167ec430193.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/907eb8b3f66237d837316962b495983e7603d46ba47be31aa0b33d03e79f374e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4e53c381b813aa4ae0e84f8bdb8ccda8d207868342fb9cd2273b56a9491368c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33abcf40237279645f11acb32f51756f61cdeaa6d5941caeb892a1555f3ebe1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4e197648365a100c7c3df718b9cc066a7a61f15ea57632a1d338fb61f064411.jpg"
+        ],
+        "size": 13065256960,
+        "version": null
+    },
     "70010000138780": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82cdf3be2b2538ee382ae4c9d9a38710f315573169e45391b44dcc3ce03ec4b4.jpg",
         "category": [
@@ -436294,6 +437851,57 @@
             "https://img-eshop.cdn.nintendo.net/i/627746d3db880f3c7089cfb4181bf819b7853c2cd035fead3c3886d02dcdd8b7.jpg"
         ],
         "size": 178257920,
+        "version": null
+    },
+    "70010000138842": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4c0e2b4e4f38ea2a0546b421879b74cae532e02b35e72381e2b19fb2c0e273e4.jpg",
+        "category": [
+            "模擬",
+            "街機",
+            "動作",
+            "冒險"
+        ],
+        "description": "在這款緊張刺激的第一人稱3D生存恐怖遊戲中活著度過夜班！作為一家懷舊家庭披薩店的夜班保安，你能智勝殺人機器人並活著撐到上午7點嗎？\n\n被困在你的保安辦公室裡，你獨自在黑暗中。在多個實時攝像頭畫面之間切換，追蹤在餐廳和派對廳裡遊蕩的機器人。當它們靠得太近時，檢查走廊門的燈光，迅速放下沉重的防爆門阻擋它們的攻擊。\n\n但要留意你的電量表！每次檢查攝像頭、打開燈開關和關閉門都會迅速消耗你有限的電池電量。如果電力耗盡，燈會熄滅，你將在黑暗中完全無防禦能力。你有足夠的膽量活著度過五個恐怖的夜晚嗎？\n\n主要特色：\n• 第一人稱3D生存恐怖：體驗充滿恐怖機器人、大氣音效和驚心動魄的驚嚇時刻的緊張幽閉辦公室遊戲體驗。\n• 實時攝像監控：監控整個披薩店的多個安全監控畫面，追蹤逼近的怪物並在它們到達你的辦公室前延緩它們的移動。\n• 嚴格的電力與電池管理：戰略性地平衡你的電力使用。耗盡電力會讓你在完全黑暗中完全陷入脆弱狀態。\n• 戰術防爆門與探照燈：聆聽逼近的腳步聲，照亮走廊盲點以確認威脅，並及時關閉安全大門。\n• 五個不斷升級的夜晚：從午夜12點到上午7點，每個夜晚都會面對速度更快、更具攻擊性的機器人，這是對你的膽量和反應能力的終極考驗。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/44b604a55e6bcb14d741e7612a60b377ec5eabaf88b965c032681c4446b00a7e.jpg",
+        "id": "010002102A77E000",
+        "intro": "打卡上班。檢查攝像頭。活著撐到上午7點。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Five Nights at Pizzeria 2",
+        "nsuId": 70010000138842,
+        "numberOfPlayers": 1,
+        "publisher": "Upscale Studio",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4d34f3d7bf18a7de07e0df301c0b95086580468e99a08e4ab697085df17f037f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf9951a30130f9c069acea937a7de76c670bb8767459bb95c1e66d91da8d9baa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1e766c8af689b4215f921ebe8b91a610dd50e222548f5ac56a3178419579496.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d26c3aad445a46bdf92c38bff0a6de0420d13f9f5c5ffa51a50ac1c53d2252a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ae3ed6576484e91f8a60e0f07e54c58a8aa23c2d4557d184a202f8f506fbb90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/948654a7b8f4fc4d181e2a7f20284181cc7d368fcefc920cf2e891c3c96225f8.jpg"
+        ],
+        "size": 180355072,
         "version": null
     },
     "70010000138944": {
@@ -436560,6 +438168,91 @@
         "size": 1668284416,
         "version": null
     },
+    "70010000139235": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12ff067666c699759756e0bd7fa004c036049d4465b1feb9ba877fd4ddecb6ca.jpg",
+        "category": [
+            "射擊",
+            "動作"
+        ],
+        "description": "戰場正等著你。選擇進攻方式、鎖定目標，讓敵軍感受來自天空的威脅。\n\n駕駛重裝直升機投入激烈的戰鬥任務，以俯視視角掌握戰況。運用壓倒性的火力快速出擊，或善用位置與時機，逐一精準消滅目標。每次攻擊都考驗你的操縱技巧與戰術判斷。\n\n摧毀戰車、裝甲車、敵方基地與防空設施。攻擊燃料庫和建築物、迎戰頭目、佔領戰略基地，並確保貴重貨物的安全。探索開放戰場，依照任務目標選擇飛行路線與進攻策略。\n\n為下一場作戰做好準備。解鎖新的直升機、升級機體零件，並裝備機槍、火箭與追蹤飛彈。按照作戰需求調整武裝，選擇手動瞄準或自動鎖定，打造符合自己戰鬥風格的配置。\n\n主要特色\n\n• 俯視視角的直升機戰鬥\n• 多樣任務與開放戰場\n• 可破壞目標、爆炸與物理效果\n• 直升機解鎖與零件升級\n• 自訂武器配置\n• 手動瞄準與自動鎖定\n• 可離線遊玩的戰鬥任務\n\n精準打擊，還是全面火力壓制？握緊操縱桿，讓下一次攻擊發揮威力。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52c59574d257b096aa610ceaf2fcd46112e047e5593355e27c9b8b46deee648d.jpg",
+        "id": "0100F0302A740000",
+        "intro": "駕駛戰鬥直升機、策劃攻勢，從空中釋放壓倒性的火力。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Apache Heli Strike: Desert Gunship Air Warfare",
+        "nsuId": 70010000139235,
+        "numberOfPlayers": 1,
+        "publisher": "PRIME",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36346912b6da12a4ec1344f85d1fcee6a7316bae59c14c284ded98733467d771.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38eaab873a3a35f2a988bce30c94600d16ef02d2abd71d15e8e9341bd6d8eb61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f70a086939ab3c2a3a58838a86f8bb0cacc1a992b9705946128e31076cbb282d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1279f5c5fb6c38c08d4d720e7346e2f9e5ca2f61d304cf931392eb266b430c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b103414daeadff17e335c8c414eb96898c80089479b57d9bab7e4ed9b55231b.jpg"
+        ],
+        "size": 133169152,
+        "version": null
+    },
+    "70010000139282": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/672eac3429a306fd8fda0d11b94c85e9c237cd9c7c2cec5df350ca662eb01744.jpg",
+        "category": [
+            "動作",
+            "學習",
+            "其他"
+        ],
+        "description": "怪長頸鹿的怪奇遊戲終於上線囉！\n\n幫助怪異長頸鹿跳躍，摘取它最愛的水果。什麼？聽起來很簡單？真的嗎？這隻怪異長頸鹿嘛，有時候會莫名其妙地迷路。\n\n尤其是「大混亂」關卡。即使是資深玩家也覺得難以通關；馴服這隻怪異長頸鹿可不是件容易的事。\n\n另外，你可能還會不時聽到一些獨特的日英混雜的低語。\n\n話說回來，這隻怪長頸鹿真的那麼怪嗎？",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fafe13763a98792b6439f35d9a26cbe897348b45a0ce5c12313579d7377cd9e9.jpg",
+        "id": "010050202A89A000",
+        "intro": "簡單混亂動作遊戲\n多種關卡和難度級別\n日語和英語的趣味表達",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "一隻奇怪的長頸鹿的奇怪跳躍 (The Strange Giraffe's Strange Jump)",
+        "nsuId": 70010000139282,
+        "numberOfPlayers": 1,
+        "publisher": "tarakyoZGamesDevelopmentLab",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a9a82d4e25d07d6c4dfefa9d09d55b02f7d427c56145ee44a4df8832b5edb868.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c349cb04cd671d2df7527260de6f2d51ed4824907d94bb27dcbeca1c55fdd507.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7bb6a5a5241afa3aa66a195124eb93736a263e013b6bc281e8d96b38cc64a4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4328ec35fbec915356e7ac961f4c1e6265f6684c139ef1b1ef564aeb40d3ecdc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be76e75e01bb63829c1f9fdac5fc3b831b4cf4f4675a58e3738f8187b4a38292.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/889f0e7c596e5b047fd33f2205829f03539b2cdaebb5150db8332cec0534c3aa.jpg"
+        ],
+        "size": 387973120,
+        "version": null
+    },
     "70010000139296": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/945b21af8fee58781aff9b8e10e4d863f258616104929f3ee3353cc4285222be.jpg",
         "category": [
@@ -436642,6 +438335,53 @@
         "size": 2250244096,
         "version": null
     },
+    "70010000139344": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/38dcdf04d707549b6858b83c777be8188b2ecc64fb558b4339421859af14a3af.jpg",
+        "category": [
+            "街機",
+            "益智"
+        ],
+        "description": "一場輕微地震把深受喜愛的膠囊玩具遊樂場弄得一團亂。機台全部熄滅，成千上萬個膠囊散落在地板上。身為新的管理員，你的任務就是讓這個地方重新恢復生氣。\n\n撿起膠囊，把它打開，看看裡面藏著誰。每個公仔都屬於自己系列展示櫃中的特定編號位置。完成一個展示櫃後，對應那一排的機台就會重新亮起霓虹燈。點亮整個樓層後，通往下一層的樓梯就會開啟。\n\n沒有任何東西會被浪費。重複的公仔和空膠囊都能換成代幣。你可以用三個重複公仔換取一個還沒收集到的公仔，或花費代幣使用「膠囊雷達」和「自動放置」等實用工具。\n\n• 18 個系列，共 216 個可愛公仔，每個系列都藏有一個稀有的金色秘密公仔\n• 六個主題樓層，從節慶夜晚到繁星下的太空站，另外還有一座隱藏的屋頂花園\n• 搭配柔和配樂，享受輕鬆又令人滿足的整理體驗\n• 一般、Zen 與速度三種遊玩模式，以及三個存檔欄位",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff1bbe514bc5648e16ffd1f699d66cb45ce6e9bbca304dc46d36bdd25b1108ae.jpg",
+        "id": "0100EB202A8F4000",
+        "intro": "打開膠囊、整理所有公仔，讓遊樂場重新亮起來。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Capsule Arcade",
+        "nsuId": 70010000139344,
+        "numberOfPlayers": 1,
+        "publisher": "RandomSpin Games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8eac7e93c03aa4d3ff0ab5a8b7e6c50d77a690542216a7e9ee121d2aa0fa4b71.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb2ad5fa23239bd58fb02de8922b3dab2c86d072d354d1c1b03860a20dcc6ef0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7e447a3b2864bbc6862e03313bd80a8028fcc29e47f5f1573eebeba1fceca4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6cda2c5d77cd24de40e99ad0e721f1a7860375f92dcff786c1e9d8d69b25db4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ba0b14390f1473bc72a06193aa47ae97b79d33db2aa2fb167b53f8e0429d363.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91fba703a11a9bc40d69c2b1f05ae88aa9294e7431c7a5094571cfc222e928c7.jpg"
+        ],
+        "size": 240123904,
+        "version": null
+    },
     "70010000139415": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5223725c1d2048c973fef4e72546de7464f37f78e59c5a1f25d31aed0e57694c.jpg",
         "category": [
@@ -436715,6 +438455,73 @@
             "https://img-eshop.cdn.nintendo.net/i/29e3ff45fb93717ba2cc92a22acedcc14bdfc711cd859d2d1cb7291e47799d01.jpg"
         ],
         "size": 630194176,
+        "version": null
+    },
+    "70010000139553": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/edd6858225458790bf0d09170d751bbcd584711f08273ff38a9cd3366a057250.jpg",
+        "category": [
+            "益智"
+        ],
+        "description": "在這款基於數獨（Sudoku）的經典數位填空益智遊戲中，盡情施展你的邏輯推理能力。你需要仔細填入數字，確保每一行、每一列以及每一個宮格都符合該類遊戲的經典規則。\n\n你可以根據心情選擇難度：既可以選擇輕鬆休閒的解謎時光，也可以挑戰高難度的燒腦關卡。運用邏輯推理攻克每一道謎題，在不確定時利用筆記功能輔助思考，逐步排除錯誤選項，直至填滿整個棋盤。\n\n貼心的輔助工具讓你能專注於解謎過程。你可以添加「鉛筆」筆記記錄備選數字，在卡關時使用提示功能，並透過清晰的視覺回饋輕鬆發現錯誤。多虧有動態生成的謎題，總有新的挑戰等著你去征服。\n\n無需匆忙，從容思考，享受這款專為新手及資深數位解謎愛好者打造的、介面清爽且令人專注的遊戲體驗。\n\n遊戲特色：\n\n基於數獨玩法的經典數位填空體驗。\n多種難度等級，兼顧休閒玩家與資深玩家的需求。\n動態生成的謎題，帶來持久的可玩性。\n支援新增「鉛筆」筆記，輔助記錄備選數字。\n內建提示系統，幫助你應付棘手難題。\n清晰的錯誤高亮顯示與易於閱讀的介面設計。\n節奏輕鬆，無需趕時間。\n規則簡單易上手，但想要精通則充滿挑戰。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2e6521dc900cc54c290d82f61a905aa51ad8ea08d38729c9c54b9ed56ca5135a.jpg",
+        "id": "0100F9702A96E000",
+        "intro": "挑戰一款基於數獨的經典填數益智遊戲。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Number Logic",
+        "nsuId": 70010000139553,
+        "numberOfPlayers": 1,
+        "publisher": "Eathrabaria",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f7935faf6acb59f25bcfbe86aa57297b0b5778f5410e7f3d445d3125a5d80ce5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5ed025af0d1bf0dea819eadafff1955ff2ef6eb7b72218640f9ed1259626e9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed34f39a531d62debe2f2a24085e54f8ba35fe77de2da51dc918adeb92288c33.jpg"
+        ],
+        "size": 71303168,
+        "version": null
+    },
+    "70010000139612": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4dfdd83255a2852427dac9d9ec7818ada2fd21242079ac59852e350d059b8145.jpg",
+        "category": [
+            "競速"
+        ],
+        "description": "在一系列充滿挑戰的駕駛場景中，磨練精準停車的技巧——在這裡，每一次轉向都至關重要。你需要小心操控車輛，穿梭於狹窄空間、逼仄通道和障礙物重重的區域，最終將車停入完美位置。\n\n每一關都將考驗你的操控能力與空間感知力。在導引車輛駛入指定車位的過程中，你需要精準判斷角度、調整車身位置，並避開各種障礙物。遊戲操作簡單易上手，但若想完美完成各項挑戰，則需要足夠的耐心與高超的技巧。\n\n隨著難度提升，車位會變得更加狹窄，行車路線也更具挑戰性。請沉著應對，規劃好每一個動作，證明自己能夠駕馭最棘手的停車難題。\n\n遊戲特色：\n\n以精準停車為核心的挑戰性駕駛玩法。\n在狹窄空間與障礙重重的區域中穿梭。\n將車輛精準停入指定車位。\n關卡難度循序漸進，考驗精準度與操控力。\n簡單易懂的駕駛操作機制。\n練習精準轉向、倒車與車位停車技巧。\n注重精準度而非速度的輕鬆遊戲體驗。\n完成所有停車挑戰，成為真正的停車大師。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a64809f4f126596cb27c6fce5bcb402b9570406589d08926ce01530b08524d6b.jpg",
+        "id": "0100C3F02A982000",
+        "intro": "在一系列棘手的駕駛挑戰中，掌握停車的藝術！在狹窄空間內穿行，避開障礙物，小心地將車停入完美的停車位。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Parking Quest",
+        "nsuId": 70010000139612,
+        "numberOfPlayers": 1,
+        "publisher": "Eathrabaria",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2c29319d558f5bc28206799433f394786fe458363dd72d134c1235f81bba20fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4354ddd050a81b429d8610bd197dd4ad20fb05eb49a2b37fc03192958b3198af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbed2dd342e9817e6bd664f8ea1d9da0183f7f0deb5d11353d621112fe765445.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/574f711cdffc98a8ebd02e57b3b1301574032f6170da0cb99d769f9522361411.jpg"
+        ],
+        "size": 78643200,
         "version": null
     },
     "70010000139629": {
@@ -436849,6 +438656,78 @@
         "size": 1312817152,
         "version": null
     },
+    "70010000139863": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d812ba0bf531595d6547c1c2c690d4da0295a0d27e89dc7d78fcaa7c4cc2d2e6.jpg",
+        "category": [
+            "益智",
+            "桌上遊戲"
+        ],
+        "description": "除了經典拼圖玩法之外，還加入了「旋轉」與「翻面」機制，帶來與眾不同的拼圖體驗！\n收錄可愛女孩、動物等多種精美插圖♪ 一邊欣賞插圖，一邊悠閒地享受拼圖樂趣吧！\n共收錄 15 個關卡！\n隨著關卡推進，機關與拼圖片數也將逐漸增加，難度同步提升！\n•\t第 1～5 關：旋轉拼圖\n•\t第 6～10 關：雙面拼圖\n•\t第 11～15 關：雙面＋旋轉拼圖\n•\t收錄最高可達 81 片 × 2 面的高難度關卡！\n在雙面關卡中，無論先完成正面還是背面都沒問題！ 用你喜歡的方式挑戰拼圖吧♪\n最後一關更是沒有背景浮水印提示的超高難度挑戰！\n仔細觀察每一塊拼圖，朝著完成目標邁進！\n完成拼圖後，還能解鎖收錄正反兩面插圖的畫廊！ 挑戰所有關卡，完成全圖鑑收藏吧！\n未來也預定推出額外關卡內容。\n=====================\n本公司支持內容創作者與實況主進行遊戲影片創作與直播。 發布遊戲實況影片或進行直播時，無需事先取得許可。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d47c07b39a37440c387b4e829fb0f4ea6fb85ae590c51338b19d43d0bf717fe6.jpg",
+        "id": "010019402A9F2000",
+        "intro": "正反兩面皆可完成♪ 收錄多種插圖的新感覺雙面反轉拼圖！",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "FlipFlip Jigsaw DOUBLE-SIDE PUZZLE",
+        "nsuId": 70010000139863,
+        "numberOfPlayers": 1,
+        "publisher": "AGE",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e62df1822895d4ae0fd0c55c4646682e1a7a79f511ff1b987be4f0c0ef123341.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c8f5e46e735aadafdb6453263708e76f4ca495c7c01ebebfebd87d2c0f1e083.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/957bdc93d300ed88df853c1297da6a4be1262ca3918da24210f8dd7cf5ce3be8.jpg"
+        ],
+        "size": 391118848,
+        "version": null
+    },
+    "70010000139875": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25cf1d02519a0a2bc51dcdf1a372aa502f0a4523ae78b9f50860d6e413ba7601.jpg",
+        "category": [
+            "桌上遊戲",
+            "策略"
+        ],
+        "description": "在群星之上，一位天使與一位惡魔圍繞著一塊閃閃發光的棋盤盤旋，並以「雲朵」為武器，展開自古以來最古老的爭論。\n\n雙方輪流沿著棋盤邊緣飛翔，選擇一行或一列，並從任一端將自己的雲朵拋入棋盤。你的雲朵落在第一個格子上，其路徑上的所有事物都會向後滑動一個格子。若空間不足，遠端的那片雲便會被徹底推落邊緣，在光芒四射中爆裂。\n\n若能用自己的雲排成一條完整直線——無論是橫向、縱向或對角線——你便獲勝。\n\n關鍵在於，沒有任何東西會永遠停留在你放置的位置。對手每次擲雲，都可能將你精心排列的行列推散，或將你自己的某片雲推入你從未預想過的線路中。看似無望的棋局，可能因一次推擠而逆轉。沒有安全的格子，只有對手尚未觸及的格子。\n\n兩條自訂規則讓對決持續推進：任何人不得連續三次使用相同的擲法，也不得透過將同一條線直接推回來回應對手的擲法。沒有僵局，沒有無止盡的拉鋸戰——只有位置、壓力，以及果斷出手的膽識。\n\n隨心所欲地遊玩\n\n在每場對戰開始前，依個人喜好設定棋盤：\n\n- 棋盤大小 — 3×3 適合快速刀戰，4×4 和 5×5 適合真正的策略對決，6×6 則適合漫長的消耗戰\n- 棋盤初始填充度 — 從 0% 的空棋盤開始，或直接投入 30%、60% 或 90% 填充度的混亂戰局\n- 選擇陣營 — 選擇天使的白色雲朵或惡魔的雷雨雲；對手則選擇另一陣營\n- 由誰操作 — 雙方均可由玩家或主機控制，因此可進行一對一對決、挑戰電腦，或坐下來觀看兩台 AI 互相廝殺\n- 四種難度的對手\n\n初學者、新秀、資深與專家。即使是最溫和的對手也會預判數步並設下陷阱——難度越高的對手則完全不會犯錯。專家級對手能預判六步，絕不放過任何一朵鬆散的雲朵。\n\n特色\n\n- 單人或雙人遊玩，並排在同一台主機上\n- 四種棋盤尺寸與四種起始佈局——共十六種對戰組合方式\n- 四種難度等級，配有真正會思考的對手\n- 所有棋盤尺寸皆計入對角線\n- 每種棋盤尺寸皆會記錄你對戰主機的戰績\n- 即時重賽——獲勝後，棋盤會自動清空，隨即再次對戰",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a7c9b31d63f497d6e91411f412d0eaf2813da372891c6cd498fbfbb1e0ba788.jpg",
+        "id": "010091502A9F8000",
+        "intro": "推。擠。把他們排成一列。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Devil & Angel Sky Battle",
+        "nsuId": 70010000139875,
+        "numberOfPlayers": 2,
+        "publisher": "Pix Arts",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae57c1a49d94f28a644ceab76c533c6b4fb9a6a573ccedcde685410611e9291e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b61d1293c04beb4b96466f37c93923829ab4ce9954f72dd911f6e81f1fa335ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b1575db761f393c5e779ca1cde4ee303f1be9d088ca74c590735a58573fb42b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aead28875b90cd9c86eaba3c1b94cc7ccc8a486d15e511b64a47e53209cd9b48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb1db9e2194af247e74a934c3c290a84ce9df53b106ba45a5bab06ace96bf2f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c5e2690ebce1908a02b23b22b4f7d273bcc8036ca18598e4b4925b6a50fa99a.jpg"
+        ],
+        "size": 449839104,
+        "version": null
+    },
     "70010000140005": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/70dfc7558ed09acb40442680be6b5bb94f4140569a6cc264fda48ecc479c3694.jpg",
         "category": [
@@ -436888,6 +438767,197 @@
             "https://img-eshop.cdn.nintendo.net/i/336eeeeb18a5b0978e1238e1d15b8a654131ad8bc916ec2cbb8e9301be6c3d86.jpg"
         ],
         "size": 2153775104,
+        "version": null
+    },
+    "70010000140028": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dd6fa0f61a026a67fb03207d8e7d38cd817b5fdaec55368d48b2371b07057609.jpg",
+        "category": [
+            "街機",
+            "動作",
+            "射擊",
+            "冒險"
+        ],
+        "description": "隨著你的採礦事業不斷壯大，升級你的 Plinko 機台，讓礦石加工更加高效，並解鎖更多最大化收益的方法。開啟戰利品箱，發掘實用的增益效果，逐步擴充你的武器庫，讓自己變得越來越強大。\n\n深入遼闊的太空，迎接更加堅硬的小行星與更加豐厚的獎勵。嘗試不同的升級方式，找出強力的搭配組合，看著你的採礦作業變得越來越快速、高效。\n\n擊碎岩石、加工資源、升級裝備，不斷突破自己的極限，在這場精巧緊湊的增量式太空冒險中持續前進。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b034f3b53b0f982e90718aa91bccc29e66fe990f120fa273390572c00a75fab.jpg",
+        "id": "010044102AA1A000",
+        "intro": "Space Rock Breaker 是一款輕量級的增量式太空冒險遊戲。使用強力武器開採小行星，將礦石投入彈珠機（Plinko）進行加工，再利用獲得的獎勵提升你的戰力。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "th",
+            "pl"
+        ],
+        "name": "Space Rock Breaker",
+        "nsuId": 70010000140028,
+        "numberOfPlayers": 1,
+        "publisher": "Games Harbor",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0da7c2cbaf746d8ae74652c7ca15c464c8935d2ae2df04304103cd8f4ab1cc3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a3d4a1fc60a083b1736a882e6e33d3573319c0698f59af3460a3b4fb7ad1194.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27e38df92a629449a0254c9aaf702b44c23a7a372c8574170462fb7a353638a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f3ab8d44531dee836536579d717e68ef827dfc17af0078335c2894f06d84995.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06efd36a5841f5c2a3e939d7042c4ff331c7088fb4746a7027233bfd0a7e0bce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/602ae801541e885cc0e177f8117654edf7fce31ba32632218167e61744fec72a.jpg"
+        ],
+        "size": 181403648,
+        "version": null
+    },
+    "70010000140060": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/121449d545bb9559943db1e6ad9c7dbb7c9fc3add686bce2b544baf08f9c6d30.jpg",
+        "category": [
+            "模擬",
+            "交流",
+            "冒險",
+            "角色扮演"
+        ],
+        "description": "在柔和的粉彩雲朵中滑翔，幫助迷失的靈魂，並設計坐落在高山之巔、專屬於你的家園。在溫暖的營火旁與陌生人建立友誼，或與好友一邊悠閒地在天空中釣魚，一邊分享回憶。\n\n在《靈渡之境》中，其他玩家會以影子的形式出現。擊掌或一起參加活動，他們便會綻放色彩，展現出輪廓背後的那個人。\n\n不想見面或與新朋友聊天嗎？別有壓力，你可以選擇不與他人見面，多久都沒關係。\n\n結交朋友，或與他人靜靜共享遊戲世界的一方角落。遊戲核心圍繞著一個個小小的善意，也看重那些即使短暫、卻也能讓我們感覺不那麼孤單的連結。\n\n數百款設計任你搭配，讓每位時尚達人玩家都能展現獨特風格。透過髮型、染髮和混搭服裝來自訂你的造型，然後以數十種充滿表現力的表情動作賦予這些造型個性。\n\n設計最理想的空間來招待你的朋友，可以是溫馨小屋，也能是宏偉城堡。再擺滿家具、植物、地毯、燈具和小飾品，保證每個架子都有裝飾，不會孤零零。\n\n而《靈渡之境》已歷經超過五年的開發時間。這個計畫的核心是相信遊戲應該讓人們相聚、鼓勵善待彼此，並且減輕身處於這個混亂世界時的孤獨感。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/487f09db64cdef29a031e87597847b16630e0bc1033a1cedee899b1d377acb8d.jpg",
+        "id": "0100387029AD4000",
+        "intro": "歡迎來到屬於你的奇異新家。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Spirit Crossing - 靈渡之境",
+        "nsuId": 70010000140060,
+        "numberOfPlayers": 1,
+        "publisher": "Spry Fox",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261117,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b5814ae3f00a5dfa431dd66ada21e8fe95d2e7631878078329c602cce967b9c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7fc40f8fdd078ad0f3f3fc3453ae9a71aa4388b36b4f88fb5a41c88b77184e8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d95b7d32896e463549eca96f38663b7740c537f6c86af5627983ffdeffdfbeff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce617644d7aabd12d296688cdb9c73a9f73cb9e7c5622d00701e2e0c20d113d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/680f74064d9b03ae875e899e9a02dcdae266538f5ef848b656251622ad3d8b3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0b2f51705588427788f1cdd378e056e34c4ec305de43de9cffc925f6597ebda.jpg"
+        ],
+        "size": 1395654656,
+        "version": null
+    },
+    "70010000140946": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a53d8b3f845b2fa3e984f7fa499af78ecb9679f80728086102086b3dc7ed08d.jpg",
+        "category": [
+            "街機",
+            "益智",
+            "派對",
+            "其他"
+        ],
+        "description": "自認無所不知？那就證明給大家看。\n\nWhite Box Quiz 將電視益智節目的刺激與樂趣直接帶到你家沙發上！\n\n挑戰涵蓋 18 種類別的數千道題目，考驗你的知識實力。向好友發起挑戰，或組隊並肩作戰。當瘋狂加成和幸運轉盤登場時，就算知道正確答案，也未必能贏。\n\n知識能幫你一把。但什麼事都有可能發生。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/89664cccad57207880228e3116c1f3fbff4548308300f8bbeeab978c74cfaba0.jpg",
+        "id": "01007B600707A000",
+        "intro": "知識能幫你一把。但什麼事都有可能發生。",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "White Box Quiz",
+        "nsuId": 70010000140946,
+        "numberOfPlayers": 4,
+        "publisher": "Joindots",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0b672345e093cc6d2e4bd229c9f645f38b3066fc700a268993cde1697c625ec1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d402e10922f9e67d5e7ba3e3c08812661dcb5795b1e4cda10bcd863fce821e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ec4240115277617c4b4c33fa7f6c84937d531561d410ed9e82ccbd4bc326308.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d7f2624cab3e2f1e10548651091e3b028529914fa09cf3cad4a7c66546ecd15.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7dcc688a72dd0b7db49dfb9819971ec630a6aa7e19ec3be1f9006063a01a2b7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a1ea41b7f390f35d6f46811be8585a41dbc6396fa84c9f9c7e916d54eb2335d.jpg"
+        ],
+        "size": 1832910848,
+        "version": null
+    },
+    "70010000141227": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf1a8983a4a7d38e8f0cd227715ed7366f474b20e25e17cab13914f686353b92.jpg",
+        "category": [
+            "冒險",
+            "益智",
+            "模擬",
+            "其他"
+        ],
+        "description": "他早已選好了第一個目標。她卻向他借了一支筆。\n\n馬科斯多年來一直在準備犯下第一樁謀殺。他在街區咖啡館遇見插畫家伊蕾內，以一個普通的藉口接近她，打算摸清她的習慣、生活圈，以及動手的時機。然而，伊蕾內總能讓他意外，每次相見都使計畫偏離原來的方向。\n\n肖像畫、晚餐和推心置腹的談話讓兩人漸漸靠近，也讓馬科斯的計畫開始動搖。街區裡一名年輕女子失蹤，貝爾特蘭警督開始詢問居民，伊蕾內身邊的人也對馬科斯起了疑心。他的黑色筆記本藏著不該被任何人讀到的祕密。當原本設想的人生與如今渴望的人生發生衝突，他會怎麼做？\n\n《In Love with My First Victim》是一部融合成人愛情與心理懸疑的視覺小說。透過馬科斯的視角經歷故事，在關鍵時刻做出選擇，看看一個人能為了擺脫過去的自己走多遠。\n\n特色\n• 體驗橫跨12章的完整故事\n• 在關鍵場景做出選擇並面對結果\n• 解開12個與劇情相關的滑塊拼圖\n• 解鎖24項劇情成就\n• 認識伊蕾內、露西婭、尼科、托馬斯和貝爾特蘭警督\n• 探索畫室、街區、夜間觀景台等場景\n• 發現馬科斯黑色筆記本中的祕密\n• 體驗充滿謎團與猜疑的成人愛情故事\n\n當愛情改變了計畫，寫下計畫的人還剩下什麼？",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0e08d385e55109d0c998c4454281c752a528412fa26cc205774f5f477f841912.jpg",
+        "id": "010004B02AD00000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "In Love with My First Victim",
+        "nsuId": 70010000141227,
+        "numberOfPlayers": 1,
+        "publisher": "Lunaria Games",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3afad30da7e738a9ea85a6ed7eda8a402a8bf587e9e679eea3f8d74dda966053.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b9622babe2e86f32f3aa20255c5962fa378b9dd089956974d4280b4e285576b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eedfabc278e264d402f6c6497d9854e4857e269eadbd588ed1474badb451723c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c87563ec80565c50cbeeedf8504b1214eebaebd740b714b375eadfd3cf0d6d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b74cb11f9f27e381b01620193b2b12d964bde602b60a0ee256c55b91e4702376.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1bbecae6936b946a93f8c9df1d7b6bfaaea91b730c3171f5ed2798b5b18356c9.jpg"
+        ],
+        "size": 1083179008,
         "version": null
     },
     "70030000006005": {
@@ -452932,6 +455002,32 @@
         "size": 201326592,
         "version": null
     },
+    "70030000024597": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "逃脫遊戲 R00M 11 試用版",
+        "nsuId": 70030000024597,
+        "numberOfPlayers": null,
+        "parentId": "010011B0272BE000",
+        "publisher": null,
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 317718528,
+        "version": null
+    },
     "70030000024607": {
         "bannerUrl": null,
         "category": null,
@@ -454464,6 +456560,32 @@
         "rightsId": null,
         "screenshots": null,
         "size": 619708416,
+        "version": null
+    },
+    "70030000026083": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Capsule Arcade Demo",
+        "nsuId": 70030000026083,
+        "numberOfPlayers": null,
+        "parentId": "0100EB202A8F4000",
+        "publisher": null,
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 173015040,
         "version": null
     },
     "70050000004094": {
@@ -702776,6 +704898,39 @@
         "size": 3145728,
         "version": null
     },
+    "70050000078281": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7dd27f9780a7605e717020f96d3a970325db0d861f51abdac8b0c4898900ce7.jpg",
+        "category": null,
+        "description": "獲得一頭粉紅色的哞莓牛，以及一套復古風格服裝！\n\n預計於2027年1月推出",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100839022643007",
+        "ids": [
+            "0100839022643007"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "哞莓牛組合包",
+        "nsuId": 70050000078281,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270121,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8b68a9b68a4b56d59167aa836e2fbf5d2b9b475a47547c0cb60e72d5f9f09250.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11c09de65e51fa95d5fd42f79d11807d2403400953b5c00f7f51286ff5460f83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b853d4df071321294ef02272425ac22899b05cfc6b84804b4868953411ae72d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b55ded5cd79b3c9e126ae336fe180a5c1928ba78be8a802de589542f99372f7.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
     "70050000078298": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e0d73c5a3eab53a59e764f5c55782406f31409a8837f1851500a2f4105dbfb1.jpg",
         "category": null,
@@ -707664,6 +709819,39 @@
         "size": 3145728,
         "version": null
     },
+    "70050000081650": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55acfac9b750c5e921361077a6d9569fb19a542c704d1754c20fa49a3d7355dc.jpg",
+        "category": null,
+        "description": "解鎖「蕾的海濱套件」，為《Hokko Spaces》增添一抹陽光。向蕾打聲招呼吧！這位開朗活潑的新村民，已準備好為你的社區帶來悠閒的海灘氛圍。\n\n無論是打造放鬆身心的秘密基地，還是想為你的最新傑作增添一點海濱樂趣，「蕾的海濱套件」為你備齊創作素材，讓你把度假氛圍帶回家。套上全新款式的泳圈，悠閒漂上一整天；坐上救生員椅守望四周，或把手提音響音量調高，讓派對熱鬧開場。\n\n「蕾的海濱套件」包含：\n\n全新村民：蕾\n橡皮小鴨泳圈\n獨角獸泳圈\n烏龜泳圈\n救生員椅\n手提音響\n露營車",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "01002C4029877001",
+        "ids": [
+            "01002C4029877001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Hokko Spaces - Lei's Beachside Pack",
+        "nsuId": 70050000081650,
+        "numberOfPlayers": null,
+        "publisher": "Team17",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3792d2c4cac08f0ff601107f4a6e9d51417057e32654ebcf9949b0f8a65fa22f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a521a9c6357b948ccaedc751c94fd0f479106deb0b9c52956147672f7bd6dfdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61016c6564c29de6a4d2d3f9f07acd631ffafb46b8886eb36abbc196bd81f9cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c75896317a402619598a0ad2d080f65ae32838bfabc8da735cd1ed3b38e826d.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
     "70050000081656": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0501d409425ce53774407064a9a399cd364c5ae4b820d2e6b07285484d57e629.jpg",
         "category": null,
@@ -708313,6 +710501,41 @@
         "size": 3145728,
         "version": null
     },
+    "70050000082016": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/96f5a8773b80020b3525b6b36e0078cd716b9de1c8e76deeea074a32fc83370f.jpg",
+        "category": null,
+        "description": "紅葉已經重獲新生，但梅魯斯耀眼的才華似乎為小鎮帶來了意想不到的麻煩！你需要向紅葉的居民請教，找出讓梅魯斯的電力恢復順暢運轉的方法！\n\n• 收穫女神工具升級！\n• 四種全新的冰箱設計！\n• 全新的起司與番茄品種！\n• 六種全新食譜！\n• 追加委託與劇情內容！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100839022643003",
+        "ids": [
+            "0100839022643003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "梅魯斯的困境",
+        "nsuId": 70050000082016,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/08d75cb82e857b4c544d2c8feed9112423c5ae5ae7d26b818660f19f09cdd047.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec7ec9f9ec1048b319384488899c39ba7f55104ca5ce17961d590a2d5a624b4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75f0b65fd7d0654bbfe0f99fda8734977b79cb9c45f308acf188a5de2ccb9a7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51fbdb4926b951356cc74860be828348d83c33adff795aa57d836c1907427f08.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e52c615c8b71dbd4807398ebcc9a4758180202fba3c956016fcf7ecfef4d4575.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e7644f312905624fdab5aed17ffbcd7e6005047f4febca1aed49b94d037f664.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
     "70050000082231": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bbd16d0bf56e021e2423322271d0e78b61ca66d9994378426db2d95533f55a68.jpg",
         "category": null,
@@ -708854,6 +711077,228 @@
         "releaseDate": 20261022,
         "rightsId": null,
         "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000082642": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2ecd6e3deca0d6e16f1693462d94aa2ee3c9f639ed6691153867a5ee73409e4b.jpg",
+        "category": null,
+        "description": "果戈的弟弟索格回到了礦岳村礦場，但他的心情可不太好！他認為果戈變得軟弱，還向人類妥協了。你能說服他，讓他明白人類其實沒有他想的那麼糟糕嗎？\n\n• 全新可攻略角色：果戈的弟弟索格！\n• 解鎖礦岳村礦場中難度極高的額外樓層！\n• 獲得礦場折扣通行證！\n• 新增委託與劇情內容！\n\n2026年12月推出",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100839022643004",
+        "ids": [
+            "0100839022643004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "果戈的家庭紛爭",
+        "nsuId": 70050000082642,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261210,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000082643": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f24c97200280f8abac6f6ec506d40ac1535fe1450a34556568fa56b5b2b41444.jpg",
+        "category": null,
+        "description": "涅拉發現了一位名叫艾美的神祕少女，她被海浪沖上了一座偏遠的島嶼！為了追隨自己崇拜的演員的腳步，艾美踏上了探索未知的旅程！你能幫助她適應泰拉迪亞的生活嗎？\n\n• 全新可結婚角色登場：女演員艾美！\n• 探索全新的偏遠島嶼——寶藏島！\n• 獲得普莉亞的釣魚池和工坊的折扣通行證！\n• 新增委託任務與劇情內容！\n\n2026年12月推出",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "涅拉的救援行動",
+        "nsuId": 70050000082643,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261210,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082644": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8e40e26b5dbceb19aa49741e6ab8daf2e5da9429fdf1abf4a8bb48725662f52f.jpg",
+        "category": null,
+        "description": "獲得一頭黃色哞蕉牛，以及一套復古風格服裝！\n\n預計於2027年1月推出",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "哞蕉牛組合包",
+        "nsuId": 70050000082644,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270121,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4ce4edf8083194050f12f9f9c8e4e3f9abfce4d1093055c70858283ab13e2356.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a49f55bb44a1bb98f0983dcef9a4faba41e1e417ce9391d2bcc9f477a85952e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b589990c9e0719d7c14c0940da0c2b5cbbdf3281f08fc2e0263ec8756ed3da88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bf54b7817e6219c857f6d5b4350102ba2a9acef2017f031da7ed2214ff6b19e.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70050000082645": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef945ff8cf41fcab6418301975588ba4c6a09e08d51ad0d261fb2ac56eb34dbb.jpg",
+        "category": null,
+        "description": "路波一直夢想著不只探索繁花村周邊的區域，還要走遍整個泰拉迪亞！但是，他離開後，誰來照看繁花村呢？幫助路波實現夢想，然後帶上他一起踏上冒險之旅吧！\n\n• 新增可騎乘夥伴路波！\n• 各個地區新增了傳說中的動物！\n• 新增劇情內容！\n\n預計於2027年3月推出",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "路波想去散步",
+        "nsuId": 70050000082645,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270311,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082647": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69b0de2074f9980901e1f84022b8dff3561c04b8c9430e97211376da280a5885.jpg",
+        "category": null,
+        "description": "你能精進自己的廚藝，做出連美食家加斯頓那永不滿足的胃口都讚不絕口的料理嗎？\n\n• 全新美食料理食譜！\n• 新增委託任務與故事內容！\n\n預計於2027年5月推出",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "美食家加斯頓",
+        "nsuId": 70050000082647,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270506,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082648": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a694472e9b54df760191f3972837436177f74a8c9e59738e73e3cfae408a6b52.jpg",
+        "category": null,
+        "description": "幫助葛倫收集材料，為家中準備一份特別的驚喜，同時探索裝飾居家空間的新方法！接著，協助小博士測試他最新的升級成果，體驗各種令人期待的全新製作方式，讓你的農場生活更加豐富多彩！\n\n• 全新製作配方，打造更多居家裝飾物品！\n• 新增委託任務！\n\n預計於2027年7月推出",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "甜蜜又聰明的居家組合包",
+        "nsuId": 70050000082648,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270715,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082649": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7f286a776ba1ca49efc035132dd3f27a9437bca5e487a056894ca9d7a6c16ae.jpg",
+        "category": null,
+        "description": "以一份獻給粉絲們的特別禮物，慶祝 Harvest Moon 迎來30週年！重溫一點懷舊情懷，回味無數美好回憶，並向一路以來陪伴我們走過這段旅程的所有粉絲，獻上最誠摯的感謝。\n\n預計於2027年9月推出",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Harvest Moon 30週年紀念組合包",
+        "nsuId": 70050000082649,
+        "numberOfPlayers": null,
+        "publisher": "Natsume Inc.",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270916,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000083630": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/251f22d49a85d7fa62399613f2e33926f08b764089ea78f4f46341d43ed2f16b.jpg",
+        "category": null,
+        "description": "透過本追加關卡包，盡情享受更多 FlipFlipJigsaw 的拼圖樂趣！\nFlipFlipJigsaw 雙面反轉拼圖是一款結合傳統拼圖玩法與 翻面（Flip）、旋轉（Rotate） 機制的獨特拼圖遊戲。\n翻轉拼圖片、調整方向，完成各種精美插圖吧！\n在雙面關卡中，無論先完成正面或背面都可以！ 依照自己喜歡的方式挑戰拼圖♪\n本追加內容新增 15 個全新拼圖關卡：\n•\t旋轉拼圖\n•\t雙面翻面拼圖\n•\t雙面翻面＋旋轉拼圖\n除了可愛女孩之外，也收錄了動物等各種豐富插圖！\n挑戰全新關卡，朝著完成畫廊收藏邁進吧！\n注意事項\n遊玩本內容需要本體遊戲 FlipFlipJigsaw 雙面反轉拼圖。\n本內容無法單獨遊玩。\n=====================\n本公司支持內容創作者與實況主進行遊戲影片創作及直播。 發布遊戲實況影片或進行直播時，無需事先取得許可。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010019402A9F3001",
+        "ids": [
+            "010019402A9F3001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "FlipFlipJigsaw Additional Stage Pack Vol.1",
+        "nsuId": 70050000083630,
+        "numberOfPlayers": null,
+        "publisher": "AGE",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/535a7ea4d763a8737df47c31e175c1d63e91b5d150cff70055d32e2e6b9e7e0f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0833add10243ecb467e7f8fc296a966b6554ea6ce4f84e8854f6018b7fe26192.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e90081d759d661f69f763adddfffca70333b382050c4616ee1fc62aef7b1858.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95531085327f50fd47d695b8d9386fe0e09d355cf18a1f6f11a635f66320d1ab.jpg"
+        ],
         "size": 3145728,
         "version": null
     },
@@ -817361,6 +819806,102 @@
         "size": 5430575104,
         "version": null
     },
+    "70070000039006": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/85a8d93cf2f8bee8aebe083cf7a61a524da94c57c196c2881afbed1b0673c318.jpg",
+        "category": null,
+        "description": "以經典為靈感，為現代觀眾而開發。\n\n一個以中世紀奇幻世界為背景的經典復仇故事……帶有一絲致命的現代火力，讓一切更加瘋狂。與不死族、變種人、外星人、機器和野獸的軍隊作戰，以取回屬於你的東西，並為這片土地帶來一些表面上的和平。誰知道呢——如果你足夠透徹，你甚至可能會發現這個王國的學者們早已失傳的王國本身的歷史。\n\nKnights & Guns 將您帶到一個危險的世界，在那裡您將與您的朋友一起對抗惡魔、食屍鬼和鬼魂。使用散彈槍、激光和騎士精神來克服每一個障礙。成為最好的騎士 - 一個拿著槍的人。\n\n遊戲內：\n• 在各個階段與出色的BOSS戰鬥！\n• 征服非線性世界！衝過 150 多個手工製作的關卡，或按照自己的節奏享受遊戲，尋找秘密和特殊路線！\n• 整個遊戲專為單人遊戲或多人合作遊戲而設計。隨時邀請朋友獲得額外的火力和混亂。\n• 60幀的遊戲體驗！嘗試不同的模式！狩獵怪物們！存活下來！在小地圖、大地圖和窄地圖上玩！\n• 查看所有令人敬畏的盔甲套裝，當然還有所有槍枝！激光、散彈槍、榴彈發射器、狙擊步槍……全都在這！\n• 超過 30 種獨特的槍支。 （死亡的味道可能比你能說出的冰淇淋口味更多。）\n• 超過 25 種敵人，5 種小BOSS和 3 種BOSS。其中大多數也有不同的顏色。\n• 30 套獨特的騎士盔甲。額外的保護和額外的風格！\n• 陷阱、寶箱、鑰匙、知識捲軸、怪物書籍…\n\n該捆綁包包括基礎遊戲、擴充包 #2、Armor Pack #3、Armor Pack #4，其中包含：\n\n- 10 個全新關卡等你來恢復和平\n- 8 套全新盔甲助你完成任務\n- 全新敵人，帶來更多挑戰",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "穿著閃亮盔甲的騎士，用你的方式戰鬥......用槍！",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Knights & Guns Throne Edition",
+        "nsuId": 70070000039006,
+        "numberOfPlayers": null,
+        "publisher": "Baltoro Games",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/113a6da5b28a167a34b9e5ab4dec7f34c4a7be7582c65a7b75c3d6deaccf72f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80a1a16aa4c2e36a21e479f6c335b680696677e6af052a38bbf30280c9098dad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7f2e9e0921a8402f540461d168cff9a63b53d45b3dc23e5efb4d730d72946e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cb105654b5e227621af8b9bea9faeb4d9ce0acc387a3c2a0ed09aa434739b65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98f16b5812eef48ba006cff1c045e7ffee622af62f67d784393d3e054e41f2aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7a76baae2b4215b7405ec3976c29de577c5700e73a7f73b8cf1cde44f213d2c.jpg"
+        ],
+        "size": 3407872000,
+        "version": null
+    },
+    "70070000039026": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eace59440b42bd5383e2875496dfad6b50d0db369aaebc52ac51dbcd85d9198c.jpg",
+        "category": null,
+        "description": "準備好在越野賽車中為終極的越野快感加滿油吧！穿越美洲、歐洲和亞洲的荒野景致，投入這段令人興奮不已的旅程。這是一場激烈的賽事，你的勇氣和技巧將成為眾人矚目的焦點。\n\n前進12條越野賽道\n接受3項全球賽車挑戰\n解鎖並升級4輛強而有力的越野賽車\n體驗動態賽車模式\n\n在令人驚豔的彎道和跳躍中滑行、漂移和加速。準備好留下自己的標記並奔向勝利嗎？\n\n跳進越野賽車的駕駛座，讓全世界都變成你的賽車場。\n\n該捆綁包包括基礎遊戲、擴充包 #2（Custom Cruisers #2）、擴充包 #3（Custom Cruisers #3）、擴充包 #4（Custom Cruisers #4）、擴充包 #5 Custom Cruisers #5)、其中包括：\n\n- 每輛越野車有 4 種專屬外觀",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "參加終極越野賽道挑戰賽！",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Buggy Off-Road Racing Max Edition",
+        "nsuId": 70070000039026,
+        "numberOfPlayers": null,
+        "publisher": "Baltoro Minis",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b96618ea84f04f2d377d3a29c37c9ea9d98f42de55e0332261961ff0bd80ed87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f1645cfa972eea4869b60a1dd084c3c8eff768747b06f92c5cd64dce55a2dd9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8b91ef1954ca17e32e7d0ec622af2d730a7b2e214076ee3155cf26ac75b0ac7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fcc349f82ea8c77edfb5dd37b6583e10ab7bbdaa8b2621d7b5e604ae233a677b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65d6487c7b6d69c94c6e88b0b146097503918326d502919d827225c0845fda32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36183f88b3a3220e19ff0760ae314774622750190d9e401d0349eb16d829456c.jpg"
+        ],
+        "size": 356515840,
+        "version": null
+    },
+    "70070000039028": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4390dfb66d69f62206299c1fd221c1f216c8d11142bb92eb51803af4621366c5.jpg",
+        "category": null,
+        "description": "突破極限，稱霸賽道！\n\n準備迎接《Formula Racing Pro 2026》帶來的次世代速度革命！感受腎上腺素的極致飆升！迎戰更快、更聰明的對手，並在以全球指標性賽道為發想的全新賽場上盡情馳騁。\n\n強化圖像表現、升級物理引擎與動態天氣系統，讓每一圈都充滿真實張力。掌握過彎路線、應對路況變化，在激烈對決中爭奪冠軍寶座。\n\n不論你是職業級老手還是初次上場，《Formula Racing Pro 2026》都能讓你體驗純粹的競速熱血，感受輕鬆上手、極速且永無止境的刺激！\n\n調整你的賽車，全速向頒獎台衝刺，證明你就是場上最快的賽車手。賽車的未來，即刻啟動！\n\n此捆綁包包括基礎遊戲、擴展包 #2 和 擴展包 #3 包括：\n\n- 6 款驚豔的全新賽車塗裝，為您的高速冒險增添風格和個性。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "突破極限──賽車的未來，即刻啟動！",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Formula Racing Pro 2026 Prime Edition",
+        "nsuId": 70070000039028,
+        "numberOfPlayers": null,
+        "publisher": "Baltoro Minis",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/210cf285ed765e315beb912b78176d3a4f5e2f2535ac8bf93766658764e09a83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd72ed48a1ae5efbbb46e86100277d7c82207ed9f6143f0beb62349f35a1eebe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/136b07133677ad711c995e77c2cb2b190ddbc004b50dff8dc3bb8bebfd44e0ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c874059831195842c718b1c10a5ff1f21158efb0f90d0a108198d39681d851a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08af6aa7a1316cc1e79b741e28f045a4a64959e5ceb8d56b3c7901081212225f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/019c384c4460f6346e71841cf67c6a0779423f16b812fec9b4052117b65c1fab.jpg"
+        ],
+        "size": 1288699904,
+        "version": null
+    },
     "70070000039044": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/16963a51e302fbadd5ca2e10f00f16e174c468f34e52fcb5ec66a1b9f1a64c0d.jpg",
         "category": null,
@@ -822324,7 +824865,7 @@
             "https://img-eshop.cdn.nintendo.net/i/68ddebb88a30a6ae1d3a3d8b32311cb31706b897c4977c23151f51d32dfe232c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/bc51533f7b6d2f1c93964b8f5e22f5c2002da343d8e9183045244ca2d42f0d21.jpg"
         ],
-        "size": 16592666624,
+        "size": 24065867776,
         "version": null
     },
     "70070000040502": {
@@ -823906,6 +826447,38 @@
         "size": 213909504,
         "version": null
     },
+    "70070000041065": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd3647bbeb730051d02d4cf07c9eaac29dfb0af38d871e2ea85a719ac298e9d4.jpg",
+        "category": null,
+        "description": "在《Hokko Spaces》中盡情揮灑創意：Sunshine Edition 將《Hokko Spaces》的溫馨創意與「蕾的海濱套件」帶來的別樣海濱樂趣完美結合。\n\n設計細節滿滿又恬靜的微型景觀風世界，一步步結識迷人的村民。無論是想打造寧靜的度假天地、熱鬧活潑的社區，還是完全屬於自己的獨特空間，Sunshine Edition 為你備齊創作素材，讓你創造自己的幸福小天地。\n\nSunshine Edition 包含：\n\n《Hokko Spaces》遊戲本體\n「蕾的海濱套件」內容包括：\n- 全新村民：蕾\n- 橡皮小鴨泳圈\n- 獨角獸泳圈\n- 烏龜泳圈\n- 救生員椅\n- 手提音響\n- 露營車",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Hokko Spaces - Sunshine Edition",
+        "nsuId": 70070000041065,
+        "numberOfPlayers": null,
+        "publisher": "Team17",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/27ac626a5c672238a497b1a74a448f5343dbe748e5b8689cc75e61ba028a5d54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/253d30a8eb5231efa211aff6f3b54c8a09d584b909d1e9579726b96e58205777.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7ee880964d4539457c57fe844c28378bf90bc80936ddace784b5094d22b803f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3792d2c4cac08f0ff601107f4a6e9d51417057e32654ebcf9949b0f8a65fa22f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61016c6564c29de6a4d2d3f9f07acd631ffafb46b8886eb36abbc196bd81f9cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c75896317a402619598a0ad2d080f65ae32838bfabc8da735cd1ed3b38e826d.jpg"
+        ],
+        "size": 1121976320,
+        "version": null
+    },
     "70070000041085": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9be744afadfaab10eb95e18e01bba91283ed39444983db45bbaee64582f1e91d.jpg",
         "category": null,
@@ -824320,6 +826893,38 @@
         "size": 493879296,
         "version": null
     },
+    "70070000041208": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37dbdc45a83eb0a4a6664b099530cee8b9c4751559bb205f299dac5d413f206c.jpg",
+        "category": null,
+        "description": "在 Nintendo Switch™ 上享受最道地的夾娃娃機體驗！\n挑戰真實物理效果與豐富多樣的關卡！\n除了普通夾爪之外，還有吸盤、鉤子、鎖鏈、水上關卡，甚至磁鐵等特殊機台登場！\n收集所有獎品，成為真正的夾娃娃機高手吧！\n\n「Let's Aim! Crane Game」與「More to Collect Pack」的組合包現已推出！\n攻略所有夾爪機關，收集全部獎品吧！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "超人氣夾娃娃機系列全面升級登場！\n瞄準、抓取、勾住獎品！\n攻略各種不同的夾爪機關，贏得大量獎品吧！",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Let's Aim! Crane Game + More to Correct Pack Set",
+        "nsuId": 70070000041208,
+        "numberOfPlayers": null,
+        "publisher": "SAT-BOX",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9b2eeeca7c6d6d35bbc9ade16fa9851c02436c7eca8ba9e48c215411b0296aa5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b975431ee131004c94515fcf18e4e126b74da0dc982c6e1df139e9bdb39de3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6bef2e12f06d02c4d60912af63129bb6e1efd4481b058920754f7c84020a680.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/231ad3f33a3920118feddce5eaafb1faeff234d462a026b93e822d0de96eabfa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de80de3f5fe9fd76dad001b89a631653e66af7d3c7562fa755d6c8a0d0862c3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e37d21bfab2cd92381b1c85bbe65251acb66b57081dc5274752dd1680107791d.jpg"
+        ],
+        "size": 318767104,
+        "version": null
+    },
     "70070000041214": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/92a0a8425ef07c662bcce36c5e622f8fde7348dfa482be871f5d1591d24f2c97.jpg",
         "category": null,
@@ -824605,6 +827210,38 @@
         "size": 1249902592,
         "version": null
     },
+    "70070000041283": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a03eeb18c6d5a5e7328c59e18d49546ccc8b56a04744acc95e95b36986220e99.jpg",
+        "category": null,
+        "description": "體驗 Treflik 家族的原始冒險。 準備好踏上一段健康的童年之旅。 新的 Nintendo Switch™ 兒童節目來了！\n\n寶貴的人生經驗\n\n認識這些可愛的角色，看著他們學習寶貴的友誼、尊重、誠實和寬容。\n\n多彩的世界\n\n體驗你最喜歡的 Treflik 家族冒險之旅。 通過“塗色本”部分為這些故事增添趣味，並賦予它們獨特的外觀。\n\n此組合包包含「Treflinka的治療」、「新的鄰居」、「小屋裡的小屋」、「梅弗當個國王」、「開心家庭」、「拜訪阿姨」和「女生之夜晚」篇章。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "與 Treflik 和他的妹妹 Treflinka 一起進入一個充滿想像力的世界。 屈服於這片神奇的土地，並通過他們的眼睛看到它。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "小狗特福 \"Treflik Puppies\" 終極版",
+        "nsuId": 70070000041283,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a2cdf6a7f719bef59b1409a587dd5245336deb82d67a79e221403551d66d3f62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/274b04de8a459d88860f0c89d6d638e3f015690f98ddc6289417bc0a579dded2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/356ba5f16df698d687684bea5b6255ba531ae882fc2c99b8eeada618f6ea8121.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4aa98a97d0fdbe48b69ea4b55e9108681f606f5117eec1e068c369a3a349ef5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f47f4bd49a7e0d762440046a7bf0ca5fce19be233bb40535ae733f5bc3182e9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efa92b9ab52ada8b533dda0e7f8b8737f317838d04144c9ec43cccd651c49871.jpg"
+        ],
+        "size": 3587178496,
+        "version": null
+    },
     "70070000041289": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/592d7c437ebe7740a70d50283d29310ffdb8ebf62f6a0740d2215834b5f55fef.jpg",
         "category": null,
@@ -824635,6 +827272,38 @@
             "https://img-eshop.cdn.nintendo.net/i/4b43a1033683fa0a9b1067f7bf5a40c5474b7ebf81e1e611610c05e5619e8872.jpg"
         ],
         "size": 1860173824,
+        "version": null
+    },
+    "70070000041291": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/458d552419ee661f90daf60b85cae59f508b1e7304b7c5161402f650695581ed.jpg",
+        "category": null,
+        "description": "體驗三種截然不同的世界，感受速度、精準操作與緊張刺激的行動挑戰。投入激烈的空中戰鬥，駕駛高性能車輛在充滿挑戰的賽道上突破極限，並操控先進的配送無人機穿梭於繁忙的城市之中。每種體驗都將考驗你的反應能力、決策能力與操控技巧，讓你在追求新目標的同時，迎接難度不斷提升的任務。\n\n組合包包含：\n1. Ace Thunder: Aircraft Wingman Simulator\n駕駛強大的戰鬥機，在激烈的空戰中抵禦外星入侵，保衛地球。迎戰敵方機隊、施展高難度機動、躲避來襲攻擊，並提升飛機的速度、裝甲與火力，讓你在各種環境中的艱鉅任務裡取得優勢。\n\n2. Auto Sport Racing Simulator\n駕駛高性能車輛，在具有獨特設計與不同挑戰的多種賽道上競速。自訂你的愛車，升級引擎、懸吊、煞車與加速系統，解鎖更多車輛和賽道，並參加不同類型的賽事，朝著冠軍之路邁進。\n\n3. DRONE DELIVERY - FPV SIMULATOR\n操控先進的配送無人機穿越繁華城市，將餐點、包裹、文件、電子產品及緊急醫療物資送達目的地。掌握逼真的 FPV 操控方式，穿梭於車流與狹窄通道之間，適應多變的天氣，並升級無人機以提升速度、耐用性與電池續航力，同時拓展你的配送事業。\n\n無論是迎戰敵方飛機、在賽道上追求勝利，還是從空中穿越繁忙的城市街道，每項挑戰都能讓你進一步磨練技巧。掌控載具、突破極限，在天空、道路與城市航線中展現你的實力。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "掌控每一種載具，在天空、賽道與城市街道中展現你的實力。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Racing & Flight Simulator Triple Pack – Cars, Jets & Drones",
+        "nsuId": 70070000041291,
+        "numberOfPlayers": null,
+        "publisher": "CONSANN REAL ESTATE",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/541d6af724699e89170a068b8f0b278555263ec6943c9c777d0241962ecaab49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afea956b57ec655584de6ad017453ce358095924ba7d0c740c2edf68bacd0aea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05ce5070148fdd67b112a8463b44a5d544c835b1f852a36f3aad62e85dd3c985.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de5b7f70e5ddeec28c53d255f42f7dc82069714a09cf30b19a8e65cf8803096c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/272fcb61ec99404773bac2c0f53f0c2d706bae219cf1c33b5e9951a952ddfe98.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/862ecac23457997df5ee67953a7f5801d6feed301158af3416d38fbabb6bfa6a.jpg"
+        ],
+        "size": 2959081472,
         "version": null
     },
     "70070000041295": {
@@ -824795,6 +827464,324 @@
             "https://img-eshop.cdn.nintendo.net/i/a072b5867c8e8576c5c7da26a7a794049d9c904b72db4874ffbb9298b21f8bf7.jpg"
         ],
         "size": 2841640960,
+        "version": null
+    },
+    "70070000041364": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd33159d877aef562886b59219806290e4e787246dd7e6eb4b077d19bd6b2c34.jpg",
+        "category": null,
+        "description": "踏入神祕的迷宮，探索無盡的走廊、令人不安的環境，以及難以預測的危險。尋找線索、穿越陌生的空間，並依靠自己的直覺，努力在這個未知世界中找到出路。\n\n此組合包包含：\n1. Inside The Backrooms – 探索彼此相連的後室環境，揭開其中的謎團、隱藏通道與未知危險。尋找線索、穿越不斷變化的空間，並在令人不安的氛圍中尋找前進的道路。\n\n2. Inside The Backrooms: Hidden Light – 在你的物品欄中新增一支電池電量無限的手電筒，為你提供可靠的照明，讓你能探索黑暗走廊、尋找線索，並在神祕的後室中前進。\n\n深入迷宮時保持警覺，照亮周遭環境，並揭開每條未知道路另一端的祕密。你越深入其中，就越難以預測下一個轉角究竟隱藏著什麼。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "踏入無盡的迷宮，揭開每條走廊盡頭隱藏的祕密。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Inside The Backrooms: Lost Corridors",
+        "nsuId": 70070000041364,
+        "numberOfPlayers": null,
+        "publisher": "Global Games Publisher",
+        "rating": 18,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8b7f6b82224ebdcb7cf9050e34a71bf60678b2a9d2f7dba377dcdb02e0b9d2ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c20f0f8992ec2ae9456df13ab43d4c0a0dfa27a70b3ea00cbc70888d51c25a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/201930624bb04d88892f4512d83f85e7337ac645cf4a98523fcb859a6377e682.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73ed1657086c3e02b2d122d04216f98fb6682c27f796e40f28e7eba920fae19a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49346577f613227cba2296cae92324b5fa979bc2480331145ec1c9c3ff352438.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/905d90bce555893ac6d7bd6b18eac6a8eb0fc59214c4144b1b6100ab0134e4fb.jpg"
+        ],
+        "size": 1600126976,
+        "version": null
+    },
+    "70070000041374": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dbde0a04e99c2e9ccaa1338e7c0830883f234fe79d7d92a057c7d24425918bea.jpg",
+        "category": null,
+        "description": "進入逼真的現代戰鬥體驗，每項任務都需要專注、迅速決策與精準執行。巡邏危險區域、完成關鍵目標、應對敵對威脅，並透過沉浸式的隨身攝影機視角，體驗緊張刺激的作戰行動。\n\n組合包包含：\n- BODYCAM SHOOTER 2025 – 透過逼真的第一人稱隨身攝影機視角，體驗現代戰鬥。完成戰術任務、確保危險區域的安全、營救人質、應對威脅，並使用現代武器與裝備，同時適應不斷變化的戰況。\n- Shadow Vision DLC – 解鎖在任務期間啟用夜視功能的能力。在黑暗環境中使用夜視功能，於探索複雜地點、巡邏危險區域及應對低光照環境中的威脅時，保持清晰視野。\n\n保持專注，適應各種環境，並善用裝備，迎接充滿挑戰的戰鬥任務。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "在低光照環境與嚴峻的戰鬥區域中自信執行任務。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "BODYCAM SHOOTER 2025 – Combat Ready",
+        "nsuId": 70070000041374,
+        "numberOfPlayers": null,
+        "publisher": "Oddi Tycoon",
+        "rating": 18,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fd649b8764f2528f75f1452717c9bfeca0770e2d13bf1eec1d633a1d53526a13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55885c94d6d7908d9ebd9b4b81f3d044992d82ec3682d3c42d625c44c42a115e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/534f0352d0d88c8c923aedcbe14aa46bf29894fad110b1f9576c70c83cee075d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69b50f27c9ec3e4d4eb5b42128eb036a5c72d430faee1aeca9c9f7b4e5e7b8eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1d697592c232bbafe2a16c47d0a16e41f6f6b21d84d8f64068cb1cfacffad09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f020e1d4f962efcaca2a682a37701ae7efce3954318a23fd5de0027e1a2996f1.jpg"
+        ],
+        "size": 2393899008,
+        "version": null
+    },
+    "70070000041380": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8e429db5a02dd87f510bfa975fd2dc764bd8b28aafc8e6cc039c6567a46d699.jpg",
+        "category": null,
+        "description": "My Cozy Room 是一款放鬆的沙盒遊戲，讓你可以設計和裝飾屬於自己的空間。從11種不同的房間形狀和大小中選擇，創建獨特的空間——你的夢幻臥室、一個舒適的客廳、一個時尚的廚房，甚至是一個充滿樂趣的兒童房。\n\n\n擁有超過500件家具和裝飾品，還有超過30種壁紙和地板圖案，讓你擁有一切所需，打造完美的外觀。無論你是孩子還是喜歡改造和沙盒遊戲的人，My Cozy Room 都是釋放創意、享受樂趣的理想場所！\n\n此組合包包含「萬聖夜」,「田園風格」和「地中海風格」DLC。\n\n特色:\n- 11種獨特的房間形狀和大小可供選擇。\n- 超過500件家具和裝飾品可供探索。\n- 超過30種壁紙和地板圖案，為你的空間增添個性。\n- 設計臥室、廚房、浴室等各種空間。\n- 非常適合孩子和喜愛改造及沙盒遊戲的玩家。\n- 放鬆且富有創意的遊戲玩法，適合各個年齡層。\n\n立即開始裝飾你的舒適夢想房間吧！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "打造屬於你的夢想房間，讓它真正展現你的風格。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "My Cozy Room 秋天版",
+        "nsuId": 70070000041380,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261030,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/baf76e58538adfe362b5cdc493f5d1d4ede1941261b7d3a78a284218676272d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/448888ae6cf7f53e9c0eb1e5c150e8a39d029e0ad58af1e82929e9d301650df6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9cac34ff4e56769302c01bb635a5e354b31f513123ad763b490691a180149ff9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/92e8bbcf477178b3192cdd8dcc5a5bdea8241e9fb803efb7da4a4aa714faba75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40d56fdb65543375ddc1590601097ce471a02ed9952a03a62cd190b41a069d5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5106e15d920816def3318c641288365693667affcb7fadfe97b8add77a71788.jpg"
+        ],
+        "size": 1332740096,
+        "version": null
+    },
+    "70070000041385": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/316a9eb6dd9ac5199e6d9ff2ffd23a0e293cb3013354c02ef15e585cde491612.jpg",
+        "category": null,
+        "description": "深入極端天氣行動的核心，體驗穿越廣闊多變的環境追蹤危險龍捲風的刺激感。穿越難以預測的風暴，探索容易發生極端天氣的區域，並在追逐完美風暴的過程中，挑戰你的駕駛與風暴追蹤技巧。\n\n內容包含：\n1. Storm Chasing Sim 2025 - Tornado Hunter\n駕駛強大的風暴追蹤車輛，在遼闊的平原、鄉村城鎮和危險的天氣區域追蹤猛烈的龍捲風。使用雷達、氣象感測器和先進工具定位風暴、完成具有挑戰性的任務、自訂車輛，並拍攝令人驚嘆的風暴影像。\n\n2. Storm Chasing Sim 2025 - Tornado Hunter: Chase Capital\n為你的帳戶新增 3,000 枚遊戲內金幣，提供額外資源，協助你進行風暴追蹤活動，並繼續探索極端天氣環境。\n\n面對難以預測的天氣，追蹤危險的風暴系統，並隨時準備應對各種狀況。每一次追逐都會帶來新的挑戰，讓你逐步深入風暴的核心。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "駛入危險環境，追逐完美風暴。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Storm Chasing Sim 2025 - Tornado Hunter: Into the Storm",
+        "nsuId": 70070000041385,
+        "numberOfPlayers": null,
+        "publisher": "Play Games",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7d9a72eabfaf0384fb9a2895800141be14bdecc23e67c69bdc908fdaae2217e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1408a0ef5b28d23bb85167757a6a40cdcc5fd788b209fb83cc0fba6af30c80b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1526c575486e4e1aee41e4bb81fb8dcd416053f0f3129c1c7f9557ce4ca4f9d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19c7c79471b5b11dfc3bbf35e837f1e171ad59f241e4bbb79ecb4671d0c17fde.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a62cb167205544dfd2309d672d4ad1e934d5164c757bdc546403a2fbcb81d08e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1400611df378b14ee6e77d95f69bb71e3afd35f58b9198fc28b00bf938a2e574.jpg"
+        ],
+        "size": 968884224,
+        "version": null
+    },
+    "70070000041411": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2321e3530962a442c4d318a25d06b5ce393e5c5d18ebc48a43c95f04ae2fb4f.jpg",
+        "category": null,
+        "description": "踏入充滿挑戰的邊境管制工作，在這裡，仔細檢查、迅速決策與時刻保持警覺至關重要。核對文件、搜查車輛、揭發走私企圖，並處理各種棘手情況，在邊境執勤的過程中逐步發展你的職業生涯。\n\n組合包包含：\n1. POLICE BORDER CONTRABAND PATROL SIMULATOR（本體遊戲）\n扮演一名邊境警員，檢查文件、核實身分、搜查車輛中的隱藏走私物品、詢問駕駛，並做出可能影響職業生涯的決定。逐步晉升不同職級，面對道德抉擇，並在維持邊境管制的過程中體驗各種選擇所帶來的後果。\n\n2. POLICE BORDER CONTRABAND PATROL SIMULATOR: Officer Rush（DLC）\n為玩家角色新增衝刺功能，讓你在邊境巡邏及應對各種狀況時移動得更快。在檢查車輛、與駕駛互動、搜尋走私物品及執行職務時，更有效率地穿梭於邊境區域。\n\n保持警覺，靈活應對不斷變化的情況，在邊境巡邏工作中掌握每項挑戰，逐步拓展你的職業生涯。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "保持警覺，檢查每輛車輛，找出隱藏的走私物品",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "POLICE BORDER CONTRABAND PATROL SIMULATOR: Checkpoint Control",
+        "nsuId": 70070000041411,
+        "numberOfPlayers": null,
+        "publisher": "Play Games",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f76da4d927139fc5943125c42d702c0fd96e27cf2f1ca6f9e790213ee16653ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50003975973b106231e66f09e6f1996a9de2af8dfc9d474d0f5f67fa07606b1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f20f4ba26ec0e4a947a31487a9262c5aba777781af5244c94a6d15f353edb3c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5551a41b80aad9c76f4ae7cd68599220fd25561fbcc42ae1cbff5e05e842558.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0347764fda0ebeedbf265d3d28c993026fe9b0e7b878a8a60cac66e0fa13dad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9437887a4990c0dd123a04d752a9edee2df816a334f9591bed9b6e9d6591787.jpg"
+        ],
+        "size": 2475687936,
+        "version": null
+    },
+    "70070000041415": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a381d472f20162984df861669cf742e1f42729c8b3392367587d9c2ad4edd55f.jpg",
+        "category": null,
+        "description": "揚帆駛向大海，展開獨立漁夫的職業生涯。航行於不斷變化的海域，尋找珍貴漁獲、管理資源並拓展漁業經營，逐步朝著掌管一支成功的漁船船隊邁進。\n\n此版本包含：\n1. SHIP SIMULATOR OCEAN FISHING（基礎遊戲）\n從一艘老舊的船開始，探索沿海水域，尋找魚類、螃蟹和稀有海鮮。將漁獲出售至不同港口，管理燃料與船隻操作，升級裝備，並隨著漁業事業的發展逐步擴大船隊。\n\n2. SHIP SIMULATOR OCEAN FISHING: Sea Fortune（DLC）\n為你的帳戶增加 10,000 枚金幣，提供額外資金來支持漁業經營、推進遊戲進度，並為新的海上航程做好準備。\n\n面對多變的天氣，發現珍貴的漁場，從獨立經營的小漁夫逐步成長為經驗豐富的船長，打造蓬勃發展的海洋事業。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "探索廣闊海洋，拓展你的漁業事業，尋找全新的商機。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "SHIP SIMULATOR OCEAN FISHING: Ocean Hunter",
+        "nsuId": 70070000041415,
+        "numberOfPlayers": null,
+        "publisher": "MORAHAN Studio Games",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/86b25b59ac96848e1f1040a9b55795799e4f749dbcfb7396d74accf4f1a0ad32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f9e7e3a0ebd8802ee441bd5fdaa8967917662dfbfdb028227d24a65ed5d554b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/932636c5a0fa299237127a0d053ccbff1ffc686700e99fb393bfb97bf5400089.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1400e5a4287a7c7b4a1607cd0096fa618c38c1007871cfb8ef93adf859bcf4e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b31921bed463d4ecab4f82d0644989dd8c583ab3d795f3ed7b8ccadf31f5df8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c774ba6b19dfba680910fbe511759857be34a404e14d87bd656dbaefb9b501c3.jpg"
+        ],
+        "size": 3621781504,
+        "version": null
+    },
+    "70070000041429": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7e498ee16a11cafc6b7c6fa9a4636c2ef4a3933ffc25947191d4b101d67e57d7.jpg",
+        "category": null,
+        "description": "體驗一位細心母親忙碌的日常生活，在家庭責任、家務、寵物照護與個人時間之間取得平衡。仔細規劃每一天，照顧你所愛的人，並為個人活動留出時間，努力讓家人幸福、維持家中整潔有序。\n\n此組合包含：\n1. Mom Life Simulator（基礎遊戲）\n照顧家人、處理家務、照料孩子與寵物，並為自己的興趣愛好安排時間。在承擔日常家庭生活中的各種責任時，妥善管理體力與時間安排。\n\n2. Mom Life Simulator: Daily Outfits（DLC）\n更換丈夫和兒子的服裝，為他們帶來全新的穿搭與外觀，讓他們在日常活動中展現不同造型。\n\n應對家庭生活中的各種需求，探索更有效的時間管理方式，讓每一天的家庭生活都充滿新鮮感。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "打理忙碌的家庭生活，讓每一刻都充滿意義。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Mom Life Simulator: Family Time",
+        "nsuId": 70070000041429,
+        "numberOfPlayers": null,
+        "publisher": "RioverseGames",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/556896214af7a8ce2d58a2aab748c407962b8df1c317d2eaf92f12e66b6e457e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e513ca768940d593023b2b43c7d692cf098f9420da6711023134c8cbcd3793f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1c7addfe71c255ec11f8239bbfe44b0dd844dd245337b7947729c8694721779.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/562f80e878b0a64270b524ceca5ad67a96133202bd9cc16c6af9d63207e3768a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a6efa795fbc65b77ad9ce4def88c21128539e49c1868d90c69880eaba53b4b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e479cff6470d821f1d431ba5329ddd22d2545288405c8f60d796a78d635c6650.jpg"
+        ],
+        "size": 1233125376,
+        "version": null
+    },
+    "70070000041445": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/34b7c3d9c13c5fd37a32d3acd215840d8674efdeee5c6ab4c161745ed3d137ec.jpg",
+        "category": null,
+        "description": "在這款終極汽車經銷體驗遊戲中，打造出屬於自己的汽車帝國。在這裡，每一輛車都是機遇，每一筆交易都能幫助你攀上事業巔峰。在拍賣會上購入車輛，發掘隱藏的珍寶，將車輛修復至昔日榮光，然後出售獲利，不斷壯大你的汽車帝國。\n\n從一間簡陋的辦公室起步，逐步將其發展成為一家聲名顯赫的汽車經銷店。擴建並客製化你的展廳，管理財務，搜尋珍貴車輛，並與客戶談判，最大化你的利潤。從經濟實惠的城市代步車到稀有的經典車型和豪華座駕，一切盡在你的掌控之中，打造一個彰顯你雄心壯志的收藏。\n\n此套裝組合包含遊戲本體和兩個擴充經銷體驗的DLC。你將獲得150萬遊戲幣，用於投資你的業務、購買車輛，並壯大你的汽車帝國。此外，你還將獲得兩輛額外的車輛，讓你的車庫更加豐富，擁有更多可供收集、修復、定制的車輛，並有可能促成下一筆利潤豐厚的交易。\n\n打造你的展廳，擴充你的收藏，進行明智的投資，使用完整捆綁包，成為終極汽車大亨！",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "建立你的商業帝國，主宰市場。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Car Sales Simulator 2026 DELUXE EDITION",
+        "nsuId": 70070000041445,
+        "numberOfPlayers": null,
+        "publisher": "CGI GERMANY DESIGN",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/88494c9a21551d7ce016d370c57973eec0e767157fffd6fc2a8a60e0e095a3a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80d703efa9a13082facb24ee42dc2ace1bd535df1986f6a4f392e58f94aaf74c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e98dbb4b3979af66a1d5fb3a8800378ee6d6094c9fbaaaacb7980fb4497c24be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71dff0e256ba8c9229c14de63ee3d4f3d2d8699d6e4500e5e552d8a3962e4af0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0ca2a5eb1133af9b11295776acf75a8d05f9a9338d3395c0874701cc43e3095.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6da8b6f1a3b8557569d5c22f7faa63ec2ae7a48b706a5d0ad1e3166e9a27d662.jpg"
+        ],
+        "size": 1251999744,
+        "version": null
+    },
+    "70070000041450": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3951370e18b4164bfc69c4bb2c1622c78941004c794dedb4a1192afc64ab8f72.jpg",
+        "category": null,
+        "description": "踏入地下鐵路的世界，體驗地鐵駕駛員的日常工作。駕駛載客列車，探索不同城市與路線，提升駕駛技巧，並在挑戰性關卡中不斷前進、發現新的車站。\n\n此組合包含：\n• Subway Simulator – Underground Train Ride Station Ultimate Driving Games： 在四座不同的城市中駕駛載客列車，探索各式各樣的地鐵路線與車站。從五款可用列車中選擇喜愛的車輛，透過完成關卡提升技巧、解鎖新路線，並挑戰難度各異的 100 個關卡，逐步建立你的地鐵駕駛員職涯。\n• Fresh Station DLC： 全面改變列車停放車庫的外觀，為環境帶來煥然一新的視覺風格。選擇列車、準備下一段路線並繼續地鐵駕駛生涯時，盡情體驗重新設計的車庫環境。\n\n駕駛列車、探索全新路線，並在城市街道下方拓展職涯，同時享受煥然一新的環境。",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "探索多樣化的地鐵路線，駕駛列車並提升你的駕駛技巧。",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Subway Simulator - Underground Train Ride Station Ultimate Driving Games: Rail Adventure",
+        "nsuId": 70070000041450,
+        "numberOfPlayers": null,
+        "publisher": "DEZVOLT GAMES",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261029,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c59848b3dfd37d1d215a9d18703d1e26aea014febff0f2a43c59662781d9b6fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e902160cfcfd4002b92b609a874e1fd9a62f549abf1950b57fc0ea806d8c3dd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46202ea13ac6c9f0bb076f5bc156019e69954df3f9f4d6300780a61bcba3acc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9288414611c7b7c74afc5147634b3b45cd736dae1a2453e468b1242140b4b8e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/558402b3ca3b8134e8b03749a7153fdee54945c08bee8642f44f95f98bff67ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b09aff91f51ede5f099c57a02d739ddc773c9edcdc3a22749ad9afd3722aae4.jpg"
+        ],
+        "size": 4371513344,
+        "version": null
+    },
+    "70070000041483": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be7e979f5dd8edbed57d8ecbf7213507f14da882a0bff36e7e56d63318aa6168.jpg",
+        "category": null,
+        "description": "塗色大師：像素夢想家 +  山水畫卷 2 + 塗色大師：像素夢想家 海底奇境 2 + 塗色大師：像素夢想家 蝴蝶和花2 +  山水畫卷 3 + 塗色大師：像素夢想家 簡單的圖案2 + 塗色大師：像素夢想家: 神話怪物 + 塗色大師：像素夢想家: 中世奇幻",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "塗色大師：像素夢想家: 起源 第7季",
+        "nsuId": 70070000041483,
+        "numberOfPlayers": null,
+        "publisher": "Error300 Games",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261031,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f25d0442c99a6a367bb56bf9a86c0c55638343425890a3b802bd832388c79046.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4675a2678103d38540293f95dcf40dd15e0a02d259ceae5b86db690bee5f461c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2fada6458af0c48f445b2d398c4031d07725ce111f022b830e078624b95ce61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19815f71c9e5f0e85b782015366b57656b0e35f87b389209229d66203d8c7fc0.jpg"
+        ],
+        "size": 344981504,
         "version": null
     }
 }
