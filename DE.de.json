@@ -708722,6 +708722,55 @@
         "size": 404750336,
         "version": null
     },
+    "70010000100546": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/005c8cc47d124a51c5e9f533fdda060a2a00c17a6756a584020c8012ab418c17.jpg",
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Lernspiel",
+            "Andere"
+        ],
+        "description": "Begib dich auf ein emotionales Abenteuer\nUnpetrified: Echos der Natur ist ein friedliches und nachdenkliches Erlebnis voller bedeutsamer Sammelobjekte und reich an einzigartigen, emotionsgeladenen Interaktionen und Umgebungsrätseln. Der orchestrale Soundtrack unterstreicht die innige Geschichte über eine ungewöhnliche Freundschaft, Verlust und Liebe.\n\nErkunde eine farbenfrohe Welt\nReise durch weite, wunderschön abwechslungsreiche Landschaften, die nahtlos in die anderen übergehen und eine einzigartige Flora und Fauna beheimaten, die nur darauf warten, entdeckt zu werden. Dein Fortschritt spiegelt sich in den leuchtenden Blumen wider, die auf dem Rücken des Golems blühen. Es gibt viele Geheimnisse und Sammelobjekte zu entdecken, die für ein lohnenswertes Erkundungserlebnis sorgen.\n\nBegegne niedlichen Tieren\nUnterwegs begegnest du einer Vielzahl bezaubernder Kreaturen wie Eichhörnchen, Pfauen, Gürteltieren, Elefanten, Pferden, Sandkatzen und mehr. Auf deiner Reise triffst du auch einen neugierigen Fuchs, der sich als hilfreicher Verbündeter auf deiner Reise erweist. Im Laufe des Abenteuers entwickeln der Golem und der Fuchs eine tiefe und bedeutungsvolle Bindung, die die Verbindung zwischen der Natur und den Emotionen in dieser sich ständig verändernden Welt unterstreicht.\n\nLüfte Geheimnisse\nLöse Rätsel, die die Umgebung um dich herum formen. Nutze die Fähigkeiten des Golems, um auf kreative Weise mit der Welt zu interagieren, neue Pfade freizulegen und Geheimnisse aufzudecken. Verborgen in den Überresten einer untergegangenen Zivilisation liegt das Mittel, um die Natur zurückzuerobern und zu verjüngen.\n\nStelle die Natur wieder her\nDer durch Magie wiedergeborene Golem ist tief mit der Welt um dich herum verbunden. Seine Emotionen werden in Echtzeit von der Umgebung beeinflusst und bestimmen das Wetter, die Pflanzen und die Tiere in der Nähe. Begib dich auf eine Reise der Selbstfindung und suche in einer wiedergeborenen Welt nach einem Sinn und Platz für dich.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cd2fd6cf42e8e7f1bd9f1eb6bbce4bc375d8d518088a636effdbcf71ce73a635.jpg",
+        "id": "01002C3024354000",
+        "intro": "Werde zum Golem und versuche, die Natur zu retten!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Unpetrified: Echos der Natur",
+        "nsuId": 70010000100546,
+        "numberOfPlayers": 1,
+        "publisher": "Mindscape",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261110,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a08bce2c082499df2a30cd87331a60eceb6624094255adb384049193d99fc34c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ed3ae6a10d488dd9a01bf7b535b5dcd6ace4a6e94101f904a3c76f5efeb56d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6dca8b1a5620ea49e2aef6ac2bf02960b663b47c5cc5df92fbda76ee1c9d6ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b03460f0047df6300057e9abf1f989275b1e4047de5e55b065017dcff1598aae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99bb236ebfa7210bed3e2f385f41aa27e7e7c90cc939885a54350c38fc13a796.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61ac38fb2fa0ce265c7cb4933c49c339e3eef83b2efe0fa107cb479a81c47d37.jpg"
+        ],
+        "size": 2046820352,
+        "version": null
+    },
     "70010000100551": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10a4e3892c475d9d476e8d35504e61136be45d28586193515ba84c415418470f.jpg",
         "category": [
@@ -728963,8 +729012,10 @@
         "nsuId": 70010000104677,
         "numberOfPlayers": 1,
         "publisher": "MIZUBLUE GAMES",
-        "rating": 0,
-        "ratingContent": null,
+        "rating": 6,
+        "ratingContent": [
+            "Comic-Gewalt"
+        ],
         "region": null,
         "releaseDate": 20261029,
         "rightsId": null,
@@ -840064,8 +840115,10 @@
         "nsuId": 70010000131669,
         "numberOfPlayers": 2,
         "publisher": "SuperPowerUpGames",
-        "rating": 0,
-        "ratingContent": [],
+        "rating": 6,
+        "ratingContent": [
+            "Fantasy-Gewalt"
+        ],
         "region": null,
         "releaseDate": 20261030,
         "rightsId": null,
@@ -849143,6 +849196,7 @@
         "publisher": "Dolores Ent.",
         "rating": 16,
         "ratingContent": [
+            "Gewalt",
             "Problematische Rollenbilder"
         ],
         "region": null,
@@ -858105,9 +858159,9 @@
         "nsuId": 70010000138840,
         "numberOfPlayers": 1,
         "publisher": "Upscale Studio",
-        "rating": 6,
+        "rating": 12,
         "ratingContent": [
-            "Schreckmomente"
+            "Düstere Atmosphäre"
         ],
         "region": null,
         "releaseDate": 20261030,
@@ -1440635,6 +1440689,38 @@
         "size": 2134900736,
         "version": null
     },
+    "70070000041756": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b9604054c91a7390cac6e0f4908e2680828ca160b9d4f2f3eb6db2309f807c3.jpg",
+        "category": null,
+        "description": "Gönn dir die ultimative Entspannung! Clay&Cats wird dir ein Wohlgefühl schenken, von dem du gar nicht wusstest, dass du es brauchst.\n\nDeine Aufgabe ist ganz einfach: Setze bezaubernde Keramiken im Katzendesign wieder zu ihrer vollen Pracht zusammen. Repariere miautastische Vasen, purrfekte Teller und entzückende Katzenschalen. Keine Timer, kein Stress – nimm dir alle Zeit der Welt, um die Teile zusammenzufügen, und genieße das befriedigende Gefühl, wenn sie perfekt an ihren Platz klicken. Gemütlicher geht es kaum!\n\nDieses Bundle enthält die DLCs Watering Can, Tray und Sugar Bowl.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Vergiss die Welt um dich herum mit dem entspannendsten Hobby überhaupt: dem Reparieren niedlicher Katzengefäße!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Clay&Cats Extended Edition",
+        "nsuId": 70070000041756,
+        "numberOfPlayers": null,
+        "publisher": "REDDEER.GAMES",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261110,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5ce2c5e520748f000b55b44f94802ff2573de6129676a9b9f160654c30682196.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2bdbf4e8a63af5c270de3d45d90ef3bf8d63ba4a85b1c5e910fddc2296fcd6c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a9c59405476a47fdfd382d379f34a8bdda6f752f03e3c62c8f7fa49d2ab6152.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6db3fe17e78a5061624822ef9b7d974e6b8680284eaa18697b6654c6fd36f434.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/380592052e354d87706b9396426fd6f099fb8e988dbc5103462b4806c75b8332.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/473590df2b2985b6b2cd2649607d736988ab3b47fc15c6162f9ec5fe63148d37.jpg"
+        ],
+        "size": 354418688,
+        "version": null
+    },
     "70070000041760": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fbda115786b25e4649ed3f09372c208c81c38e58b686cef545580a3274df1ca1.jpg",
         "category": null,
@@ -1440897,6 +1440983,106 @@
             "https://img-eshop.cdn.nintendo.net/i/821da9c80c457b9b6d6a678d2f3a89caf0fd5c1bfe429a6d6c34aadd34964d09.jpg"
         ],
         "size": 4399824896,
+        "version": null
+    },
+    "70070000041869": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f76d8f3959effda3a820f7a044dca05c0bb62d7552979931b2e72d576eec0344.jpg",
+        "category": null,
+        "description": "Discover the rewarding world of professional cleaning, where every task brings a new opportunity to transform messy environments into spotless spaces. Use different tools, remove dirt and stains, organize objects, and work your way through a variety of cleaning challenges.\n\nHouse Cleaning Simulator\nStep into the role of a professional cleaner and take on jobs across apartments, offices, restaurants, and other locations. Use a variety of cleaning tools, remove stubborn dirt, organize objects, and restore every environment to its best condition. Earn money, improve your equipment, and develop your skills as you progress.\n\nHouse Cleaning Simulator - Chapter Expansion Pack\nGain access to the first four levels and begin your cleaning career with a range of tasks. Clean different spaces, remove mess, and experience the satisfaction of transforming untidy environments into spotless places.\n\nTake on new cleaning challenges, bring order to every space, and enjoy a satisfying experience built around precision, organization, and progress.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Start your cleaning career, tackle new challenges, and transform every space into a spotless environment.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "House Cleaning Simulator - Cleaning Journey Part I Bundle",
+        "nsuId": 70070000041869,
+        "numberOfPlayers": null,
+        "publisher": "PlayForFun",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261110,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/943c060e0be5a1d139c9cad00d76da3510e84f8de46672d4cf5df73900386a6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d86ec61d89a241f1afcadc362c74e9c5d87430caa70bb005189ad7eee2ee72aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb2c81564f3c0279c64b3ee731edfb3f4282dd177a5933aa48613e80cbbae68e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a3130ee958a6d48eac737d7daf2f93b2f8769daa493b76aacfbab858ec4704d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00a146e3f0c8fa56f198e9ea4fee56770d92ad764071534a6f1543b44c71d57d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4203a5a9245a4bd9ac6d2bf21405c698e907df02dec348f850c49b8b767cc9c.jpg"
+        ],
+        "size": 1355808768,
+        "version": null
+    },
+    "70070000041888": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e0126a73d9dde6f4c389f9d2eb441bbb64350a747f943b3d8f989344673c4b1.jpg",
+        "category": null,
+        "description": "Enter intense firefights where quick reactions, smart positioning, and the right equipment can make all the difference. Choose your weapons, adapt to changing combat situations, and face enemy forces across challenging battle zones.\n\nBundle Features:\n1. Call of Warfront\nExperience fast-paced, score-based combat where weapon selection, tactical positioning, and precise timing are essential to overcoming enemy forces.\n\n2. Call of Warfront: Golden Arsenal\nGive your MP7 a distinctive metallic appearance with an exclusive skin that is automatically applied to the weapon.\n\nBring together intense combat action and a unique weapon design for a more personalized battlefield experience. Make every encounter your own as you fight for victory.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Take on enemy forces with precision, confidence, and a unique combat style.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Call of Warfront: Strike Force",
+        "nsuId": 70070000041888,
+        "numberOfPlayers": null,
+        "publisher": "Dragon Path Games",
+        "rating": 18,
+        "ratingContent": [
+            "Gewalt"
+        ],
+        "region": null,
+        "releaseDate": 20261110,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/02dc27b359dc7d9b885d8ed0fea7a4f379c979816e5ff395eabed817ec1b9f84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/362c905868f9db2c53c529fe47e813c63f08f9b4dff6cfa473312a96b417b930.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/307fbbb60112386ad8fd362209ed725eccc34690512718cf89548d336c3bd5d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfc5c0a3af011515781b8037f9a6f78616e722f0d6fba108d2743265947dce41.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00449f0a3470595e3460edabca6acc09437b06890502f165eef280424741ff56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8841be7b615f1c02a109a8f7b46d92a4546f91c946d895ee5b007f4cd0af7c98.jpg"
+        ],
+        "size": 1327497216,
+        "version": null
+    },
+    "70070000041893": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47e9cabfdf05d4537c8a5015b10f156f14b9957e0781d43fa3220934c9457753.jpg",
+        "category": null,
+        "description": "Bound together by mystical chains, you and your teammates must climb a deadly mountain where coordination, balance, and trust are essential for survival. Work together to overcome steep cliffs, unstable paths, and unpredictable terrain as you make your way toward the summit.\n\nThis Bundle Includes:\n1. Chained Climb Together: Local Co-OP\nTeam up with your friends and climb a dangerous mountain while connected by mystical chains. Coordinate your movements, overcome challenging obstacles, and rely on teamwork to progress through treacherous environments. Every step requires precision, and every mistake can affect the entire team.\n\n2. Chained Climb Together: Local Co-OP – Skybound (DLC)\nChange the visual atmosphere of your climbing adventure with a modified in-game sky. Enjoy a different view above the mountain as you and your teammates coordinate every movement and continue your challenging ascent.\n\nTake on the mountain together, adapt to every obstacle, and enjoy a cooperative climbing experience with a refreshed visual atmosphere. Every climb is a shared challenge where teamwork makes the difference between progress and failure.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Climb dangerous heights together and overcome every challenge as a team.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Chained Climb Together: Local Co-OP – Mountain Escape",
+        "nsuId": 70070000041893,
+        "numberOfPlayers": null,
+        "publisher": "DEZVOLT GAMES",
+        "rating": 6,
+        "ratingContent": [
+            "Angedeutete Gewalt"
+        ],
+        "region": null,
+        "releaseDate": 20261110,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ab420a003997c6ecde3fb8aad2e20d24d47e7fb0385b20633215b1debce20fdc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a73579b22fb1b8c73163c538da5c100234c9ce5da69b07c6426722b805bb204.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70bf0640ed57413780c5092394a59470997a5fdb895d0257a542661d65a77ed5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c821204b91ce93e42e597770fda3800e77d62f7bd80c9eb8a6a52c0a48a11c87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f47a6ac52f049695dafd9154a6382b0f22b4d217251018181f37fe65fe9dd383.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d49d132d3d63d87be4312e4b96ac7d8d5da371f1d2e23e69a72465e396c099f.jpg"
+        ],
+        "size": 1150287872,
         "version": null
     }
 }

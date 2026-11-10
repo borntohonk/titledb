@@ -673257,7 +673257,7 @@
             "https://img-eshop.cdn.nintendo.net/i/33abcf40237279645f11acb32f51756f61cdeaa6d5941caeb892a1555f3ebe1d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c4e197648365a100c7c3df718b9cc066a7a61f15ea57632a1d338fb61f064411.jpg"
         ],
-        "size": 13065256960,
+        "size": 13299089408,
         "version": null
     },
     "70010000138741": {
@@ -673424,9 +673424,9 @@
         "nsuId": 70010000138841,
         "numberOfPlayers": 1,
         "publisher": "Upscale Studio",
-        "rating": 7,
+        "rating": 12,
         "ratingContent": [
-            "恐怖を引き起こすコンテンツ"
+            "恐怖"
         ],
         "region": null,
         "releaseDate": 20261029,

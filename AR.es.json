@@ -446969,6 +446969,7 @@
         "ratingContent": [
             "Violencia de fantasia",
             "Bajo contenido de sangre",
+            "Lenguaje moderado",
             "Uso de alcohol"
         ],
         "region": null,
@@ -474106,7 +474107,9 @@
         "numberOfPlayers": 4,
         "publisher": "H2 INTERACTIVE",
         "rating": 6,
-        "ratingContent": null,
+        "ratingContent": [
+            "Violencia moderada de fantasía"
+        ],
         "region": null,
         "releaseDate": 20261105,
         "rightsId": null,
@@ -501205,7 +501208,9 @@
         "numberOfPlayers": 1,
         "publisher": "MIZUBLUE GAMES",
         "rating": 6,
-        "ratingContent": null,
+        "ratingContent": [
+            "Violencia moderada de fantasía"
+        ],
         "region": null,
         "releaseDate": 20261029,
         "rightsId": null,
@@ -582252,6 +582257,8 @@
         "publisher": "Shochiku",
         "rating": 13,
         "ratingContent": [
+            "Sangre",
+            "Temas insinuantes",
             "Violencia"
         ],
         "region": null,
@@ -597166,7 +597173,8 @@
         "publisher": "HAMSTER",
         "rating": 10,
         "ratingContent": [
-            "Violencia de fantasia"
+            "Violencia de fantasia",
+            "Bajo contenido de sangre"
         ],
         "region": null,
         "releaseDate": 20261029,
@@ -598803,8 +598811,9 @@
         "publisher": "Red Fables",
         "rating": 13,
         "ratingContent": [
-            "Bajo contenido de sangre",
-            "Violencia moderada"
+            "Sangre",
+            "Violencia moderada",
+            "Temas insinuantes"
         ],
         "region": null,
         "releaseDate": 20261029,
@@ -609011,7 +609020,9 @@
         "numberOfPlayers": 2,
         "publisher": "SuperPowerUpGames",
         "rating": 6,
-        "ratingContent": [],
+        "ratingContent": [
+            "Violencia moderada de fantasía"
+        ],
         "region": null,
         "releaseDate": 20261030,
         "rightsId": null,
@@ -615097,9 +615108,10 @@
         "nsuId": 70010000133498,
         "numberOfPlayers": 2,
         "publisher": "Witenovastudio",
-        "rating": 6,
+        "rating": 10,
         "ratingContent": [
-            "Violencia moderada de fantasía"
+            "Violencia de fantasia",
+            "Lenguaje moderado"
         ],
         "region": null,
         "releaseDate": 20261105,
@@ -616562,7 +616574,7 @@
         "version": null
     },
     "70010000134011": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/165baad9f2d71f4f08ddd923fd5fda7fe81476f24227a2ffe3a984a130190e2f.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00a0c5edef61f838b2df2afb23bcd9d799b3cbbdd2db9cafbd43591664aeed5c.jpg",
         "category": [
             "Arcade",
             "Aventura",
@@ -616603,12 +616615,12 @@
         "releaseDate": 20261110,
         "rightsId": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/032b4b45333d83d2dc8f31e6325e103473f97a7bedab91f0060df1212e6fb092.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/20e9fb67c78fc8224b63d29209deed27917243a39de92cbaec32a226f2fb887d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7e4a39abdd43cac022bf31f5ab0c105f6678d1fa62410e91c55bf1ae54ce8617.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2505d400fea94de1738c35c2eb98025206afce3eab7343a2a92a3e0575267748.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c4e58ee1f2ca4d4c4362b44b85e37b40a159c6da8046ec31fc252ea4b26ab401.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/ded6db7fc5e3e97df676b87a3db7577071c7546f484e51da93ea523b21f39c43.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/aee66ca13b8da9b9fa5305769a84812ce3c0ce1a7c91c479c6c6f9a6e80be33b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5139c3a33e1e919fd57bbe4e9a67c4155174de7e3223c470d2e6893c3c901bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c00e70f3ad23dd3f33d75bdfb5229aee829438c3c335905410861cac3c67d97b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5415e1b27c8c67add95bbe24ad96631d194e36d3b95fe82b8e699a13d0bf8fb3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab48878cc585cc5f1970aa6b63b72ad2da9489c627f41d99145f3d6513776f55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60d800d7ae45399ee1d188d9ff2ae3ae8c77fc1d603e894c01ced9cf8596c815.jpg"
         ],
         "size": 1307574272,
         "version": null
@@ -618259,10 +618271,11 @@
         "nsuId": 70010000134645,
         "numberOfPlayers": 1,
         "publisher": "Dolores Ent.",
-        "rating": 10,
+        "rating": 13,
         "ratingContent": [
-            "Violencia de fantasia",
-            "Temas insinuantes"
+            "Lenguaje",
+            "Temas insinuantes",
+            "Violencia"
         ],
         "region": null,
         "releaseDate": 20261029,
@@ -621952,11 +621965,11 @@
         "nsuId": 70010000136199,
         "numberOfPlayers": 1,
         "publisher": "Sobaka Studio",
-        "rating": 10,
+        "rating": 13,
         "ratingContent": [
-            "Violencia de fantasia",
-            "Bajo contenido de sangre",
-            "Lenguaje moderado"
+            "Referencia a drogas",
+            "Lenguaje",
+            "Violencia moderada"
         ],
         "region": null,
         "releaseDate": 20261029,
@@ -627076,9 +627089,9 @@
         "nsuId": 70010000138839,
         "numberOfPlayers": 1,
         "publisher": "Upscale Studio",
-        "rating": 6,
+        "rating": 13,
         "ratingContent": [
-            "Violencia moderada de fantasía"
+            "Violencia moderada"
         ],
         "region": null,
         "releaseDate": 20261030,
@@ -627174,9 +627187,9 @@
         "nsuId": 70010000138883,
         "numberOfPlayers": 1,
         "publisher": "Moon Game",
-        "rating": 6,
+        "rating": 10,
         "ratingContent": [
-            "Violencia moderada de fantasía"
+            "Violencia de fantasia"
         ],
         "region": null,
         "releaseDate": 20261105,
@@ -629009,10 +629022,10 @@
         "nsuId": 70010000140700,
         "numberOfPlayers": 1,
         "publisher": "JanduSoft",
-        "rating": 13,
+        "rating": 17,
         "ratingContent": [
             "Sangre",
-            "Lenguaje",
+            "Lenguaje fuerte",
             "Violencia"
         ],
         "region": null,
@@ -629264,6 +629277,56 @@
             "https://img-eshop.cdn.nintendo.net/i/b890350e244e58b0ba8a1972cd0c9c5c10ff38a99441033362905035045040d1.jpg"
         ],
         "size": 78643200,
+        "version": null
+    },
+    "70010000141099": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f85f53604a3a3b0303e831c40aa83aafa73dfcd60dfe2a6b55a7d419d21416bc.jpg",
+        "category": [
+            "Simulación",
+            "Acción",
+            "Aventura",
+            "Carreras"
+        ],
+        "description": "Vive la tierra de las oportunidades desde una perspectiva totalmente nueva: desde el aire.\n\nToma el asiento del piloto y explora Estados Unidos de costa a costa. Vuela rasante por el Gran Cañón, realiza espectaculares maniobras acrobáticas sobre Los Ángeles o simplemente planea con calma mientras el país pasa bajo tus alas. ¡El cielo es tuyo!\n\nTres modos de juego\n\nFree Flight – Descubre todo el país a tu propio ritmo. Planifica una ruta de aeropuerto en aeropuerto o despega desde cualquier lugar de Estados Unidos.\n\nFly4Fun – Aquí también exploras el país como más te guste, pero ahora cada maniobra cuenta: gana puntos con figuras acrobáticas y combos. Además, en todas partes te esperan emocionantes misiones por completar; así subirás de rango, nivel tras nivel.\n\nChallenges – Aquí se ponen a prueba tus habilidades como piloto. En distintos lugares de Estados Unidos te esperan desafíos complicados, desde slalom hasta vuelo rasante. Consigue estrellas y desbloquea nuevos lugares donde demostrar lo que sabes.\n\nConstruido sobre el mundo real\n\nUnited Skies FlightSimulator usa datos reales de elevación e imágenes satelitales: cada cresta, cada curva de río y cada pared de cañón está exactamente donde debe estar. Nuestro estilo gráfico único lo transforma todo en algo que nunca habías visto.\n\n¿Y lo mejor? Todo funciona sin conexión.\n\nSolo tú, tu avión y todo el país: un juego como los de antes.\n\nCielo despejado por delante. ¡Te damos la bienvenida a United Skies FlightSimulator!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d356810ef3dea82e52558d261b8231c2ab61064b612ad18d32b4364a8a475857.jpg",
+        "id": "010056A02ACC4000",
+        "intro": "Toma el asiento del piloto y explora Estados Unidos de costa a costa.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "th",
+            "pl"
+        ],
+        "name": "United Skies FlightSimulator",
+        "nsuId": 70010000141099,
+        "numberOfPlayers": 1,
+        "publisher": "Airror Studio",
+        "rating": 6,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261210,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/be949793556501e6fe7d362b06d9e17a26996a4f4918da087dc02ec00b108a0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e25082bf5b3b985a9b8c9c19b6e82f6009f5f6dc273cb6254994534cd3d669ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f448423a5a03dbe29d6cac147cea2597b72f505c9df8b7aa3fd8a1f4966dfc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da09f23bacc1d6b621d510329575633275bad35395e616b784f56476d8ca496b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd4ba315f9f9140402f9d24080495872fd9aeaf7d0b89b6a56ed12785c409c63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca959f1b46989d41b6c4c9f2fe86d9562275d005badf597410e073b6334e41ef.jpg"
+        ],
+        "size": 6239027200,
         "version": null
     },
     "70010000141170": {
@@ -650299,6 +650362,7 @@
         "ratingContent": [
             "Violencia de fantasia",
             "Bajo contenido de sangre",
+            "Lenguaje moderado",
             "Uso de alcohol"
         ],
         "region": null,
