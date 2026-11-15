@@ -6322,7 +6322,7 @@
             "Action",
             "Adventure"
         ],
-        "description": "Join the unlikely duo of Donkey Kong and Pauline as they smash their way through a vast underground world in Donkey Kong Bananza – only on Nintendo Switch 2.\n\nThis game supports Brazilian Portuguese.",
+        "description": "Join the unlikely duo of Donkey Kong and Pauline as they smash their way through a vast underground world in Donkey Kong Bananza – only on Nintendo Switch 2.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4e338d7047c3cbdac2d8c8d2c20e7b89eec166be24530b65879287d2f84d547f.jpg",
@@ -6376,7 +6376,7 @@
             "Arcade",
             "Education"
         ],
-        "description": "You know, when you stop to think about it, there are a lot of interesting technologies and clever designs that go into video game consoles.\n\nSo, let's consider Nintendo Switch 2!\n\nNintendo Switch 2 Welcome Tour is an interactive exhibit of sorts that offers an inside look at the suite of features and tech that power the games you love to play. Look, touch, and feel your way through the different exhibits!\n\nUncover lots of insights about the console. Explore basic features, like the magnetic connectors that keep the Joy-Con 2 controllers firmly attached, and more advanced tech details that you might not otherwise notice.\n\nRoam the exhibit halls, which resemble a giant Nintendo Switch 2. Discover hidden facts, take quizzes, and enjoy playful minigames and tech demos.\n\nThe more you explore, the more you'll get to know!\n\nNintendo Switch 2 Welcome Tour is chock-full of secrets you'll enjoy sharing with others.\n\nCare to join?\n\n\nThis game supports Brazilian Portuguese.",
+        "description": "You know, when you stop to think about it, there are a lot of interesting technologies and clever designs that go into video game consoles.\n\nSo, let's consider Nintendo Switch 2!\n\nNintendo Switch 2 Welcome Tour is an interactive exhibit of sorts that offers an inside look at the suite of features and tech that power the games you love to play. Look, touch, and feel your way through the different exhibits!\n\nUncover lots of insights about the console. Explore basic features, like the magnetic connectors that keep the Joy-Con 2 controllers firmly attached, and more advanced tech details that you might not otherwise notice.\n\nRoam the exhibit halls, which resemble a giant Nintendo Switch 2. Discover hidden facts, take quizzes, and enjoy playful minigames and tech demos.\n\nThe more you explore, the more you'll get to know!\n\nNintendo Switch 2 Welcome Tour is chock-full of secrets you'll enjoy sharing with others.\n\nCare to join?",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/143c3c38ef6dab5012eb250571ac15157bbe79690ae8c6070970a04130fc71f7.jpg",
@@ -6422,7 +6422,7 @@
             "Action",
             "Adventure"
         ],
-        "description": "Explore an even more breathtaking Hyrule on Nintendo Switch 2.\n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.",
+        "description": "Explore an even more breathtaking Hyrule on Nintendo Switch 2.\n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16259342084f704aa52da956cf1b1a9c2ad1f88b3de6c3e263c350813e7ccd1f.jpg",
@@ -6474,7 +6474,7 @@
             "Action",
             "Adventure"
         ],
-        "description": "Explore the land, sky, and depths of Hyrule like never before on Nintendo Switch 2.\n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.\n\nThis game supports Brazilian Portuguese.",
+        "description": "Explore the land, sky, and depths of Hyrule like never before on Nintendo Switch 2.\n\nWith higher resolution, improved frame rates, and HDR support, the expansive world of Hyrule has never looked better.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4b53da7ca4b118fe37c8b8040609b84dc63214d6131c51592486de9bf29ef29c.jpg",
@@ -6525,7 +6525,7 @@
             "Multiplayer",
             "Board Game"
         ],
-        "description": "Jamboree TV is a new way to play that's all about audience participation! Take on a variety of challenges along with Mario and friends. Let the games begin!\n\nThis game supports Brazilian Portuguese.",
+        "description": "Jamboree TV is a new way to play that's all about audience participation! Take on a variety of challenges along with Mario and friends. Let the games begin!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/404244f33a9808ec62bcb41c6a0d659fac887cb3ee376e3e42c91ab28548e06f.jpg",
@@ -6666,6 +6666,53 @@
         "size": 6463422464,
         "version": null
     },
+    "70010000099952": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/878f31ee3124cb9f8b4c4880ef5199f7d9f100d280f394a253d06da8ed384eeb.jpg",
+        "category": [
+            "Sports",
+            "Action"
+        ],
+        "description": "Hold each Joy-Con 2 controller like a mouse for tight control of both your wheels as you speed around the court.\n\nRaise your hand and flick your wrist to shoot...and score!\n\nTeam up with – or take on – friends and players from around the world online in fast-paced 3-on-3 matches.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5edf964a167b27c51fec988ec2480a93043d74c8beef1ccd096241a30fe4e9fb.jpg",
+        "id": "040041601D83A000",
+        "intro": "The next generation of 3-on-3 sports is coming to Nintendo Switch 2!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Drag x Drive",
+        "nsuId": 70010000099952,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20250814,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/51dd6455fc2cea7b08d23d1b2b3d2dd626ebac99a5c4f55b05d045b242c7b69c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2071e0da9e4550953d9e002c1265cbdee301e2047ff35576feae81047f964bcf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a800a25bf7e34c858439b6fd20ebc4551198c6adba356ca6eb6080fb73ace189.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7725c331eda249b975792d04174b9528cead380e4c1fced0d62fec048d018fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cba6637966bd6772f192958c43a185b9d076d61b944104e675fe5c7af13b6904.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff7daf459021debcf46b5355d7746377a68e075b86e26b2945fa2f15913d91f2.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000102053": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b70721fd7ce7b7213866955b0951e342309bec85dec19935b147e5d6ce914b6.jpg",
         "category": [
@@ -6712,6 +6759,105 @@
             "https://img-eshop.cdn.nintendo.net/i/65381f1ee5baf69d58dea56cfbe332b11df3977bb3d54a5029bf740e366b1b84.jpg"
         ],
         "size": 1013972992,
+        "version": null
+    },
+    "70010000103776": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8051959c5fbd8d342d5a81c90aae5a38e144ce987e316e1800edcb1156a88f87.jpg",
+        "category": [
+            "Action",
+            "Racing"
+        ],
+        "description": "Charge, boost, and spin to attack your rivals in Kirby Air Riders, a fast-paced vehicle action featuring Kirby and crew.\n\nPick your rider, pick your machine, and mount up for competition! Take on your rivals in frantic arena battles or fast-paced races on the ground and in the air. Use the Boost Charge button to brake and control your turns as your machine automatically fights for top speed. Fill your Boost Charge gauge as you drift around the bend and release it to trigger an explosive dash!\n\nChoose from a variety of riders like Kirby, Meta Knight, King Dedede, and Magolor from Kirby’s Adventure Wii, and machines including the Warp Star, Wheelie Bike, Chariot and more. Each machine handles differently, and each rider has their own set of stats and Specials – they can also grab Copy Abilities off their foes to get an edge in the fray.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82f972cae430204d18db811f321a98630be4a7b488150008f71f1919699ee0ae.jpg",
+        "id": "040077201BE50000",
+        "intro": "Ready, set, battle!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Kirby Air Riders",
+        "nsuId": 70010000103776,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20251120,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4f647898656deeede484a491afee6dd97da93b48fab3eb0636932cab07c309fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23e7a16efe6b022a2e7b3922dc9648759ca6d2a47fbc4ee8c65b4b396564524a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8180c3dd23888e9bd4b1fde2425e5d910207c0faba3de8c03f42e1a5573d67e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c89f59d8b1050622415049f6345fde16dc686bbd8b544caebc3c33ef126affe8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e768e9d31466485bae75e3bed3073b612e0d87b4431fc682f478c6ba168c0799.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed9e8fa142123e6d4a76e733049e5b2fd44071447db7178b8d337cbec5d3dfae.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000103947": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/49427511d60dc2dfed959893a6634da7de47071281dfb40161ab9bf881aac88f.jpg",
+        "category": [
+            "Action",
+            "Adventure",
+            "Fighting"
+        ],
+        "description": "Fight the war for ancient Hyrule! Step on to the battlefield as Princess Zelda, King Rauru, and other legendary heroes as you fight to reclaim your homeland – and live the story of the Demon King Ganondorf’s invasion.\n\nPrincess Zelda is not alone in this war! Join Mineru, the Sages, and even some brand new heroes in battles against Ganondorf’s forces. Combine powerful Zonai Devices with your heroes’ signature abilities to take down powerful bosses and their legions of minions.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c8cc7b7077f5340de35fbec612544fcc283ec91291384a79b0b73910494917ee.jpg",
+        "id": "04003F40232DE000",
+        "intro": "The untold story of The Legend of Zelda: Tears of the Kingdom",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Hyrule Warriors: Age of Imprisonment",
+        "nsuId": 70010000103947,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20251106,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6c233749c2311251c1df347f5e46016b95c293d1568e1196b44d6712dcfae308.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d436e6809b6e3cb0ae48d70d27fe405c39045a4248098439f9ac431f8f2e167c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbe77762b0ba94c9f42514a67214b710e7f43dc659fceab58c29d780e9a89aa9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d0350383a2af078565350a1a11450738bace496269690a8d07e1faf7bc346e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/688342401661bbc6d50eb97b4e6f706184e58341e6e3e5f59775bddfc0e7638d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/098d46c06e02364741a89c96bd91a194e817905c7f45b5f08ea76346d328742c.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70010000104188": {
@@ -6821,7 +6967,7 @@
             "Action",
             "First-Person Shooter"
         ],
-        "description": "The galaxy’s greatest bounty hunter Samus Aran will embark on a new mission in Metroid Prime 4: Beyond.\n\nThis game supports Brazilian Portuguese.",
+        "description": "The galaxy’s greatest bounty hunter Samus Aran will embark on a new mission in Metroid Prime 4: Beyond.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63656e54b4c7a1a5147755c25368071e45b8ea11410cfc4d323ad73f3b666676.jpg",
@@ -6862,6 +7008,100 @@
             "https://img-eshop.cdn.nintendo.net/i/6aaaee4e1f9b73ed6a58ee8ed87f61a2f940a000985b59a72a5c0355da8fdf8b.jpg"
         ],
         "size": 28292677632,
+        "version": null
+    },
+    "70010000105870": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2938c972528e46ff33c77c37f7ecc72ae13a32e8c5ee24846e484f850ce1660d.jpg",
+        "category": [
+            "Sports"
+        ],
+        "description": "Swing into action with 30 different Fever Rackets, each with their own special abilities, and 38 playable characters – the most in series history. Pair topspins, slices, lobs and other familiar shots with new slide moves and defence-focused footwork.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3cf60dc96b0c2643714f2b0355f8159c7cd35488678acd6287b295ab3ccb2bcb.jpg",
+        "id": "0400D4201C6EA000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Mario Tennis Fever",
+        "nsuId": 70010000105870,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260212,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a98d73395c2dce3d0a22434ba3016501fe67b39d639b1052a2b932814b015039.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd7f27cb43068b4fff62ca1b02c53d28a340650b51feb8c9b2b92c1a00a72fee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/348911435ebdd44322eea2461d1b4715b85b235c6ab6c847d9143afa73e0d347.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b23d94b7f1c39c73d81f554a4d7f5a8d5b5dc64ad50fee59353a39fa021be8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55cf28e6e9a1ec75471f5fabacba963f02144bee3912f867779be055344f1e5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec32db55368f772a85c84b739283c15fecfa08a5bac46f4bfca4b44d751f72bc.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000107422": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59b4553661393680e249d0d680ef5368f953b2cdf59ef38658dc0cbfebea3e97.jpg",
+        "category": [
+            "Simulation"
+        ],
+        "description": "Cultivate a new world\nPokémon and people once lived happily together, but the world has withered and the humans are gone. The only remaining resident appears to be a lone Tangrowth.\n\nAfter waking from a long slumber, a peculiar Ditto decides to restore the desolate land using its transformation skills and its surprising new crafting abilities.\n\nBuild a Pokémon paradise\nPlay as a Ditto and build a charming world alongside your Pokémon friends. After a satisfying day of crafting, building, and gardening, relax in your very own paradise or invite Pokémon and your friends to visit.\n\nAs you restore your world and cultivate its natural beauty, you’ll encounter more Pokémon who will teach you useful moves!\n\nYour Pokémon neighbours are excited to play together, as well as help you build houses to welcome even more friends! Pokémon might even ask for your help – work with them to build a cosy utopia.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7f7dbaf5285f4508ffb69e9ab56aed3f2e435e9aefb560260f3bfbe02207e3c7.jpg",
+        "id": "0400A3A01EE4C000",
+        "intro": "Craft cosy towns with Pokémon!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Pokémon Pokopia",
+        "nsuId": 70010000107422,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260305,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2e778245f31c23a8e435b26007504292e4b5d60d9cc638238e06efb9f0c847ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3db04c37c9d909ffff2b3277f4c8c166b1a9b0e4d5bf5364eb2d2cec6e157db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c8214bd886f2c4c04e511a30a6627c7dc2f4934398707bfd497f61c51d5559c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ceb12f1763cc8525f4a9092b4e0736287adbf65431934140ba579dbfec26c44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ccd630dbe73fa9c7c5c1ed471c4e81eda6f4ee4515d3f1a2f88514635941a8b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2045c3f67f865d333b1995562ad6b2894473b8a869e4c8efa01572539ec86019.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70010000110441": {
@@ -7389,6 +7629,56 @@
         "size": 61865984,
         "version": null
     },
+    "70010000119860": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fd07ceaa215cb1d0b2745d351e444f69e4997ed14860c7ca5303d6e972c07f04.jpg",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "Join Yoshi for a new adventure in Yoshi and the Mysterious Book, coming exclusively to Nintendo Switch 2!\n\nOne day, on the island where the Yoshis live, a talking encyclopaedia named Mr. E suddenly falls from the sky. His pages are full of creatures to discover, so Yoshi dives in to learn all about them...\n\nWhile examining the creatures, Yoshi can eat them, jump on them, or even carry them on his back. Use Yoshi’s abilities to reveal all sorts of characteristics about the inhabitants of Mr. E’s pages. Some cause flowers to bloom, others blow bubbles – each new discovery leads to new avenues of exploration, and even more discoveries!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/beb8c818dbd3555589424052a13447ff3a7099c42e0ef7c86182e33fc1175b65.jpg",
+        "id": "0400245021D2C000",
+        "intro": "A page-turning adventure awaits!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Yoshi and the Mysterious Book",
+        "nsuId": 70010000119860,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260521,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/db0f19cc672d771e02fc81884f34d99ff52f7d1dbb3c90b87649fb1392e4efa9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11cff126cfb9fdf62ee6a5988bce9d19c6a44a2b438781b1ba3606eab44e2116.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ac82bf1d46141ba19cad3828f0deb41c5b08e76952a29bab13c1d799a08cb42.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0cb096c2905dc8815f505ea1ae927890dad4eb723ac6ecc7d9044c5d5b0e095.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2893e772a8229e73a6e8ca327e812a1e045a0e1b99d5af1babf27bac1a01f17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d902bd97551aa676fa6166a382aefebb7b6faa21efe63ded4bec18c650e94f5.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000119888": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c36c7e27ddcad9f2365c4dabc0d598cb0af1e07a98c54b056de8c6f7f29b63e7.jpg",
         "category": [
@@ -7617,6 +7907,103 @@
         "size": 3439329280,
         "version": null
     },
+    "70010000122825": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47ee7227a1343c29aefa3be61fc99071f7fb681a12ce0be7272f02168132e6e0.jpg",
+        "category": [
+            "Action",
+            "Shooter"
+        ],
+        "description": "Splat scores of enemies in Splatoon Raiders, a new single-player focused Splatoon game coming exclusively to Nintendo Switch 2.\n\nPlay as the mechanic, working with Deep Cut – a trio of swashbuckling musicians – and venture out into the mysterious Spirhalite Islands in search of treasure! Customise your character, kit yourself out with mechanical Gadgets and a host of ink-flinging weapons, and take on waves of foes called Salmonids.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3d577060fe72b932e259a20af8716740fb2a71365efa8c5904a7b40ca49a6f34.jpg",
+        "id": "0400380020056000",
+        "intro": "Splat scores of enemies and hunt for treasure in Splatoon Raiders!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Splatoon Raiders",
+        "nsuId": 70010000122825,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260723,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e189b3a29faa8d723a3d578f07a7c6ac097a220ef3bd3cd4b548e0afb76bbe1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2df5c209e5e765630bd9a5946107b40db652fea6838ad17e3dcd4009b86614c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36cdb9d8f92eef60aeea6c9147176b4a0cf469c2613245696c40a14273d20020.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a864a8505bd11fd6d9404bf8b9166cd33f360f9c4858de3b30ea25a8f4d18256.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4a5160b5ba6dfb0a1d1088d6fe1e78bd00494e1fc4c1544c8ef54e13a6b19b2.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000123168": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/194768feac243e05317edfd51444b829b037b152769c406dc717668fae0a5775.jpg",
+        "category": [
+            "Shooter"
+        ],
+        "description": "Fox McCloud and his wingmen are back in Star Fox, a remake of the Nintendo 64 game Lylat Wars, only on Nintendo Switch 2. Strap in for intense aerial combat as you take the Lylat System back from Andross, one planet at a time!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c75d018e2a1c2fd924b520f5231e96ccfe682a00ce6d5af4a5c7f9ff472fd53f.jpg",
+        "id": "0400E88025B1A000",
+        "intro": "Lead the squadron. Carry the legacy.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Star Fox",
+        "nsuId": 70010000123168,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20260625,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/faf866ffb7197454c214dd7ee0a99bd7451a9b0d7f0fc39575b71625ab9f1b77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f69a6da45fcab5b04eb146e985683553bd3a1407e8bc92f9f7abcbb254a0eaf4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5f579d35215bfc50f575776a548c7c9449854b5d3055ea4938da59fb6e74755.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b65594d98c7fb7a7f82af321e8acde34ff10df9b6c418a0fcbb2074b6eff0f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30f50180534d2ca0c9115f6afbd66ef5ee04e0ac79f90f442e9a66b05f1d521c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88572bed03f83abca30a99753cec2510955bec05c7ff8191238d75e6dd950466.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000123634": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/240a80ff5ce517a952d4c4a005280095314ec60583bb4afdfeff0bc56330504b.jpg",
         "category": [
@@ -7665,6 +8052,107 @@
         "size": 213909504,
         "version": null
     },
+    "70010000125146": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c311d937802aa93c1f48f9922a58f916eb3ddc9370050b131ec3d2c3d1502ac.jpg",
+        "category": [
+            "Sports",
+            "Party"
+        ],
+        "description": "Play 12 different sports using intuitive motion controls in Nintendo Switch Sports Resort.\n\nCreate your Sportsmate or Mii character, and check out the facilities on Wuhu Island’s sporting resort. Use the Joy-Con 2 controllers as rackets, bows, paddles and more.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c7c765b115764bdd649b6b3a924d1f90321d0b01c4d896eb0d40921b35791c8f.jpg",
+        "id": "04008E001F098000",
+        "intro": "More sports, more moves, more fun for everyone!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "th",
+            "pl"
+        ],
+        "name": "Nintendo Switch Sports Resort",
+        "nsuId": 70010000125146,
+        "numberOfPlayers": 4,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20261022,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a23d4479e0f023c571af4866cddbf9ad39962b6dc7a7d597f5e990a93a652fca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8957f6cb8586b5eeab9827317082baed049fe9500f3980363ae18626f4efe39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/92260aa7b87d629c0866e8e7c0faf9563e44237f3b05613e3baefbc262cc3c4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68a7fb28e52d10c36a04c6ccb9deb4381f66e5eac8eb5e27d731e7dc1b8aa567.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a531b8c0a5207e51f2733b6c6d87e90e52880f4bbcad6afb9129a7b70be64f19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/612fb3a6ae31aad0266e38b4c9b7f7ec9328ad9a1ffe37fcd87555f4f21307a5.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000126930": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/159bdf6c9f126feb35ae1123c370cf357bcf069fd5dda84d8d0c4f64ae097e40.jpg",
+        "category": [
+            "RPG",
+            "Simulation"
+        ],
+        "description": "The end of the world is only the beginning. Lead four heroes to victory across countless tactical battles and change the past to save the future in Fire Emblem: Fortune’s Weave.\n\nThe year is 1454, and the Dagdan Empire lies on the brink of ruin following the return of Balor, a resurrected demon god. In an effort to avert disaster, a soul descends from the heavens at the behest of the goddess Sothis.\n\nWhich path will you walk to save the world?",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2956e67b675c1088cb5a282fb815d9fc299baca06f0684c9b305b76c9cb8d141.jpg",
+        "id": "04007EF01F8AE000",
+        "intro": "Guide four fates to save the world",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Fire Emblem: Fortune's Weave",
+        "nsuId": 70010000126930,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260917,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/091e8ba6f37ca77c7f9b8ec6dde7f4f7bad0cd37c9d983d53c76ae75259f4d00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7908bfebb4781ae8079c74c071cd53bd7641ecf43e21085696af6bf5fd7e9885.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70bf5918d20db329057aa53b1d857ffa1547f554dfef29287e8f9b508af94028.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15ed749e45d599a259fe7a7b35a0c46f6d8eaba4e4bfb717391938be5acd11b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78c95510fe04fcfda5daf6a518333bc7ec6028437118665ad478d24ee7ccedfa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4755c9c15ce2c6a8b03d173f5532359a292df1d8f485afb8068a29c1393bb8d.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000127806": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0798fa2811e4f1ac9a34dc55792cc552a47a9c7bdf8c1e1a95c322b544a0531a.jpg",
         "category": [
@@ -7672,7 +8160,7 @@
             "Sports",
             "Music"
         ],
-        "description": "Punch and dodge to the beat in the latest entry of the Fitness Boxing series, now with additional content and performance enhancements for Nintendo Switch 2! Correct your form using a compatible USB-C camera (sold separately), take things up a notch with Boost Up feature, work out with up to three friends via GameShare and more!\n\nThis game supports Brazilian Portuguese.",
+        "description": "Punch and dodge to the beat in the latest entry of the Fitness Boxing series, now with additional content and performance enhancements for Nintendo Switch 2! Correct your form using a compatible USB-C camera (sold separately), take things up a notch with Boost Up feature, work out with up to three friends via GameShare and more!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0328efd6127ae6cb1d2b4aece98479ed37dae6bfd45dc1fdf72f1349de36071d.jpg",
@@ -7711,6 +8199,103 @@
             "https://img-eshop.cdn.nintendo.net/i/419f3934399cbf960d1d462f7e84fdd6bcd3492bec1e9789cf1c59314d026da9.jpg"
         ],
         "size": 4959764480,
+        "version": null
+    },
+    "70010000130793": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8507e0aad9ed021b24bb3ae45209e71be675557d3579f1577f4127fd965b9dd9.jpg",
+        "category": [
+            "Adventure",
+            "Action"
+        ],
+        "description": "Discover an adventure for the ages in The Legend of Zelda: Ocarina of Time, for Nintendo Switch 2. Featuring reimagined visuals, a refreshed soundtrack and modernised gameplay, this classic quest has been remade for a whole new era.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/48a2af3e9f8f0d008e0daea82272136148fb35aac5d544cc1513578cecd06765.jpg",
+        "id": "0400486024DEC000",
+        "intro": "Reborn through time",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "The Legend of Zelda: Ocarina of Time",
+        "nsuId": 70010000130793,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20261105,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a081d8b45a20e0503118d8562a6dd1e1aa7bb27f4c5523652d4d316620a59d71.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/029e9f16f44ec800dd74a31f9d272dd351c69edcc612f0d766360905d0d358a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebea7cd366a331b5f9e99e657fe8f6f1279c7d6718d091ce4475b3d1323e862e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52e624b9d709e14027bb0796f1b9413e7e3255055021d89094ada82052532c6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fefb9b1b8ca59bec9d2ae7aaebf321c52ba410910deb0ee94ce93836fd37049d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24f6652ec540962a876554cd5fa7c3422482100290048744589de5450e1600e8.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000133215": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6affe0435c0a5173a66c6d84c144b30d73b0e46f6e3ee1bc97092dfd05874dde.jpg",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "Hyrule Warriors: Age of Calamity storms onto Nintendo Switch 2 with smoother performance and higher resolution visuals. The Definitive Edition includes the base game as well as the downloadable content from the game’s Expansion Pass.\n\nWhat’s new in Hyrule Warriors: Age of Calamity – Definitive Edition?\n•\tSmoother performance and higher resolution visuals\n•\tA new mode: Calamity Mode\n•\tGameShare support for up to two players locally or online via GameChat\n•\tIncludes the base game and the Expansion Pass DLC\n\nImportant information\nHyrule Warriors: Age of Calamity – Definitive Edition is playable only on Nintendo Switch 2. If you already own Hyrule Warriors: Age of Calamity for Nintendo Switch, you can purchase the digital version of Hyrule Warriors: Age of Calamity – Definitive Edition for Nintendo Switch 2 at a discounted price.\nPlease visit the official website for more information.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/97dd07381160a879e8f52c1837c9d02496c8fd8b9e2d2abe5b0186d2ea9b3a02.jpg",
+        "id": "04003AD02923E000",
+        "intro": "A story set 100 years before The Legend of Zelda: Breath of the Wild…",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Hyrule Warriors: Age of Calamity – Definitive Edition",
+        "nsuId": 70010000133215,
+        "numberOfPlayers": 2,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20270225,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ebbdddfa0a69262cf047dcc92a15748d83f3e6465b2c74299be51f3130bb379a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4578534e1531f2af8fed31866926db94b9f7fdf7099ec5c9650a0f9a8b308d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9153ab8740d13d7ec9779ee21b0883efbf39c4451b361fd897e9a23b70ce5ea2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6357dc8cdf0e3cf4a235ae001eb7b062a7ab9ed1bd84e2612c77d4b8c61eb737.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70010000133321": {
@@ -7812,11 +8397,11 @@
         "version": null
     },
     "70010000135060": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1788b57db362322cb8921475fff24ebae618d7da3e5a3e2fa657a177cc239d31.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e06495c0641fccd5d04cbf11bdb99e740e1377b40875858427e18fb3bfad1ece.jpg",
         "category": [
             "Adventure"
         ],
-        "description": "Give Oatchi commands using your voice and put your Dandori skills to the test in Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy.\n\nTake on challenges to see how quickly you can collect treasure within the stage. Exams are held each week on Friday, Saturday, and Sunday. You can practise each stage as much as you want, but you can only attempt the exam once per week.\n\nThis game supports Brazilian Portuguese.",
+        "description": "Give Oatchi commands using your voice and put your Dandori skills to the test in Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy.\n\nTake on challenges to see how quickly you can collect treasure within the stage. Exams are held each week on Friday, Saturday, and Sunday. You can practise each stage as much as you want, but you can only attempt the exam once per week.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06471c4bb150ff3f0a75afdaebf9891b0904ceeba003a4e888258c9cacd3c540.jpg",
@@ -7847,7 +8432,57 @@
         "releaseDate": 20261112,
         "rightsId": null,
         "screenshots": null,
-        "size": 12086935552,
+        "size": 12069109760,
+        "version": null
+    },
+    "70010000135072": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59a471b45226b28af0d50818c52aa7b646bc6b15fe375028eeeecb2c1a6ed55a.jpg",
+        "category": [
+            "Action",
+            "Adventure",
+            "Shooter"
+        ],
+        "description": "After her ship crash lands on a moon, Samus Aran is ambushed by a mysterious group of assassins. Severely wounded from the attack, the bounty hunter must now navigate an underground world and gain new abilities to find her way back to the surface.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "It’s eat or be eaten",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Metroid Ravenous",
+        "nsuId": 70010000135072,
+        "numberOfPlayers": 1,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": 20270128,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6f65ff0e568fd743d4c9148546ee538a3ce16e926add85a3cf17972244150d8f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15797c442cbd1c3fad7c32ab4675dabe9cd51bd30dbe6c3f073e10d698ddc9fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b3d6c82b6137eeff53281e3e9239fd9768ed92e8e565b6a81ff378c1f7860a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d298d2a6c9949c8afdd542fdb047bf3b6b92c8909e03edda6e4f64c370f59262.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33bcac3f58a030b07f0ec587c1722c0181615a8d42eb4f10e6d079315aee1fd5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c9e961cb4e7aaa3958e7f7b8df56f730d190250aaf9c07e17282bfaecb92e89.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70030000012315": {
@@ -8495,6 +9130,61 @@
         "size": 1503657984,
         "version": null
     },
+    "70030000023818": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Donkey Kong Bananza Demo",
+        "nsuId": 70030000023818,
+        "numberOfPlayers": null,
+        "parentId": "040074A01BF12000",
+        "publisher": null,
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70030000024151": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Drag x Drive Demo",
+        "nsuId": 70030000024151,
+        "numberOfPlayers": null,
+        "parentId": "040041601D83A000",
+        "publisher": null,
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70030000024954": {
         "bannerUrl": null,
         "category": null,
@@ -8519,6 +9209,35 @@
         "rightsId": null,
         "screenshots": null,
         "size": 1179648000,
+        "version": null
+    },
+    "70030000025302": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Star Fox Demo",
+        "nsuId": 70030000025302,
+        "numberOfPlayers": null,
+        "parentId": "0400E88025B1A000",
+        "publisher": null,
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
         "version": null
     },
     "70030000025409": {
@@ -8547,6 +9266,61 @@
         "rightsId": null,
         "screenshots": null,
         "size": 662700032,
+        "version": null
+    },
+    "70030000025505": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Yoshi and the Mysterious Book Demo",
+        "nsuId": 70030000025505,
+        "numberOfPlayers": null,
+        "parentId": "0400245021D2C000",
+        "publisher": null,
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70030000026363": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy Demo",
+        "nsuId": 70030000026363,
+        "numberOfPlayers": null,
+        "parentId": "0100B7C00933A000",
+        "publisher": null,
+        "rating": 3,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
         "version": null
     },
     "70050000000122": {
@@ -16921,6 +17695,42 @@
         "size": 7340032,
         "version": null
     },
+    "70050000062487": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0acca9f8225a5e4da88532c21389c4274f0acee27386cf370889c6dfcaea9d7f.jpg",
+        "category": null,
+        "description": "Explore DK Island and go on an emerald-hunting rampage in this downloadable content for Donkey Kong Bananza!\n\nReturn to the tropical paradise that Donkey Kong calls home. Freely explore the island, reunite with familiar faces, and exchange your Banandium Chips for statues modelled after characters from the Donkey Kong series.\n\nVoid Company has set up a new business venture – and they’re hiring! Explore and destroy against the clock to gather as much emerald ore as you can to meet VoidCo’s quota.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "040074A01BF13001",
+        "ids": [
+            "040074A01BF13001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Donkey Kong Bananza: DK Island & Emerald Rush",
+        "nsuId": 70050000062487,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250912,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e2642845c11255dff8bb10a8b5e053e18c00671dc8d1fae2f7d9d946b6df741d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6873c64cfd3952a38eebaf334349629abfc193f7d77d6da72dd84f43b8185285.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebf0962fd988247f172e2c5ffff4aa5138e6a984d1d320cb836345cdddfd98ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c90ee818974937ed1ec56d9ede77f11ed1b07f26c2a474876f898ac804b21956.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70050000062488": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b95e0e7ba4a7f5f03761d711e5466e8f76df571985f2ef6065a9bae3b91a097.jpg",
         "category": null,
@@ -17290,6 +18100,137 @@
         "size": 3145728,
         "version": null
     },
+    "70050000073726": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f518ccaf5b9b0780298cf747bbd7c2ae8232cfa37e82a73747f40c2872a2ecf.jpg",
+        "category": null,
+        "description": "How to claim:\nPress the + Button while in-game to open the main menu and select ‘Downloadable Content’.\nSelect ‘Check Items’.\nSelect ‘Receive’.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0400A3A01EE4D001",
+        "ids": [
+            "0400A3A01EE4D001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "dynamic Ditto print recipe",
+        "nsuId": 70050000073726,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260609,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000073728": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/326f28e99a78ff6f350b847dab50ff25d4dc0de92a237a82e3c6d8c942a46bfb.jpg",
+        "category": null,
+        "description": "Dive into an underwater town where you’ll encounter new Pokémon, find new furniture and acquire new outfits for Ditto to wear.\n\n- Build with buoyant blocks\nDevelop a three-dimensional town with blocks that float underwater and turn Bubbly Basin into a vibrant community!\n\n- Grow some greenery\nWatermelons have been newly added!\n\n- Seaworthy furniture\nDecorate Bubbly Basin with new ocean-inspired furniture to make your underwater den your own.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0400A3A01EE4D001",
+        "ids": [
+            "0400A3A01EE4D001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Part 1: Bubbly Basin",
+        "nsuId": 70050000073728,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260805,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/44a4e7be4ff3e07f3c83f970b8d43f316d2b36aa16b6c6c1ab04f65efb149d46.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46ebf726b0765bfa5b8f89efe212eaa1487dc53cb6614679b3297344e5578251.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a0039b5e052a5c05c2bb01bbb976f917621f4c0bb687d1ef009e0b128036661.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ae3a6dad833664484a0affc7f31b847395047d6b125d10dc3ec31713379289e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b65d008d5ff16d7010bcbf0b6a636f1a7e896829a3619fb19d3608eb19e83474.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/556a6c4fb80265f4207adbf0debf7e869af161ba7c26dc04284e4e9bc51c9f7e.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70050000073729": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf639620047d02f513c6d454ab7dd5282cb26381d088269fa4b082cc6f73796a.jpg",
+        "category": null,
+        "description": "Get stylish with accessories! Play dress up with Pokémon using sunglasses, bowties and more. You’ll also be able to befriend new Pokémon and decorate with new furniture.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0400A3A01EE4D001",
+        "ids": [
+            "0400A3A01EE4D001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Part 2: Additional new features",
+        "nsuId": 70050000073729,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20270331,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bee76a5ecdaa2b0897309beb7b7ff4f67e54d9c13e8817b2fce92807327fade7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c362cd246d072ac8e0c5edfcb93cc30a8f2c3cc949451338ce1951cbabc93a53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7868ab55894145a03895d6086edf782b0509e6d6c1de8740d6f78b64e8aa936b.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70050000073730": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0741463090bd9c33d5393217a2570964c1709616dff27e34aada33f2ae7abefe.jpg",
+        "category": null,
+        "description": "Available 2027",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0400A3A01EE4D001",
+        "ids": [
+            "0400A3A01EE4D001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Part 3: Additional new town",
+        "nsuId": 70050000073730,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20270930,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70050000073731": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2f4272ffa71e95227de8d6855450107d8f91acc4bdf6af1da6169d2777588004.jpg",
         "category": null,
@@ -17434,6 +18375,117 @@
         "releaseDate": 20261112,
         "rightsId": null,
         "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082087": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff38d88589e63100062778a6ae63a4735c7a26badf381361c8e3d5a4043784f4.jpg",
+        "category": null,
+        "description": "Discover weapons modelled after the Heroes' Relics from Fire Emblem: Three Houses, one for each of the four main heroes:\n\nCai – Prototype VII\nA weapon resembling Dimitri’s spear, Areadbhar. Complete the quest To Cai, the Young Man of Rumor which appears from Part I, Chapter 4 onwards during Cai’s path to receive it.\n\nDietrich – Prototype I\nA weapon resembling Byleth’s sword, the Sword of the Creator. Complete the quest To Dietrich, the Foreign Swordsman which appears from Part I, Chapter 4 onwards during Dietrich’s path to receive it.\n\nTheodora – Prototype XI\nA weapon resembling Claude’s bow, Failnaught. Complete the quest To Theodora, Queen of Saramis which appears from Part I, Chapter 4 onwards during Theodora’s path to receive it.\n\nLeda – Prototype V\nA weapon resembling Edelgard’s axe, Aymr. Complete the quest To Leda, the Famed Musician which appears from Part I, Chapter 4 onwards during Leda’s path to receive it.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04007EF01F8AF001",
+        "ids": [
+            "04007EF01F8AF001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Part 1",
+        "nsuId": 70050000082087,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20261015,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/63636c741858611818b67cb0367eb1e22ff54b619782756cff165030363d41ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94c13965150cd92174d4306ad5157cb5838f52d727d567540efb2b0541bcb4af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf72723186c1611b8591feb948fe083465eba51de5a7e2f97b0d578595b3b291.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e1b8d415cd471b04b8cf4948997702e4cdc823036dee437e69b44a7d90cc573.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/631f495bdf7b5c31cdc8ea30509a318233ef6bdadec64f3a2afac9e110f67237.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70050000082088": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f79b54f9816ffa36793e73afe1b39f6bbea6fb7fec59d15c6e87de008d108893.jpg",
+        "category": null,
+        "description": "Complete their corresponding quests and three of Dagda’s gods – Aurora, Smyrnos and Jurah – will join the Promised One’s Army in the story’s final act. Take the fight to the demon god Balor using power beyond all comprehension!\n\nNew equippable outfits\nThe ability to equip four new outfits will be added, allowing you to change the appearance of your heroes and allies.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Part 2",
+        "nsuId": 70050000082088,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20261231,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f3a90e2babb7c9a0b7959fd07a0e374b88b8f31a5c4755468b6014d91d747dfd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb966dc60da707c7354946c4ed8f0091866d2c38e86e889a203c00b721da3289.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1573ccf1e49b9ffe90a000576ea46f62c28ebf4d410a7d8f4bb2281775664af7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f34abd36a858ffac1f47020305b8a126bfdb9a5dd5124a977e32cf3d8b2e682.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0ebbee33de760e42559c714936e7eb8a24efc38654d4c1cb1556fb436a89626.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70050000082089": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97c37e800cf3069eeba29725f46d2b54632752e19a016ee8f48eed26d82c2a64.jpg",
+        "category": null,
+        "description": "Discover more story content featuring four familiar warriors fighting in the Heroic Games: Bertrand, Talimun, Orchel and Anatolia.\n\nAdditionally, new allies, unit classes and more will also added in this final part of the Expansion Pass, with more details to be shared in the future.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "ids": [],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Part 3",
+        "nsuId": 70050000082089,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20271231,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/601eab599c71d2186b115f0f035418be4560575035d38add14904af655ce866b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae888ae0552633c85323192593277486c069388a0c404ac35b57051533b6da47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/603d998ca0e8cbe5092310d0fbada3df3e6c721d37eaf732d1a08d489d5a786b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a2f3e424744bc9f6a358cc21a3c3a31e5b382285626767e662d3b9d796cd24b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cae4961f553174d29af009bd1625c771b35e7ec5b95ae77afec8d0e234c93de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da98a0cadfd813381fe2eb02d988cfbe10f76d269f6f0b8bbc4591cf2a1fd402.jpg"
+        ],
         "size": 0,
         "version": null
     },
@@ -17594,6 +18646,41 @@
         "size": 6978273280,
         "version": null
     },
+    "70070000030750": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/80279509d556ec53475dfe4f052478a9f7784cb1845835cd83d19996e9329fbe.jpg",
+        "category": null,
+        "description": "A convenient bundle consisting of the main game Donkey Kong Bananza and the DLC expansion DK Island & Emerald Rush.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Donkey Kong Bananza + DK Island & Emerald Rush",
+        "nsuId": 70070000030750,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20250912,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0358e835ecf330b4b1e8454708844597f9fc666e426e291e00e4d27e901cf16c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df0897bfe989bb4d527d7b2e65a692e74a25aee1cf4907f106df03205c4ee442.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab4a2b142a8812b3f8b15ca9c9cc7b29cb2087a1c063efb2636d3d1b82480759.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e9afec429426817a78f00f879ba798621c67c2c3933e96aa6eb60e7feca08cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/882011370d37d9018bb89a68805eec55bdc37c0820d85b0f41f9668b273284f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2fa4a6dbcf749c17947b82b877e30de719a7b406a9c14d50a9b307cb292afa05.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70070000030754": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/87dd583f7e002fbb1a8cec1ea4ac73ce9c9929a2102c2cb996fa213711ab8d8f.jpg",
         "category": null,
@@ -17698,6 +18785,40 @@
         "size": 2444230656,
         "version": null
     },
+    "70070000037078": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8f0faaf9784d257846714ee2e06aaaae1305157dffdf939dc7a023635aedb896.jpg",
+        "category": null,
+        "description": "Pokémon Pokopia + Expansion Pass includes the main game plus the Expansion Pass.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pokémon Pokopia + Expansion Pass",
+        "nsuId": 70070000037078,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 3,
+        "ratingContent": [
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20260715,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2e778245f31c23a8e435b26007504292e4b5d60d9cc638238e06efb9f0c847ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c8214bd886f2c4c04e511a30a6627c7dc2f4934398707bfd497f61c51d5559c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ceb12f1763cc8525f4a9092b4e0736287adbf65431934140ba579dbfec26c44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47bc1f7658d7197c5060bf51c9f4973b91b83a1b67eeea01ee23a8d82ebd20e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd1fc4e2fe169ad18416704fb5c9803ccdfc29ca2554e55129027b87061d653b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11a50c9e6a1ad3b0de9016075cae954d1eee54ab8518d8b855977a0f6d208301.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70070000039126": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d6412b7a187b01cda3de37c1a54252a9bb528a442469fe87ebb302ae8eadbaf.jpg",
         "category": null,
@@ -17766,6 +18887,42 @@
             "https://img-eshop.cdn.nintendo.net/i/7cc453b608a22cf906e4337f45d1be4623bee298330587238cbe28c03234392b.jpg"
         ],
         "size": 6466568192,
+        "version": null
+    },
+    "70070000040993": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53a589fadacde8e0fca9ef18cd2f2fed90e4081c92eef256a48acf2ff29d26db.jpg",
+        "category": null,
+        "description": "Fire Emblem: Fortune's Weave + Expansion Pass includes the main game plus the Expansion Pass.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Fire Emblem: Fortune's Weave + Expansion Pass",
+        "nsuId": 70070000040993,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 12,
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game purchases"
+        ],
+        "region": null,
+        "releaseDate": 20261015,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/091e8ba6f37ca77c7f9b8ec6dde7f4f7bad0cd37c9d983d53c76ae75259f4d00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7908bfebb4781ae8079c74c071cd53bd7641ecf43e21085696af6bf5fd7e9885.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63636c741858611818b67cb0367eb1e22ff54b619782756cff165030363d41ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94c13965150cd92174d4306ad5157cb5838f52d727d567540efb2b0541bcb4af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf72723186c1611b8591feb948fe083465eba51de5a7e2f97b0d578595b3b291.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e1b8d415cd471b04b8cf4948997702e4cdc823036dee437e69b44a7d90cc573.jpg"
+        ],
+        "size": 0,
         "version": null
     }
 }
