@@ -7908,7 +7908,7 @@
         "version": null
     },
     "70010000122825": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47ee7227a1343c29aefa3be61fc99071f7fb681a12ce0be7272f02168132e6e0.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9fb65bf224b61120582cc208733d153816bae3d827fcf4b5abc3e1a6cf527fbe.jpg",
         "category": [
             "Action",
             "Shooter"
@@ -9316,6 +9316,35 @@
         "publisher": null,
         "rating": 3,
         "ratingContent": null,
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70030000026550": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Splatoon Raiders Demo",
+        "nsuId": 70030000026550,
+        "numberOfPlayers": null,
+        "parentId": "0400380020056000",
+        "publisher": null,
+        "rating": 7,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
         "region": null,
         "releaseDate": null,
         "rightsId": null,

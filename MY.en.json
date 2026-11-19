@@ -69427,6 +69427,55 @@
         "size": 1134559232,
         "version": null
     },
+    "70010000111547": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02197d7f7c72aa7a6be2e59cd1b05deb881110d0fdba938815645b8fdf8b7bbc.jpg",
+        "category": [
+            "Adventure",
+            "Platformer",
+            "Multiplayer"
+        ],
+        "description": "Includes: The base game + Rayman Origins: Enhanced Edition.\n\nWhen a shadowy villain spreads corruption across the Glade of Dreams, journey through its charming worlds solo or in up to 4‑player couch co‑op in a fast‑paced, side‑scrolling adventure where every stumble and surprise adds to the delightful chaos.\n\nPURE PLATFORMING JOY\nLeap, glide, and punch your way through worlds bursting with charm and delightful surprises. Craving a change of pace? Dive into unforgettable musical stages, where every move must sync with the beat for a rhythm‑powered thrill.\n\nNEW AND IMPROVED GAMEPLAY\nImmerse yourself in a world brimming with life, reimagined with stunning visuals. A rich selection of iconic levels returns alongside a mysterious sixth realm and 4 new musical stages. Saddle up for epic dragon rides and test your skills in the Cave of Trials.\n\nA FRESH TAKE ON AN EPIC TALE\nJoin Rayman and his friends on their most ambitious adventure yet, facing a new foe stirring trouble from the underworld. Voiced cinematics and an expanded soundtrack by Christophe Héral and Grant Kirkhope bring the journey to life, blending original themes with new compositions.\n\n4 PLAYERS, LEGENDARY FUN\nPlay the entire adventure in up to 4-player couch co-op, racing for Lums or knocking each other off to claim every last Teensy. Kung Foot also returns with improved controls, power-ups, and customizable rules for hours of frantic competition.\n\nINCLUDES RAYMAN ORIGINS: ENHANCED EDITION\n(Re)discover the platforming classic, now featuring 4K visuals, new collectibles and rewards, plus a range of quality-of-life improvements.\n\nInternet connection, Ubisoft Account and applicable platform account required to access online features.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/44af3303b55b4df341ec38b9cb4c28b5f4ed90333837bbfd0650ec94b3336b22.jpg",
+        "id": "04003B8026092000",
+        "intro": "Embark on a bold reimagining of the acclaimed platformer, filled with new content and narrative twists.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Rayman Legends Retold",
+        "nsuId": 70010000111547,
+        "numberOfPlayers": 4,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6f0b1d9197a285140795f91da8251f6c50468a036699add1e1f0fce797aef8ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5fc544e3528eb54a76b2b7a1122d0868d35744198aa641af388589593235a93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a26026cdbf4fe19907383fbb0eca1d5f336a4e0d27989953f082bd5c339c83a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/07ddd821aa398f12eebc9a0305566dae3eb41d43381eb56dbf1d9b503a832b7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04e76b6fa6ddf1f9b1718196fd5f15d77fe4adc326ef3614e310785b781e7ef6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19b982e94fee3e01a43cabff818ce273e6483214b50edbcc800343b9affec277.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000111557": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/936e7ef1ef8c49b587c6a19492500ad6e70b6042fd8d65b92a578a0daf246b93.jpg",
         "category": [
@@ -101133,7 +101182,7 @@
         "description": "Shape of Dreams is an action roguelite that combines hack-and-slash combat, MOBA-style team play, and strategic choices.\nJourney through ever-changing worlds, from scorching lava fields and blizzard mountains to starry cosmos.\nDodge waves of enemies, land precise skill shots, and overcome each battle with quick decisions.\nPlay solo for a tense, skill-based challenge, or team up in up to 4-player co-op, where different combat styles come together to create powerful synergies.\nCombine ever-changing skills and upgrades to carve your own path of progression, and challenge the dream world in a new way with every run.\nNo two challenges are the same, and no fixed build or strategy will always carry you to victory.\n\n9 Travelers, Each with a Distinct Combat Style\n\nFrom swift close-range assaults and precise skill shots to wide-area attacks and supportive playstyles,\neach Traveler approaches combat in a different way.\nBuild around your chosen Traveler’s combat style and face enemies in a new way with every run.\n\nSolo and Co-op, Two Ways to Fight\n\nWhen playing solo, dodge incoming attacks, land your skills with precision, and shape your build through your own decisions.\nIn up to 4-player co-op, combat becomes even more dynamic.\nWhen different Travelers’ abilities and builds come together, powerful combinations and explosive synergies emerge—ones that could never be created alone.\n\nCreate Your Own Build\n\nUse ever-changing choices to alter your attacks, enhance your abilities, and discover unexpected combinations.\nEven with the same Traveler, the build you create can lead to a completely different combat style.\nThere is no single answer.\nBuild your strategy from the choices presented in each run, and take on challenges that may seem impossible.\n\nA Dream World Full of Variables\n\nThe dream world is full of changing variables.\nFour difficulty levels, distinctive boss encounters, and Lucid Dream modifiers demand different tactics and build choices with every run.\nRather than following the same familiar path, try new combinations that adapt to each changing situation.\nThe more you play, the more powerful strategies you will discover as you break through the dream world in your own way.\nThe dream awaits.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/32baf8d200c1009c235182aa97b4efa5ce3e0f901e2d1ac93f220c077b17d4b1.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/672fdbb2126436e7933f6dda50571bc7b75a324196cea6eb3bbe496b5574b792.jpg",
         "id": "04009A60272CA000",
         "intro": "Shatter reality in this action roguelite. Solo or 4-player co-op combat.",
         "isDemo": false,
@@ -116754,6 +116803,50 @@
             "https://img-eshop.cdn.nintendo.net/i/7ee1860ddbe83a410365026d632292d590f6aecbf16496fb2fe53a974dfa53f1.jpg"
         ],
         "size": 7680819200,
+        "version": null
+    },
+    "70010000122298": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/38239fcddc3a89641e3e3b47b4382da5d5b034e23a54e46fa5b69fa06816be1f.jpg",
+        "category": [
+            "Adventure",
+            "Racing",
+            "Sports",
+            "Lifestyle"
+        ],
+        "description": "Decorate the DreamHouse™ through the decades, while playing classic Barbie games in this cozy and creative game. Barbie™ Rewind pulls you back in time through iconic eras of Barbie with stunning pixel art and retro style. Your bestie, Barbie, invites you into her world and entrusts you to update her DreamHouse with your unique style, using items from Barbie history.\n\nChoose from three retro DreamHouse designs for your exterior facade, walls, and floors. You can even mix-and-match them from room to room. Style each room with a fabulous collection of furniture, decor, and accessories, inspired by real Barbie playsets throughout the decades. From a classic pink vanity to a ‘90s inflatable chair, make the DreamHouse unique to your style and creativity.\n\nBarbie has also left you her game collection of 16 Barbie video games from 1991 through 2007. Titles include Barbie™Pet Rescue, Barbie™ Horse Adventures™: Blue Ribbon Race™, and the never-before-released game, Barbie: Vacation Adventure.  Play through the collection to complete additional quests and unlock more items.\n\nPlenty of familiar friends (Ken, Teresa, and Christie!) pop in to get your help with designs for them, too. You can also flip through the pages of Barbie history in the beautiful digital Lookbook.\n\nFEATURES\n\n- Decorate the DreamHouse! Help Barbie decorate with furniture, decor, and accessories inspired by Barbie playsets throughout the years.\n\n- Express Yourself. With 250+ pieces of furniture, decor, and accessories to unlock, the possibilities are endless.\n\n- Play 16 classic Barbie video games.\n\n- Barbie is calling! She leads you through the game and calls you with regular updates and new quests to complete.\n\n- Exclusive digital Lookbook. Flip through the pages of Barbie history, featuring the stories behind some of her most iconic DreamHouses and playsets.\n\nThis product can only be played on Nintendo Switch 2. A separate product, \"Barbie™ Rewind\", is available for Nintendo Switch.\nSave data and Additional Contents are not compatible between the two versions. Please be careful to avoid duplicate or mistaken purchases.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/85aae2d4fb3f5dce382b6b47bd0d8ebc12b60e609222b8fafc38dc16f5417111.jpg",
+        "id": "04000BB027B80000",
+        "intro": "Decorate the DreamHouse™ through the decades, while playing classic Barbie games",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Barbie™ Rewind",
+        "nsuId": 70010000122298,
+        "numberOfPlayers": 2,
+        "publisher": "Atari",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/156535a99378ac72369a2f92fc7dd55d986f07106ba2a03c2f28c10630daf7be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c7accd06ddc68803b19dd6558a278adefa5704ee72cf91d391cd7822581231f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7007e7ab0488c063a6d2a92f3f9c75b1c0cba3c8a9308dbf9e6975aa171c3a1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15caf15acad2fc79e67fc35f066eac40c7af4cfae31d2c98742992968817285c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08745c2a99557f3bc7013ec0177191fbd918d41a89ce975992950c43c9c5763f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ced349c627a035d855653ed26532c0ae12218b070a4a9fe49058df2704c9bf3.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70010000122304": {
@@ -148708,6 +148801,52 @@
         "size": 2040528896,
         "version": null
     },
+    "70010000131142": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/11c2c5f8e9daa41d3c42f89bd83905f1d4d0f965f7d632dd7299fd4bacadd5d3.jpg",
+        "category": [
+            "Adventure"
+        ],
+        "description": "KEY FEATURES\nSurvive horrific Stalkers\nChallenge your survival instinct to escape murderous enemies: hide, evade and fight back in critical moments. Every mistake can be fatal.\n\nMaster Hypnosis Powers\nUse retrocognition, mirror abilities and moth manipulation to read forgotten memories, reveal hidden paths and twist the environment to your advantage.\n\nA modern return to classic survival horror\nStep into a love letter to classic 3rd person survival horrors, with modern pacing, controls and production values.\n\nExplore a richly detailed environment\nInvestigate every room, find clues and key items, and solve puzzles to access new areas and progress toward the final revelation.\n\nUncover the secrets of the Cristo Morente\nDiscover the forgotten story of the Sicilian convent where the myth of the Red Nun began: a place of burned faith, buried guilt and forbidden rituals.\n\nAcclaimed music and voice talent:\n- Original soundtrack by legendary composer Akira Yamaoka\n- BAFTA Games Awards winner Cissy Jones as Susan\n- The Game Awards winner Maggie Robertson as the Red Nun\n\nCreated to captivate both newcomers and longtime fans of the Remothered saga, Red Nun’s Legacy is a modern survival horror inspired by classic horror games, blending stealth and psychological horror with new mechanics centered on perception, hypnosis and environmental manipulation, and closing the Red Nun’s story once and for all.\n\nTHE STORY\nSometimes, seeking the truth means losing yourself.\n\nOver a year after six young girls vanished in Sicily, a new clue reopens the nightmare.\n\nWhen a mysterious recording rekindles the hope that her daughter might still be alive, Susan, against all reason, decides to go to the place where everything seems to have begun: a decaying noble residence isolated on the slopes of Mount Etna and once owned by the Ashmann family.\n\nWhat starts as a desperate search soon becomes a journey into terror, where family secrets, memory, and obsession intertwine. Susan finds herself drawn into a labyrinth of relentless stalkers, hidden symbols, and hypnotic phenomena. As reality fractures and dark powers rise, every step brings her closer to the truth… and to a terror older than herself.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c6dc77128e75fca9cfc12e7fec9479244c17034d8cf7fc270cc2ed8fe7df2431.jpg",
+        "id": "040069F02923C000",
+        "intro": "A kidnapping, a desperate mother, and a shadow from the past.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Remothered: Red Nun's Legacy",
+        "nsuId": 70010000131142,
+        "numberOfPlayers": 1,
+        "publisher": "SOFT SOURCE",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9b504d5bee1dc23d15aae7d866cea728a1fd9d77c2138ac077d1a9382bdbea85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f52baeac27e96abf8f1b181056868053d7355de14fe9f80be13fc6c782147a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/341ab85959513db7ceee5fad50197492653a627d4cef02e3004532bf930f7443.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adbd51af4c6b91ae31c4b8bc013b9a8fd48c55e2c23181b01486d84edd95f900.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8805000d9d5761811dce019b46b515aa52a7746b8bb8ccb7f6c55169cd66f9ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1b8f5ab81e8a6cef4d9a2422b27282fc13c014caa13047f24c2615dc2364e8b.jpg"
+        ],
+        "size": 1258291200,
+        "version": null
+    },
     "70010000131167": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5bb5386f2f4e11c5d50757fe7284c327aeb0543975aab6fcabc3c9112de04fff.jpg",
         "category": [
@@ -154390,6 +154529,47 @@
         "size": 2513436672,
         "version": null
     },
+    "70010000133491": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa6fc1965afcbef9a618f0c72c89b2dfa3eb17dca7deff1a710ff0e697feb824.jpg",
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "description": "■Enemies, allies, and even the stages—EVERYTHING is Baseball!\nIrem's legendary 90s arcade beat 'em up is back, bigger and better than ever!\n\n<Pitch, Swing, Run! Knock 'em Out with Baseball Combat!>\nThe righteous \"League-Man\" set out to recover the stolen Golden Baseball Statue from the Baseball Hall of Fame! Unleash satisfying combos with repeated button presses, grab enemies and send them flying with powerful throws, and clear the screen with spectacular special moves at the touch of a button! \"Pink,\" a support character in the original game, finally joins the playable roster. Experience the action like never before in vibrant Full HD!\n\n<Up to 4-player co-op! Packed with more modes and more minigames!>\nThe main game mode supports cooperative play for up to 4 players. In addition to the game mode based on the original release, check out the high-difficulty arranged mode featuring altered enemy spawns, new placements, and brand-new stages! Furthermore, the Minigame Mode also new events to the lineup! Compete for high scores in the Home Run Derby or chaotic car races!\n\n<New Arranged BGM Included! Customize Your Soundtrack!>\nFeatures brand-new arranged BGM by composer Yousuke Yasui. Toggle between the original soundtrack and the new arrangements to play with your favorite tunes!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/32085bc7e069de9f055bd55bd4207f0a0b790ca7a937787efda03e55db82c910.jpg",
+        "id": "04003690298B4000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Ninja Baseball League-Man: Bases Loaded",
+        "nsuId": 70010000133491,
+        "numberOfPlayers": 4,
+        "publisher": "H2 INTERACTIVE",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261210,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2bb7d5dc333c276fca528445a8c608d71fac668bf24740a9a95f5bdf1b47975e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7057678bb2c42656edb26f0a209903e4bbc0fa572ed542c96478894b8d3cb6f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea8ad3107808decdf04fa54694f711df24c1bc98dd8576b6452de3b289b33436.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39bfa8c956456115b9d0f32c68b4455c27b643fdb3405bae267751e8872763e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eaa39adb84897ef228564c375ae929771901793a18e579dd4334d3763a9859f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf6acd7bcabb4375dd9bdff3ab6df776fa0374c57b92a1009aa44fa9c99d0a46.jpg"
+        ],
+        "size": 767557632,
+        "version": null
+    },
     "70010000133497": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/662fc70aed2f5ac5d8442b17e2732de65ad59008620653756d540cc3d1c103b8.jpg",
         "category": [
@@ -158405,6 +158585,48 @@
         "size": 507510784,
         "version": null
     },
+    "70010000135217": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c0c27bc918e94d87206612c7ae0caddcf74d3e28d527dfd17d9555329d8fbc3.jpg",
+        "category": [
+            "Arcade",
+            "Racing"
+        ],
+        "description": "\"TX-1 V.8\" is a racing game released by TATSUMI in 1984.\nThe popular \"TX-1\" has returned, featuring a variety of upgrades to make the game even easier to play!\nYou can now recover if your car rolls over or spins out, and it's even possible to jump right over opponents ahead of you.\nThe eight countries featured in the Grand Prix stages are all new! Enjoy the fresh scenery of each location as you race toward the finish line!\n\nThe “Arcade Archives” series is developed with the concept of faithfully reproducing classic arcade games. It also includes convenient features such as difficulty and screen settings, rewind, rapid-fire, and multiple save slots. In addition, players can compete for the best scores with players around the world through online rankings.\n“Arcade Archives 2” adds a new “TIME ATTACK MODE” to the lineup of “ORIGINAL MODE,” “HI SCORE MODE,” and “CARAVAN MODE” included in the Arcade Archives series. In “TIME ATTACK MODE,” players compete to clear the game as quickly as possible, regardless of the score achieved. VRR (Variable Refresh Rate) support has also been added, allowing gameplay to be reproduced even closer to the original arcade experience.\nPlease enjoy these iconic arcade games that defined an era with the “Arcade Archives” series!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/66f560f3f959280a9834f6f291a4c19ad6b76be54ed99311815853a3c4f3833a.jpg",
+        "id": "040094F029D6A000",
+        "intro": "Even More Upgrades!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Arcade Archives 2 TX-1 V.8",
+        "nsuId": 70010000135217,
+        "numberOfPlayers": 1,
+        "publisher": "HAMSTER",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/56acbe2e836ec79e057eb371e272b8e9b31d95c5d0b4c0c3e3e8a5be236f3e56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6262ab1fcbbfcbc8f9d42ff7528655468a61813e519addeef9692aec7f148fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ae93b1a2e2291e75f213489b3f549bb664e83b61b55de625f38d3efde41951b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58afd83c95fdc2abbd59e2acf118a6f698a9d3d61a178525d34264e6db0b23ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40e435d7fa16483c82a72560a6939d23e82192d30d70660ae895d53a8cf7f03e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5319c6c930293eb2787ee499d0fdf377d58e3a737c256e1c342d7ac0ecfa11c0.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000135243": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f4cd590353acfa29a6ad75be2e19ecd19a77d9987455c069ad2d94cdeee8bb92.jpg",
         "category": [
@@ -160618,7 +160840,7 @@
             "https://img-eshop.cdn.nintendo.net/i/cbaffe7d66c5ae4f910b0eeea1825aaa4c851cfa0d48c0b9acd701c2b5a393f2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/61c4fc9b21902c671639a1b8d2fe0908095ebb5dd5fc4dc3be4832bfd1ab8c0b.jpg"
         ],
-        "size": 3278897152,
+        "size": 3363831808,
         "version": null
     },
     "70010000136367": {
@@ -161403,6 +161625,51 @@
             "https://img-eshop.cdn.nintendo.net/i/db13ecbb058eb3c8d6a26042cf39084f8676cf9b753e7d40df84dc1aaa841784.jpg"
         ],
         "size": 1131413504,
+        "version": null
+    },
+    "70010000136817": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5bbbedab2854149b508a98f480e7155239e7464ebadd9c3e2888378ce90a0bd7.jpg",
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "description": "A new story in Professor Layton, the puzzle-filled fantasy adventure series that has sold over 20 million copies worldwide.\n\nSet in America after the end of the Wild West era, this new adventure takes place in Steam Bison, a remarkable town of invention transformed by rapid advances in steam technology. But as something mysterious is taking place there, Professor Layton and Luke find themselves drawn into a new adventure.\n\n■ Features the Most Puzzles in the Series, Designed by QuizKnock\nQuizKnock, the intellectual entertainment group led by quiz champion Takushi Izawa, is behind the puzzles in this latest adventure. Take on more puzzles than ever before as you progress through the story and uncover the truth.\n\n■ Theme Song by Joe Hisaishi & Lilas\nThe game's theme song features a special collaboration between Joe Hisaishi, who composed the music, and Lilas, who wrote the lyrics and performed the song. Together, these two world-renowned artists bring this new story to life.\n\n■ An Intuitive, Hands-On Puzzle-Solving Experience\nUse the touchscreen to interact directly with the game. Solve puzzles with intuitive, hands-on controls, or tap around town to explore your surroundings. Nintendo Switch™ 2 also supports mouse controls with Joy-Con™ 2.\n\n■ Solve Puzzles Together\nWhether you prefer to take your time solving puzzles on your own or gather around a big screen with family and friends to work them out together, that's all part of the fun of the Layton series.\n\n■ A Completely Revamped Exploration System\nEnjoy a smoother exploration experience with new features unique to this title, including fast travel and Coindar, a robot that can detect hidden hint coins. Of course, you can also take your time exploring the streets of Steam Bison, uncover hidden puzzles, and chat with the townspeople along the way.\n\n■ Puzzles Meet Town Development\nAs you progress through the story, you'll encounter puzzles that contribute to Steam Bison's development. Solve them to upgrade the town's facilities and watch the town flourish.\n\n■ A Cast of Familiar and New Voices\nLayton and Luke return alongside a colorful cast of new characters. Both familiar and new voice actors lend their talents to this new adventure.\n\n■ Daily Puzzles: A New Puzzle Every Day\nNew puzzles will be added daily for over a year following launch, letting you enjoy the game long after you've completed the story.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e323950dfca237c8b3c5f9acdfff4048197d0b12c2554479b5ea0bbae718592f.jpg",
+        "id": "04003560233AE000",
+        "intro": "Layton and Luke set out on a new adventure in a world of steam.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Professor Layton and the New World of Steam",
+        "nsuId": 70010000136817,
+        "numberOfPlayers": 1,
+        "publisher": "LEVEL5",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261209,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4c3a970359daaebb19324070ad3e4852acda99c6128524110bcd4d702574767b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e4df6846707ad32b75d0c6f328588bd321d69085fea1fad533ea0df93213123.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18fc80c2c79a7222382c0d98ffdb9f40ae3340378d150f8bb8b2f15933957de1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0763486497d8235893f05eba8da3418a9eb3fe866406e1890d310e539c6e763b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2add53c8d0ce85b29843a9f20ac2112a88cd4f79cc6c0d0863229e73e1cde1d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/018f16966955a515782b7bed9263b50bd9ef3451aefac2c34a83b744a2dc8b73.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70010000136838": {
@@ -163428,6 +163695,44 @@
         "size": 121634816,
         "version": null
     },
+    "70010000137839": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/434515daa45643875e28f3d5b6ad783edbf8817854d8d7165ff5815da8cb5da1.jpg",
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "description": "Before Alphadia I, the world was torn by the Energi War—fueled by humanity's lust for life energy. In the midst of it, an energi clone named Alfonso begins to question everything. With nothing but his doubts and determination, he sets off on a journey to uncover meaning in a world consumed by power. What truth awaits at the end of his path?\n\nAlphadia III returns with deep turn-based combat, SP Skills to shift the tide of battle, and new mechanics like Arrays and the Energi Crock system. Upgrade your ship into a seaplane, trade Energi Elements, and dive into missions, arenas, and more—all wrapped in charming pixel graphics and a beautiful fantasy RPG adventure.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0850ff429a9af794309f1150e318d71aea473243450c1bc9db002456a8f53e8a.jpg",
+        "id": "010030F02465E000",
+        "intro": "Fight the Energi War and find your path in a fantasy RPG!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "Alphadia III - Nintendo Switch 2 Edition",
+        "nsuId": 70010000137839,
+        "numberOfPlayers": 1,
+        "publisher": "KEMCO",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a2de80e5aabac16e25e97282b495d834376e25933ca34c07e0aef1e493df9dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd15b54fa41239a75211470288344fbd1cdf7a228626957cfb97d769ee129acb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ea1aea0410e5568df0e0a5051cba5495676c60ed7b102ce50ec49bb248f332f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d86cf74b38c8b8f5e9fdf1bef5f74d35eb1d42b6c8f840c4be2d76ab069a57aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec7ffa8cd53a00cae6586e30e4b50c7e460824b1f03903a92524bd66677bcaa3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9b05c8fa10dccb83a8371b0709da255b37d9faaa93826911afba2e6ac85c619.jpg"
+        ],
+        "size": 514850816,
+        "version": null
+    },
     "70010000137852": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f7a5bba25ab268e5ade0b4e2cabd2bc6138f7f8f3dea2429db65bf76ca554e66.jpg",
         "category": [
@@ -165319,6 +165624,106 @@
         "size": 982515712,
         "version": null
     },
+    "70010000138609": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f4559b3956615e14e17e8fad94a14daf9815fc6c1fa1ccc6f0a319e9127316a7.jpg",
+        "category": [
+            "Adventure",
+            "Action",
+            "Puzzle",
+            "Music"
+        ],
+        "description": "Now with 60 fps at 1080p and enhanced graphics on Nintendo Switch™ 2!\n\nA action-adventure set in the recesses of the human mind... Welcome to the world of Figment. A strange and surreal world; a place filled with our deepest thoughts, urges and memories, populated by the many voices we hear in our heads.\n\nThis mind has been quiet and calm for many years. But something has changed. New thoughts have started to emerge - taking the shape of nightmarish creatures who spread fear wherever they go. The only hope is for the grumpy Dusty, the mind's former voice of courage, to get back to his old self and help the mind to face its fears.\n\nJoin Dusty and his ever-optimistic friend, Piper, on an adventure through the different sides of the mind, solving puzzles to set things straight, beating back the nightmares and seeking to restore the courage that's been lost.\n\n“BEAUTIFULLY UNIQUE STUNNER IS ONE OF THE YEAR’S BEST GAMES”\n9/10 – COG Connected\n\n“there is so much to love in Figment that you’ll adore spending time in its colourful world.”\n9/10 – God is a Geek\n\n“It’s a dynamic score that is visualised in the world as it plays, and I adore it.”\nRock Paper Shotgun\n\nA Whimsical Hand-Drawn World\nExperience how traditionally hand-painted brushstrokes come to life in a world filled with surreal art, colorful illustrations and charming characters. Experience the unique artstyles of the joyful Freedom Isles, the radiant Clockwork Town and the ominous Pathways.\n\nEnjoy a Full Score of Musical Performance\nMusic is an integral part of Figment. Explore a rhythmic environment full of trumpet trees, piano houses and singing enemies and discover how your actions influence this musical universe and its dynamic soundtrack.\n\nFight Nightmares Head-On\nTake an emotional journey to face universal human fears and help Dusty bring peace to the mind again. Overcome the Nightmares by using their dirty tricks to your advantage.\n\nUse Both Brawn and Brain\nFigment offers various challenges for all kind of players. Swing your sword skillfully at the enemies, rack your brain to solve puzzles and combine the two in epic musical boss battles.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/31be985fefd499aba59bf2e4026b9b957ac7df79b5509c1a2cf69a0d04cd2b51.jpg",
+        "id": "0400A7102A6D0000",
+        "intro": "Join Dusty and his optimistic friend, Piper, on an adventure through the Mind!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Figment",
+        "nsuId": 70010000138609,
+        "numberOfPlayers": 1,
+        "publisher": "Bedtime Digital",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aeae105bb88c1987d5c093455f7307788a2bcf871a6b1770961c78ff83f82caa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c07001cde160d6fbacfae968544dac153725529854ff5b920639f1bc0afe1115.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e5a42fa8ce5d61d98e9510532c9d61763f6d1bbc7c42da6cac5f4f504257502.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e31b763a681c5cd29896a7faba966748fcfb54872b71cc7080b0cadcb9f32b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c922d95e26108c097e2bd797a8f875fcdede86e26047a60b279d6e00616f220e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/521ced97eee959dac659fd0828166c5e28bb756b16c45d76612994a3e1a1bba8.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000138615": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a90419158b28b17732eed52ea6824f6c959d7fa8ffc56290fa6077cc010d1e16.jpg",
+        "category": [
+            "Adventure",
+            "Action",
+            "Puzzle",
+            "Music"
+        ],
+        "description": "Now with 60 fps at 1080p and enhanced graphics on Nintendo Switch™ 2!\n\nFigment 2: Creed Valley is an action-adventure game set in the human mind. Nightmares are spreading chaos and enemies have overrun once-peaceful lands. Join Dusty, the Mind’s courage, as you make your way through puzzles, musical boss fights and unique environments. Face your fears head-on.\n\nNightmares have shattered the Moral Compass, making The Mind unable to function properly. Dusty and his ever-optimistic sidekick, Piper, must travel to Creed Valley, where The Mind’s ideals are formed to restore peace. A journey filled with musical showdowns and mind-bending puzzles awaits.\n\n• Musical Showdowns\nNightmares have their own theme songs, shining light on why they have appeared. Dodge and weave as they taunt you.\n\n• A Living, Rhythmic World\nChat with The Mind's ever-changing opinions and tune in to the world's rhythm.\n\n• One Mind, Two Perspectives\nExplore The Mind’s two fundamental states: Open-minded and Closed-minded. Switch between states and adapt to the shifting environment to move forward.\n\n• Rack Your Brain, Hone Your Sword\nProve your mental and physical strength through mind-bending puzzles and fights timed to the soundtrack.\n\n• Companion Mode\nWe should never have to face our fears alone. Piper is now a controllable character for local co-op.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c3846830c6dab13b4e15f2ffdb65f90ba8a76ca50700afe5ce7e42befa432133.jpg",
+        "id": "040006502A6D2000",
+        "intro": "Piano bridges, dancing plants and musical showdowns. Will you muster enough courage to dive into the human psyche?",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Figment 2: Creed Valley",
+        "nsuId": 70010000138615,
+        "numberOfPlayers": 2,
+        "publisher": "Bedtime Digital",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/53737efc7651b4f1dbaf063bfff5bc3541d191682f1267bafa84ca732efa0e3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b28373d4960ab42e9d5e0588fd16cd83b6997e40a20debfc4e9f47cdf5841edb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c65b454046b80e334756a2cde1e80f8ec7ea53451ac835e2ee7abbead40b964.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3bc4fe70be31ff4a70dbc362b4f47c58a9dbfe9dca8f3c8a0d32e233d2c0e78.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca13f8be88fdeb72264579809584af5894ec231fbcbd2dbec2d853793bc31089.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d44409c76f978939f7fdd46ddfd844a01817020f8415d618d6ed9c85a08e14a3.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000138640": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b8dc5177c01a65ce5ee35ffdedc8e8af94ee6550e601be3eb7c715ceaab3902.jpg",
         "category": [
@@ -167140,6 +167545,51 @@
         "size": 1110441984,
         "version": null
     },
+    "70010000139841": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c10fe20164a0595f40c60cbc1f1647ba8ddacdbfb4758b3ee3239f1f280d194e.jpg",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "Nintendo Switch 2 Edition offers improved resolution and a frame rate of 120 fps.\n\nAstral Ascent is a 2D platformer rogue-lite game set in a modern fantasy world. As one of 4 Heroes with very different personalities, you must escape from the Garden, an astral prison guarded by 12 powerful and vicious bosses, the Zodiacs.\n\nCREATE YOUR OWN PLAYSTYLE\n\nUnlock dozens of unique spells for your 4 distinct characters. Optimize your own build or try out new ones to take down 12 powerful bosses. Get stronger with time to match up with your foes. Each run will test your skills and your reactivity.\n\nTWELVE ALMIGHTY BOSSES TO FACE\n\nThe Zodiacs are 12 experienced guardians dispatched over 4 gorgeous worlds. They’ll bring to the battlefield unique attacks, abilities, and patterns, backstories to uncover, and reasons to be fighting you. Get yourself warned!\n\nFOUR PLAYABLE CHARACTERS\n\nUnique characters. Unique weapons. Unique ways to play.\n\nAyla: The sole survivor of her guild of assassins, she uses her twin daggers to eliminate her enemies before they can react. Her speed and proficiency are unmatched.\n\nKiran: This orphan learned life the hard way. He uses his strength to deliver attacks powerful enough to create shockwaves. Brutal.\n\nCalie: This talented sculptor wants her freedom back. She will use her magical gemstones to pierce enemy defenses and shred them to bits. She is unforgiving.\n\nOctave: Trained by a powerful witch, this young fighter summons ethereal guns to attack his foes. When needed, he can conjure bigger weapons as well. Lethal in all cases.\n\nA STORY THAT OPENS UP, ONE PIECE AT A TIME\n\nAstral Ascent is a rogue-lite infused with narration. Replayability is part of our story which will be unraveled piece by piece. As you get stronger, you will discover more about the characters, their motivations, and the secrets of the world they’re trapped in.\n\nLOCAL CO-OP\n\nThe weight of destiny is too heavy to carry by yourself? Don’t worry and bring a friend to play in our two-player co-op mode. Fight and crush your enemies together in local co-op!\n\nA VAST, COLORFUL FANTASY WORLD WAITING TO BE EXPLORED\n\nDash across gigantic landscapes. Explore original and hand-crafted areas. Discover the world created by our artists, with a gorgeous art and frame-by-frame animation.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c06da1769e34efa017f93c0326d23b8096f308395c0d52736dac95dcf1476390.jpg",
+        "id": "01006C001C3DA000",
+        "intro": "Choose one of four heroes and explore the Garden, an astral prison guarded by 12 powerful mystical bosses: the Zodiacs.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Astral Ascent - Nintendo Switch 2 Edition",
+        "nsuId": 70010000139841,
+        "numberOfPlayers": 2,
+        "publisher": "H2 INTERACTIVE",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a13a949d00deb55e2ba2c60b9adb7288eefa659ed9634c0340d6971d7767e369.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09209663ab347a1a1ee41c11837b28359c67831e40c6242848e6f0a64fa240b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/644aebd6b70b293ea3c03d46576963dd35c6be22ab07837aa1fd73a98c8d2d01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e5a6f6d59c358d566b84273425b60e92cff98150db889919e48d991cbba5b71.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/090c61ad593609b1283c74433a0433772f35115a4e014a9448083f8d9cef7980.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5351a42b00dc9914deacf25389f6b5e73d50f05bf81dc5886f98546d8fb3dd30.jpg"
+        ],
+        "size": 2267021312,
+        "version": null
+    },
     "70010000139854": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/98dae016e8b1dd2f85e7abeeff660e6556b56b20a48bf42c860633d1325bc292.jpg",
         "category": [
@@ -168561,7 +169011,7 @@
             "https://img-eshop.cdn.nintendo.net/i/b67e4adc1421b07071b3f63c374605e3f4309c258686d4697aade61e1dc17132.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3f76bd57a13bb5291d089b817f61f3c8cc435c0c07598137105fe2744013efc4.jpg"
         ],
-        "size": 7654604800,
+        "size": 7653556224,
         "version": null
     },
     "70010000141104": {
@@ -175272,6 +175722,32 @@
         "rightsId": null,
         "screenshots": null,
         "size": 175112192,
+        "version": null
+    },
+    "70030000026190": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Viractal: Will You Trust Your Party? Nintendo Switch 2 Edition Demo",
+        "nsuId": 70030000026190,
+        "numberOfPlayers": null,
+        "parentId": "0100FD501F95A000",
+        "publisher": null,
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
         "version": null
     },
     "70030000026248": {
@@ -245942,6 +246418,146 @@
         "size": 0,
         "version": null
     },
+    "70050000073204": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0bb34194e28d69a677b8d474da96af3e5472550dacef44022c484fce8ef619fa.jpg",
+        "category": null,
+        "description": "Unlock the in-game Art Gallery and explore a curated collection of concept art and illustrations.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093007",
+        "ids": [
+            "04003B8026093007"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Rayman Legends Retold - In-Game Art Gallery",
+        "nsuId": 70050000073204,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000073208": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d36b4ca7e9e9a84ceff0a77e87e8e068a4eac1aeacaecfc650b9be01e55758ba.jpg",
+        "category": null,
+        "description": "Unlock the Electoon Teensie Outfit for Grand Minimus, inspired by the original Rayman from 1995.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093006",
+        "ids": [
+            "04003B8026093006"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Rayman Legends Retold - Electoon Teensie Outfit",
+        "nsuId": 70050000073208,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000073212": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/06a02b799f5f8ff0624785777c4b7519c16eaa778220183a9c4810ed9b679397.jpg",
+        "category": null,
+        "description": "Unlock the Retro Hunter Outfit for Globox, inspired by the original Rayman from 1995.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093004",
+        "ids": [
+            "04003B8026093004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Rayman Legends Retold - Retro Hunter Outfit",
+        "nsuId": 70050000073212,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000073216": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/570baa22d9c0a10f072e5373b4e0ded5fb8d9481cccc235c6a3c8345559f1ee7.jpg",
+        "category": null,
+        "description": "Unlock the Betilla the Fairy Outfit for Barbara, inspired by the original Rayman released in 1995.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093003",
+        "ids": [
+            "04003B8026093003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Rayman Legends Retold - Betilla The Fairy Outfit",
+        "nsuId": 70050000073216,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000073220": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8411131aa876efaa000c6a1ba6bb8e3d9720b47466aee8374ba9dbdfb0a2471.jpg",
+        "category": null,
+        "description": "Unlock the Classic Rayman Outfit for Rayman, inspired by his original look from the 1995 classic.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093002",
+        "ids": [
+            "04003B8026093002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Rayman Legends Retold - Classic Rayman Outfit",
+        "nsuId": 70050000073220,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70050000073257": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e334edcd40a875a9f40b2fe0e68402e63e339b36665c1562e36d3d13c84bca6.jpg",
         "category": null,
@@ -256058,14 +256674,16 @@
         "version": null
     },
     "70050000076691": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/943ac82193671174ecae54dabc8c85897b561153d830d86ac288476d3a9d02e4.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fb61f4ff3ebdc62daa768bec457bbd62c8bf4b172d0f773763bdb75e762d7211.jpg",
         "category": null,
-        "description": "The adventure continues! Discover new items, locations, and challenging opponents with exciting rewards!\n\nExpected release: Winter 2026\n\nSave data is stored in the game's backend and is compatible across both Nintendo Switch™ and Nintendo Switch 2, provided the player is using the same Nintendo Account. If the console does not have access to an internet connection, save data created on Nintendo Switch cannot be transferred to Nintendo Switch 2 while running the game.",
+        "description": "The adventure continues! Discover new items, locations, and challenging opponents with exciting rewards!\n\nExpected release: Winter 2026\n\nThere will be no upgrade pass (Nintendo Switch 2 Edition) for Switch version to be upgraded into Nintendo Switch 2 version\n\nSave data is stored in the game's backend and is compatible across both Nintendo Switch™ and Nintendo Switch 2, provided the player is using the same Nintendo Account. If the console does not have access to an internet connection, save data created on Nintendo Switch cannot be transferred to Nintendo Switch 2 while running the game.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
-        "ids": [],
+        "id": "04000D9025B17003",
+        "ids": [
+            "04000D9025B17003"
+        ],
         "intro": null,
         "isDemo": false,
         "key": null,
@@ -256077,7 +256695,7 @@
         "rating": null,
         "ratingContent": null,
         "region": null,
-        "releaseDate": 20261231,
+        "releaseDate": 20261201,
         "rightsId": null,
         "screenshots": null,
         "size": 0,
@@ -261499,14 +262117,16 @@
         "version": null
     },
     "70050000079819": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93034b784dc307c7ff8754345ec9e16225371e5cd68d4896e33a8a7e8964f0c3.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a9fa07e4d927a0d35e3d9069c9d894129e9acdab398cc39b7844714c43f0868.jpg",
         "category": null,
         "description": "Grants access to the following in FATAL FURY: City of the Wolves.\n- DLC character \"Laocorn\"",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
-        "ids": [],
+        "id": "0400B3F0259BF015",
+        "ids": [
+            "0400B3F0259BF015"
+        ],
         "intro": null,
         "isDemo": false,
         "key": null,
@@ -261518,7 +262138,7 @@
         "rating": null,
         "ratingContent": null,
         "region": null,
-        "releaseDate": 20261231,
+        "releaseDate": 20261119,
         "rightsId": null,
         "screenshots": null,
         "size": 0,
@@ -265860,6 +266480,90 @@
         "size": 0,
         "version": null
     },
+    "70050000082310": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fee00150998e7eeda295c1e3753f1e584b9a7aa0af8dedb5a635fa5381d96823.jpg",
+        "category": null,
+        "description": "Note: This content will release on April 22, 2027\n\nThe Barbie™ Rewind - Y2K Style Pack will let you customize the DreamHouse with even more furniture items. This DLC pack includes:\n\nAssorted Generation Girl My Room playsets (Mari, Nichelle, Barbie, Ana, Tori)\n\nSecret Messages Computer Center\n\nAssorted All-Around Home playsets\n\nJam 'n Glam Tour Bus\n\nFabulous Fountain Pool\n\nGlam Game Room\n\nIconic outfits to display in the DreamHouse\n\nThis is an Additional Content for ““Barbie™ Rewind”, which is a product released for Nintendo Switch 2. A separate product, \"Barbie™ Rewind\", is available for Nintendo Switch.\n\nThis Additional Content is not compatible with the Nintendo Switch version. Please be careful to avoid duplicate or mistaken purchases.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04000BB027B81004",
+        "ids": [
+            "04000BB027B81004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - Y2K Style Pack",
+        "nsuId": 70050000082310,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270422,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082314": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e1cb294b86972ca11c80d2a6f2b2fc317f99cc8c32472d763d2eb5b108d11e91.jpg",
+        "category": null,
+        "description": "Note: This content will release on March 25, 2027\n\nThe Barbie™ Rewind - Superstar Pack will let you customize the DreamHouse with even more furniture items. This DLC pack includes:\n\nBarbie and the Rockers playsets\n\nBarbie and the Rockers Hot Rockin' Stage #1144\n\nBarbie and the Rockers Rockin' House Party #0803\n\nBarbie and the Rockers Vanity Set #7752\n\nBarbie and the Rockers Tour Bus #3721\n\nIce cream and snack playsets\n\nBarbie Ice Cream Shoppe #3653\n\nBarbie Ice Cream Maker #5323\n\nAssorted Home Furnishing - Approx. 25 pieces of interior furniture\n\nBarbie Decorator Play Pack #9315\n\nBarbie Cooking Center #9318\n\nBarbie Refrigerator #9317\n\nBarbie Beauty Bath #9320\n\nBarbie Beautiful Bed #9321\n\nBarbie Sofa #9323\n\nBarbie Room Accents #9316\n\nBarbie Dining Room Set #9324\n\nBarbie 2-in-1 Coffee Table and Chair\n\nMagic Moves Home Office\n\nOversized hair brush and perfume bottle\n\nPerfume Pretty Barbie\n\nPerfume Pretty Whitney\n\nPerfume Giving Ken\n\nIconic outfits to display in the DreamHouse\n\nThis is an Additional Content for ““Barbie™ Rewind”, which is a product released for Nintendo Switch 2. A separate product, \"Barbie™ Rewind\", is available for Nintendo Switch.\n\nThis Additional Content is not compatible with the Nintendo Switch version. Please be careful to avoid duplicate or mistaken purchases.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04000BB027B81003",
+        "ids": [
+            "04000BB027B81003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - Superstar Pack",
+        "nsuId": 70050000082314,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270325,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082318": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cbc1f4d032624bf04b530e004851e18882f20b554e00140be0bb92547a02092.jpg",
+        "category": null,
+        "description": "Note: This DLC will be released on February 25, 2027.\n\nThe Barbie™ Rewind - DreamHouse Classics pack will let you customize the DreamHouse with even more furniture items. This DLC pack includes:\n\nSkipper Dream Room\n\nBarbie Dream Kitchen-Dinette\n\nSurprise House\n\nGoin' Camping\n\nBarbie Beauty Center\n\nIconic outfits to display in the DreamHouse\n\nThis is an Additional Content for ““Barbie™ Rewind”, which is a product released for Nintendo Switch 2. A separate product, \"Barbie™ Rewind\", is available for Nintendo Switch.\n\nThis Additional Content is not compatible with the Nintendo Switch version. Please be careful to avoid duplicate or mistaken purchases.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04000BB027B81001",
+        "ids": [
+            "04000BB027B81001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - DreamHouse Classics",
+        "nsuId": 70050000082318,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270225,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70050000082339": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3568a3d548e74205425bdb0637fcd0ae63c0e44e4c89f22e46bdd7ecffe47787.jpg",
         "category": null,
@@ -266393,6 +267097,34 @@
             "https://img-eshop.cdn.nintendo.net/i/3c19e0aaaac94e8e884e424b8a9557488954d88bde5014202341d74a061460bc.jpg",
             "https://img-eshop.cdn.nintendo.net/i/8e4b95de2c86d438b483706ea3a8af3ec269b43e5d12d35bcf6ae4f71bafd280.jpg"
         ],
+        "size": 0,
+        "version": null
+    },
+    "70050000082781": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8540cc8d6ff2f10bbe9b2c2e602ad6f247cac257cbddae482b2a8b0810db19a3.jpg",
+        "category": null,
+        "description": "The Barbie™ Rewind - Play ‘N Prize Arcade pack will let you customize the DreamHouse with even more furniture items. This DLC pack includes:\n\nCosmic Pinball Machine\n\nCosmic Pinball Machine (b)\n\nCosmic Claw Machine\n\nCosmic Claw Machine (b)\n\nCosmic Claw Machine (c)\n\nCosmic Prize Counter\n\nCosmic Prize Counter (b)\n\nCosmic Stuffed Animal\n\nCosmic Stuffed Animal (b)\n\nCosmic Handheld Game\n\nCosmic Clock\n\nCosmic Clutch\n\nCosmic Clutch (b)\n\nCosmic Arcade Tokens\n\nCosmic Prize Capsule\n\nCosmic Prize Capsule (b)",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04000BB027B81002",
+        "ids": [
+            "04000BB027B81002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - Play ‘N Prize Arcade",
+        "nsuId": 70050000082781,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": null,
         "size": 0,
         "version": null
     },
@@ -266964,6 +267696,118 @@
             "https://img-eshop.cdn.nintendo.net/i/e167d0e4904674e54a9c6316fe499fe647f10a188c39e3998a290e12f4364d0f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6e40ce252e6de45cf5266f5fcc6ae9b178e960c96dbb7905b8a258f4a2db737d.jpg"
         ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000084424": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bfc4ddf2d395babc9a53a2240857b0e94ca8a0ca18bad3ea4bcef5feb8ead28d.jpg",
+        "category": null,
+        "description": "All characters' experience gained increases by 200%.\nEffect stacks for similar items.\nSettings can be changed in the options section of the menu.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010030F02465F001",
+        "ids": [
+            "010030F02465F001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Experience x3 - Alphadia III",
+        "nsuId": 70050000084424,
+        "numberOfPlayers": null,
+        "publisher": "KEMCO",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000084425": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/522e96c9fad94f832fe450c42e1de6f34acc7f4daeace049ef6849fe77dbd50c.jpg",
+        "category": null,
+        "description": "All characters' ENP gained increases by 200%.\nEffect stacks for similar items.\nSettings can be changed in the options section of the menu.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010030F02465F002",
+        "ids": [
+            "010030F02465F002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "ENP x3 - Alphadia III",
+        "nsuId": 70050000084425,
+        "numberOfPlayers": null,
+        "publisher": "KEMCO",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000084426": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0db6c1e366597ce50cd2cf5ad29818417732e959a9b2d226b2561393d6df33f.jpg",
+        "category": null,
+        "description": "All characters' experience and ENP gained increases by 100%.\nEffect stacks for similar items.\nSettings can be changed in the options section of the menu.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010030F02465F003",
+        "ids": [
+            "010030F02465F003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Experience & ENP x2 - Alphadia III",
+        "nsuId": 70050000084426,
+        "numberOfPlayers": null,
+        "publisher": "KEMCO",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000084427": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2fc5688faa64d80a830ed54bb40c2f608e1de02a1b30bf6d9ea1cefccf772128.jpg",
+        "category": null,
+        "description": "Damage dealt to enemies is doubled.\nSettings can be changed in the options section of the menu.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010030F02465F004",
+        "ids": [
+            "010030F02465F004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Damage x2 - Alphadia III",
+        "nsuId": 70050000084427,
+        "numberOfPlayers": null,
+        "publisher": "KEMCO",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": null,
         "size": 3145728,
         "version": null
     },
@@ -269823,6 +270667,38 @@
         "size": 0,
         "version": null
     },
+    "70070000036355": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0a7046f511c6bf9d35421b7bfad25518a6c96f796015d1121703fb310151daf.jpg",
+        "category": null,
+        "description": "The Rayman Legends Retold Deluxe Edition includes:\n- The base game\n- Rayman Origins: Enhanced Edition\n- The Retro Pack, including 4 costumes for Rayman, Globox, Barbara, and Grand Minimus inspired by characters from the original Rayman released in 1995\n- The in‑game Art Gallery\n\nWhen a shadowy villain spreads corruption across the Glade of Dreams, journey through its charming worlds solo or in up to 4‑player couch co‑op in a fast‑paced, side‑scrolling adventure where every stumble and surprise adds to the delightful chaos.\n\nPURE PLATFORMING JOY\nLeap, glide, and punch your way through worlds bursting with charm and delightful surprises. Craving a change of pace? Dive into unforgettable musical stages, where every move must sync with the beat for a rhythm‑powered thrill.\n\nNEW AND IMPROVED GAMEPLAY\nImmerse yourself in a world brimming with life, reimagined with stunning visuals. A rich selection of iconic levels returns alongside a mysterious sixth realm and 4 new musical stages. Saddle up for epic dragon rides and test your skills in the Cave of Trials.\n\nA FRESH TAKE ON AN EPIC TALE\nJoin Rayman and his friends on their most ambitious adventure yet, facing a new foe stirring trouble from the underworld. Voiced cinematics and an expanded soundtrack by Christophe Héral and Grant Kirkhope bring the journey to life, blending original themes with new compositions.\n\n4 PLAYERS, LEGENDARY FUN\nPlay the entire adventure in up to 4-player couch co-op, racing for Lums or knocking each other off to claim every last Teensy. Kung Foot also returns with improved controls, power-ups, and customizable rules for hours of frantic competition.\n\nINCLUDES RAYMAN ORIGINS: ENHANCED EDITION\n(Re)discover the platforming classic, now featuring 4K visuals, new collectibles and rewards, plus a range of quality-of-life improvements.\n\nInternet connection, Ubisoft Account and applicable platform account required to access online features.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Embark on a bold reimagining of the acclaimed platformer, filled with new content and narrative twists.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Rayman Legends Retold Deluxe Edition",
+        "nsuId": 70070000036355,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6f0b1d9197a285140795f91da8251f6c50468a036699add1e1f0fce797aef8ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5fc544e3528eb54a76b2b7a1122d0868d35744198aa641af388589593235a93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a26026cdbf4fe19907383fbb0eca1d5f336a4e0d27989953f082bd5c339c83a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/07ddd821aa398f12eebc9a0305566dae3eb41d43381eb56dbf1d9b503a832b7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04e76b6fa6ddf1f9b1718196fd5f15d77fe4adc326ef3614e310785b781e7ef6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19b982e94fee3e01a43cabff818ce273e6483214b50edbcc800343b9affec277.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70070000036404": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/32215a21aa3dc919b371d6b309a04bf8d2d3f911114f80fc9fa12d910a9b6883.jpg",
         "category": null,
@@ -269858,7 +270734,7 @@
     "70070000036409": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f60ee78fc7b29d2557302b888dcc2f9e28aa9c0a6f573acf025488103a5c5ba6.jpg",
         "category": null,
-        "description": "Minecraft Dungeons II is here with more action, more loot, and more adventure. Step through the rift and fight where no hero has been before: the Sift, an uncharted dimension teeming with threats, mysteries, and breathtaking beauty. Gear up and customize your playstyle to face your toughest enemies yet in explosive battles. Brave the unknown as a lone hero, team up with friends and take on the crisis together. The illagers’ plot is already underway, and their cruelty is only matched by their power. Stop them – or lose the Overworld to their corruption.\n\nGet the Deluxe Edition for even more battles ahead! Includes 4 hero skins, the Soul cape, the Blub pet, and DLC 1 & 2.*\n\nDLC 1: Expected release - Winter 2026\nDLC 2: Expected release - Spring 2027\n\nThere is a separate title for Nintendo Switch™\n\nSave data is stored in the game's backend and is compatible across both Nintendo Switch™ and Nintendo Switch 2, provided the player is using the same Nintendo Account. If the console does not have access to an internet connection, save data created on Nintendo Switch cannot be transferred to Nintendo Switch 2 while running the game.",
+        "description": "Minecraft Dungeons II is here with more action, more loot, and more adventure. Step through the rift and fight where no hero has been before: the Sift, an uncharted dimension teeming with threats, mysteries, and breathtaking beauty. Gear up and customize your playstyle to face your toughest enemies yet in explosive battles. Brave the unknown as a lone hero, team up with friends and take on the crisis together. The illagers’ plot is already underway, and their cruelty is only matched by their power. Stop them – or lose the Overworld to their corruption.\n\nGet the Deluxe Edition for even more battles ahead! Includes 4 hero skins, the Soul cape, the Blub pet, and DLC 1 & 2.*\n\nDLC 2: Expected release - Spring 2027\n\nThere is a separate title for Nintendo Switch™\n\nSave data is stored in the game's backend and is compatible across both Nintendo Switch™ and Nintendo Switch 2, provided the player is using the same Nintendo Account. If the console does not have access to an internet connection, save data created on Nintendo Switch cannot be transferred to Nintendo Switch 2 while running the game.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -273477,7 +274353,7 @@
     "70070000039942": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc75de0c2e86fd2593de9c3fe5ea44913b788b721824b4eeeec36af83c323730.jpg",
         "category": null,
-        "description": "SNK's beloved Fatal Fury series first hit the market in 1991, spearheading the fighting game boom of the 1990s that swept the industry thereafter.\nIn the series—FATAL FURY: City of the Wolves—is set to arrive on Nintendo Switch™ 2 !\n\nContents\n- Base game\n- Andy Bogard\n- Ken, additional stage\n- Joe Higashi\n- Chun-Li\n- Mr. Big, additional stage\n- Kim Jae Hoon, additional stage\n- Nightmare Geese\n- Blue Mary, additional stage\n- Wolfgang Krauser, additional stage\n- Mr. Karate, additional stage\n- Kenshiro, additional stage\n- DLC Character \"Rick Strowd\"\n- DLC Character \"Duck King\"\n- DLC Character \"Kim Kaphwan\"\n- DLC Characters \"Manjiro Sano\" and \"Ken Ryuguji\"\n- DLC Character \"Laocorn\" (November 2026)\n- DLC Character \"???\" (December 2026)\n- Additional stages\n\n■All-new REV System supercharges the excitement!\nIntroducing the REV System, a brand-new toolset that offers unique offensive options from the moment the battle begins! Use REV Arts, REV Accel, REV Blows (while S.P.G. is active), and more until you hit your limit and the REV Meter overheats. The all-new REV System—fight at full throttle and supercharge the excitement!\n\n■Two control schemes—fun for newcomers and veterans alike!\nChoose from two control schemes: Arcade Style is based on precise, technical inputs, while Smart Style lets you perform flashy special moves and combos using directional inputs and single button presses. From fighting game newcomers to seasoned veterans, there's plenty of fun and excitement to be had—tailored specifically to your level!\n\n■Strive for supremacy in EPISODES OF SOUTH TOWN, a single-player RPG mode!\nIntroducing \"Episodes of South Town\" (EOST)—a solo RPG adventure where you'll square up against contenders under various fight conditions, earning XP and other rewards for your efforts. Level up your fighter, build out a diverse kit of skills, and dominate the opposition on your way to the top. Dreams and ambitions run rampant in South Town; now is the time to chase the city's crown and carve a legend all of your own!\n* To play EOST you'll first need to connect to the Internet and update the game.",
+        "description": "SNK's beloved Fatal Fury series first hit the market in 1991, spearheading the fighting game boom of the 1990s that swept the industry thereafter.\nIn the series—FATAL FURY: City of the Wolves—is set to arrive on Nintendo Switch™ 2 !\n\nContents\n- Base game\n- Andy Bogard\n- Ken, additional stage\n- Joe Higashi\n- Chun-Li\n- Mr. Big, additional stage\n- Kim Jae Hoon, additional stage\n- Nightmare Geese\n- Blue Mary, additional stage\n- Wolfgang Krauser, additional stage\n- Mr. Karate, additional stage\n- Kenshiro, additional stage\n- DLC Character \"Rick Strowd\"\n- DLC Character \"Duck King\"\n- DLC Character \"Kim Kaphwan\"\n- DLC Characters \"Manjiro Sano\" and \"Ken Ryuguji\", additional stage\n- DLC Character \"Laocorn\" (November 19, 2026)\n- DLC Character \"???\" (December 2026)\n- Additional stages\n\n■All-new REV System supercharges the excitement!\nIntroducing the REV System, a brand-new toolset that offers unique offensive options from the moment the battle begins! Use REV Arts, REV Accel, REV Blows (while S.P.G. is active), and more until you hit your limit and the REV Meter overheats. The all-new REV System—fight at full throttle and supercharge the excitement!\n\n■Two control schemes—fun for newcomers and veterans alike!\nChoose from two control schemes: Arcade Style is based on precise, technical inputs, while Smart Style lets you perform flashy special moves and combos using directional inputs and single button presses. From fighting game newcomers to seasoned veterans, there's plenty of fun and excitement to be had—tailored specifically to your level!\n\n■Strive for supremacy in EPISODES OF SOUTH TOWN, a single-player RPG mode!\nIntroducing \"Episodes of South Town\" (EOST)—a solo RPG adventure where you'll square up against contenders under various fight conditions, earning XP and other rewards for your efforts. Level up your fighter, build out a diverse kit of skills, and dominate the opposition on your way to the top. Dreams and ambitions run rampant in South Town; now is the time to chase the city's crown and carve a legend all of your own!\n* To play EOST you'll first need to connect to the Internet and update the game.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -274505,7 +275381,7 @@
             "https://img-eshop.cdn.nintendo.net/i/cbaffe7d66c5ae4f910b0eeea1825aaa4c851cfa0d48c0b9acd701c2b5a393f2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/61c4fc9b21902c671639a1b8d2fe0908095ebb5dd5fc4dc3be4832bfd1ab8c0b.jpg"
         ],
-        "size": 3285188608,
+        "size": 3370123264,
         "version": null
     },
     "70070000040645": {
@@ -276135,6 +277011,38 @@
         "size": 1643118592,
         "version": null
     },
+    "70070000041542": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/08b6c46c008b17f9306e7d8355d3333d654fa74cea8c584cdf79ba5b4f1207b3.jpg",
+        "category": null,
+        "description": "This bundle includes Demeo x Dungeons & Dragons: Battlemarked and Twilight's End, its third campaign. Play the whole saga, from Neverwinter Wood and Frost Keep to its epic conclusion.\n\nEPIC QUESTS. INSTANT ADVENTURES.\nExperience the magic of Dungeons & Dragons like never before in this tactical, cooperative digital board game set in Forgotten Realms. Command your heroes, unravel sinister plots and forge mighty alliances in turn-based combat and choice-based storytelling.\n\nIconic D&D Elements with Streamlined Strategy\nFrom recognizable settings and classic D&D classes - like paladin, sorcerer, ranger, fighter, bard, and rogue - to fiery explosions and divine healing, Battlemarked delivers quick, pick-up-and-play action for players of every level.\n\nTactical, Turn-Based Combat\nUse unique card abilities and adapt your approach in turn-based battles that reward strategic planning—combine abilities, control the battlefield, and adjust your tactics with every draw to overcome ever-changing challenges.\n\nCollaborate to Victory\nUp to 4 players can tackle adventures together — coordinating moves, setting traps, and combining abilities for maximum impact. Teamwork isn’t optional — it’s your most powerful weapon. Prefer to go alone? You can also command your party in single player mode.\n- Team up in crossplay co-op, solo or up to four players\n- Invite friends who have Battlemarked to join your Twilight's End table as guests\n\nReplayable Adventures, Three Campaigns\nExplore Neverwinter Wood, Cragmaw Castle, Spine of the World and more across three campaigns. Every run changes, keeping each session fresh.\n\nTwilight's End: Race to stop the chaos\nTurmoil and chaos are spreading across the lands of the Silver Marches, Neverwinter Wood and Icewind Dale, drawing Battlemarked heroes into a desperate race to stop their growing influence. But hidden plots and creatures born of chaos pose a far greater danger. In a world where reality itself begins to unravel, heroes must confront an enemy whose ambitions threaten to remake existence itself and bring the saga that began in Neverwinter Wood and Frost Keep to its epic conclusion.\n- Journey from the dwarven hold of Mithral Hall out across the North, chasing the chaos as it spreads\n- Descend through atmospheric multi-level dungeons that come alive through striking visual effects\n- More weapons for every hero to find and wield\n- New locations to explore, and familiar ones reshaped by the chaos gripping the Realms\n- A whole new range of monsters to battle and new boss battles to conquer\n\nHowever the dice fall, no two nights at the table play out the same. Gather your party.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "The base game and the Twilight's End campaign, together.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Demeo x Dungeons & Dragons: Battlemarked - Twilight’s End Bundle",
+        "nsuId": 70070000041542,
+        "numberOfPlayers": null,
+        "publisher": "Resolution Games",
+        "rating": null,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/30482cd3d1d71f1ebe35a2ac3cd70cd6512a31e6f5cb08e4480ebd100d9bd279.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d91c292386986c8ad877031d2945862e120dc59dbe7a974dca60ba5bdebf66bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce314b4c549186dfbf6994839e07ab493aad1819c7fd4655e8ebae293cfb3eae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd1ef3f8c7b0b51471f0e71aa3d427ab3d61cfef35dab49a93da5987ea3054aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae9232382b5ded224e49061586b66aba3aa9f60aefdd51a21a0df87f8878239e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3f34c500321acf5d97ebb6594e1007d6669af65e80816485541f95e0566e262.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70070000041601": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9b02ebc2e0c86669fceb8ab403547250f7ecf56c4e30aec27cab2926c6649ef.jpg",
         "category": null,
@@ -276295,6 +277203,38 @@
         "size": 1162870784,
         "version": null
     },
+    "70070000041789": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0dd5d0fbf369b9d3548b64fcbf2f9a83b52fb3bd4a8ad2baa44757169b177eb.jpg",
+        "category": null,
+        "description": "The Barbie™ Rewind - Decorator’s Bundle includes the full game and 3 new playset packs not included in the base game, plus the exclusive Play ‘N Prize Arcade pack. These new playset packs will let you customize the DreamHouse with even more furniture items. All four new DLC packs include:\n\nExclusive Playset Pack: Play ‘N Prize Arcade (Available Now):\nCosmic Pinball Machine\nCosmic Pinball Machine (b)\nCosmic Claw Machine\nCosmic Claw Machine (b)\nCosmic Claw Machine (c)\nCosmic Prize Counter\nCosmic Prize Counter (b)\nCosmic Stuffed Animal\nCosmic Stuffed Animal (b)\nCosmic Handheld Game\nCosmic Clock\nCosmic Clutch\nCosmic Clutch (b)\nCosmic Arcade Tokens\nCosmic Prize Capsule\nCosmic Prize Capsule (b)\n\nPlayset Pack 1: DreamHouse Classics (February 25, 2027)\nSkipper Dream Room\nBarbie Dream Kitchen-Dinette\nSurprise House\nGoin' Camping\nBarbie Beauty Center\nIconic outfits to display in the DreamHouse\n\nPlayset Pack 2: Superstar Pack (March 25, 2027)\nBarbie and the Rockers playsets\nBarbie and the Rockers Hot Rockin' Stage #1144\nBarbie and the Rockers Rockin' House Party #0803\nBarbie and the Rockers Vanity Set #7752\nBarbie and the Rockers Tour Bus #3721\nIce cream and snack playsets\nBarbie Ice Cream Shoppe #3653\nBarbie Ice Cream Maker #5323\nAssorted Home Furnishing - Approx. 25 pieces of interior furniture\nBarbie Decorator Play Pack #9315\nBarbie Cooking Center #9318\nBarbie Refrigerator #9317\nBarbie Beauty Bath #9320\nBarbie Beautiful Bed #9321\nBarbie Sofa #9323\nBarbie Room Accents #9316\nBarbie Dining Room Set #9324\nBarbie 2-in-1 Coffee Table and Chair\nMagic Moves Home Office\nOversized hair brush and perfume bottle\nPerfume Pretty Barbie\nPerfume Pretty Whitney\nPerfume Giving Ken\nIconic outfits to display in the DreamHouse\n\nPlayset Pack 3: Y2K Style Pack (April 22, 2027)\nAssorted Generation Girl My Room playsets (Mari, Nichelle, Barbie, Ana, Tori)\nSecret Messages Computer Center\nAssorted All-Around Home playsets\nJam 'n Glam Tour Bus\nFabulous Fountain Pool\nGlam Game Room\nIconic outfits to display in the DreamHouse\n\nThis bundle includes “Barbie™ Rewind” and its Additional Contents, which can only be played on Nintendo Switch 2. A separate product, \"Barbie™ Rewind\", is available for Nintendo Switch.\n\nSave data and Additional Contents are not compatible between the two versions. Please be careful to avoid duplicate or mistaken purchases.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - Decorator's Bundle",
+        "nsuId": 70070000041789,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": null,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/156535a99378ac72369a2f92fc7dd55d986f07106ba2a03c2f28c10630daf7be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c7accd06ddc68803b19dd6558a278adefa5704ee72cf91d391cd7822581231f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7007e7ab0488c063a6d2a92f3f9c75b1c0cba3c8a9308dbf9e6975aa171c3a1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15caf15acad2fc79e67fc35f066eac40c7af4cfae31d2c98742992968817285c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08745c2a99557f3bc7013ec0177191fbd918d41a89ce975992950c43c9c5763f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ced349c627a035d855653ed26532c0ae12218b070a4a9fe49058df2704c9bf3.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70070000041808": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b659d7fe82d72f0007695b94e63228199ad315f3709a5878bed370f9590cb748.jpg",
         "category": null,
@@ -276389,6 +277329,38 @@
             "https://img-eshop.cdn.nintendo.net/i/003271a1d8e93dff3a674a7d0d7f963062d653452f8049a814969a21d23d4021.jpg"
         ],
         "size": 594542592,
+        "version": null
+    },
+    "70070000041845": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7fad26e8f66e5df78cc8f52f36336fbf387710a2e156ee494ff127ce278b8bec.jpg",
+        "category": null,
+        "description": "Now with 60 fps at 1080p and enhanced graphics on Nintendo Switch™ 2!\n\nFIGMENT\nA action-adventure set in the recesses of the human mind... Welcome to the world of Figment. A strange and surreal world; a place filled with our deepest thoughts, urges and memories, populated by the many voices we hear in our heads.\n\nFIGMENT 2\nFigment 2: Creed Valley is an action-adventure game set in the human mind. Nightmares are spreading chaos and enemies have overrun once-peaceful lands. Join Dusty, the Mind’s courage, as you make your way through puzzles, musical boss fights and unique environments. Face your fears head-on.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Figment 1 + Figment 2",
+        "nsuId": 70070000041845,
+        "numberOfPlayers": null,
+        "publisher": "Bedtime Digital",
+        "rating": null,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aeae105bb88c1987d5c093455f7307788a2bcf871a6b1770961c78ff83f82caa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c07001cde160d6fbacfae968544dac153725529854ff5b920639f1bc0afe1115.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e5a42fa8ce5d61d98e9510532c9d61763f6d1bbc7c42da6cac5f4f504257502.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53737efc7651b4f1dbaf063bfff5bc3541d191682f1267bafa84ca732efa0e3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b28373d4960ab42e9d5e0588fd16cd83b6997e40a20debfc4e9f47cdf5841edb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c65b454046b80e334756a2cde1e80f8ec7ea53451ac835e2ee7abbead40b964.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70070000041886": {

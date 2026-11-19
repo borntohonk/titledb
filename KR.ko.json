@@ -370389,6 +370389,55 @@
         "size": 0,
         "version": null
     },
+    "70010000111546": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8e3f8a5d1cc3d3cdc7debfe8dd7b7095574aba8f9d3f9bbb043b9855770ad4e8.jpg",
+        "category": [
+            "어드벤처",
+            "액션",
+            "아케이드"
+        ],
+        "description": "포함 항목: 기본 게임 + 레이맨 오리진 인핸스드 에디션\n\n정체불명의 악당이 꿈의 글레이드에 타락의 기운을 퍼뜨리는 가운데 여러분은 홀로 또는 최대 4인 로컬 협동 플레이를 통해 매혹적인 세계로의 여행을 떠나게 됩니다. 모든 실수와 예상치 못한 반전이 즐거운 혼란을 더하는 빠른 템포의 사이드스크롤링 어드벤처를 경험해보세요.\n\n순수한 플랫포밍의 즐거움\n도약하고 활공하며 주먹을 날려 매력과 즐거운 놀라움이 가득한 세계를 헤쳐 나가세요. 변화가 필요하신가요? 잊지 못할 음악 스테이지 속으로 빠져들어 보세요. 리듬이 선사하는 짜릿한 전율을 느끼려면 모든 움직임을 비트에 맞춰야 합니다.\n\n새롭고 개선된 게임플레이\n생동감이 넘치는 세계, 놀라운 비주얼로 재탄생한 그 공간에 깊이 빠져보세요. 상징적인 기존 레벨들이 대거 돌아오며, 신비로운 여섯 번째 영역과 4개의 새로운 음악 스테이지가 함께 공개됩니다. 전설적인 드래곤 라이딩을 준비하고 시련의 동굴에서 실력을 증명해 보세요.\n\n웅장한 서사의 새로운 해석\n지하 세계에서 소란을 일으키는 새로운 적에 맞서, 레이맨과 친구들의 역대 최대 규모의 모험에 동참하세요. 음성 지원 시네마틱과 Christophe Héral, Grant Kirkhope가 참여한 확장판 사운드트랙이 여정에 생명력을 불어넣습니다. 기존 테마와 새로운 곡들이 조화롭게 어우러진 음악을 감상해 보세요.\n\n4인 플레이, 전설적인 재미\n최대 4인 로컬 협동 플레이로 모험의 처음부터 끝까지 함께 즐겨보세요. 럼을 차지하기 위해 경주하거나, 서로를 밀쳐내며 마지막 틴지까지 모두 구출하는 재미를 만끽할 수 있습니다. 쿵풋이 개선된 조작감, 파워업 아이템, 그리고 커스터마이징 가능한 규칙과 함께 돌아왔습니다. 시간 가는 줄 모르고 빠져드는 격렬한 경쟁을 즐겨보세요.\n\n레이맨 오리진 인핸스드 에디션\n명작 플랫포머 게임을 다시 경험해 보세요. 4K 그래픽, 새로운 수집 콘텐츠와 보상, 그리고 다양한 편의성 개선을 통해 더욱 완성된 모습으로 돌아왔습니다.\n\n온라인 기능을 이용하려면 인터넷 연결, 유비소프트 계정, 해당되는 플랫폼 계정이 필요합니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/44af3303b55b4df341ec38b9cb4c28b5f4ed90333837bbfd0650ec94b3336b22.jpg",
+        "id": "04003B8026092000",
+        "intro": "새로운 콘텐츠와 재구성된 스토리로 호평받은 플랫포머를 대담하게 재해석한 작품을 경험하세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "레이맨 레전드 리톨드 - Rayman Legends Retold",
+        "nsuId": 70010000111546,
+        "numberOfPlayers": 4,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6f0b1d9197a285140795f91da8251f6c50468a036699add1e1f0fce797aef8ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5fc544e3528eb54a76b2b7a1122d0868d35744198aa641af388589593235a93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a26026cdbf4fe19907383fbb0eca1d5f336a4e0d27989953f082bd5c339c83a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/07ddd821aa398f12eebc9a0305566dae3eb41d43381eb56dbf1d9b503a832b7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04e76b6fa6ddf1f9b1718196fd5f15d77fe4adc326ef3614e310785b781e7ef6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19b982e94fee3e01a43cabff818ce273e6483214b50edbcc800343b9affec277.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000111550": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c91fc92274ef0f1f8b70ceabc1a6767d93fe20589c1c50259198474f3c2fba7.jpg",
         "category": [
@@ -392682,6 +392731,44 @@
         "size": 3011510272,
         "version": null
     },
+    "70010000117460": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35bb592f360f72bc168d003edf349f1239e82197da23b3ebf668c7c42518dfd3.jpg",
+        "category": [
+            "액션"
+        ],
+        "description": "*이 게임에는 일본어 버전만 포함되어 있습니다. 게임 내 모든 텍스트는 일본어로만 제공되오니 유의해 주시기 바랍니다.\n\n“THE FIREMEN 2: Pete & Danny”는 1995년 HUMAN사에서 32비트 가정용 콘솔용으로 출시되었습니다.\nNew York City District D 소방서 제1소대 소속인 Pete와 Danny를 조종하여, 불타고 있는 초고층 놀이시설에서 사람들을 구출하세요.\n\n다양한 스테이지, 아름다운 그래픽, 개성 넘치는 캐릭터들의 드라마틱한 스토리가 어우러져 게임의 재미가 한층 더 배가됩니다!\n\n“Console Archives” 시리즈는 다양한 가정용 게임 콘솔에서 출시된 명작들을 충실히 재현하여 최신 하드웨어에서 손쉽게 즐길 수 있도록 개발되었습니다.\n이 시리즈는 커스터마이징 가능한 버튼 레이아웃과 화면 설정, 언제든지 저장 및 로드할 수 있는 기능 등 편리한 요소들로 가득합니다.\n과거에 플레이해 보셨든, 처음 접하시든, 콘솔 게임 역사를 만들어낸 걸작들을 즐겨 주십시오!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a96f28d81d3416980bc16ea35a6239858c80bdf477965c50e6c1e5a52608ba23.jpg",
+        "id": "04009E602702C000",
+        "intro": "The Firemen들이 구하러 와준다!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja"
+        ],
+        "name": "Console Archives THE FIREMEN 2: Pete & Danny",
+        "nsuId": 70010000117460,
+        "numberOfPlayers": 2,
+        "publisher": "HAMSTER",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1af52dd7a54c135c97eb4cd8262365008d48011572c3e45d580bc150d52a0911.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/062dbb75f61eb139690323970d3e1f01ef1e6d12f6ff3d332884377ef4151e02.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89ecf570723f981074054f3414b6288ce472d004cce186af8775b0a2effb7f2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c082f10f8230480d61b0a86488e37eea1820574833b470b207f9aca48bfe85be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7bdcf472541ad70f19a42ce9211d6149ba32377f57cef7abc296cdcd326bd40.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/446f3e6c65e8d3fb9cb1b41135f890ad8c0a9779863bcee438314678604a3a83.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000117465": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce7e736c9c860bf1d432b83fe57caca32c413c2d785cb1d2f058652072dc6b15.jpg",
         "category": [
@@ -396448,7 +396535,7 @@
         "description": "Shape of Dreams는 핵 앤 슬래시 전투, MOBA 스타일의 팀플레이, 전략적 선택이 결합된 액션 로그라이트입니다.\n뜨거운 용암부터 눈보라가 몰아치는 설산, 별빛으로 가득한 우주까지 서로 다른 세계를 여행하며\n몰려드는 적의 공격을 피하고, 정밀한 스킬샷과 빠른 판단으로 전투를 돌파하세요.\n혼자서는 기술 중심의 치열한 도전을,\n최대 4인 협동 플레이에서는 서로 다른 전투 스타일이 맞물리는 강력한 시너지를 경험할 수 있습니다.\n끊임없이 변화하는 스킬과 강화 요소를 조합해 자신만의 성장 경로를 개척하고, 새로운 방식으로 꿈의 세계에 도전하세요.\n어떤 도전도 똑같지 않으며, 정해진 빌드나 전략이 언제나 당신을 승리로 이끌지는 않습니다.\n\n9명의 여행자, 각기 다른 전투 방식\n\n빠르게 파고드는 근접 전투, 정교한 스킬샷, 넓은 범위를 장악하는 공격, 아군을 보조하는 지원형 플레이까지,\n여행자마다 전투를 풀어가는 방식은 달라집니다.\n선택한 여행자의 전투 스타일에 맞춰 빌드를 조합하고, 매 판 새로운 방식으로 적을 상대하세요.\n\n솔로와 협동, 두 가지 방식의 전투\n\n혼자 플레이할 때는 몰려드는 적의 공격을 피하고, 스킬을 정확히 적중시키며, 스스로의 판단과 선택으로 나만의 빌드를 완성하세요.\n최대 4인 협동 플레이에서는 전투가 더욱 다채롭게 확장됩니다.\n서로 다른 여행자의 능력과 빌드가 맞물리면, 혼자서는 만들 수 없었던 강력한 조합과 폭발적인 시너지가 펼쳐집니다.\n\n나만의 빌드 조합\n\n끊임없이 변화하는 선택지를 활용해 공격 방식을 바꾸고, 능력을 강화하며, 예상치 못한 조합을 발견하세요.\n같은 여행자를 선택하더라도 어떤 빌드를 완성하느냐에 따라 전혀 다른 전투 스타일을 만들어낼 수 있습니다.\n정해진 해답은 없습니다.\n매 판 주어진 선택을 바탕으로 자신만의 전략을 세우고, 불가능해 보이는 도전에 맞서세요.\n\n변수로 가득한 꿈의 세계\n\n꿈의 세계는 변수로 가득합니다.\n네 가지 난이도, 개성 있는 보스 전투, 그리고 ‘자각몽’ 변형 요소는 플레이할 때마다 다른 전술과 빌드 선택을 요구합니다.\n익숙한 길을 반복하는 대신, 매 판 달라지는 상황에 맞춰 새로운 조합을 시도하세요.\n플레이 할수록 더 강한 전략을 발견하고, 자신만의 방식으로 꿈의 세계를 돌파하게 될 것입니다.\n꿈은 당신을 기다리고 있습니다.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/32baf8d200c1009c235182aa97b4efa5ce3e0f901e2d1ac93f220c077b17d4b1.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/672fdbb2126436e7933f6dda50571bc7b75a324196cea6eb3bbe496b5574b792.jpg",
         "id": "04009A60272CA000",
         "intro": "악몽이 되어 꿈을 지배하라! 150종 이상의 기억 조합과 독보적인 빌드 시너지, 최대 4인이 함께 즐기는 액션 로그라이트.",
         "isDemo": false,
@@ -411492,6 +411579,51 @@
         "size": 0,
         "version": null
     },
+    "70010000122306": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69a1f6d0e6eb867a4e21f05440077a987703e1dbf9b657546ac6e5672a106354.jpg",
+        "category": [
+            "퍼즐",
+            "어드벤처"
+        ],
+        "description": "■ 30개 이상의 독특한 월드 정복\n꿈 레벨마다 저택, 성, 아즈텍 모험, 눈 덮인 산, 으스스한 야경, 산업 지대 등 서로 다른 환경을 제공합니다. 레벨마다 여러 개의 경로가 존재하며, 장난기 가득한 퍼즐들은 만족스러운 모험과 독창성을 보장합니다.\n\n■ 더 많은 인간들, 더 큰 대혼란\n거대한 바위를 투석기에 올려야 하나요? 벽을 부술 누군가가 필요하신가요? 최대 8명이 함께할 수 있는 온라인 멀티플레이어로 휴먼: 폴 플랫의 플레이 방식을 완전히 바꿔놓았습니다.\n\n■ 나만의 휴먼 만들기\n휴먼을 내 취향에 맞게 꾸밀 수 있습니다. 건설 노동자, 요리사, 스카이다이버, 광부, 우주비행사, 닌자 등 다양한 의상으로 바꿔보세요. 머리, 상의, 하의를 고르고 색상까지 자유롭게 꾸밀 수 있습니다!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/61c1a1cd12c2b6b7fa0bfab9ea3552aa403eaa2c6d50d89a8e29b482b96313d3.jpg",
+        "id": "0100767011412000",
+        "intro": "휴먼: 폴 플랫은 꿈속 세계를 배경으로 한 유쾌한 물리 기반 플랫포머 게임입니다. 혼자 또는 최대 8명이 온라인으로 함께 플레이하세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "휴먼: 폴 플랫 (Human: Fall Flat) - Nintendo Switch 2 Edition",
+        "nsuId": 70010000122306,
+        "numberOfPlayers": 2,
+        "publisher": "H2 INTERACTIVE",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ec17fab8f739440a0bdf4502b7f27ce1ef25e70c71d515bcc3b462d12b128584.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12b1c35685db5fc21eb59a61425983c05b8aaa30e583c7e4e52f3c91977133fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe2830d46b9bbdc3e8d462266bb5313700b94e020039fa63f6ed606c4e213240.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5621136672d70804c7f9c6ff08905fc5620b55d4c9bb49cc83fe6232c46067d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fcde5145683d8c697fe26e3fd46af7942b08157f7875e9a9229037e7b94c1b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b64d0b17a655ef365cc3b79f9cb7ab658f67f7f3cca5f2afe04baa24ac703d80.jpg"
+        ],
+        "size": 1803550720,
+        "version": null
+    },
     "70010000122317": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00f1fc4d636515d2e12f945a8caec43a6642bb7c27d078aefd94592f4a6d8b28.jpg",
         "category": [
@@ -413350,6 +413482,47 @@
             "https://img-eshop.cdn.nintendo.net/i/bd69d857c36a004e98dc0e3f1a70f376b16f2e8c79b5cba5ac57bb216d14e11c.jpg"
         ],
         "size": 1087373312,
+        "version": null
+    },
+    "70010000122715": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/434515daa45643875e28f3d5b6ad783edbf8817854d8d7165ff5815da8cb5da1.jpg",
+        "category": [
+            "RPG",
+            "어드벤처"
+        ],
+        "description": "Alphadia I 이전, 세상은 생명 에너지를 향한 인간의 욕망으로 인해 Energi 전쟁에 휘말려 혼란에 빠졌습니다. 그 중심에서, 에너지 복제인간 알폰소는 모든 것에 의문을 품기 시작합니다. 의심과 결단만을 품은 채, 그는 권력에 잠식된 세상에서 삶의 의미를 찾기 위해 여행을 떠납니다. 그 여정 끝에 기다리는 진실은 과연 무엇일까요?\n\nAlphadia III는 깊이 있는 턴제 전투, 전황을 바꾸는 SP 스킬, 배열과 Energi Crock 시스템 같은 새로운 메커니즘과 함께 돌아옵니다. 비행선을 수상기로 업그레이드하고 Energi 요소를 교환하며, 임무, 투기장 등 다양한 콘텐츠를 경험하세요—아기자기한 도트 그래픽과 아름다운 판타지 RPG 모험이 여러분을 기다립니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0850ff429a9af794309f1150e318d71aea473243450c1bc9db002456a8f53e8a.jpg",
+        "id": "010030F02465E000",
+        "intro": "판타지 RPG에서 Energi 전쟁을 체험하세요!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "Alphadia III - Nintendo Switch 2 Edition",
+        "nsuId": 70010000122715,
+        "numberOfPlayers": 1,
+        "publisher": "KEMCO",
+        "rating": 15,
+        "ratingContent": [
+            "약물",
+            "인게임 구매"
+        ],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a2de80e5aabac16e25e97282b495d834376e25933ca34c07e0aef1e493df9dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd15b54fa41239a75211470288344fbd1cdf7a228626957cfb97d769ee129acb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ea1aea0410e5568df0e0a5051cba5495676c60ed7b102ce50ec49bb248f332f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d86cf74b38c8b8f5e9fdf1bef5f74d35eb1d42b6c8f840c4be2d76ab069a57aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec7ffa8cd53a00cae6586e30e4b50c7e460824b1f03903a92524bd66677bcaa3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9b05c8fa10dccb83a8371b0709da255b37d9faaa93826911afba2e6ac85c619.jpg"
+        ],
+        "size": 514850816,
         "version": null
     },
     "70010000122721": {
@@ -439570,7 +439743,8 @@
         "publisher": "Silver Lining",
         "rating": 12,
         "ratingContent": [
-            "폭력성"
+            "폭력성",
+            "사용자 상호작용"
         ],
         "region": null,
         "releaseDate": 20261112,
@@ -442460,6 +442634,55 @@
             "https://img-eshop.cdn.nintendo.net/i/e684d50afe7b47d5f5c059167f34c45c9f215be8cfa9c075918e677dc7bd4f0e.jpg"
         ],
         "size": 2040528896,
+        "version": null
+    },
+    "70010000131141": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/11c2c5f8e9daa41d3c42f89bd83905f1d4d0f965f7d632dd7299fd4bacadd5d3.jpg",
+        "category": [
+            "어드벤처"
+        ],
+        "description": "주요 특징\n끔찍한 스토커로부터 살아남으세요\n살인적인 적들로부터 탈출하기 위해 생존 본능에 도전하세요. 숨고, 피하고, 결정적인 순간에 반격하세요. 한순간의 실수도 치명적일 수 있습니다.\n\n최면 능력을 마스터하세요\n과거 기억, 거울 능력, 나방 조종 능력을 사용하여 잊혀진 기억을 읽고, 숨겨진 길을 찾아내고, 주변 환경을 유리하게 이용하세요.\n\n현대적인 감각으로 재해석된 고전 서바이벌 호러\n고전적인 3인칭 서바이벌 호러 게임에 대한 오마주를 현대적인 속도감, 조작감, 그리고 높은 그래픽으로 만나보세요.\n\n풍부한 디테일의 환경 탐험\n모든 방을 조사하고, 단서와 핵심 아이템을 찾고, 퍼즐을 풀어 새로운 지역에 접근하고 최종 목적지에 도달하세요.\n\n크리스토 모렌테의 비밀을 밝히세요\n붉은 수녀 신화가 시작된 시칠리아 수도원의 잊혀진 이야기를 파헤치세요. 불타버린 신앙, 묻힌 죄책감, 그리고 금지된 의식이 깃든 곳입니다.\n\n뛰어난 음악과 성우진:\n- 전설적인 작곡가 야마오카 아키라의 오리지널 사운드트랙\n- BAFTA 게임 어워드 수상자 시시 존스(수잔 역)\n- 더 게임 어워드 수상자 매기 로버트슨(붉은 수녀 역)\n\n레모더드 시리즈의 오랜 팬과 신규 유저 모두를 사로잡기 위해 제작된 레드 넌즈 레거시는 고전 호러 게임에서 영감을 받은 현대적인 서바이벌 호러 게임입니다. 잠입과 심리적 공포를 새로운 지각, 최면, 환경 조작 메커니즘과 결합하여 레드 넌의 이야기를 완전히 마무리 짓습니다.\n\n스토리\n때로는 진실을 추구하는 과정에서 자신을 잃어야 할 때도 있습니다.\n\n시칠리아에서 여섯 명의 소녀가 사라진 지 1년이 넘은 후, 새로운 단서가 악몽을 다시 불러일으킵니다.\n\n의문의 녹음 파일이 딸이 아직 살아있을지도 모른다는 희망을 되살리자, 수잔은 모든 이성을 거스르고 모든 것이 시작된 듯한 장소, 에트나 산비탈에 외딴곳에 자리 잡은 애쉬만 가문의 낡은 저택으로 향합니다.\n\n절박한 수색으로 시작된 이야기는 곧 공포의 여정으로 변모하고, 가족의 비밀, 기억, 그리고 집착이 뒤얽히게 됩니다. 수잔은 집요한 스토커, 숨겨진 상징, 그리고 최면과 같은 현상으로 가득한 미로 속으로 빠져듭니다. 현실이 산산조각 나고 어둠의 힘이 솟아오르면서, 그녀는 한 걸음 한 걸음 진실에 가까워지지만… 동시에 자신보다 더 오래된 공포에 직면하게 됩니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c6dc77128e75fca9cfc12e7fec9479244c17034d8cf7fc270cc2ed8fe7df2431.jpg",
+        "id": "040069F02923C000",
+        "intro": "납치, 절망에 빠진 어머니, 그리고 과거의 그림자.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "Remothered: Red Nun's Legacy",
+        "nsuId": 70010000131141,
+        "numberOfPlayers": 1,
+        "publisher": "SOFT SOURCE",
+        "rating": 15,
+        "ratingContent": [
+            "공포",
+            "언어의 부적절성"
+        ],
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9b504d5bee1dc23d15aae7d866cea728a1fd9d77c2138ac077d1a9382bdbea85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f52baeac27e96abf8f1b181056868053d7355de14fe9f80be13fc6c782147a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/341ab85959513db7ceee5fad50197492653a627d4cef02e3004532bf930f7443.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adbd51af4c6b91ae31c4b8bc013b9a8fd48c55e2c23181b01486d84edd95f900.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8805000d9d5761811dce019b46b515aa52a7746b8bb8ccb7f6c55169cd66f9ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1b8f5ab81e8a6cef4d9a2422b27282fc13c014caa13047f24c2615dc2364e8b.jpg"
+        ],
+        "size": 1258291200,
         "version": null
     },
     "70010000131161": {
@@ -448596,6 +448819,49 @@
         "size": 119537664,
         "version": null
     },
+    "70010000133490": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22f4ec2a28cf09f39f1df2ebb7bc6987d379525ec17449386810143ca28d7c7d.jpg",
+        "category": [
+            "액션",
+            "아케이드"
+        ],
+        "description": "<적도, 아군도, 무대도 전부 \"야구\"!?>\n90년대 오락실을 풍미했던 아이렘의 횡스크롤 액션 명작이 한층 파워업하여 부활!\n\n<던지고, 치고, 달린다! 야구 격투로 날려 버려라!>\n야구 기념관에서 도난당한 황금 야구 동상을 되찾기 위해, 정의의 \"리그맨\"들이 일어섰다! 버튼 연타로 이어지는 시원시원한 콤보는 물론, 상대를 잡아서 던지는 호쾌한 던지기 기술과 버튼 하나로 발동하는 화려한 필살기로 몰려오는 적들을 일망타진하라! 원작에서 도우미 캐릭터였던 \"핑크\"도 마침내 플레이어블 캐릭터로 참전. Full HD로 선명하게 새롭게 태어난 액션을 체감해 보세요.\n\n<최대 4인 플레이 지원! 알찬 게임 모드 & 신규 미니게임 수록>\n메인 게임 모드는 나눔 통신을 통해 최소 2인, 최대 4인 협동 플레이를 지원합니다. 오리지널 버전을 기반으로 한 게임 모드 외에도, 출현하는 적과 배치가 달라지고 새로운 스테이지가 등장하는 고난도 어레인지 모드를 탑재! 또한, 미니게임 모드에는 새로운 종목이 추가되었습니다. 홈런 더비나 와장창 자동차 레이스에서 하이스코어를 겨뤄보세요!\n\n<새로운 어레인지 BGM 탑재! 마음에 드는 BGM으로 플레이하자!>\n작곡가 \"야스이 요우스케\"의 새로운 어레인지 BGM을 실장. 오리지널 BGM과 자유롭게 전환하며 마음에 드는 사운드로 즐겨보세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4d41f0a10a2fbe72f1a641b434096dfeb13e11cf690e0c3a51a17da5711b28c2.jpg",
+        "id": "04003690298B4000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "닌자 베이스볼 리그맨 – 베이시스 로디드 (Ninja Baseball League Man - Bases Loaded)",
+        "nsuId": 70010000133490,
+        "numberOfPlayers": 4,
+        "publisher": "H2 INTERACTIVE",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261210,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2bb7d5dc333c276fca528445a8c608d71fac668bf24740a9a95f5bdf1b47975e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7057678bb2c42656edb26f0a209903e4bbc0fa572ed542c96478894b8d3cb6f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea8ad3107808decdf04fa54694f711df24c1bc98dd8576b6452de3b289b33436.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39bfa8c956456115b9d0f32c68b4455c27b643fdb3405bae267751e8872763e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b3d5795f85722c9b835a16cd8e6298d7d656f5ac3a3cdf8414d8c0ad880e684.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf6acd7bcabb4375dd9bdff3ab6df776fa0374c57b92a1009aa44fa9c99d0a46.jpg"
+        ],
+        "size": 767557632,
+        "version": null
+    },
     "70010000133496": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/662fc70aed2f5ac5d8442b17e2732de65ad59008620653756d540cc3d1c103b8.jpg",
         "category": [
@@ -452793,6 +453059,48 @@
         "size": 278921216,
         "version": null
     },
+    "70010000135216": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c0c27bc918e94d87206612c7ae0caddcf74d3e28d527dfd17d9555329d8fbc3.jpg",
+        "category": [
+            "아케이드",
+            "레이싱"
+        ],
+        "description": "“TX-1 V.8”은 1984년 TATSUMI에서 출시한 레이싱 게임입니다.\n인기작 “TX-1”이 돌아왔으며, 게임을 더욱 쉽게 즐길 수 있도록 다양한 개선 사항이 적용되었습니다!\n이제 차량이 전복되거나 스핀을 일으켜도 회복할 수 있으며, 앞선 상대 차량을 뛰어넘는 것도 가능합니다.\n그랑프리 스테이지에 등장하는 8개국은 모두 새롭게 추가되었습니다! 결승선을 향해 질주하며 각 지역의 신선한 풍경을 만끽해 보세요!\n\n“Arcade Archives” 시리즈는 클래식 아케이드 게임을 충실히 재현한다는 컨셉으로 개발되었습니다. 난이도 및 화면 설정, 되감기, 연사 기능, 다중 저장 슬롯 등 편리한 기능도 포함되어 있습니다. 또한 온라인 랭킹을 통해 전 세계 플레이어들과 최고 점수를 겨룰 수 있습니다.\n“Arcade Archives 2”는 기존 Arcade Archives 시리즈에 포함된 “ORIGINAL MODE”, “HI SCORE MODE”, “CARAVAN MODE”에 새로운 “TIME ATTACK MODE”를 추가했습니다. “TIME ATTACK MODE”에서는 획득한 점수와 관계없이 최대한 빠르게 게임을 클리어하는 것을 목표로 합니다. 또한 VRR(가변 재생률) 지원이 추가되어 오리지널 아케이드 경험을 더욱 가깝게 재현할 수 있습니다.\n“Arcade Archives” 시리즈로 시대를 정의한 이 상징적인 아케이드 게임들을 즐겨보세요!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/66f560f3f959280a9834f6f291a4c19ad6b76be54ed99311815853a3c4f3833a.jpg",
+        "id": "040094F029D6A000",
+        "intro": "더 많은 업그레이드!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Arcade Archives 2 TX-1 V.8",
+        "nsuId": 70010000135216,
+        "numberOfPlayers": 1,
+        "publisher": "HAMSTER",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/56acbe2e836ec79e057eb371e272b8e9b31d95c5d0b4c0c3e3e8a5be236f3e56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6262ab1fcbbfcbc8f9d42ff7528655468a61813e519addeef9692aec7f148fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ae93b1a2e2291e75f213489b3f549bb664e83b61b55de625f38d3efde41951b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58afd83c95fdc2abbd59e2acf118a6f698a9d3d61a178525d34264e6db0b23ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40e435d7fa16483c82a72560a6939d23e82192d30d70660ae895d53a8cf7f03e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5319c6c930293eb2787ee499d0fdf377d58e3a737c256e1c342d7ac0ecfa11c0.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70010000135242": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f4cd590353acfa29a6ad75be2e19ecd19a77d9987455c069ad2d94cdeee8bb92.jpg",
         "category": [
@@ -454383,7 +454691,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1d8eafecbd7e691535fb1db8b34a1224b9ea61d69dcc48cec22f9f7861e9ab5c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/84e49ac3c2261b076ae29ea7ee170b2a242da4ee7a122f1b77e677c515b6ae62.jpg"
         ],
-        "size": 7654604800,
+        "size": 7653556224,
         "version": null
     },
     "70010000135992": {
@@ -455037,7 +455345,9 @@
         "numberOfPlayers": 1,
         "publisher": "GungHo Online Entertainment",
         "rating": 0,
-        "ratingContent": null,
+        "ratingContent": [
+            "사용자 상호작용"
+        ],
         "region": null,
         "releaseDate": 20260917,
         "rightsId": null,
@@ -455270,7 +455580,7 @@
             "https://img-eshop.cdn.nintendo.net/i/cbaffe7d66c5ae4f910b0eeea1825aaa4c851cfa0d48c0b9acd701c2b5a393f2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/61c4fc9b21902c671639a1b8d2fe0908095ebb5dd5fc4dc3be4832bfd1ab8c0b.jpg"
         ],
-        "size": 3278897152,
+        "size": 3363831808,
         "version": null
     },
     "70010000136360": {
@@ -456212,6 +456522,53 @@
             "https://img-eshop.cdn.nintendo.net/i/db13ecbb058eb3c8d6a26042cf39084f8676cf9b753e7d40df84dc1aaa841784.jpg"
         ],
         "size": 1131413504,
+        "version": null
+    },
+    "70010000136815": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/87fe4cb158137f8bd7c175219e62dae8af8c2651ba621af32f8517053c3e8ffa.jpg",
+        "category": [
+            "어드벤처",
+            "퍼즐"
+        ],
+        "description": "시리즈 누적 판매량 2,000만 장을 돌파한 수수께끼 판타지 어드벤처, 레이튼 시리즈의 새로운 이야기!\n\n서부 개척 시대가 막을 내리고 눈부신 발전을 거듭하는 미국. 증기 기관을 이용해 급격한 기술 혁신을 이룬 발명의 도시 「스팀 바이슨」에서 불가사의한 사건이 발생하면서 레이튼 교수와 루크의 새 모험이 시작됩니다.\n\n■ QuizKnock이 선보이는 신작. 레이튼 시리즈 역사상 가장 많은 수수께끼에 도전!\n이번 작품의 수수께끼 개발은 퀴즈왕 이자와 다쿠시가 이끄는 지식 엔터테인먼트 그룹 QuizKnock이 담당했습니다. 지금까지의 레이튼 시리즈 가운데 가장 많은 수수께끼가 레이튼 교수와 루크를 기다립니다. 다양한 수수께끼를 풀며 스토리를 진행하고 불가사의한 사건의 진실을 밝혀 보세요.\n\n■ 히사이시 조 × 이쿠타 리라가 함께한 메인 테마곡\n본 작품의 메인 테마곡은 히사이시 조가 작곡하고 이쿠타 리라가 작사와 노래를 맡아 특별한 콜라보레이션을 선보입니다. 세계적으로 사랑받는 두 아티스트의 음악이 새로운 이야기를 더욱 풍성하게 채워줍니다.\n\n■ 직접 터치하며 풀어가는 새로운 수수께끼 경험\n화면을 직접 터치해서 조작할 수도 있습니다. 궁금한 곳을 터치하거나 움직이는 과정에서 반짝거리는 아이디어가 떠오르고, 직관적인 조작을 통해 수수께끼를 해결하며 주변을 탐색하는 재미를 느낄 수 있습니다. Nintendo Switch™ 2 에서는 Joy-Con™ 2 의 마우스 조작도 지원합니다.\n\n■ 다 함께 즐기는 수수께끼\n혼자서 차분히 고민하며 푸는 것은 물론, 커다란 화면 앞에 모여 가족이나 친구들과 머리를 맞대고 수수께끼를 푸는 것도 레이튼 시리즈의 즐거움 중 하나입니다.\n\n■ 새롭게 단장한 탐색 및 이동 시스템\n목적지로 바로 이동하는 기능부터 「반짝코인」을 탐지하는 로봇 「코인더」까지, 이번 작품에는 더욱 편리한 탐색을 도와주는 다양한 기능이 마련되어 있습니다. 물론, 스팀 바이슨의 거리를 구경하며 산책하거나 숨겨진 수수께끼를 발견하고, 주변 사람들과 대화를 나누는 등 여유로운 플레이도 즐기실 수 있습니다.\n\n■ 수수께끼 × 도시 발전\n스토리를 진행하다 보면 도시의 발전과 관련된 수수께끼가 등장합니다. 수수께끼를 풀면 스팀 바이슨의 여러 시설이 업그레이드됩니다.\n\n■ 반가운 기존 출연진과 새로운 성우진\n레이튼과 루크를 비롯해 친숙한 캐릭터의 목소리를 연기한 출연진이 이번 작품에도 함께합니다. 또한, 새로운 성우진도 합류해 개성 넘치는 등장인물들에게 생동감을 불어넣었습니다.\n\n■ 매일 새로운 수수께끼가 추가되는 「오늘의 수수께끼」\n출시일로부터 1년 이상, 매일 새로운 수수께끼 배포! 메인 스토리가 끝난 후에도 수수께끼의 향연은 계속됩니다!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9e6a5579678d7ac171ff5e631b09bccd16a1a8b8503684bf53e1378e5dd45954.jpg",
+        "id": "04003560233AE000",
+        "intro": "증기의 세계를 무대로 펼쳐지는 레이튼과 루크의 새로운 대모험",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh-Hans",
+            "zh-Hant"
+        ],
+        "name": "레이튼 교수와 증기의 신세계",
+        "nsuId": 70010000136815,
+        "numberOfPlayers": 1,
+        "publisher": "LEVEL5",
+        "rating": 0,
+        "ratingContent": [
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261210,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e9579c7564b29da3d6b75ac1d9680c979e0c101b8dc8eabf02b9aa4e4027e43f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a8c91e14314aede53e530af6d094ebda8c409284f730c8ec5ffbf70b0fa6a1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18fc80c2c79a7222382c0d98ffdb9f40ae3340378d150f8bb8b2f15933957de1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27640d4fb50f04ec203d03cab41ca69e8879e0db6567f4733339dfcd41302958.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c803f6d0680cc6b260ed1ac35f784469945cfa872f59b34d9b764c9bdd4173a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/018f16966955a515782b7bed9263b50bd9ef3451aefac2c34a83b744a2dc8b73.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70010000136882": {
@@ -460099,6 +460456,111 @@
             "https://img-eshop.cdn.nintendo.net/i/318f37f554c23fa286576760e0d2161067fa728098c8687f3052b7ffa76868e8.jpg"
         ],
         "size": 982515712,
+        "version": null
+    },
+    "70010000138608": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f4559b3956615e14e17e8fad94a14daf9815fc6c1fa1ccc6f0a319e9127316a7.jpg",
+        "category": [
+            "어드벤처",
+            "액션",
+            "퍼즐",
+            "음악"
+        ],
+        "description": "Nintendo Switch™ 2 에서 1080p 해상도, 60fps를 지원하며 그래픽이 한층 더 향상되었습니다!\n\n“피그먼트는 죽음, 질병 및 트라우마 등 심오한 테마를 순수한 판타지와 결합한 다채롭고, 기발한 퍼즐 게임입니다. 초기 설계에서도 피그먼트는 논리적으로 설명하기 어렵습니다. 이 게임은 신비스러우면서도 심오합니다.”\n엔가젯\n\n“피그먼트는 단순히 잠재 의식을 탐구하는 것이 아니라 고전적인 초현실주의 그림 스타일과도 이어집니다.”\n멋진 화면\n\n“플레이해본 결과 이 작품은 매우 역동적이고 저는 그 부분이 좋습니다.”\n락 페이퍼 샷건\n\n인간의 마음 깊은 곳에서 시작되는 음악 액션 모험... 피그먼트 세계에 오신것을 환영합니다. 기괴하고 초현실적인 세계, 우리의 머리 속에서 들려오는 많은 목소리로 채워진 우리의 깊은 생각, 충동과 기억으로 가득한 곳.\n\n이 마음은 수년간 매우 고요했었습니다. 하지만 무언가 달라졌습니다. 그들이 가는 곳마다 두려움을 주는 악몽과 같은 새로운 생각들이 나타나기 시작합니다. 단 하나의 희망은 이전에 용기의 목소리를 가졌던 심술궂은 더스티가 예전의 모습으로 돌아가 두려움과 맞설 마음을 갖게 하는 것입니다.\n\n더스티와 그의 낙천적인 친구 파이퍼와 함께 잃어버린 용기를 되찾을 수 있도록 퍼즐을 풀고, 악몽을 무찌르며 또 다른 마음을 넘어 모험을 떠나보세요.\n\n손으로 그린 기묘한 세계\n어떻게 전통적인 방식으로 초현실적인 그림, 다채로운 삽화 및 매력적인 인물로 가득한 세계를 그렸는지 경험해보십시오. 즐거운 자유의 섬, 클락워크 마을 및 불길한 통로의 독특한 그림 스타일을 느껴보십시오.\n\n만점짜리 음악 공연을 즐겨보세요\n음악은 피그먼트의 핵심적인 부분입니다. 트럼펫 나무, 피아노 집들 및 노래하는 적들로 가득한 리드미컬한 환경을 탐험하고 당신의 행동이 이 음악의 우주와 그 역동적인 사운드 트랙에 어떻게 영향을 미치는지 발견하십시오.\n\n악몽과 정면으로 싸워보세요\n보편적인 인간의 두려움을 극복하고 더스티가 마음의 평화를 다시 찾을 수 있도록 감정의 여행을 떠나십시오. 당신의 모험에서 지저분한 속임수를 사용한 악몽을 극복하십시오.\n\n힘과 두뇌 모두를 사용해보세요\n피그먼트는 다양한 플레이어들을 위해 여러 종류의 챌린지들을 제공합니다. 적들에게 능숙하게 당신의 검을 휘두르고, 두뇌로 퍼즐을 풀며 장엄한 음악 보스 전투의 대서사시에서 둘을 결합하십시오.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/31be985fefd499aba59bf2e4026b9b957ac7df79b5509c1a2cf69a0d04cd2b51.jpg",
+        "id": "0400A7102A6D0000",
+        "intro": "더스티와 그의 낙천적인 친구 파이퍼와 함께 잃어버린 용기를 되찾으러 또 다른 마음을 넘어 모험을 떠나보세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Figment",
+        "nsuId": 70010000138608,
+        "numberOfPlayers": 1,
+        "publisher": "Bedtime Digital",
+        "rating": 12,
+        "ratingContent": [
+            "폭력성"
+        ],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aeae105bb88c1987d5c093455f7307788a2bcf871a6b1770961c78ff83f82caa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c07001cde160d6fbacfae968544dac153725529854ff5b920639f1bc0afe1115.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e5a42fa8ce5d61d98e9510532c9d61763f6d1bbc7c42da6cac5f4f504257502.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e31b763a681c5cd29896a7faba966748fcfb54872b71cc7080b0cadcb9f32b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c922d95e26108c097e2bd797a8f875fcdede86e26047a60b279d6e00616f220e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/521ced97eee959dac659fd0828166c5e28bb756b16c45d76612994a3e1a1bba8.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
+    "70010000138614": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a90419158b28b17732eed52ea6824f6c959d7fa8ffc56290fa6077cc010d1e16.jpg",
+        "category": [
+            "어드벤처",
+            "액션",
+            "퍼즐",
+            "음악"
+        ],
+        "description": "Nintendo Switch™ 2 에서 1080p 해상도, 60fps를 지원하며 그래픽이 한층 더 향상되었습니다!\n\nFigment 2: Creed Valley는 인간의 마음을 무대로 펼쳐지는 액션 어드벤처 게임입니다. 한때는 평화로웠던 세상 \"마인드\"를 몽마들이 점령하여 혼돈의 소용돌이에 빠뜨렸습니다. 용사 더스티와 함께 갖가지 퍼즐을 풀고 보스와의 전투에서 승리하고 독특한 환경을 헤쳐나가세요. 또한, 자신을 옥죄는 두려움에 정면으로 맞서세요.\n\n몽마들이 망가뜨린 도덕적 잣대 때문에 마인드는 제 기능을 다할 수 없게 되었습니다. 더스티는 언제나 낙천적인 친구 파이퍼와 함께 마인드의 이상이 형성된 신념의 계곡으로 가서 평온을 되찾아야 합니다. 리드미컬한 전투와 알쏭달쏭한 퍼즐이 기다리는 모험 속으로 뛰어드세요.\n\n리드미컬한 전투\n몽마들은 저마다 세상에 나타난 이유를 드러내는 주제곡을 갖고 있습니다. 그들이 도발하면 좌우로 흔들며 잘 피하세요.\n\n살아 숨 쉬는 역동적인 세상\n시시각각 변화하는 세상의 소리에 귀를 기울이고 그 리듬에 적응하세요.\n\n하나의 마음, 두 개의 관점\n마인드의 두 가지 기본 상태인 \"열린 마음\"과 \"닫힌 마음\"을 잘 살펴보세요. 두 상태를 오가며 변화하는 환경에 적응하고 앞으로 나아가세요.\n\n지력과 용기를 모두 발휘하세요\n사운드트랙과 잘 맞게 구성된 알쏭달쏭 퍼즐 및 전투를 통해 정신적으로도 육체적으로도 강하다는 것을 증명하세요.\n\n파트너 모드\n내면의 공포에 홀로 맞설 필요는 없죠. 이제 로컬 코옵 모드에서 파이퍼를 직접 컨트롤할 수 있게 되었습니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c3846830c6dab13b4e15f2ffdb65f90ba8a76ca50700afe5ce7e42befa432133.jpg",
+        "id": "040006502A6D2000",
+        "intro": "피아노 다리와 춤추는 식물, 리드미컬한 전투가 기다리는 \"마인드\"의 세계로 뛰어들 준비가 되었나요?",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh-Hans",
+            "zh-Hant",
+            "pl"
+        ],
+        "name": "Figment 2: Creed Valley",
+        "nsuId": 70010000138614,
+        "numberOfPlayers": 2,
+        "publisher": "Bedtime Digital",
+        "rating": 0,
+        "ratingContent": [
+            "폭력성",
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/53737efc7651b4f1dbaf063bfff5bc3541d191682f1267bafa84ca732efa0e3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b28373d4960ab42e9d5e0588fd16cd83b6997e40a20debfc4e9f47cdf5841edb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c65b454046b80e334756a2cde1e80f8ec7ea53451ac835e2ee7abbead40b964.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3bc4fe70be31ff4a70dbc362b4f47c58a9dbfe9dca8f3c8a0d32e233d2c0e78.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca13f8be88fdeb72264579809584af5894ec231fbcbd2dbec2d853793bc31089.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d44409c76f978939f7fdd46ddfd844a01817020f8415d618d6ed9c85a08e14a3.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70010000138635": {
@@ -484502,6 +484964,35 @@
         "rightsId": null,
         "screenshots": null,
         "size": 277872640,
+        "version": null
+    },
+    "70030000026189": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Viractal（비락탈） Nintendo Switch 2 Edition  체험판",
+        "nsuId": 70030000026189,
+        "numberOfPlayers": null,
+        "parentId": "0100FD501F95A000",
+        "publisher": null,
+        "rating": 12,
+        "ratingContent": [
+            "폭력성",
+            "사용자 상호작용"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
         "version": null
     },
     "70030000026247": {
@@ -749473,6 +749964,146 @@
         "size": 3145728,
         "version": null
     },
+    "70050000073202": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4c9b62c18d72c610900f9cd6180a573a1ab6aa07e3fed130e2ddda16766e7d9a.jpg",
+        "category": null,
+        "description": "게임 내 아트 갤러리를 잠금 해제하고 다양한 컨셉 아트와 일러스트레이션 컬렉션을 감상하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093007",
+        "ids": [
+            "04003B8026093007"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "레이맨 레전드 리톨드 - 게임 내 아트 갤러리",
+        "nsuId": 70050000073202,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000073206": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/941c82cc3f4c57c16baab3d3321c69e1b426b7bf5b385b53ab6e7572ac499dc6.jpg",
+        "category": null,
+        "description": "1995년의 오리지널 레이맨에서 영감을 받은 그랜드 미니무스의 일렉툰 틴시 의상을 잠금 해제하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093006",
+        "ids": [
+            "04003B8026093006"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "레이맨 레전드 리톨드 - 일렉툰 틴시 의상",
+        "nsuId": 70050000073206,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000073210": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/179f359d2bf89cbe893ff5a615847b767ca18b40f834879a414f7cdd16992c2f.jpg",
+        "category": null,
+        "description": "1995년의 오리지널 레이맨에서 영감을 받은 글로박스 레트로 헌터 의상을 잠금 해제하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093004",
+        "ids": [
+            "04003B8026093004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "레이맨 레전드 리톨드 - 레트로 헌터 의상",
+        "nsuId": 70050000073210,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000073214": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/960cf7a6e56e03b3ca3c1f869a2aa19f5ce690acb473eb6854310db7d6780eae.jpg",
+        "category": null,
+        "description": "1995년에 출시된 오리지널 레이맨에서 영감을 받은 바바라의 요정 베틸라 의상을 잠금 해제하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093003",
+        "ids": [
+            "04003B8026093003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "레이맨 레전드 리톨드 - 요정 베틸라 의상",
+        "nsuId": 70050000073214,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000073218": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15bab1da3ad44740e7d65748b1c94d40cb82d6fcaf48c7a49b7bcb2050752080.jpg",
+        "category": null,
+        "description": "1995년 클래식 버전의 오리지널 모습에서 영감을 받은 레이맨의 클래식 레이맨 의상을 잠금 해제하세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04003B8026093002",
+        "ids": [
+            "04003B8026093002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "레이맨 레전드 리톨드 - 클래식 레이맨 의상",
+        "nsuId": 70050000073218,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70050000073245": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9314e6a90b544443cb2b0abcb24bfb8c395d7902d2e85af4f914a732312130d0.jpg",
         "category": null,
@@ -761692,14 +762323,16 @@
         "version": null
     },
     "70050000076690": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/943ac82193671174ecae54dabc8c85897b561153d830d86ac288476d3a9d02e4.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fb61f4ff3ebdc62daa768bec457bbd62c8bf4b172d0f773763bdb75e762d7211.jpg",
         "category": null,
-        "description": "모험은 계속됩니다! 새로운 아이템, 장소, 값진 보상이 걸린 강력한 적을 발견해 보세요!\n\n예상 출시일: 2026년 겨울",
+        "description": "모험은 계속됩니다! 새로운 아이템, 장소, 값진 보상이 걸린 강력한 적을 발견해 보세요!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
-        "ids": [],
+        "id": "04000D9025B17003",
+        "ids": [
+            "04000D9025B17003"
+        ],
         "intro": null,
         "isDemo": false,
         "key": null,
@@ -761713,7 +762346,7 @@
             "폭력성"
         ],
         "region": null,
-        "releaseDate": 20261231,
+        "releaseDate": 20261201,
         "rightsId": null,
         "screenshots": null,
         "size": 0,
@@ -770534,12 +771167,14 @@
     "70050000079813": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a9fa07e4d927a0d35e3d9069c9d894129e9acdab398cc39b7844714c43f0868.jpg",
         "category": null,
-        "description": "「아랑전설 시티 오브 더 울브스(Fatal Fury City of the Wolves)」에서 DLC 캐릭터 「라오콘」를 사용할 수 있게 됩니다.\n\n(2026년 11월 배포 예정)",
+        "description": "「아랑전설 시티 오브 더 울브스(Fatal Fury City of the Wolves)」에서 DLC 캐릭터 「라오콘」, 추가 스테이지 를 사용할 수 있게 됩니다.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
-        "ids": [],
+        "id": "0400B3F0259BF015",
+        "ids": [
+            "0400B3F0259BF015"
+        ],
         "intro": null,
         "isDemo": false,
         "key": null,
@@ -770551,12 +771186,10 @@
         "rating": 12,
         "ratingContent": [
             "선정성",
-            "폭력성",
-            "사용자 상호작용",
-            "인게임 구매"
+            "폭력성"
         ],
         "region": null,
-        "releaseDate": 20261231,
+        "releaseDate": 20261119,
         "rightsId": null,
         "screenshots": null,
         "size": 0,
@@ -777804,6 +778437,90 @@
         "size": 3145728,
         "version": null
     },
+    "70050000082308": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fee00150998e7eeda295c1e3753f1e584b9a7aa0af8dedb5a635fa5381d96823.jpg",
+        "category": null,
+        "description": "참고: 이 DLC는 2027년 4월 22일에 출시될 예정입니다.\n\n‘Barbie™ Rewind - Y2K Style Pack’을 통해 드림하우스를 더욱 다양한 가구 아이템으로 꾸밀 수 있습니다. 이 DLC 팩에는 다음이 포함되어 있습니다:\n\n다양한 ‘제너레이션 걸 마이 룸’ 플레이 세트 (마리, 니셸, 바비, 아나, 토리)\n\n시크릿 메시지 컴퓨터 센터\n\n다양한 올어라운드 홈 플레이 세트\n\n잼 앤 글램 투어 버스\n\n파퓰러스 분수 수영장\n\n글램 게임 룸\n\n드림하우스에 전시할 수 있는 아이코닉한 의상들",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04000BB027B81004",
+        "ids": [
+            "04000BB027B81004"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - Y2K Style Pack",
+        "nsuId": 70050000082308,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270422,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082312": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e1cb294b86972ca11c80d2a6f2b2fc317f99cc8c32472d763d2eb5b108d11e91.jpg",
+        "category": null,
+        "description": "참고: 이 DLC는 2027년 3월 25일에 출시될 예정입니다.\n\n‘Barbie™ Rewind - Superstar Pack’을 통해 드림하우스를 더욱 다양한 가구 아이템으로 꾸밀 수 있습니다. 이 DLC 팩에는 다음이 포함되어 있습니다:\n\n바비와 더 록커스 플레이 세트\n\n바비와 더 록커스 핫 로큰롤 스테이지 #1144\n\n바비와 더 록커스 로큰롤 하우스 파티 #0803\n\n바비와 더 록커스 화장대 세트 #7752\n\n바비와 더 록커스 투어 버스 #3721\n\n아이스크림 및 간식 플레이 세트\n\n바비 아이스크림 숍 #3653\n\n바비 아이스크림 메이커 #5323\n\n다양한 가정용 가구 - 실내 가구 약 25점\n\n바비 데코레이터 플레이 팩 #9315\n\n바비 쿠킹 센터 #9318\n\n바비 냉장고 #9317\n\n바비 뷰티 배스 #9320\n\n바비 뷰티풀 침대 #9321\n\n바비 소파 #9323\n\n바비 룸 액센트 #9316\n\n바비 다이닝 룸 세트 #9324\n\n바비 2-in-1 커피 테이블 및 의자\n\n매직 무브스 홈 오피스\n\n대형 헤어 브러시 및 향수병\n\n퍼퓸 프리티 바비\n\n퍼퓸 프리티 휘트니\n\n퍼퓸 기빙 켄\n\n드림하우스에 전시할 아이코닉한 의상들",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04000BB027B81003",
+        "ids": [
+            "04000BB027B81003"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - Superstar Pack",
+        "nsuId": 70050000082312,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270325,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082316": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cbc1f4d032624bf04b530e004851e18882f20b554e00140be0bb92547a02092.jpg",
+        "category": null,
+        "description": "참고: 이 DLC는 2027년 2월 25일에 출시될 예정입니다.\n\n‘Barbie™ Rewind - DreamHouse Classics’ 팩을 사용하면 더 많은 가구 아이템으로 드림하우스를 나만의 스타일로 꾸밀 수 있습니다. 이 DLC 팩에는 다음이 포함되어 있습니다:\n\n스키퍼 드림 룸\n\n바비 드림 키친-다이닝 세트\n\n서프라이즈 하우스\n\n캠핑 가기\n\n바비 뷰티 센터\n\n드림하우스에 전시할 수 있는 상징적인 의상들",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04000BB027B81001",
+        "ids": [
+            "04000BB027B81001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - DreamHouse Classics",
+        "nsuId": 70050000082316,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20270225,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
     "70050000082344": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/178b1545cf008df5b874de01e9a1b9f4130e74c6bad9e3ad1552f01249f288c0.jpg",
         "category": null,
@@ -778452,6 +779169,34 @@
         ],
         "region": null,
         "releaseDate": 20270916,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 0,
+        "version": null
+    },
+    "70050000082779": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8540cc8d6ff2f10bbe9b2c2e602ad6f247cac257cbddae482b2a8b0810db19a3.jpg",
+        "category": null,
+        "description": "‘Barbie™ Rewind - Play ‘N Prize Arcade’ 팩을 통해 더 많은 가구 아이템으로 드림하우스를 나만의 스타일로 꾸밀 수 있습니다. 이 DLC 팩에는 다음이 포함되어 있습니다:\n\n코스믹 핀볼 기계\n\n코스믹 핀볼 기계 (b)\n\n코스믹 크레인 기계\n\n코스믹 크레인 기계 (b)\n\n코스믹 크레인 기계 (c)\n\n코스믹 상품 카운터\n\n코스믹 상품 카운터 (b)\n\n코스믹 봉제 인형\n\n코스믹 봉제 인형 (b)\n\n코스믹 휴대용 게임기\n\n코스믹 시계\n\n코스믹 클러치\n\n코스믹 클러치 (b)\n\n코스믹 아케이드 토큰\n\n코스믹 경품 캡슐\n\n코스믹 경품 캡슐 (b)",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "04000BB027B81002",
+        "ids": [
+            "04000BB027B81002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - Play ‘N Prize Arcade",
+        "nsuId": 70050000082779,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": 0,
+        "ratingContent": null,
+        "region": null,
+        "releaseDate": 20261119,
         "rightsId": null,
         "screenshots": null,
         "size": 0,
@@ -883532,6 +884277,38 @@
         "size": 748683264,
         "version": null
     },
+    "70070000036354": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e0092a546a7224f23daabcaf943eeab93d79d536cb70c08071cddbb57c2293f0.jpg",
+        "category": null,
+        "description": "레이맨 레전드 리톨드 디럭스 에디션 포함 항목:\n- 원본 게임\n- 레이맨 오리진: 인핸스드 에디션\n- 1995년 출시된 오리지널 레이맨의 캐릭터에서 영감을 받은 레이맨, 글로박스, 바바라, 그랜드 미니무스를 위한 4가지 코스튬이 포함된 레트로 팩\n- 게임 내 아트 갤러리\n\n정체불명의 악당이 꿈의 글레이드에 타락의 기운을 퍼뜨리는 가운데 여러분은 홀로 또는 최대 4인 로컬 협동 플레이를 통해 매혹적인 세계로의 여행을 떠나게 됩니다. 모든 실수와 예상치 못한 반전이 즐거운 혼란을 더하는 빠른 템포의 사이드스크롤링 어드벤처를 경험해보세요.\n\n순수한 플랫포밍의 즐거움\n도약하고 활공하며 주먹을 날려 매력과 즐거운 놀라움이 가득한 세계를 헤쳐 나가세요. 변화가 필요하신가요? 잊지 못할 음악 스테이지 속으로 빠져들어 보세요. 리듬이 선사하는 짜릿한 전율을 느끼려면 모든 움직임을 비트에 맞춰야 합니다.\n\n새롭고 개선된 게임플레이\n생동감이 넘치는 세계, 놀라운 비주얼로 재탄생한 그 공간에 깊이 빠져보세요. 상징적인 기존 레벨들이 대거 돌아오며, 신비로운 여섯 번째 영역과 4개의 새로운 음악 스테이지가 함께 공개됩니다. 전설적인 드래곤 라이딩을 준비하고 시련의 동굴에서 실력을 증명해 보세요.\n\n웅장한 서사의 새로운 해석\n지하 세계에서 소란을 일으키는 새로운 적에 맞서, 레이맨과 친구들의 역대 최대 규모의 모험에 동참하세요. 음성 지원 시네마틱과 크리스토프 헤랄,그랜트 커크호프가 참여한 확장판 사운드트랙이 여정에 생명력을 불어넣습니다. 기존 테마와 새로운 곡들이 조화롭게 어우러진 음악을 감상해 보세요.\n\n4인 플레이, 전설적인 재미\n최대 4인 로컬 협동 플레이로 모험의 처음부터 끝까지 함께 즐겨보세요. 럼을 차지하기 위해 경주하거나, 서로를 밀쳐내며 마지막 틴지까지 모두 구출하는 재미를 만끽할 수 있습니다. 쿵풋이 개선된 조작감, 파워업 아이템, 그리고 커스터마이징 가능한 규칙과 함께 돌아왔습니다. 시간 가는 줄 모르고 빠져드는 격렬한 경쟁을 즐겨보세요.\n\n레이맨 오리진 인핸스드 에디션\n명작 플랫포머 게임을 다시 경험해 보세요. 4K 그래픽, 새로운 수집 콘텐츠와 보상, 그리고 다양한 편의성 개선을 통해 더욱 완성된 모습으로 돌아왔습니다.\n\n온라인 기능을 이용하려면 인터넷 연결, 유비소프트 계정, 해당되는 플랫폼 계정이 필요합니다.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "새로운 콘텐츠와 재구성된 스토리로 호평받은 플랫포머를 대담하게 재해석한 작품을 경험하세요.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "레이맨 레전드 리톨드 - Rayman Legends Retold 디럭스 에디션 Deluxe Edition",
+        "nsuId": 70070000036354,
+        "numberOfPlayers": null,
+        "publisher": "Ubisoft",
+        "rating": null,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261203,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6f0b1d9197a285140795f91da8251f6c50468a036699add1e1f0fce797aef8ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5fc544e3528eb54a76b2b7a1122d0868d35744198aa641af388589593235a93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a26026cdbf4fe19907383fbb0eca1d5f336a4e0d27989953f082bd5c339c83a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/07ddd821aa398f12eebc9a0305566dae3eb41d43381eb56dbf1d9b503a832b7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04e76b6fa6ddf1f9b1718196fd5f15d77fe4adc326ef3614e310785b781e7ef6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19b982e94fee3e01a43cabff818ce273e6483214b50edbcc800343b9affec277.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70070000036360": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/32215a21aa3dc919b371d6b309a04bf8d2d3f911114f80fc9fa12d910a9b6883.jpg",
         "category": null,
@@ -883699,7 +884476,7 @@
     "70070000036399": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f60ee78fc7b29d2557302b888dcc2f9e28aa9c0a6f573acf025488103a5c5ba6.jpg",
         "category": null,
-        "description": "Minecraft Dungeons II가 더 많은 액션, 더 풍부한 전리품, 더 방대한 모험과 함께 찾아왔습니다. 균열을 통과하여 그 어떤 영웅도 가본 적 없는 곳으로 떠나 보세요. 위협과 미스터리, 숨 막히는 아름다운 광경으로 넘쳐나는 미지의 차원인 시프트에서 전투를 펼쳐 보세요. 장비를 갖추고 플레이 스타일을 맞춤 설정하여 폭발적인 전투 속에서 역대 최강의 적들과 맞서 싸우세요. 혼자만의 힘으로 미지의 세계에 도전하거나, 친구들과 팀을 이루어 함께 위기에 극복해 보세요. 우민의 음모는 이미 시작되었으며, 그 잔혹함은 그들이 지닌 막강한 힘만큼이나 치명적입니다. 그들을 저지하세요. 그렇지 않으면 오버월드가 타락의 손에 넘어가고 맙니다.\n\n디럭스 에디션을 구매하고 다가오는 더 많은 전투에 대비하세요! 영웅 스킨 4종, 영혼 망토, 블럽 펫 및 DLC 1 & 2가 포함되어 있습니다.*\n\nDLC1: 예상 출시일: 2026년 겨울\nDLC2: 예상 출시일: 2027년 봄",
+        "description": "Minecraft Dungeons II가 더 많은 액션, 더 풍부한 전리품, 더 방대한 모험과 함께 찾아왔습니다. 균열을 통과하여 그 어떤 영웅도 가본 적 없는 곳으로 떠나 보세요. 위협과 미스터리, 숨 막히는 아름다운 광경으로 넘쳐나는 미지의 차원인 시프트에서 전투를 펼쳐 보세요. 장비를 갖추고 플레이 스타일을 맞춤 설정하여 폭발적인 전투 속에서 역대 최강의 적들과 맞서 싸우세요. 혼자만의 힘으로 미지의 세계에 도전하거나, 친구들과 팀을 이루어 함께 위기에 극복해 보세요. 우민의 음모는 이미 시작되었으며, 그 잔혹함은 그들이 지닌 막강한 힘만큼이나 치명적입니다. 그들을 저지하세요. 그렇지 않으면 오버월드가 타락의 손에 넘어가고 맙니다.\n\n디럭스 에디션을 구매하고 다가오는 더 많은 전투에 대비하세요! 영웅 스킨 4종, 영혼 망토, 블럽 펫 및 DLC 1 & 2가 포함되어 있습니다.*\n\nDLC2: 예상 출시일: 2027년 봄",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -898936,7 +899713,7 @@
     "70070000039925": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc75de0c2e86fd2593de9c3fe5ea44913b788b721824b4eeeec36af83c323730.jpg",
         "category": null,
-        "description": "1991년 탄생 이후 90년대 격투 게임 붐을 이끌어 온 SNK의 인기 격투 게임 시리즈 『아랑전설』. 그 최신작인 『아랑전설 시티 오브 더 울브스』가 Nintendo Switch 2로 등장!\n\n<상품 내용>\n게임 본편\n\nSeason Pass 1\n・앤디 보가드\n・켄, 추가 스테이지\n・죠 히가시\n・춘리\n・미스터 빅, 추가 스테이지\n\nSeason Pass 2\n・김재훈, 추가 스테이지\n・나이트메어 기스\n・블루 마리, 추가 스테이지\n・볼프강 크라우저, 추가 스테이지\n・미스터 가라데, 추가 스테이지\n・켄시로, 추가 스테이지\n\nSeason Pass 3\n・DLC 캐릭터 '릭 스트라우드'\n・DLC 캐릭터 '덕 킹'\n・DLC 캐릭터 '김갑환'\n・DLC 캐릭터 '사노 만지로', '류구지 켄'\n・DLC 캐릭터 '라오콘' (2026년 11월 배포 예정)\n・DLC 캐릭터 '?????' (2026년 12월 배포 예정)\n・추가 스테이지\n\n■대전을 더욱 뜨겁게 해줄 'REV 시스템'을 새롭게 탑재!\n대전 시작부터 다양한 특수 공격을 사용할 수 있는 'REV 시스템'을 새롭게 탑재! 'REV 게이지'가 한계에 도달할 때까지 'REV 아츠'와 'REV 액셀', 그리고 S.P.G.존에서 'REV 블로' 등의 사용이 가능. 'REV 시스템'으로 더욱 짜릿한 배틀을 실현!\n\n■초보자부터 상급자까지 폭 넓게 즐길 수 있는 2가지 조작 스타일!\n테크니컬한 조작 스타일인 '아케이드 스탠스'와, 방향키와 버튼 하나 조합으로 화려한 필살기와 콤보를 사용할 수 있는 '스마트 스탠스' 중에서 하나를 선택할 수 있다. 격투 게임 초보자부터 상급자에 이르기까지 자신의 실력과 레벨에 맞춰 대전을 즐겨보자!\n\n■싱글 플레이용 RPG 모드로 'EOST (EPISODES OF SOUTH TOWN)'을 새롭게 탑재\n욕망으로 가득한 사우스 타운을 무대로 다양한 조건을 클리어 하면서 경험치와 보수를 획득. 레벨업과 스킬 장비를 통해 캐릭터를 육성. 각지의 보스를 쓰러뜨리고 사우스 타운을 제패하라!\n※'EOST'를 즐기기 위해서는 인터넷에 접속하여 데이트를 실시해야 합니다.",
+        "description": "1991년 탄생 이후 90년대 격투 게임 붐을 이끌어 온 SNK의 인기 격투 게임 시리즈 『아랑전설』. 그 최신작인 『아랑전설 시티 오브 더 울브스』가 Nintendo Switch 2로 등장!\n\n<상품 내용>\n게임 본편\n\nSeason Pass 1\n・앤디 보가드\n・켄, 추가 스테이지\n・죠 히가시\n・춘리\n・미스터 빅, 추가 스테이지\n\nSeason Pass 2\n・김재훈, 추가 스테이지\n・나이트메어 기스\n・블루 마리, 추가 스테이지\n・볼프강 크라우저, 추가 스테이지\n・미스터 가라데, 추가 스테이지\n・켄시로, 추가 스테이지\n\nSeason Pass 3\n・DLC 캐릭터 '릭 스트라우드'\n・DLC 캐릭터 '덕 킹'\n・DLC 캐릭터 '김갑환'\n・DLC 캐릭터 '사노 만지로' '류구지 켄', 추가 스테이지\n・DLC 캐릭터 '라오콘', 추가 스테이지 (2026년 11월 19일 배포 예정)\n・DLC 캐릭터 '?????' (2026년 12월 배포 예정)\n・추가 스테이지\n\n■대전을 더욱 뜨겁게 해줄 'REV 시스템'을 새롭게 탑재!\n대전 시작부터 다양한 특수 공격을 사용할 수 있는 'REV 시스템'을 새롭게 탑재! 'REV 게이지'가 한계에 도달할 때까지 'REV 아츠'와 'REV 액셀', 그리고 S.P.G.존에서 'REV 블로' 등의 사용이 가능. 'REV 시스템'으로 더욱 짜릿한 배틀을 실현!\n\n■초보자부터 상급자까지 폭 넓게 즐길 수 있는 2가지 조작 스타일!\n테크니컬한 조작 스타일인 '아케이드 스탠스'와, 방향키와 버튼 하나 조합으로 화려한 필살기와 콤보를 사용할 수 있는 '스마트 스탠스' 중에서 하나를 선택할 수 있다. 격투 게임 초보자부터 상급자에 이르기까지 자신의 실력과 레벨에 맞춰 대전을 즐겨보자!\n\n■싱글 플레이용 RPG 모드로 'EOST (EPISODES OF SOUTH TOWN)'을 새롭게 탑재\n욕망으로 가득한 사우스 타운을 무대로 다양한 조건을 클리어 하면서 경험치와 보수를 획득. 레벨업과 스킬 장비를 통해 캐릭터를 육성. 각지의 보스를 쓰러뜨리고 사우스 타운을 제패하라!\n※'EOST'를 즐기기 위해서는 인터넷에 접속하여 데이트를 실시해야 합니다.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -898952,9 +899729,7 @@
         "rating": 12,
         "ratingContent": [
             "선정성",
-            "폭력성",
-            "사용자 상호작용",
-            "인게임 구매"
+            "폭력성"
         ],
         "region": null,
         "releaseDate": 20261022,
@@ -902269,7 +903044,7 @@
             "https://img-eshop.cdn.nintendo.net/i/cbaffe7d66c5ae4f910b0eeea1825aaa4c851cfa0d48c0b9acd701c2b5a393f2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/61c4fc9b21902c671639a1b8d2fe0908095ebb5dd5fc4dc3be4832bfd1ab8c0b.jpg"
         ],
-        "size": 3285188608,
+        "size": 3370123264,
         "version": null
     },
     "70070000040642": {
@@ -905656,6 +906431,40 @@
         "size": 1643118592,
         "version": null
     },
+    "70070000041545": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/08b6c46c008b17f9306e7d8355d3333d654fa74cea8c584cdf79ba5b4f1207b3.jpg",
+        "category": null,
+        "description": "이 번들에는 Demeo x Dungeons & Dragons: Battlemarked 본편과 세 번째 캠페인인 황혼의 끝이 포함되어 있습니다. 서사적인 결말까지 이야기 전체를 즐겨 보세요.\n\n굉장한 퀘스트. 곧장 떠나는 모험.\n전술성과 협동 요소를 두루 갖춘 이 포가튼 렐름즈 기반 디지털 보드게임을 통해, 지금껏 보지 못한 던전즈 & 드래곤즈의 마법을 만끽하세요. 턴 기반으로 펼쳐지는 전투와 선택 중심의 스토리텔링! 영웅을 지휘하고, 사악한 음모를 밝혀내고, 강력한 동맹을 구축하세요.\n\nD&D 고유 요소와 간소화된 전략의 조화\nD&D의 잘 알려진 설정은 물론, 팔라딘과 소서러, 레인저, 파이터, 바드 및 로그와 같은 전통적 클래스부터, 맹렬한 폭발과 성스러운 치료까지, 배틀마크트에는 언제든 기분 당길 때 손쉽게 즐길 수 있는 액션이 매 레벨 준비되어 있습니다.\n\n전략적인 턴제 전투\n전략적 계획만이 승리의 열쇠인 턴제 전투가 펼쳐집니다. 독특한 카드 어빌리티를 활용하고 접근 방식을 조정하여 대처하세요. 어빌리티를 조합하고 전장을 장악하며, 턴마다 상황에 따라 전술을 바꾸며 끝없이 변화하는 위기를 극복하세요.\n\n협력하여 성공을 쟁취하라\n최대 4명의 플레이어가 함께 모험에 도전할 수 있습니다. 움직임을 조율하고, 함정을 설치하며, 어빌리티를 결합해 효과를 극대화하세요. 팀과의 협력은 가장 강력한 무기... 절대 선택 사항이 아니죠. 혹시 고독을 즐기는 늑대 같은 분이신가요? 그렇다면 싱글 플레이 모드에서 파티를 이끌어도 됩니다.\n- 크로스플레이 협동으로 함께, 솔로로, 또는 최대 4인까지\n- 캠페인을 보유하면 Battlemarked를 가진 친구를 게스트로 테이블에 초대할 수 있습니다\n\n몇 번이든 즐길 수 있는 모험과 세 개의 캠페인\n세 캠페인에서 네버윈터 숲과 크래그마우 성, 세계의 척추 등 여러 지역을 탐험하세요. 매번 도전할 때마다 구성이 바뀌므로 늘 새로운 기분을 느낄 수 있습니다.\n\n황혼의 끝: 혼돈을 멈추기 위한 질주\n동요와 혼돈이 실버 마치, 네버윈터 숲, 아이스윈드 골짜기의 땅으로 퍼져 나가며, Battlemarked의 영웅들은 그 영향력이 커지는 것을 막기 위한 절박한 질주에 휘말립니다. 하지만 숨겨진 음모와 혼돈에서 태어난 존재들은 훨씬 더 큰 위협입니다. 현실 자체가 풀려 나가기 시작한 세계에서, 영웅들은 존재 자체를 다시 만들려는 야망을 품은 적과 맞서고, 네버윈터 숲과 서리 요새에서 시작된 사가를 서사적인 결말로 이끌어야 합니다.\n- 드워프 요새 미스랄 홀에서 출발해 북부 지역을 횡단하며, 퍼져 가는 혼돈을 추적하세요\n- 인상적인 시각 효과로 살아 숨 쉬는, 분위기 있는 다층 던전으로 내려가세요\n- 모든 영웅이 찾아 사용할 수 있는 더 많은 무기\n- 탐험할 새로운 장소\n- 렐름을 뒤덮은 혼돈으로 모습이 바뀐 익숙한 장소들\n- 맞서 싸울 완전히 새로운 몬스터 군단\n- 정복해야 할 새로운 보스 전투\n\n주사위가 어떻게 나오든, 테이블에서 보내는 밤은 매번 다릅니다. 파티를 모으세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "본편과 황혼의 끝 캠페인을 한 번에.",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "데메오 x 던전즈 & 드래곤즈: 배틀마크트 - 황혼의 끝 번들 (Twilight's End Bundle)",
+        "nsuId": 70070000041545,
+        "numberOfPlayers": null,
+        "publisher": "Resolution Games",
+        "rating": 0,
+        "ratingContent": [
+            "사용자 상호작용"
+        ],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9dc504ae77b5b757b216b47cd82f60a5f2717d051464f7df0bdaac580352f2ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d41439aef5289db05cf5571a1b805680697fcdffe394795e589db8945aed30a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1474f61186a5a390c6c9afb31fa451590f40509943ffd1fd0fbca691d7cd378c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a619a3c0a377e79a4064b1581ecacc8f1fd83f2061a57da02bbd5dc505ca0bb4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae9232382b5ded224e49061586b66aba3aa9f60aefdd51a21a0df87f8878239e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3f34c500321acf5d97ebb6594e1007d6669af65e80816485541f95e0566e262.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70070000041593": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c1773cd7c9929b4b7a60114c07921ecb0d0e03d930a06b14f768dae06af249ba.jpg",
         "category": null,
@@ -906076,6 +906885,38 @@
         "size": 1162870784,
         "version": null
     },
+    "70070000041785": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0dd5d0fbf369b9d3548b64fcbf2f9a83b52fb3bd4a8ad2baa44757169b177eb.jpg",
+        "category": null,
+        "description": "‘Barbie™ Rewind - Decorator's Bundle’에는 정식 게임과 기본 게임에 포함되지 않은 3가지 새로운 플레이셋 팩, 그리고 독점 ‘플레이 앤 프라이즈 아케이드’ 팩이 포함되어 있습니다. 이 새로운 플레이셋 팩을 통해 더 많은 가구 아이템으로 드림하우스를 나만의 스타일로 꾸밀 수 있습니다. 4가지 새로운 DLC 팩 모두 다음을 포함합니다:\n\n독점 플레이셋 팩: 플레이 앤 프라이즈 아케이드 (현재 이용 가능):\n코스믹 핀볼 머신\n코스믹 핀볼 머신 (b)\n코스믹 클로 머신\n코스믹 클로 머신 (b)\n코스믹 클로 머신 (c)\n코스믹 상품 카운터\n코스믹 상품 카운터 (b)\n코스믹 봉제 인형\n코스믹 봉제 인형 (b)\n코스믹 휴대용 게임기\n코스믹 시계\n코스믹 클러치\n코스믹 클러치 (b)\n코스믹 아케이드 토큰\n코스믹 상품 캡슐\n코스믹 상품 캡슐 (b)\n\n플레이셋 팩 1: 드림하우스 클래식 (2027년 2월 25일)\n스키퍼의 꿈의 방\n바비 드림 키친-다이닝 세트\n서프라이즈 하우스\n캠핑 가기\n바비 뷰티 센터\n드림하우스에 전시할 상징적인 의상들\n\n플레이셋 팩 2: 슈퍼스타 팩 (2027년 3월 25일)\n바비와 더 록커스 플레이세트\n바비와 더 록커스 핫 로큰 스테이지 #1144\n바비와 더 록커스 로큰 하우스 파티 #0803\n바비와 더 록커스 화장대 세트 #7752\n바비와 더 록커스 투어 버스 #3721\n아이스크림 및 간식 플레이세트\n바비 아이스크림 숍 #3653\n바비 아이스크림 메이커 #5323\n다양한 가정용 가구 - 실내 가구 약 25점\n바비 데코레이터 플레이 팩 #9315\n바비 쿠킹 센터 #9318\n바비 냉장고 #9317\n바비 뷰티 배스 #9320\n바비 뷰티풀 침대 #9321\n바비 소파 #9323\n바비 룸 액센트 #9316\n바비 다이닝 룸 세트 #9324\n바비 2-in-1 커피 테이블 및 의자\n매직 무브 홈 오피스\n대형 헤어 브러시 및 향수병\n퍼퓸 프리티 바비\n퍼퓸 프리티 휘트니\n퍼퓸 기빙 켄\n드림하우스에 전시할 아이코닉 의상들\n\n플레이셋 팩 3: Y2K 스타일 팩 (2027년 4월 22일)\n다양한 제너레이션 걸 ‘마이 룸’ 플레이세트 (마리, 니셸, 바비, 아나, 토리)\n시크릿 메시지 컴퓨터 센터\n다양한 ‘올어라운드 홈’ 플레이세트\n잼 앤 글램 투어 버스\n파퓰러스 분수 수영장\n글램 게임 룸\n드림하우스에 전시할 아이코닉 의상",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Barbie™ Rewind - Decorator's Bundle",
+        "nsuId": 70070000041785,
+        "numberOfPlayers": null,
+        "publisher": "Atari",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/156535a99378ac72369a2f92fc7dd55d986f07106ba2a03c2f28c10630daf7be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c7accd06ddc68803b19dd6558a278adefa5704ee72cf91d391cd7822581231f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7007e7ab0488c063a6d2a92f3f9c75b1c0cba3c8a9308dbf9e6975aa171c3a1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15caf15acad2fc79e67fc35f066eac40c7af4cfae31d2c98742992968817285c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08745c2a99557f3bc7013ec0177191fbd918d41a89ce975992950c43c9c5763f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ced349c627a035d855653ed26532c0ae12218b070a4a9fe49058df2704c9bf3.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70070000041805": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b659d7fe82d72f0007695b94e63228199ad315f3709a5878bed370f9590cb748.jpg",
         "category": null,
@@ -906209,6 +907050,41 @@
             "https://img-eshop.cdn.nintendo.net/i/ddc90d54689d0969668b16328d0b105e6ea391e2ade01ae4f360fb4e9eb5c79c.jpg"
         ],
         "size": 2580545536,
+        "version": null
+    },
+    "70070000041843": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7fad26e8f66e5df78cc8f52f36336fbf387710a2e156ee494ff127ce278b8bec.jpg",
+        "category": null,
+        "description": "Nintendo Switch™ 2 에서 1080p 해상도, 60fps를 지원하며 그래픽이 한층 더 향상되었습니다!\n\nFIGMENT\n“피그먼트는 죽음, 질병 및 트라우마 등 심오한 테마를 순수한 판타지와 결합한 다채롭고, 기발한 퍼즐 게임입니다. 초기 설계에서도 피그먼트는 논리적으로 설명하기 어렵습니다. 이 게임은 신비스러우면서도 심오합니다.”\n엔가젯\n\nFIGMENT 2\nFigment 2: Creed Valley는 인간의 마음을 무대로 펼쳐지는 액션 어드벤처 게임입니다. 한때는 평화로웠던 세상 \"마인드\"를 몽마들이 점령하여 혼돈의 소용돌이에 빠뜨렸습니다. 용사 더스티와 함께 갖가지 퍼즐을 풀고 보스와의 전투에서 승리하고 독특한 환경을 헤쳐나가세요. 또한, 자신을 옥죄는 두려움에 정면으로 맞서세요.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Figment 1 + Figment 2",
+        "nsuId": 70070000041843,
+        "numberOfPlayers": null,
+        "publisher": "Bedtime Digital",
+        "rating": 12,
+        "ratingContent": [
+            "폭력성",
+            "공포"
+        ],
+        "region": null,
+        "releaseDate": 20261119,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aeae105bb88c1987d5c093455f7307788a2bcf871a6b1770961c78ff83f82caa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c07001cde160d6fbacfae968544dac153725529854ff5b920639f1bc0afe1115.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e5a42fa8ce5d61d98e9510532c9d61763f6d1bbc7c42da6cac5f4f504257502.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53737efc7651b4f1dbaf063bfff5bc3541d191682f1267bafa84ca732efa0e3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b28373d4960ab42e9d5e0588fd16cd83b6997e40a20debfc4e9f47cdf5841edb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c65b454046b80e334756a2cde1e80f8ec7ea53451ac835e2ee7abbead40b964.jpg"
+        ],
+        "size": 0,
         "version": null
     },
     "70070000041855": {
